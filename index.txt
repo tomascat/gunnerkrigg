@@ -61,13 +61,13 @@
 33	Cover	#<hr>Chapter 3: Reynardine<hr>
 32	Bonus	Dormitory	Queslett	Shadow	Tea	#<hr>Bonus Page: Year 7 Dormitories</hr>
 31	Annie	Basil	Classroom	Janet	Kat	SullivansJohn	#I hope all our homework is this interesting.
-30	Annie	Ariadne	Basil	Classroom	Pasiphae	Theseus	#And now of course, I turn out to be the bad guy.
+30	Annie	Basil	Classroom	#And now of course, I turn out to be the bad guy.
 29	Annie	Basil	Classroom	Janet	Kat	Paz	SullivansJohn	Winsbury	#I have a time share on the labyrinth you found me in
 28	Annie	Basil	Kat	Labyrinth	#Phew, you girls gave me a fright, sneaking around like that.
 27	Annie	Basil	Kat	Labyrinth	#BLAAAAAAAAAAAAH!
 26	Annie	GoodHopeHospital	Kat	Labyrinth	Surma	Tony	#It was her wish that I continue my education here
 25	Annie	Kat	Labyrinth	#so we won't get lost if we went in, because there are no dead ends, like in a maze.
-24	Annie	Books	Kat	Labyrinth	Library	#Is this the guy you were talking about?
+24	Annie	Kat	Labyrinth	Library	#Is this the guy you were talking about?
 23	Annie	JonesFootprintPictures	Kat	Library	#There is a whole section devoted to Greek mythology it seems
 22	Annie	Kat	Library	#Is this all there is?
 21	Annie	Classroom	Kat	#I was thinking of covering the minotaur

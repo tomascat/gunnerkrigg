@@ -1,0 +1,61 @@
+AnimalCells	the secret Court large animal holding cells
+AnimalLab	a Court research lab
+Anja	Anja Donlan, Kat's mother
+Annan	Annan Waters, a wide river in a deep gorge
+Annie	Antimony Carver, our protagonist
+AntimonySymbol	The alchemical symbol for antimony
+Basil	Minotaur
+BeckyGround	A student
+Blush	happy/embarrassed
+Bobbie	A robot at the AnimalLab
+Bonus	Extra pages at the end of the chapter
+Bridge	over the Annan Water to Gillitie Wood
+Chickcharney	see Hardwick & Little’s Bestiary, p65
+Chester	One of the other school Houses
+Circus	creepy and filled with clowns
+Classroom	Where they have classes
+Clowns	creepy, no-one likes them
+Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
+Cover	A chapter cover
+Donny	Donald Donlan, Kat's father
+Dorm	Living quarters at school
+Eglamore	big fellow with sword
+EugeneGould	explorer
+EyeSymbol	A crossed out eye that is a complex warding sign
+Fairies	Gillitie Wood is full of them
+Foley	One of the other school Houses
+Gillitie	Gillitie Wood where the wild things are
+GoodHopeHospital good hope hospital is where Surma was before she died
+Gym	school gymnasium
+HardwickLittleBestiary	Reference on mystical creatures
+Hospital	The hospital within the court
+Janet	Fierce daughter of the headmaster
+Jeanne	vengeful ghost
+Kat	Katerina Donlan
+Labyrinth	Not quite a maze
+LeadSymbol	The alchemical symbol for lead
+Library	includes robot parts
+Mort	A ghost
+Parley	Swordswoman
+Paz	Spanish, good with animals
+Queslett	Annie & Kat's school House
+Rey	Reynardine/Renard, a crafty fox spirit
+ReySymbol	A symbol that appears on Rey's spirit form
+Robot	Messianic S-13
+Rogat Orjak	Dragon-like giant
+Roof	The top of the court
+Shadow	the Thin Man
+Shadowmen	Creations of Coyote
+SivoBody	A deceased Rogat Orjak
+Smitty	usually brings order from chaos
+SullivansJohn	A student who likes to play the mandolin
+Surma	Surma Stibnite, Annie's mother
+Tea	explains things in-between chapters
+Teacher	a teacher
+Thornhill	One of the other school Houses
+TicToc	birdlike robotic watchers
+Tony	Anthony Carver, Annie's father
+Train	One of many trains that is used to commute in the court
+TrainStation	One of many stations in the court
+Winsbury	Not a very nice boy
+WolfToy	A small wolf toy made by Annie's mother
