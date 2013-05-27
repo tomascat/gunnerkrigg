@@ -23,6 +23,16 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn't exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
+68	Bonus	Janet	Mort	#<hr>Bonus Page: Bad Choice (Mort tries to scare Janet)</hr>
+67	Annie	Court	Mort	#Thanks a bunch, Annie
+66	Circus	Clowns	Paz	#(Paz gets frightened by a creepy circus clown, screams and runs away)
+65	Circus	Clowns	Paz	#(Paz follows the balloon to some creepy circus clowns)
+64	Court	Paz	#(Paz is walking along, humming, when she realises the door is gone, and a nice balloon)
+63	Annie	Court	Mort	#Find out what scares them and take it from there
+62	Annie	Court	Mort	#I don't think anyone has been scared of the bedsheet phantasm ensemble for a long time
+61	Annie	Court	Mort	#I'm a ghost! Aren't you scared?!
+60	Annie	Court	#(Annie trims a bonsai, then hears a ghost wailing)
+59	Cover	#<hr>Chapter 4: Not Very Scary<hr>
 58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<hr>Bonus Page: Rogat Orjak (Hardwick and Little's Bestiary)</hr>
 57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
 56	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
