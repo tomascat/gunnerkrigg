@@ -11,5 +11,5 @@ Index.txt when on the site is parsed into HTML by a python script
 - The tags are in alphabetical order and include relevant locations, characters, symbols and items
 - Page titles are preceded by "#"
 - The order is [page number] [tag] [tag] ... [comment] [page title]
-- Covers are simply: [page number] Cover #<hr>[Title of cover]</hr>
-- Bonus pages are: [page number] Bonus [tags] #<hr>[What is in the bonus page]</hr>
+- Covers are simply: [page number] Cover #&lt;hr&gt;[Title of cover]&lt;/hr&gt;
+- Bonus pages are: [page number] Bonus [tags] #&lt;hr&gt;[What is in the bonus page]&lt;/hr&gt;
