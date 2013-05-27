@@ -23,23 +23,49 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn't exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
-32	Bonus	Tea	Dormitory	Queslett	Shadow	#<hr>Bonus Page: Year 7 Dormitories</hr>
-31	Classroom	Annie	Kat	Basil	Janet	SullivansJohn	#I hope all our homework is this interesting.
-30	Classroom	Annie	Basil	Theseus	Pasiphae	Ariadne	#And now of course, I turn out to be the bad guy.
-29	Classroom	Janet	SullivansJohn	Winsbury	Paz	Annie	Kat	Basil	#I have a time share on the labyrinth you found me in
-28	Labyrinth	Basil	Annie	Kat	#Phew, you girls gave me a fright, sneaking around like that.
-27	Labyrinth	Annie	Kat	Basil	#BLAAAAAAAAAAAAH!
-26	Labyrinth	Annie	Kat	Surma	Tony	Hospital	#It was her wish that I continue my education here
-25	Labyrinth	Kat	Annie	#so we won't get lost if we went in, because there are no dead ends, like in a maze.
-24	Library	Kat	Annie	Books	Labyrinth	#Is this the guy you were talking about?
-23	Library	Kat	Annie	JonesFootprintPictures	#There is a whole section devoted to Greek mythology it seems
-22	Library	Kat	Annie	#Is this all there is?
-21	Classroom	Kat	Annie	#I was thinking of covering the minotaur
-20	Classroom	Winsbury	Janet	Teacher	Annie	Kat	#Find as much information as you can on a mythical figure of your choice
-19	Anja	Classroom	Winsbury	SullivansJohn	Annie	Kat	#Wait for me!
-18	Anja	Classroom	Annie	Winsbury	#How have you found your first two weeks at our school?
+58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<hr>Bonus Page: Rogat Orjak (Hardwick and Little's Bestiary)</hr>
+57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
+56	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
+55	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	#The body originally belonged to a Rogat Orjak named Sivo
+54	AnimalCells	Annie	AntimonySymbol	Eglamore	EyeSymbol	Rey	ReySymbol	WolfToy	#(Rey's spirit enters the Wolf Toy instead)
+53	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	ReySymbol	WolfToy	#(Rey leaves his body as a spirit and hovers over Annie. Eglamore knocks Annie out of the way)
+52	AnimalCells	Annie	Rey	ReySymbol	WolfToy	#In fact what I need is... your body!
+51	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	#Hiding behind a little girl isn't exactly very sporting
+50	AnimalCells	Annie	Eglamore	EyeSymbol	Rey	#(Large Animal Holding Cells. Annie peers in, Rey is lying down, Eglamore standing in front of him)
+49	Annie	Court	Train	TrainStation	WolfToy	#I realised for the first time that I'd barely seen anyone other than the people in my class
+48	Annie	Hospital	TicToc	WolfToy	#Judging by the state Reynardine was in, I deduced his prison was somewhere on the school grounds.
+47	Annie	Hospital	Rey	Surma	#My mother could not be the only person with this name
+46	Annie	Hospital	Kat	WolfToy	#You were hit on the head when the ceiling collapsed
+45	Annie	AntimonySymbol	Eglamore	Rey	Roof	#So... this must be her daughter.
+44	Annie	Eglamore	Rey	Roof	WolfToy	#You are bleeding, child.
+43	Annie	Eglamore	LeadSymbol	Rey	Roof	WolfToy	#If you leave, the man on yonder will take me away.
+42	Annie	Rey	Roof	WolfToy	#Surma, is that you?
+41	Annie	Rey	Roof	WolfToy	#(Howling on roof)
+40	Annie	Dorm	Roof	WolfToy	#What a strange noise...
+39	Anja	BeckyGround	Dorm	Janet	Paz	#Quickly, girls. We need to evacuate the room!
+38	Annie	Dorm	Kat		Roof	WolfToy	#(Roof collapse)
+37	Annie	AntimonySymbol	Dorm	Eglamore	Kat	#That's the alchemist's symbol for Antimony
+36	Annie	Eglamore	Gym	Kat	#Well, just let me know the next time Winsbury gives you grief
+35	Annie	Eglamore	Gym	Kat	Winsbury	#Carver! Donlan! Get over here!
+34	Annie	Gym	Kat	Winsbury	#So what are you gonna do about it?
+33	Cover	#<hr>Chapter 3: Reynardine<hr>
+32	Bonus	Dormitory	Queslett	Shadow	Tea	#<hr>Bonus Page: Year 7 Dormitories</hr>
+31	Annie	Basil	Classroom	Janet	Kat	SullivansJohn	#I hope all our homework is this interesting.
+30	Annie	Ariadne	Basil	Classroom	Pasiphae	Theseus	#And now of course, I turn out to be the bad guy.
+29	Annie	Basil	Classroom	Janet	Kat	Paz	SullivansJohn	Winsbury	#I have a time share on the labyrinth you found me in
+28	Annie	Basil	Kat	Labyrinth	#Phew, you girls gave me a fright, sneaking around like that.
+27	Annie	Basil	Kat	Labyrinth	#BLAAAAAAAAAAAAH!
+26	Annie	GoodHopeHospital	Kat	Labyrinth	Surma	Tony	#It was her wish that I continue my education here
+25	Annie	Kat	Labyrinth	#so we won't get lost if we went in, because there are no dead ends, like in a maze.
+24	Annie	Books	Kat	Labyrinth	Library	#Is this the guy you were talking about?
+23	Annie	JonesFootprintPictures	Kat	Library	#There is a whole section devoted to Greek mythology it seems
+22	Annie	Kat	Library	#Is this all there is?
+21	Annie	Classroom	Kat	#I was thinking of covering the minotaur
+20	Annie	Classroom	Janet	Kat	Winsbury	Teacher	#Find as much information as you can on a mythical figure of your choice
+19	Anja	Annie	Classroom	Kat	Winsbury	SullivansJohn	#Wait for me!
+18	Anja	Annie	Classroom	Winsbury	#How have you found your first two weeks at our school?
 17	Cover	#<hr>Chapter 2: Schoolyard Myths<hr>
-16	Bonus	Tea	Blackboard	Queslett	Thornhill	Chester	Foley	#<hr>Bonus Page: Houses at Gunnerkrigg Court</hr>
+16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#<hr>Bonus Page: Houses at Gunnerkrigg Court</hr>
 15	Annie	Bridge	Gillitie	Teacher #Sorry sir. I got lost.
 14	Bridge	Gillitie	Robot	Shadow	Shadowmen	#Here you go little buddie!
 13	Bridge	Robot	Shadow	TicToc	#Oh look! A birdie!
