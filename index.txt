@@ -84,7 +84,6 @@
 10	Annie	Bridge	Robot	Shadow	#Together the three of us returned to the bridge
 9	Annie	Robot	Shadow	#Luckily, piecing the contraption together was relatively easy
 8	Annie	Shadow	Library	#Snatching a nearby box of spare parts
-7	Annie	Shadow	Library	#I hadnâ€™t the first idea how to build a robot
 7	Annie	Shadow	Library	#I hadn’t the first idea how to build a robot
 6	Annan	Annie	Shadow	#I must construct a robotic walking device
 5	Annan	Annie	Bridge	Gillitie	Shadow	#Gunnerkrigg Court is a boarding school
