@@ -39,6 +39,7 @@ LeadSymbol	The alchemical symbol for lead
 Library	includes robot parts
 Margo	A student who enjoys singing. Friends with SullivansJohn
 Mort	A ghost
+Octopus	A floating octopus
 Parley	Swordswoman
 Paz	Spanish, good with animals
 Queslett	Annie & Kat's school House
