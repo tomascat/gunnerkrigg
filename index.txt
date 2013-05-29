@@ -81,7 +81,7 @@
 29	Annie	Basil	Classroom	Janet	Kat	Paz	SullivansJohn	Winsbury	#I have a time share on the labyrinth you found me in
 28	Annie	Basil	Kat	Labyrinth	#Phew, you girls gave me a fright, sneaking around like that.
 27	Annie	Basil	Kat	Labyrinth	#BLAAAAAAAAAAAAH!
-26	Annie	GoodHopeHospital	Kat	Labyrinth	Surma	Tony	#It was her wish that I continue my education here
+26	Annie	GoodHope	Kat	Labyrinth	Surma	Tony	#It was her wish that I continue my education here
 25	Annie	Kat	Labyrinth	#so we won’t get lost if we went in, because there are no dead ends, like in a maze.
 24	Annie	Kat	Labyrinth	Library	#Is this the guy you were talking about?
 23	Annie	JonesFootprintPictures	Kat	Library	#There is a whole section devoted to Greek mythology it seems
