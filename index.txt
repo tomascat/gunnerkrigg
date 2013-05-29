@@ -23,7 +23,7 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
-68	Bonus	Janet	Mort	#<hr>Bonus Page: Bad Choice (Mort tries to scare Janet)</hr>
+68	Bonus	Janet	Mort	#<hr>Bonus Page: Bad Choice (Mort tries to scare Janet)<hr>
 67	Annie	Court	Mort	#Thanks a bunch, Annie
 66	Circus	Clowns	Paz	#(Paz gets frightened by a creepy circus clown, screams and runs away)
 65	Circus	Clowns	Paz	#(Paz follows the balloon to some creepy circus clowns)
@@ -33,7 +33,7 @@
 61	Annie	Court	Mort	#I’m a ghost! Aren’t you scared?!
 60	Annie	Court	#(Annie trims a bonsai, then hears a ghost wailing)
 59	Cover	#<hr>Chapter 4: Not Very Scary<hr>
-58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<hr>Bonus Page: Rogat Orjak (Hardwick and Little’s Bestiary)</hr>
+58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<hr>Bonus Page: Rogat Orjak (Hardwick and Little’s Bestiary)<hr>
 57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
 56	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
 55	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	#The body originally belonged to a Rogat Orjak named Sivo
@@ -59,7 +59,7 @@
 35	Annie	Eglamore	Gym	Kat	Winsbury	#Carver! Donlan! Get over here!
 34	Annie	Gym	Kat	Winsbury	#So what are you gonna do about it?
 33	Cover	#<hr>Chapter 3: Reynardine<hr>
-32	Bonus	Dorm	Queslett	Shadow	Tea	#<hr>Bonus Page: Year 7 Dormitories</hr>
+32	Bonus	Dorm	Queslett	Shadow	Tea	#<hr>Bonus Page: Year 7 Dormitories<hr>
 31	Annie	Basil	Classroom	Janet	Kat	SullivansJohn	#I hope all our homework is this interesting.
 30	Annie	Basil	Classroom	#And now of course, I turn out to be the bad guy.
 29	Annie	Basil	Classroom	Janet	Kat	Paz	SullivansJohn	Winsbury	#I have a time share on the labyrinth you found me in
@@ -75,7 +75,7 @@
 19	Anja	Annie	Classroom	Kat	Winsbury	SullivansJohn	#Wait for me!
 18	Anja	Annie	Classroom	Winsbury	#How have you found your first two weeks at our school?
 17	Cover	#<hr>Chapter 2: Schoolyard Myths<hr>
-16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#<hr>Bonus Page: Houses at Gunnerkrigg Court</hr>
+16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#<hr>Bonus Page: Houses at Gunnerkrigg Court<hr>
 15	Annie	Bridge	Gillitie	Teacher	#Sorry sir. I got lost.
 14	Bridge	Gillitie	Robot	Shadow	Shadowmen	#Here you go little buddie!
 13	Bridge	Robot	Shadow	TicToc	#Oh look! A birdie!
