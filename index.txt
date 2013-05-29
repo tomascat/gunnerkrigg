@@ -23,6 +23,22 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
+84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<hr>Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love)<hr>
+83	Annie	Dorm	Gamma	Hall	Kat	Rey		Zimmy	#Bah! This is the thanks I get!
+82	Annie	Gamma	Hall	Kat	Rey		Zimmy	#I don't know what you are but you're so cute!
+81	Annie	Gamma	Hall	Kat	Rey		Zimmy	#I hoped I could win your favour if I helped your gypsy friend win this blasted spectacle.
+80	Annie	Hall	Kat	Rey		Zimmy	#Reynardine? Mr Eglamore said you were dead!
+79	Annie	Gamma	Hall	Kat	Rey		Zimmy	#We're here to find who's been messing with our stuff. an' we found 'im!
+78	Annie	Dorm	Gamma	Hall	Kat	Zimmy	#aha!
+77	Annie	Dorm	Kat	Hall	Students	#Several of the 8 experiments had been purposefully ruined overnight.
+76	Annie	Gamma	Hall	Zimmy	#This is... an abomination.
+75	Anja	Annie	Eglamore	Hall	Kat	#Quite a chip off the ol' block, eh Anja?
+74	Annie	Gamma	Kat	Library	Zimmy	#I'll see you and bignose and 'er crappy invention tomorrow!
+73	Annie	Gamma	Kat	Library	Zimmy	#Zimmy and Gamma from Chester South, that's us!
+72	Annie	Gamma	Kat	Library	Zimmy	#What you lookin' at? you got a problem?
+71	Annie	Classroom	Kat	#Do you want to help? I'd like that very much!
+70	Classroom	Kat	Teacher	#class 7qn's entrant in the year 7 science fair will be Katerina's zero gravity generator!
+69	Cover	#<hr>Chapter 5: Two Strange girls<hr>
 68	Bonus	Janet	Mort	#<hr>Bonus Page: Bad Choice (Mort tries to scare Janet)<hr>
 67	Annie	Court	Mort	#Thanks a bunch, Annie
 66	Circus	Clowns	Paz	#(Paz gets frightened by a creepy circus clown, screams and runs away)
