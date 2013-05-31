@@ -37,7 +37,7 @@
 88	Annie	CherryTree	Habitat	Kat	#We all eat a handful of dirt before we die, Annie. Who cares if it tastes like cherries?
 87	Annie	Court	Habitat	Kat	#I wanted to show you something
 86	Annie	BismuthSymbol	Blush	Court	Kat	#Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
-85 Cover	#<hr>Chapter 6: A Handful of Dirt<hr>
+85	Cover	#<hr>Chapter 6: A Handful of Dirt<hr>
 84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<hr>Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love)<hr>
 83	Annie	Dorm	Gamma	Hall	Kat	Rey		Zimmy	#Bah! This is the thanks I get!
 82	Annie	Gamma	Hall	Kat	Rey		Zimmy	#I don't know what you are but you're so cute!
