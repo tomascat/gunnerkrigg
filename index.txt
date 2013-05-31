@@ -25,7 +25,8 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
-120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	StarofDavid	Stars	Sun	Trees	WaterSymbol	#<hr>Bonus Page: Treatise One<hr>
+121	Cover	#<hr>Chapter 8: Broken Glass and Other Things<hr>
+120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	StarofDavid	Stars	Sun	Trees	VII	WaterSymbol	#<hr>Bonus Page: Treatise One (Ora lege relege labora et invenies = Pray, Read, Reread, Work and You Shall Find)<hr>
 119	Annie	Bridge	Eglamore	TicToc	#(Annie falls off the bridge)
 118	Annie	Bridge	Rey	Robot	Shadowman	Sword	WoodenArm	#(Robot pushes Annie, the sword flies into him, breaing his body and slicing the WoodenArm and the Shadowman)
 117	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	Sword	TicToc	WoodenArm	#Oh! So this is Reynardine? Well now, this makes things much easier!

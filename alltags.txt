@@ -91,6 +91,7 @@ Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Treatise	Symbolic representation of the story
 Trees	come as advertised (usually)
+VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 WaterSymbol	Alchemical symbol for water
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie's mother
