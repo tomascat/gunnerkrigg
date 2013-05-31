@@ -25,6 +25,17 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
+120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	StarofDavid	Stars	Sun	Trees	WaterSymbol	#<hr>Bonus Page: Treatise One<hr>
+119	Annie	Bridge	Eglamore	TicToc	#(Annie falls off the bridge)
+118	Annie	Bridge	Rey	Robot	Shadowman	Sword	WoodenArm	#(Robot pushes Annie, the sword flies into him, breaing his body and slicing the WoodenArm and the Shadowman)
+117	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	Sword	TicToc	WoodenArm	#Oh! So this is Reynardine? Well now, this makes things much easier!
+116	Annie	Bridge	Eglamore	Rey	Robot	Sword	TicToc	WoodenArm	#Robot, you have a new arm?
+115	Bridge	Eglamore	Kat	Sword	#Is that Carver? She left school grounds?!
+114	Annie	Bridge	Rey	Robot	Shadowman	TicToc	WoodenArm	#And Shadow 2? What are you both doing here?
+113	Annie	Bridge	Kat	Rey	#It must be robot. He may need my help.
+112	AlchemyChart	Annie	BismuthSymbol	Bridge	Kat	Rey	Robot	ScienceLab	Shadowman	#Could he have come back?
+111	AlchemyChart	Annie	BismuthSymbol	Blush	Bridge	Kat	Rey	ScienceLab	#Are you two going to kiss now?
+110	AlchemyChart	Annie	BismuthSymbol	Kat	Rey	ScienceLab	VenusSymbol	#Kat, I'm sorry I caused a scene this morning.
 109	Anja	Donald	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	#You still carry that thing, Jim?
 108	Annie	Anja	Donald	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Kat	Rey	#Criminal or not, I won't allow him to be subjected to that again.
 107	Annie	Anja	Donald	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	EthericShield	EyeSymbol	Rey	#I can take anything with eyes, be they real or not.
@@ -48,7 +59,7 @@
 89	Annie	CherryTree	Habitat	Kat	#(Annie and Kat climb the tree and sit in it)
 88	Annie	CherryTree	Habitat	Kat	#We all eat a handful of dirt before we die, Annie. Who cares if it tastes like cherries?
 87	Annie	Court	Habitat	Kat	#I wanted to show you something
-86	Annie	BismuthSymbol	Blush	Court	Kat	#Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
+86	Annie	BismuthSymbol	Blush	Court	HabitatSymbol	Kat	#Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
 85	Cover	#<hr>Chapter 6: A Handful of Dirt<hr>
 84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<hr>Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love)<hr>
 83	Annie	Dorm	Gamma	Hall	Kat	Rey		Zimmy	#Bah! This is the thanks I get!

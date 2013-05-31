@@ -1,3 +1,4 @@
+AlchemyChart	An alchemical chart
 AnimalCells	the secret Court large animal holding cells
 AnimalLab	a Court research lab
 Anja	Anja Donlan, Kat's mother
@@ -13,6 +14,7 @@ Bobbie	A robot at the AnimalLab
 Bonus	Extra pages at the end of the chapter
 Bridge	over the Annan Water to Gillitie Wood
 Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers & co.
+Caduceus	"Herald's staff" borne by Hermes (Mercury), symbol of commerce
 Chickcharney	see Hardwick & Little’s Bestiary, p65
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
@@ -32,12 +34,15 @@ EtherSymbol	Alchemical Symbol for Ether.
 EugeneGould	explorer
 EyeSymbol	A crossed out eye that is a complex warding sign
 Fairies	Gillitie Wood is full of them
+Fire	an ancient element
+FireSymbol	The alchemical symbol for fire
 Foley	One of the other school Houses
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Gillitie	Gillitie Wood where the wild things are
 GoodHope good hope hospital is where Surma was before she died
 Gym	school gymnasium
 Habitat An environmental decontamination habitat
+HabitatSymbol	The sign for an artificial habitat
 Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
 Hospital	The hospital within the court
@@ -52,13 +57,16 @@ Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey's body
 Marcia	Marcia Sutton, a keeper of Young's Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
 MercurySymbol	The alchemical symbol for mercury; appears on Rey's spirit form
+Moon	Our most ancient satellite!
 Mort	A ghost
 NapoleonHat	A fitting hat for Reynardine the Great!
 Octopus	A floating octopus
+Orb	The Globus cruciger, a Christian symbol of power, wielded by monarchs and Christ
 Parley	Swordswoman
 Paz	Spanish, good with animals
 Queslett	Annie & Kat's school House
 Rey	Reynardine/Renard, a crafty fox spirit
+River	comes as advertised
 Robot	Messianic S-13
 Rogat Orjak	Dragon-like giant
 Roof	The top of the court
@@ -67,7 +75,10 @@ Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
 SivoBody	A deceased Rogat Orjak
 Smitty	usually brings order from chaos
+StarofDavid	Jewish symbol and alchemical symbol
+Stars	celestial bodies
 Students	miscellaneous students
+Sun	our closest star!
 SullivansJohn	Sullivan's John. A student who likes to play the mandolin
 Surma	Surma Stibnite, Annie's mother
 Sword	Comes as advertised
@@ -78,6 +89,9 @@ TicToc	birdlike robotic watchers
 Tony	Anthony Carver, Annie's father
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
+Treatise	Symbolic representation of the story
+Trees	come as advertised (usually)
+WaterSymbol	Alchemical symbol for water
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie's mother
 WoodenArm	A mysterious wooden arm from Gillitie
