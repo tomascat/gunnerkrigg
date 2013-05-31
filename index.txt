@@ -25,6 +25,14 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
+105	Annie	Anja	Donald	DonlanHouse	Eglamore	Kat	Rey	#
+104	Annie	Anja	Donald	DonlanHouse	Eglamore	Kat	#But when Anthony wants to disappear, he'll do so.
+103	Annie	Anja	Blush	Donald	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who's this cute guy here? That... that would be me.
+102	Annie	Anja	Brinnie	Donald	DonlanHouse	Eglamore	Kat	Photo	Tony	#Wow! Is this you guys when you were kids?!
+101	Annie	Anja	Donald	DonlanHouse	Eglamore	EtherSymbol	Kat	MercurySymbol	Rey	#Reynardine can't hurt anyone anymore
+100	Annie	Anja	Donald	DonlanHouse	Eglamore	EtherSymbol	Kat	#Call me Anja, and this is Donald.
+99	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	TicToc	WoodenArm	#(Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
+98	Annie	BismuthSymbol	Court	Kat	LeadSymbol	TicToc	#Something is wrong.
 97	Cover	#<hr>Chapter 7: Of New and Old<hr>
 96	Bonus	Annie	Dolls	Dorm	Kat	NapoleonHat	Rey	#<hr>Bonus Page: Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)<hr>
 95	Annie	CherryTree	Habitat	Kat	#The school's got to know where your dad is.
@@ -68,9 +76,9 @@
 57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
 56	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
 55	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	#The body originally belonged to a Rogat Orjak named Sivo
-54	AnimalCells	Annie	AntimonySymbol	Eglamore	EyeSymbol	Lockpicks	Rey	ReySymbol	WolfToy	#(Rey’s spirit enters the Wolf Toy instead)
-53	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	ReySymbol	WolfToy	#(Rey leaves his body as a spirit and hovers over Annie. Eglamore knocks Annie out of the way)
-52	AnimalCells	Annie	Rey	ReySymbol	WolfToy	#In fact what I need is… your body!
+54	AnimalCells	Annie	AntimonySymbol	Eglamore	EyeSymbol	Lockpicks	Rey	MercurySymbol	WolfToy	#(Rey’s spirit enters the Wolf Toy instead)
+53	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	MercurySymbol	WolfToy	#(Rey leaves his body as a spirit and hovers over Annie. Eglamore knocks Annie out of the way)
+52	AnimalCells	Annie	Rey	MercurySymbol	WolfToy	#In fact what I need is… your body!
 51	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	#Hiding behind a little girl isn’t exactly very sporting
 50	AnimalCells	Annie	Eglamore	EyeSymbol	Rey	#(Large Animal Holding Cells. Annie peers in, Rey is lying down, Eglamore standing in front of him)
 49	Annie	Court	Train	TrainStation	WolfToy	#I realised for the first time that I’d barely seen anyone other than the people in my class

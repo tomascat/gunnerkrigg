@@ -3,14 +3,16 @@ AnimalLab	a Court research lab
 Anja	Anja Donlan, Kat's mother
 Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist
-AntimonySymbol	The alchemical symbol for antimony
+AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Surma
 Basil	Minotaur
 BeckyGround	A student
+BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
 Blush	happy/embarrassed
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young's Park with his wife, Marcia
 Bobbie	A robot at the AnimalLab
 Bonus	Extra pages at the end of the chapter
 Bridge	over the Annan Water to Gillitie Wood
+Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers & co.
 Chickcharney	see Hardwick & Little’s Bestiary, p65
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
@@ -24,6 +26,7 @@ Dolls	Kat probably only has action figures she thinks are hot. I.e. David Duchov
 Donny	Donald Donlan, Kat's father
 Dorm	Living quarters at school
 Eglamore	big fellow with sword
+EtherSymbol	Alchemical Symbol for Ether.
 EugeneGould	explorer
 EyeSymbol	A crossed out eye that is a complex warding sign
 Fairies	Gillitie Wood is full of them
@@ -41,11 +44,12 @@ Jeanne	vengeful ghost
 Kat	Katerina Donlan
 Labyrinth	Not quite a maze
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome.
-LeadSymbol	The alchemical symbol for lead
+LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as Eglamore
 Library	includes robot parts
 Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey's body
 Marcia	Marcia Sutton, a keeper of Young's Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
+MercurySymbol	The alchemical symbol for mercury; appears on Rey's spirit form
 Mort	A ghost
 NapoleonHat	A fitting hat for Reynardine the Great!
 Octopus	A floating octopus
@@ -53,11 +57,11 @@ Parley	Swordswoman
 Paz	Spanish, good with animals
 Queslett	Annie & Kat's school House
 Rey	Reynardine/Renard, a crafty fox spirit
-ReySymbol	A symbol that appears on Rey's spirit form
 Robot	Messianic S-13
 Rogat Orjak	Dragon-like giant
 Roof	The top of the court
 Shadow	the Thin Man
+Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
 SivoBody	A deceased Rogat Orjak
 Smitty	usually brings order from chaos
@@ -73,4 +77,5 @@ Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie's mother
+WoodenArm	A mysterious wooden arm from Gillitie
 Zimmy	aka Zeta, a strange girl who is friends with Gamma
