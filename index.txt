@@ -1,5 +1,5 @@
 1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
-1203	Gillitie	Ocean	Octopus	#<hr>Traveller (Floating Octopus goes to the ocean)<hr>
+1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)<hr>
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
 1201	AnimalLab	Blush	Kat	Paz	#I decide to stop worrying and see what would happen
 1200	AnimalLab	Blush	Kat	Paz	#The letter was from me
@@ -25,8 +25,14 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
+127	Annan	Annie	Gillitie	Scissors	TicToc	#Well, mechanical or not, you and your friends saved my life
+126	Annan	Annie	Jumper	Gillitie	TicToc	#in the distance there was a light, shining dimly from the opposite shore.
+125	Annan	Annie	Gillitie	TicToc	#If it's not too much trouble, perhaps the other shore would be a better...
+124	Annan	Annie	Gillitie	TicToc	#(TicTocs catch Annie and carry her to the riverbank)
+123	Annie	GoodHope	Surma	#Now I know how the glass felt
+122	Annie	GoodHope	#I dropped a glass.
 121	Cover	#<hr>Chapter 8: Broken Glass and Other Things<hr>
-120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	StarofDavid	Stars	Sun	Trees	VII	WaterSymbol	#<hr>Bonus Page: Treatise One (Ora lege relege labora et invenies = Pray, Read, Reread, Work and You Shall Find)<hr>
+120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	StarofDavid	Stars	Sun	Trees	VII	WaterSymbol	#<b>Bonus Page:</b> Treatise One (Ora lege relege labora et invenies = Pray, Read, Reread, Work and You Shall Find)<hr>
 119	Annie	Bridge	Eglamore	TicToc	#(Annie falls off the bridge)
 118	Annie	Bridge	Rey	Robot	Shadowman	Sword	WoodenArm	#(Robot pushes Annie, the sword flies into him, breaing his body and slicing the WoodenArm and the Shadowman)
 117	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	Sword	TicToc	WoodenArm	#Oh! So this is Reynardine? Well now, this makes things much easier!
@@ -50,7 +56,7 @@
 99	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	TicToc	WoodenArm	#(Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 98	Annie	BismuthSymbol	Court	Kat	LeadSymbol	TicToc	#Something is wrong.
 97	Cover	#<hr>Chapter 7: Of New and Old<hr>
-96	Bonus	Annie	Dolls	Dorm	Kat	NapoleonHat	Rey	#<hr>Bonus Page: Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)<hr>
+96	Bonus	Annie	Dolls	Dorm	Kat	NapoleonHat	Rey	#<b>Bonus Page:</b> Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)<hr>
 95	Annie	CherryTree	Habitat	Kat	#The school's got to know where your dad is.
 94	Annie	CherryTree	Court	GoodHope	Habitat	Kat	#They said he didn't work there anymore and they didn't know how to contact him.
 93	Annie	CherryTree	Habitat	Kat	#What about your dad? I don't know where he is.
@@ -62,7 +68,7 @@
 87	Annie	Court	Habitat	Kat	#I wanted to show you something
 86	Annie	BismuthSymbol	Blush	Court	HabitatSymbol	Kat	#Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
 85	Cover	#<hr>Chapter 6: A Handful of Dirt<hr>
-84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<hr>Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love)<hr>
+84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<b>Bonus Page:</b> Cupid Undone (Winsbury and Janet secretly express their love)<hr>
 83	Annie	Dorm	Gamma	Hall	Kat	Rey		Zimmy	#Bah! This is the thanks I get!
 82	Annie	Gamma	Hall	Kat	Rey		Zimmy	#I don't know what you are but you're so cute!
 81	Annie	Gamma	Hall	Kat	Rey		Zimmy	#I hoped I could win your favour if I helped your gypsy friend win this blasted spectacle.
@@ -78,7 +84,7 @@
 71	Annie	Classroom	Kat	#Do you want to help? I'd like that very much!
 70	Classroom	Kat	Teacher	#class 7qn's entrant in the year 7 science fair will be Katerina's zero gravity generator!
 69	Cover	#<hr>Chapter 5: Two Strange girls<hr>
-68	Bonus	Janet	Mort	#<hr>Bonus Page: Bad Choice (Mort tries to scare Janet)<hr>
+68	Bonus	Janet	Mort	#<b>Bonus Page:</b> Bad Choice (Mort tries to scare Janet)<hr>
 67	Annie	Court	Mort	#Thanks a bunch, Annie
 66	Circus	Clowns	Paz	#(Paz gets frightened by a creepy circus clown, screams and runs away)
 65	Circus	Clowns	Paz	#(Paz follows the balloon to some creepy circus clowns)
@@ -88,7 +94,7 @@
 61	Annie	Court	Mort	#I’m a ghost! Aren’t you scared?!
 60	Annie	Court	#(Annie trims a bonsai, then hears a ghost wailing)
 59	Cover	#<hr>Chapter 4: Not Very Scary<hr>
-58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<hr>Bonus Page: Rogat Orjak (Hardwick and Little’s Bestiary)<hr>
+58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<b>Bonus Page:</b> Rogat Orjak (Hardwick and Little’s Bestiary)<hr>
 57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
 56	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
 55	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	#The body originally belonged to a Rogat Orjak named Sivo
@@ -114,7 +120,7 @@
 35	Annie	Eglamore	Gym	Kat	Winsbury	#Carver! Donlan! Get over here!
 34	Annie	Gym	Kat	Winsbury	#So what are you gonna do about it?
 33	Cover	#<hr>Chapter 3: Reynardine<hr>
-32	Bonus	Dorm	Queslett	Shadow	Tea	#<hr>Bonus Page: Year 7 Dormitories<hr>
+32	Bonus	Dorm	Queslett	Shadow	Tea	#<b>Bonus Page:</b> Year 7 Dormitories<hr>
 31	Annie	Basil	Classroom	Janet	Kat	SullivansJohn	#I hope all our homework is this interesting.
 30	Annie	Basil	Classroom	#And now of course, I turn out to be the bad guy.
 29	Annie	Basil	Classroom	Janet	Kat	Paz	SullivansJohn	Winsbury	#I have a time share on the labyrinth you found me in
@@ -130,7 +136,7 @@
 19	Anja	Annie	Classroom	Kat	Winsbury	SullivansJohn	#Wait for me!
 18	Anja	Annie	Classroom	Winsbury	#How have you found your first two weeks at our school?
 17	Cover	#<hr>Chapter 2: Schoolyard Myths<hr>
-16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#<hr>Bonus Page: Houses at Gunnerkrigg Court<hr>
+16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#<b>Bonus Page:</b> Houses at Gunnerkrigg Court<hr>
 15	Annie	Bridge	Gillitie	Teacher	#Sorry sir. I got lost.
 14	Bridge	Gillitie	Robot	Shadow	Shadowmen	#Here you go little buddie!
 13	Bridge	Robot	Shadow	TicToc	#Oh look! A birdie!
