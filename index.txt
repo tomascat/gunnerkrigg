@@ -18,9 +18,9 @@
 1187	Annie	Chickcharney	Gillitie	Smitty	#It’s called a marble. I had one in my pocket
 1186	Annie	Chickcharney	Gillitie	Smitty	#(marble) Hardwick &amp; Little’s Bestiary, p65
 1185	Annie	Chickcharney	Gillitie	Smitty	#I’ve never seen a real forest before
-1184	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#Have you forgoten what happened with Ysengrin
+1184	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#Have you forgotten what happened with Ysengrin
 1183	Annie	Kat	#(dining hall) I have a good idea who it is from
-1182	Annie	Kat	#(dining hall) It’s very elloquently written…
+1182	Annie	Kat	#(dining hall) It’s very eloquently written…
 1181	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#But I suggest running!
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
@@ -34,7 +34,7 @@
 121	Cover	#<hr>Chapter 8: Broken Glass and Other Things<hr>
 120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	StarofDavid	Stars	Sun	Trees	VII	WaterSymbol	#<b>Bonus Page:</b> Treatise One (Ora lege relege labora et invenies = Pray, Read, Reread, Work and You Shall Find)<hr>
 119	Annie	Bridge	Eglamore	TicToc	#(Annie falls off the bridge)
-118	Annie	Bridge	Rey	Robot	Shadowman	Sword	WoodenArm	#(Robot pushes Annie, the sword flies into him, breaing his body and slicing the WoodenArm and the Shadowman)
+118	Annie	Bridge	Rey	Robot	Shadowman	Sword	WoodenArm	#(Robot pushes Annie, the sword flies into him, breaking his body and slicing the WoodenArm and the Shadowman)
 117	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	Sword	TicToc	WoodenArm	#Oh! So this is Reynardine? Well now, this makes things much easier!
 116	Annie	Bridge	Eglamore	Rey	Robot	Sword	TicToc	WoodenArm	#Robot, you have a new arm?
 115	Bridge	Eglamore	Kat	Sword	#Is that Carver? She left school grounds?!
@@ -51,14 +51,14 @@
 104	Annie	Anja	Donald	DonlanHouse	Eglamore	Kat	#But when Anthony wants to disappear, he'll do so.
 103	Annie	Anja	Blush	Donald	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who's this cute guy here? That... that would be me.
 102	Annie	Anja	Brinnie	Donald	DonlanHouse	Eglamore	Kat	Photo	Tony	#Wow! Is this you guys when you were kids?!
-101	Annie	Anja	Donald	DonlanHouse	Eglamore	EtherSymbol	Kat	MercurySymbol	Rey	#Reynardine can't hurt anyone anymore
+101	Annie	Anja	Donald	DonlanHouse	Eglamore	EtherSymbol	Kat	MercurySymbol	Rey	#Reynardine can't hurt anyone any more
 100	Annie	Anja	Donald	DonlanHouse	Eglamore	EtherSymbol	Kat	#Call me Anja, and this is Donald.
 99	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	TicToc	WoodenArm	#(Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 98	Annie	BismuthSymbol	Court	Kat	LeadSymbol	TicToc	#Something is wrong.
 97	Cover	#<hr>Chapter 7: Of New and Old<hr>
 96	Bonus	Annie	Dolls	Dorm	Kat	NapoleonHat	Rey	#<b>Bonus Page:</b> Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)<hr>
 95	Annie	CherryTree	Habitat	Kat	#The school's got to know where your dad is.
-94	Annie	CherryTree	Court	GoodHope	Habitat	Kat	#They said he didn't work there anymore and they didn't know how to contact him.
+94	Annie	CherryTree	Court	GoodHope	Habitat	Kat	#They said he didn't work there any more and they didn't know how to contact him.
 93	Annie	CherryTree	Habitat	Kat	#What about your dad? I don't know where he is.
 92	Annie	Bob	CherryTree	Crying	Habitat	Kat	#I miss my mummy...
 91	Annie	Bob	CherryTree	Habitat	Kat	#You caught us red handed! Hahaha!
@@ -149,6 +149,6 @@
 6	Annan	Annie	Shadow	#I must construct a robotic walking device
 5	Annan	Annie	Bridge	Gillitie	Shadow	#Gunnerkrigg Court is a boarding school
 4	Annie	Shadow	#Where are you trying to go?
-3	Annie	Shadow	#At times I would ssee this creature jump from shadow to shadow
+3	Annie	Shadow	#At times I would see this creature jump from shadow to shadow
 2	Annie	Shadow	#Gunnerkrigg Court does not look much like a school at all
 1	Annie	Cover	#<hr>Chapter 1: The Shadow and The Robot<hr>
