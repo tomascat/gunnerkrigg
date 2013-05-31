@@ -17,6 +17,7 @@ Index.txt when on the site is parsed into HTML by a python script
 - Bonus pages are: [page number] Bonus [tags] #&lt;hr&gt;Bonus Page: [What is in the bonus page]&lt;hr&gt;
 
 eg:
+<code>
 	16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#<hr>Bonus Page: Houses at Gunnerkrigg Court<hr>
 	15	Annie	Bridge	Gillitie	Teacher	#Sorry sir. I got lost.
 	14	Bridge	Gillitie	Robot	Shadow	Shadowmen	#Here you go little buddie!
@@ -33,6 +34,7 @@ eg:
 	3	Annie	Shadow	#At times I would ssee this creature jump from shadow to shadow
 	2	Annie	Shadow	#Gunnerkrigg Court does not look much like a school at all
 	1	Annie	Cover	#<hr>Chapter 1: The Shadow and The Robot<hr>
+</code>
 
 ###Tags & descriptions - Alltags.txt
 
@@ -41,6 +43,7 @@ eg:
 - The tag and its description are separated by tab-spacing: [tag] [description]
 
 eg:
+<code>
 	AnimalCells	the secret Court large animal holding cells
 	AnimalLab	a Court research lab
 	Anja	Anja Donlan, Kat's mother
@@ -62,3 +65,4 @@ eg:
 	Circus	creepy and filled with clowns
 	Classroom	Where they have classes
 	Clowns	creepy, no-one likes them
+</code>
