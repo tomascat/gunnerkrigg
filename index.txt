@@ -1,3 +1,4 @@
+1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
 1203	Gillitie	Ocean	Octopus	#<hr>Traveller (Floating Octopus goes to the ocean)<hr>
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
 1201	AnimalLab	Blush	Kat	Paz	#I decide to stop worrying and see what would happen
@@ -24,6 +25,19 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
+97	Cover	#<hr>Chapter 7: Of New and Old<hr>
+96	Bonus	Annie	Dolls	Dorm	Kat	NapoleonHat	Rey	#<hr>Bonus Page: Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)<hr>
+95	Annie	CherryTree	Habitat	Kat	#The school's got to know where your dad is.
+94	Annie	CherryTree	Court	GoodHope	Habitat	Kat	#They said he didn't work there anymore and they didn't know how to contact him.
+93	Annie	CherryTree	Habitat	Kat	#What about your dad? I don't know where he is.
+92	Annie	Bob	CherryTree	Crying	Habitat	Kat	#I miss my mummy...
+91	Annie	Bob	CherryTree	Habitat	Kat	#You caught us red handed! Hahaha!
+90	Annie	CherryTree	Habitat	Kat	#(Annie and Kat throw cherries into each others' mouths and Kat falls out of the tree)
+89	Annie	CherryTree	Habitat	Kat	#(Annie and Kat climb the tree and sit in it)
+88	Annie	CherryTree	Habitat	Kat	#We all eat a handful of dirt before we die, Annie. Who cares if it tastes like cherries?
+87	Annie	Court	Habitat	Kat	#I wanted to show you something
+86	Annie	BismuthSymbol	Blush	Court	Kat	#Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
+85 Cover	#<hr>Chapter 6: A Handful of Dirt<hr>
 84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<hr>Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love)<hr>
 83	Annie	Dorm	Gamma	Hall	Kat	Rey		Zimmy	#Bah! This is the thanks I get!
 82	Annie	Gamma	Hall	Kat	Rey		Zimmy	#I don't know what you are but you're so cute!
@@ -54,13 +68,13 @@
 57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
 56	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
 55	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	#The body originally belonged to a Rogat Orjak named Sivo
-54	AnimalCells	Annie	AntimonySymbol	Eglamore	EyeSymbol	Rey	ReySymbol	WolfToy	#(Rey’s spirit enters the Wolf Toy instead)
+54	AnimalCells	Annie	AntimonySymbol	Eglamore	EyeSymbol	Lockpicks	Rey	ReySymbol	WolfToy	#(Rey’s spirit enters the Wolf Toy instead)
 53	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	ReySymbol	WolfToy	#(Rey leaves his body as a spirit and hovers over Annie. Eglamore knocks Annie out of the way)
 52	AnimalCells	Annie	Rey	ReySymbol	WolfToy	#In fact what I need is… your body!
 51	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	#Hiding behind a little girl isn’t exactly very sporting
 50	AnimalCells	Annie	Eglamore	EyeSymbol	Rey	#(Large Animal Holding Cells. Annie peers in, Rey is lying down, Eglamore standing in front of him)
 49	Annie	Court	Train	TrainStation	WolfToy	#I realised for the first time that I’d barely seen anyone other than the people in my class
-48	Annie	Hospital	TicToc	WolfToy	#Judging by the state Reynardine was in, I deduced his prison was somewhere on the school grounds.
+48	Annie	Hospital	Lockpicks	TicToc	WolfToy	#Judging by the state Reynardine was in, I deduced his prison was somewhere on the school grounds.
 47	Annie	Hospital	Rey	Surma	#My mother could not be the only person with this name
 46	Annie	Hospital	Kat	WolfToy	#You were hit on the head when the ceiling collapsed
 45	Annie	AntimonySymbol	Eglamore	Rey	Roof	#So… this must be her daughter.
