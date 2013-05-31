@@ -39,9 +39,9 @@ FireSymbol	The alchemical symbol for fire
 Foley	One of the other school Houses
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Gillitie	Gillitie Wood where the wild things are
-GoodHope good hope hospital is where Surma was before she died
+GoodHope	good hope hospital is where Surma was before she died
 Gym	school gymnasium
-Habitat An environmental decontamination habitat
+Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
