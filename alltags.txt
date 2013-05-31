@@ -13,9 +13,9 @@ Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young
 Bobbie	A robot at the AnimalLab
 Bonus	Extra pages at the end of the chapter
 Bridge	over the Annan Water to Gillitie Wood
-Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers & co.
+Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers &amp; co.
 Caduceus	"Herald's staff" borne by Hermes (Mercury), symbol of commerce
-Chickcharney	see Hardwick & Little’s Bestiary, p65
+Chickcharney	see Hardwick &amp; Little’s Bestiary, p65
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
 Circus	creepy and filled with clowns
@@ -39,16 +39,15 @@ FireSymbol	The alchemical symbol for fire
 Foley	One of the other school Houses
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Gillitie	Gillitie Wood where the wild things are
-GoodHope	good hope hospital is where Surma was before she died
+GoodHope good hope hospital is where Surma was before she died
 Gym	school gymnasium
-Habitat	An environmental decontamination habitat
+Habitat An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
 Hospital	The hospital within the court
 Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
-Jumper	Annie's school jumper
 Kat	Katerina Donlan
 Labyrinth	Not quite a maze
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome.
@@ -69,9 +68,8 @@ Queslett	Annie & Kat's school House
 Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
-RogatOrjak	Dragon-like giant
+Rogat Orjak	Dragon-like giant
 Roof	The top of the court
-Scissors	Some folding scissors
 Shadow	the Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
