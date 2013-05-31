@@ -25,7 +25,9 @@ Crying	when salty water with enzymes comes out of one's lacrimal ducts; also, a 
 Dolls	Kat probably only has action figures she thinks are hot. I.e. David Duchovny (Mulder), Batman and Hellboy
 Donny	Donald Donlan, Kat's father
 Dorm	Living quarters at school
-Eglamore	big fellow with sword
+Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
+EglamoreKnife	A switchblade/flick knife that Eglamore treasures.
+EthericShield	An etheric/magical shield
 EtherSymbol	Alchemical Symbol for Ether.
 EugeneGould	explorer
 EyeSymbol	A crossed out eye that is a complex warding sign
@@ -68,6 +70,7 @@ Smitty	usually brings order from chaos
 Students	miscellaneous students
 SullivansJohn	Sullivan's John. A student who likes to play the mandolin
 Surma	Surma Stibnite, Annie's mother
+Sword	Comes as advertised
 Tea	explains things in-between chapters
 Teacher	a miscellaneous teacher
 Thornhill	One of the other school Houses
