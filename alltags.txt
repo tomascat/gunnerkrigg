@@ -68,7 +68,7 @@ Queslett	Annie & Kat's school House
 Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
-Rogat Orjak	Dragon-like giant
+RogatOrjak	Dragon-like giant
 Roof	The top of the court
 Shadow	the Thin Man
 Shadowman	Not the Thin Man
