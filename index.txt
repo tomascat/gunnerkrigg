@@ -11,7 +11,7 @@
 1194	Annie	Parley	Smitty	#Annie was laughing her head off but you looked so shocked, babe!
 1193	Eglamore	Gillitie	Parley	Smitty	#Stampede!
 1192	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#(cobra)
-1191	Annie	Chickcharney	Fairies	Gillitie	Smitty	#(gnome)(bear)(octopus)(horse) So that’s what I’ve been doing wrong
+1191	Annie	Chickcharney	Fairies	Gillitie	Octopus Smitty	#(gnome)(bear)(horse) So that’s what I’ve been doing wrong
 1190	Annie	Chickcharney	Fairies	Gillitie	Smitty	#(gnome) Look! I brought more friends in need!
 1189	Annie	Chickcharney	Gillitie	Smitty	#(marble) (doe) She wishes to know when spring will come
 1188	Annie	Chickcharney	Gillitie	Smitty	#(marble) (doe) Hello! It’s me again
