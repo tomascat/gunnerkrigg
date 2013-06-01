@@ -3,6 +3,19 @@
 Files for the online searchable Gunnerkrigg Court site: http://www.louisxiv.co.uk/gunnerkrigg/
 Index.txt when on the site is parsed into HTML by a python script
 
+##Tagging guide
+
+- What to tag? Anything relevant that can be seen in the page that people might want to search for
+- The top priority is to tag all the characters, settings and important props; other things can be added later if you're not sure
+- It's best to use tags that already exist (check alltags.txt) if possible. If you need to add a new tag, add it to alltags.txt at the same time with a description; use tags such as "GoodHope" rather than "GoodHopeHospital" as tags can be described
+- At the moment, just tag characters who are seen (in the main action, flashbacks, memories), rather than mentioned (this may change)
+- Important props/items such as the blinker stone need to be tagged
+- Recurring characters should be tagged by name or a specific description if possible; generic characters should be referred to as "teacher" or "students" or "LaserCow"
+- If you can tag things like alchemical symbols that would be very useful. If you are not sure what a symbol is, tag it as "symbol" and make a new post on the forum and ask- there are a lot of knowledgeable people out there!
+- The forum, tvtropes and the Gunnerkrigg Wiki (gunnerkrigg.wikia.com) are invaluable for information on who and what exists in the comic
+- At the moment we are not tagging the cover pages however this might change
+- Treatises are obviously full of tag-material! Have a go and we'll all contribute further tags as necessary
+
 ##Format
 
 ###Index of pages - Index.txt
