@@ -14,10 +14,10 @@ Index.txt when on the site is parsed into HTML by a python script
 - Page titles are preceded by "#"
 - The order is [page number] [tag] [tag] ... [comment] [page title]
 - Covers are simply: [page number] Cover #&lt;hr&gt;[Title of cover]&lt;hr&gt;
-- Bonus pages are: [page number] Bonus [tags] #&lt;b&gt;Bonus Page:&lt;b&gt; [What is in the bonus page]&lt;hr&gt;
+- Bonus pages are: [page number] Bonus [tags] #&lt;b&gt;Bonus Page:&lt;/b&gt; [What is in the bonus page]&lt;hr&gt;
 
 eg:
-<pre><code>16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#&lt;hr&gt;Bonus Page: Houses at Gunnerkrigg Court&lt;hr&gt;
+<pre><code>16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#&lt;b&gt;Bonus Page:&lt;/b&gt; Houses at Gunnerkrigg Court&lt;hr&gt;
 15	Annie	Bridge	Gillitie	Teacher	#Sorry sir. I got lost.
 14	Bridge	Gillitie	Robot	Shadow	Shadowmen	#Here you go little buddie!
 13	Bridge	Robot	Shadow	TicToc	#Oh look! A birdie!
