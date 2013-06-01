@@ -25,6 +25,19 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
+1177	CityFace	Filler	#City Face guest comic 10 by City Face
+1176	CityFace	Filler	LaundryList	#City Face guest comic 9 by Tom
+1175	CityFace	Filler	#City Face guest comic 8 by Red and "Blue"
+1174	CityFace	Filler	#City Face guest comic by Gamma (and Zimmy?)
+1173	Annie	CityFace	Filler	Kat	#City Face guest comic by Lindsey
+1172	CityFace	Filler	#City Face guest comic by Mort
+1171	CityFace	Filler	#City Face guest comic by Robot and Shadow
+1170	CityFace	Filler	#City Face guest comic by Renard
+1169	CityFace	Filler	#City Face guest comic by Kat
+1168	CityFace	Filler	#City Face guest comic by Annie
+1167	Filler	Tea	#<hr>Guest Comics</hr>
+1166	Filler	#“So, how’s it been going?” open letter by Tom
+1175	Annie	AntimonySymbol	BlinkerStone	Court	Coyote	CreatorGlyph	Gillitie	Heart	Kat	Robot	Shadow	Treatise	WanderingEye	Ysengrin	#symbolically summarising the last NN pages…
 127	Annan	Annie	Gillitie	Scissors	TicToc	#Well, mechanical or not, you and your friends saved my life
 126	Annan	Annie	Jumper	Gillitie	TicToc	#in the distance there was a light, shining dimly from the opposite shore.
 125	Annan	Annie	Gillitie	TicToc	#If it's not too much trouble, perhaps the other shore would be a better...
