@@ -1,26 +1,26 @@
 AlchemyChart	An alchemical chart
 AnimalCells	the secret Court large animal holding cells
 AnimalLab	a Court research lab
-Anja	Anja Donlan, Kat's mother
+Anja	Anja Donlan, Kat’s mother
 Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist
-AnnieCut	The cut on Annie's face from Jeanne's sword
+AnnieCut	The cut on Annie's face from Jeanne’s sword
 AntiGravGenerator	An anti-gravity generator that Kat made for the science fair
-AntiGravShip	An anti-gravity ship that Kat made out of the anti-gravity generator.
+AntiGravShip	An anti-gravity ship that Kat made out of the anti-gravity generator
 AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Surma
 Basil	Minotaur
 BeckyGround	A student
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
-Blackboard	classroom surface wor writing on with chalk sticks a.k.a. chalkboard if not black
+Blackboard	classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
 BlinkerStone	Etheric lens device
 Blue	A crazy fairy obsessed with hair
 Blush	happy/embarrassed
-Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young's Park with his wife, Marcia
+Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young’s Park with his wife, Marcia
 Bobbie	A robot at the AnimalLab
 Bonus	Extra pages at the end of the chapter
 Bridge	over the Annan Water to Gillitie Wood
 Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers &amp; co.
-Caduceus	"Herald's staff" borne by Hermes (Mercury), symbol of commerce
+Caduceus	“Herald's staff” borne by Hermes (Mercury), symbol of commerce
 Chickcharney	see Hardwick &amp; Little’s Bestiary, p65
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
@@ -32,15 +32,15 @@ Coyote	Trickster; the creator of all; he does not exist, he says
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
 Cover	A chapter cover
 CreatorGlyph	mark of the robots’ creator: now associated with Kat
-Crying	when salty water with enzymes comes out of one's lacrimal ducts; also, a sign of sadness
-Dolls	Kat probably only has action figures she thinks are hot. I.e. David Duchovny (Mulder), Batman and Hellboy
+Crying	when salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
+Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
 DonlanHouse	home of the Donlan family: Anja, Donny, Kat
-Donny	Donald Donlan, Kat's father
+Donny	Donald Donlan, Kat’s father
 Dorm	Living quarters at school
 Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
-EglamoreKnife	A switchblade/flick knife that Eglamore treasures.
+EglamoreKnife	A switchblade/flick knife that Eglamore treasures
 EthericShield	An etheric/magical shield
-EtherSymbol	Alchemical Symbol for Ether.
+EtherSymbol	Alchemical Symbol for Ether
 EugeneGould	explorer
 EyeSymbol	A crossed out eye that is a complex warding sign
 Fairies	Gillitie Wood is full of them
@@ -66,10 +66,10 @@ LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome.
 LaundryList	a seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as Eglamore
 Library	includes robot parts
-Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey's body
-Marcia	Marcia Sutton, a keeper of Young's Park with her husband, Bob
+Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey’s body
+Marcia	Marcia Sutton, a keeper of Young’s Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
-MercurySymbol	The alchemical symbol for mercury; appears on Rey's spirit form
+MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Moon	Our most ancient satellite!
 Mort	A ghost
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
@@ -80,7 +80,8 @@ Ogee	A city fairy with the power of rusting, who hangs out with a magpie called 
 Orb	The Globus cruciger, a Christian symbol of power, wielded by monarchs and Christ
 Parley	Swordswoman
 Paz	Spanish, good with animals
-Queslett	Annie & Kat's school House
+Psychopomp	Escorts the dead to the afterlife/Ether
+Queslett	Annie &amp; Kat’s school House
 Red	A crazy and abrasive fairy
 Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
@@ -96,14 +97,14 @@ StarofDavid	Jewish symbol and alchemical symbol
 Stars	celestial bodies
 Students	miscellaneous students
 Sun	our closest star!
-SullivansJohn	Sullivan's John. A student who likes to play the mandolin
-Surma	Surma Stibnite, Annie's mother
+SullivansJohn	Sullivan’s John. A student who likes to play the mandolin
+Surma	Surma Stibnite, Annie’s mother
 Sword	Comes as advertised
 Tea	explains things in-between chapters
 Teacher	a miscellaneous teacher
 Thornhill	One of the other school Houses
 TicToc	birdlike robotic watchers
-Tony	Anthony Carver, Annie's father
+Tony	Anthony Carver, Annie’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of Ogee.
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
@@ -113,7 +114,7 @@ VII	The number seven, numerologically symbolises virginity, change, completion o
 WanderingEye	symbol of that which calls itself Jones
 WaterSymbol	Alchemical symbol for water
 Winsbury	Not a very nice boy
-WolfToy	A small wolf toy made by Annie's mother
+WolfToy	A small wolf toy made by Annie’s mother
 WoodenArm	A mysterious wooden arm from Gillitie
 Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
 Zimmy	aka Zeta, a strange girl who is friends with Gamma
