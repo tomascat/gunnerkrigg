@@ -103,11 +103,11 @@
 86	Annie	BismuthSymbol	Blush	Court	HabitatSymbol	Kat	#Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
 85	Cover	#<hr>Chapter 6: A Handful of Dirt<hr>
 84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<b>Bonus Page:</b> Cupid Undone (Winsbury and Janet secretly express their love)<hr>
-83	Annie	BismuthSymbol	Dorm	Gamma	Hall	Kat	Rey		Zimmy	#Bah! This is the thanks I get!
-82	Annie	Gamma	Hall	Kat	Rey		Zimmy	#I don't know what you are but you're so cute!
-81	Annie	AntimonySymbol	Gamma	Hall	Kat	Rey		Zimmy	#I hoped I could win your favour if I helped your gypsy friend win this blasted spectacle.
-80	Annie	Hall	Kat	Rey		Zimmy	#Reynardine? Mr Eglamore said you were dead!
-79	Annie	Gamma	Hall	Kat	Rey		Zimmy	#We're here to find who's been messing with our stuff. an' we found 'im!
+83	Annie	BismuthSymbol	Dorm	Gamma	Hall	Kat	Rey	Zimmy	#Bah! This is the thanks I get!
+82	Annie	Gamma	Hall	Kat	Rey	Zimmy	#I don't know what you are but you're so cute!
+81	Annie	AntimonySymbol	Gamma	Hall	Kat	Rey	Zimmy	#I hoped I could win your favour if I helped your gypsy friend win this blasted spectacle.
+80	Annie	Hall	Kat	Rey	Zimmy	#Reynardine? Mr Eglamore said you were dead!
+79	Annie	Gamma	Hall	Kat	Rey	Zimmy	#We're here to find who's been messing with our stuff. an' we found 'im!
 78	Annie	Dorm	Gamma	Hall	Kat	Zimmy	#aha!
 77	Annie	Dorm	Kat	Hall	Students	#Several of the 8 experiments had been purposefully ruined overnight.
 76	Annie	Gamma	Hall	Zimmy	#This is... an abomination.
