@@ -4,10 +4,15 @@ AnimalLab	a Court research lab
 Anja	Anja Donlan, Kat's mother
 Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist
+AnnieCut	The cut on Annie's face from Jeanne's sword
+AntiGravGenerator	An anti-gravity generator that Kat made for the science fair
+AntiGravShip	An anti-gravity ship that Kat made out of the anti-gravity generator.
 AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Surma
 Basil	Minotaur
 BeckyGround	A student
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
+BlinkerStone	Etheric lens device
+Blue	A crazy fairy obsessed with hair
 Blush	happy/embarrassed
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young's Park with his wife, Marcia
 Bobbie	A robot at the AnimalLab
@@ -19,6 +24,7 @@ Chickcharney	see Hardwick &amp; Little’s Bestiary, p65
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
 Circus	creepy and filled with clowns
+CityFace	A pigeon
 Classroom	Where they have classes
 Clowns	creepy, no-one likes them
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
@@ -59,12 +65,15 @@ Margo	A student who enjoys singing. Friends with SullivansJohn
 MercurySymbol	The alchemical symbol for mercury; appears on Rey's spirit form
 Moon	Our most ancient satellite!
 Mort	A ghost
+Muut	Egyptian psychopomp (escorts the dead to the afterlife).
 NapoleonHat	A fitting hat for Reynardine the Great!
 Octopus	A floating octopus
+Ogee	A city fairy with the power of rusting, who hangs out with a magpie called Bobeyes. Sister of Torus.
 Orb	The Globus cruciger, a Christian symbol of power, wielded by monarchs and Christ
 Parley	Swordswoman
 Paz	Spanish, good with animals
 Queslett	Annie & Kat's school House
+Red	A crazy and abrasive fairy
 Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
@@ -87,6 +96,7 @@ Teacher	a miscellaneous teacher
 Thornhill	One of the other school Houses
 TicToc	birdlike robotic watchers
 Tony	Anthony Carver, Annie's father
+Torus	A city fairy who deals with pigeons such as City Face. Sister of Ogee.
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Treatise	Symbolic representation of the story
