@@ -25,6 +25,19 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
+1177	CityFace	Filler	#City Face guest comic 10 by City Face
+1176	CityFace	Filler	LaundryList	#City Face guest comic 9 by Tom
+1175	CityFace	Filler	#City Face guest comic 8 by Red and "Blue"
+1174	CityFace	Filler	#City Face guest comic by Gamma (and Zimmy?)
+1173	Annie	CityFace	Filler	Kat	#City Face guest comic by Lindsey
+1172	CityFace	Filler	#City Face guest comic by Mort
+1171	CityFace	Filler	#City Face guest comic by Robot and Shadow
+1170	CityFace	Filler	#City Face guest comic by Renard
+1169	CityFace	Filler	#City Face guest comic by Kat
+1168	CityFace	Filler	#City Face guest comic by Annie
+1167	Filler	Tea	#<hr>Guest Comics</hr>
+1166	Filler	#“So, how’s it been going?” open letter by Tom
+1165	Bonus	Treatise	Annie	AntimonySymbol	BlinkerStone	Court	Coyote	CreatorGlyph	Gillitie	Heart	Kat	Robot	Shadow	Treatise	WanderingEye	Ysengrin	#symbolically summarising the last NN pages…
 148	Bonus	Fairies	Ogee	Tea	#<b>Bonus Page:</b> Regional Fairies<hr>
 147	Annie	AntiGravShip	Court	Kat	#This isn't just a school is it?
 146	Annan	Annie	AntiGravShip	Gillitie	Jeanne	Kat	Shadow	#You remember that time I told you that I'd never lost anyone I cared for?
@@ -64,16 +77,16 @@
 112	AlchemyChart	Annie	BismuthSymbol	Bridge	Kat	Rey	Robot	ScienceLab	Shadowman	#Could he have come back?
 111	AlchemyChart	Annie	BismuthSymbol	Blush	Bridge	Kat	Rey	ScienceLab	#Are you two going to kiss now?
 110	AlchemyChart	Annie	BismuthSymbol	Kat	Rey	ScienceLab	VenusSymbol	#Kat, I'm sorry I caused a scene this morning.
-109	Anja	Donald	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	#You still carry that thing, Jim?
-108	Annie	Anja	Donald	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Kat	Rey	#Criminal or not, I won't allow him to be subjected to that again.
-107	Annie	Anja	Donald	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	EthericShield	EyeSymbol	Rey	#I can take anything with eyes, be they real or not.
-106	Annie	Anja	Donald	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeSymbol	Rey	#Damn you, girl! And I had the perfect disguise!
-105	Annie	Anja	Donald	DonlanHouse	Eglamore	Kat	Rey	#If you don't mind; I also have something I think you should see
-104	Annie	Anja	Donald	DonlanHouse	Eglamore	Kat	#But when Anthony wants to disappear, he'll do so.
-103	Annie	Anja	Blush	Donald	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who's this cute guy here? That... that would be me.
-102	Annie	Anja	Brinnie	Donald	DonlanHouse	Eglamore	Kat	Photo	Tony	#Wow! Is this you guys when you were kids?!
-101	Annie	Anja	Donald	DonlanHouse	Eglamore	EtherSymbol	Kat	MercurySymbol	Rey	#Reynardine can't hurt anyone any more
-100	Annie	Anja	Donald	DonlanHouse	Eglamore	EtherSymbol	Kat	#Call me Anja, and this is Donald.
+109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	#You still carry that thing, Jim?
+108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Kat	Rey	#Criminal or not, I won't allow him to be subjected to that again.
+107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	EthericShield	EyeSymbol	Rey	#I can take anything with eyes, be they real or not.
+106	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeSymbol	Rey	#Damn you, girl! And I had the perfect disguise!
+105	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	Rey	#If you don't mind; I also have something I think you should see
+104	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	#But when Anthony wants to disappear, he'll do so.
+103	Annie	Anja	Blush	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who's this cute guy here? That... that would be me.
+102	Annie	Anja	Brinnie	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Wow! Is this you guys when you were kids?!
+101	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	MercurySymbol	Rey	#Reynardine can't hurt anyone any more
+100	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	#Call me Anja, and this is Donny.
 99	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	TicToc	WoodenArm	#(Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 98	Annie	BismuthSymbol	Court	Kat	LeadSymbol	TicToc	#Something is wrong.
 97	Cover	#<hr>Chapter 7: Of New and Old<hr>
@@ -150,7 +163,7 @@
 26	Annie	GoodHope	Kat	Labyrinth	Surma	Tony	#It was her wish that I continue my education here
 25	Annie	Kat	Labyrinth	#so we won’t get lost if we went in, because there are no dead ends, like in a maze.
 24	Annie	Kat	Labyrinth	Library	#Is this the guy you were talking about?
-23	Annie	JonesFootprintPictures	Kat	Library	#There is a whole section devoted to Greek mythology it seems
+23	Annie	JonesFootprints	Kat	Library	#There is a whole section devoted to Greek mythology it seems
 22	Annie	Kat	Library	#Is this all there is?
 21	Annie	Classroom	Kat	#I was thinking of covering the minotaur
 20	Annie	Classroom	Janet	Kat	Winsbury	Teacher	#Find as much information as you can on a mythical figure of your choice
