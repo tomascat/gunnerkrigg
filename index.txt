@@ -38,14 +38,14 @@
 1167	Filler	Tea	#<hr>Guest Comics<hr>
 1166	Filler	#“So, how’s it been going?” open letter by Tom
 1165	Bonus	Treatise	Annie	AntimonySymbol	BlinkerStone	Court	Coyote	CreatorGlyph	Gillitie	Heart	Kat	Robot	Shadow	Treatise	WanderingEye	Ysengrin	#symbolically summarising the last NN pages…
-1164	Annie	Kat	#It’s written to <i>you<i>.
-1163	Annie	Heart Kat	Rey	#It’s a <i>Love Letter</i><br>Tom: Oh no
+1164	Annie	Kat	#It’s written to <i>you</i>.
+1163	Annie	Heart	Kat	Rey	#It’s a <i>Love Letter</i><br>Tom: Oh no
 1162	Annie	Kat	Rey	#I’m glad we’ll be sharing this room together, Kat
 1161	Annie	Kat	Robots	#How are Robot and Shadow?
 1160	Annie	Kat	Rey	#Whoa, you set your hair on fire?!
 1159	Annie	Coyote	Fire	Rey	#Well, Fire Head Girl, what do you say?
 1158	Annie	Coyote	Eglamore	Headmaster	Jones	Parley	Smitty	Ysengrin	#You want me to work for <i>you?</i>
-1157	Annie	Coyote	Rey	Ysengrin	#	An honorary citizen of the forest!
+1157	Annie	Coyote	Rey	Ysengrin	#An honorary citizen of the forest!
 1156	Coyote	Headmaster	Parley	Rey	Smitty	#Are you husband and wife?<br>Tom: Personal space? What's that?
 1155	Annie	Headmaster	Jones	Parley	Rey	Smitty	Tears	#I’m sure you understand this ends your visiting privileges to the forest
 1154	Anja	Annie	Donny	Eglamore	Headmaster	LeadSymbol	Parley	#Tom: Nice to have career options
@@ -60,7 +60,7 @@
 1145	Annie	Kat	KatWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
 1144	Annie	Kat	KatWorkshop	Rey	Robot	Robots	#Are you sure about this, Robot?
 1143	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#S13 is being held for the spreading of disinformation and rumour
-1142	Annie	Etheric	Kat	Rey	Robot	Robots	Warehouse113	#Just because she is beautiful and angelic in appearance
+1142	Annie	Etherics	Kat	Rey	Robot	Robots	Warehouse113	#Just because she is beautiful and angelic in appearance
 1141	Annie	Kat	Robots	Warehouse113	#A simple electro-disruptor. Use of this illegal device has been noted
 1140	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#Shadow! You should not have come here!
 1139	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#NOT a secret base

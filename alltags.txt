@@ -3,7 +3,7 @@ AnimalCells	the secret Court large animal holding cells
 AnimalLab	a Court research lab
 Anja	Anja Donlan, Kat’s mother
 Annan	Annan Waters, a wide river in a deep gorge
-Annie	Antimony Carver, our protagonist
+Annie	Antimony Carver, our protagonist (Fire Head Girl)
 AnnieCut	The cut on Annie's face from Jeanne’s sword
 AntiGravGenerator	An anti-gravity generator that Kat made for the science fair
 AntiGravShip	An anti-gravity ship that Kat made out of the anti-gravity generator
@@ -39,6 +39,7 @@ Donny	Donald Donlan, Kat’s father
 Dorm	Living quarters at school
 Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
 EglamoreKnife	A switchblade/flick knife that Eglamore treasures
+Etherics	manipulation of the Ether – “magic”
 EthericShield	An etheric/magical shield
 EtherSymbol	Alchemical Symbol for Ether
 EugeneGould	explorer
@@ -56,13 +57,17 @@ Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
+Headmaster	surprisingly grey, tired man, with bad posture
 Heart	a heart sign, symbol, glyph or character
 Hospital	The hospital within the court
 Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
+Jones	a name of Wandering Eye
 Kat	Katerina Donlan
+KatsWorkshop	where Kat indulges her hobbies
 Labyrinth	Not quite a maze
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome.
+Lasers	Zap! Awesome!
 LaundryList	a seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as Eglamore
 Library	includes robot parts
@@ -77,8 +82,8 @@ NapoleonHat	A fitting hat for Reynardine the Great!
 Ocean	a whole bunch of water
 Octopus	A floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called Bobeyes. Sister of Torus.
-Orb	The Globus cruciger, a Christian symbol of power, wielded by monarchs and Christ
-Parley	Swordswoman
+Orb	The <i>Globus cruciger</i>, a Christian symbol of power, wielded by monarchs and Christ
+Parley	George Parley: Swordswoman (Big Nose Girl)
 Paz	Spanish, good with animals
 Psychopomp	Escorts the dead to the afterlife/Ether
 Queslett	Annie &amp; Kat’s school House
@@ -86,14 +91,15 @@ Red	A crazy and abrasive fairy
 Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
+Robots	a collective noun
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
 Shadow	the Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
 SivoBody	A deceased Rogat Orjak
-Smitty	usually brings order from chaos
-StarofDavid	Jewish symbol and alchemical symbol
+Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
+StarOfDavid	Jewish and alchemical symbol
 Stars	celestial bodies
 Students	miscellaneous students
 Sun	our closest star!
@@ -101,6 +107,7 @@ SullivansJohn	Sullivan’s John. A student who likes to play the mandolin
 Surma	Surma Stibnite, Annie’s mother
 Sword	Comes as advertised
 Tea	explains things in-between chapters
+Tears	in the eyes, visibly crying, etc
 Teacher	a miscellaneous teacher
 Thornhill	One of the other school Houses
 TicToc	birdlike robotic watchers
@@ -111,7 +118,8 @@ TrainStation	One of many stations in the court
 Treatise	Symbolic representation of the story
 Trees	come as advertised (usually)
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
-WanderingEye	symbol of that which calls itself Jones
+WanderingEye	symbol of that which calls itself Jones, currently
+Warehouse113	Not a secret base
 WaterSymbol	Alchemical symbol for water
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie’s mother
