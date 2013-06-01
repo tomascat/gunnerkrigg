@@ -26,7 +26,6 @@ Cover	A chapter cover
 Crying	when salty water with enzymes comes out of one's lacrimal ducts; also, a sign of sadness
 Dolls	Kat probably only has action figures she thinks are hot. I.e. David Duchovny (Mulder), Batman and Hellboy
 Donny	Donald Donlan, Kat's father
-DonlanHouse	Where Anja, Donny and Kat live
 Dorm	Living quarters at school
 Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
 EglamoreKnife	A switchblade/flick knife that Eglamore treasures.
@@ -49,8 +48,6 @@ HardwickLittleBestiary	Reference on mystical creatures
 Hospital	The hospital within the court
 Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
-JonesFootprints	Ancient footprints left by Jones
-Jumper	Annie's school jumper
 Kat	Katerina Donlan
 Labyrinth	Not quite a maze
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome.
@@ -63,20 +60,16 @@ MercurySymbol	The alchemical symbol for mercury; appears on Rey's spirit form
 Moon	Our most ancient satellite!
 Mort	A ghost
 NapoleonHat	A fitting hat for Reynardine the Great!
-Ocean	The greatest body of water
 Octopus	A floating octopus
 Orb	The Globus cruciger, a Christian symbol of power, wielded by monarchs and Christ
 Parley	Swordswoman
 Paz	Spanish, good with animals
-Photo	An old school photo of Anja, Donny, Surma, Eglamore, Tony and Brinnie
 Queslett	Annie & Kat's school House
 Rey	Reynardine/Renard, a crafty fox spirit
-River	A running body of water
+River	comes as advertised
 Robot	Messianic S-13
 Rogat Orjak	Dragon-like giant
 Roof	The top of the court
-ScienceLab	A science lab in the school
-Scissors	Annie's foldour scissors
 Shadow	the Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
@@ -98,7 +91,6 @@ Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Treatise	Symbolic representation of the story
 Trees	come as advertised (usually)
-VenusSymbol	Astrological/alchemical symbol for Venus; also known as the female symbol
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 WaterSymbol	Alchemical symbol for water
 Winsbury	Not a very nice boy
