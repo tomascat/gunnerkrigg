@@ -11,6 +11,7 @@ AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Sur
 Basil	Minotaur
 BeckyGround	A student
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
+Blackboard	classroom surface wor writing on with chalk sticks a.k.a. chalkboard if not black
 BlinkerStone	Etheric lens device
 Blue	A crazy fairy obsessed with hair
 Blush	happy/embarrassed
@@ -27,10 +28,13 @@ Circus	creepy and filled with clowns
 CityFace	A pigeon
 Classroom	Where they have classes
 Clowns	creepy, no-one likes them
+Coyote	Trickster; the creator of all; he does not exist, he says
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
 Cover	A chapter cover
+CreatorGlyph	mark of the robots’ creator: now associated with Kat
 Crying	when salty water with enzymes comes out of one's lacrimal ducts; also, a sign of sadness
 Dolls	Kat probably only has action figures she thinks are hot. I.e. David Duchovny (Mulder), Batman and Hellboy
+DonlanHouse	home of the Donlan family: Anja, Donny, Kat
 Donny	Donald Donlan, Kat's father
 Dorm	Living quarters at school
 Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
@@ -40,23 +44,26 @@ EtherSymbol	Alchemical Symbol for Ether.
 EugeneGould	explorer
 EyeSymbol	A crossed out eye that is a complex warding sign
 Fairies	Gillitie Wood is full of them
+Filler	not a mainstream story comic
 Fire	an ancient element
 FireSymbol	The alchemical symbol for fire
 Foley	One of the other school Houses
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Gillitie	Gillitie Wood where the wild things are
-GoodHope good hope hospital is where Surma was before she died
+GoodHope	Good Hope Hospital is where Surma was before she died
 Gym	school gymnasium
-Habitat An environmental decontamination habitat
+Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
+Heart	a heart sign, symbol, glyph or character
 Hospital	The hospital within the court
 Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
 Kat	Katerina Donlan
 Labyrinth	Not quite a maze
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome.
+LaundryList	a seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as Eglamore
 Library	includes robot parts
 Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey's body
@@ -67,6 +74,7 @@ Moon	Our most ancient satellite!
 Mort	A ghost
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
 NapoleonHat	A fitting hat for Reynardine the Great!
+Ocean	a whole bunch of water
 Octopus	A floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called Bobeyes. Sister of Torus.
 Orb	The Globus cruciger, a Christian symbol of power, wielded by monarchs and Christ
@@ -77,7 +85,7 @@ Red	A crazy and abrasive fairy
 Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
-Rogat Orjak	Dragon-like giant
+RogatOrjak	Dragon-like giant
 Roof	The top of the court
 Shadow	the Thin Man
 Shadowman	Not the Thin Man
@@ -102,8 +110,10 @@ TrainStation	One of many stations in the court
 Treatise	Symbolic representation of the story
 Trees	come as advertised (usually)
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
+WanderingEye	symbol of that which calls itself Jones
 WaterSymbol	Alchemical symbol for water
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie's mother
 WoodenArm	A mysterious wooden arm from Gillitie
+Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
 Zimmy	aka Zeta, a strange girl who is friends with Gamma
