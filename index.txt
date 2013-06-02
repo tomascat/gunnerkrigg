@@ -99,7 +99,7 @@
 180	Annie	Classroom	Kat	#<b>Bonus Page:</b> Pressing Matters (Kat dreams about Mulder in class)<hr>
 179	Annie	Court	DrDisaster	Janet	Moon	Paz	SimRocket	SullivansJohn	Winsbury	#I suppose somethings are better learned away from a text book.
 178	Annie	EnigmaronLair	Janet	Kat	Moon	Winsbury	#I hope you like your... smashed... death ray!
-177	Annie	BeckyGround	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#Oh well, here I go.	
+177	Annie	BeckyGround	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#Oh well, here I go.
 176	Annie	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#You'll never get away with this!
 175	Annie	DrDisaster	EnigmaronLair	Moon	Simulation	#It is up to you, spacemonaut Carver, to rescue them and complete the mission!
 174	Annie	Kat	Moon	Simulation	Students	#It's a chance for us to dress up and run around like crazies.
