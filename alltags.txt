@@ -111,7 +111,7 @@ Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
 Robotics	like Etherics but with metal
-RobotParts  Bits of robots currently not attached
+RobotParts	Bits of robots currently not attached
 Robots	a collective noun
 RobotTomb	tomb/theater full of robots
 Robox	has no hands; awesome; everybody loves Robox. The opposite of terrible.
