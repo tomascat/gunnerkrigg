@@ -26,6 +26,7 @@ For more information see the <a href="https://github.com/snipergirl/gunnerkrigg/
 - Install it and run it
 - Sign in and click on your username below "github" on the far left of the program
 - Click on the repository in the middle that you want (snipergirl/gunnerkrigg) and click 'clone'; that will give you a copy on your computer.
+- Each time before editing, in the main part of the program can click "refresh" at the top middle, click on the repo and click "sync" up the top.
 - Then edit the files yourself
 - When you are ready to submit your changes, save the file
 - Go into your github program, which will show that you have unsaved changes in whichever file(s)
