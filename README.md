@@ -1,10 +1,11 @@
 #Gunnerkrigg Online Searchable Site
-
 Files for the online searchable Gunnerkrigg Court site: http://www.louisxiv.co.uk/gunnerkrigg/
 Index.txt when on the site is parsed into HTML by a python script
 
-##Tagging guide
+##Getting Started
+Please send me a PM on the <a href="http://gunnerkrigg.proboards.com/">forums</a> or reply to the <a href="http://gunnerkrigg.proboards.com/thread/1883/searchable-database-comics?page=1">forum post</a> if you want to get involved and we can get you started.
 
+###Tagging guide
 - What to tag? Anything relevant that can be seen in the page that people might want to search for
 - The top priority is to tag all the characters, settings and important props; other things can be added later if you're not sure
 - It's best to use tags that already exist (check alltags.txt) if possible. If you need to add a new tag, add it to alltags.txt at the same time with a description; use tags such as "GoodHope" rather than "GoodHopeHospital" as tags can be described
@@ -16,10 +17,22 @@ Index.txt when on the site is parsed into HTML by a python script
 - At the moment we are not tagging the cover pages however this might change
 - Treatises are obviously full of tag-material! Have a go and we'll all contribute further tags as necessary
 
+###Starting with GitHub
+- First you need one of us (probably me) to give you access to the repo. Please send me a PM on the <a href="http://gunnerkrigg.proboards.com/">forums</a> or reply to the <a href="http://gunnerkrigg.proboards.com/thread/1883/searchable-database-comics?page=1">forum post</a> if you want access.
+- You can either edit the files directly on the website and commit changes that way or:
+- You can download a program for win/mac/linux
+- Install it and run it
+- Sign in and click on your username below "github" on the far left of the program
+- Click on the repository in the middle that you want (snipergirl/gunnerkrigg) and click 'clone'; that will give you a copy on your computer.
+- Then edit the files yourself
+- When you are ready to submit your changes, save the file
+- Go into your github program, which will show that you have unsaved changes in whichever file(s)
+- Put in a commit message about what you have done in the right hand area and click "commit"
+- Then click "sync" and it should upload.
+- This is also a tutorial about Git in general: try.github.io/levels/1/challenges/1
+
 ##Format
-
 ###Index of pages - Index.txt
-
 - The comics are in reverse order
 - Each comic is on a separate line, starting with the page number (look at the URL of the comic and find the number at the end)
 - Each item is separated by tab-spacing
@@ -28,7 +41,6 @@ Index.txt when on the site is parsed into HTML by a python script
 - The order is [page number] [tag] [tag] ... [comment] [page title]
 - Covers are simply: [page number] Cover #&lt;hr&gt;[Title of cover]&lt;hr&gt;
 - Bonus pages are: [page number] Bonus [tags] #&lt;b&gt;Bonus Page:&lt;/b&gt; [What is in the bonus page]&lt;hr&gt;
-
 eg:
 <pre><code>16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#&lt;b&gt;Bonus Page:&lt;/b&gt; Houses at Gunnerkrigg Court&lt;hr&gt;
 15	Annie	Bridge	Gillitie	Teacher	#Sorry sir. I got lost.
@@ -47,13 +59,10 @@ eg:
 2	Annie	Shadow	#Gunnerkrigg Court does not look much like a school at all
 1	Annie	Cover	#&lt;hr&gt;Chapter 1: The Shadow and The Robot&lt;hr&gt;
 </code></pre>
-
 ###Tags & descriptions - Alltags.txt
-
 - The tags are in alphabetical order
 - Each tag is on a separate line
 - The tag and its description are separated by tab-spacing: [tag] [description]
-
 eg:
 <pre><code>AnimalCells	the secret Court large animal holding cells
 AnimalLab	a Court research lab
