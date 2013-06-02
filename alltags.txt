@@ -76,8 +76,8 @@ Jeanne	vengeful ghost
 Jones	a name of Wandering Eye
 Kamlen	Anwyn boy about Annie’s and Kat’s age
 Kat	Katerina Donlan
-KatWorkshop	where Kat indulges her hobbies
-Khepi	head of an anwyn family
+KatsWorkshop	where Kat indulges her hobbies
+Khepi	head of an Anwyn family
 Labyrinth	Not quite a maze
 Landscape	a view of a wide expanse of land
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome.
@@ -91,9 +91,11 @@ Marcia	Marcia Sutton, a keeper of Young’s Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
 Matt	A student who is a classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
+Monster	A scary creature
 Moon	Our most ancient satellite!
 Mort	A ghost
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
+NancyDrew	A series of novels featuring a teenage girl solving mysteries.
 NapoleonHat	A fitting hat for Reynardine the Great!
 Ocean	a whole bunch of water
 Octopus	A floating octopus
@@ -109,9 +111,10 @@ Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
 Robotics	like Etherics but with metal
-RobotTomb	tomb/theater full of robots
+RobotParts  Bits of robots currently not attached
 Robots	a collective noun
-Robox	has no hands; awesome
+RobotTomb	tomb/theater full of robots
+Robox	has no hands; awesome; everybody loves Robox. The opposite of terrible.
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
 SeedOfBismuth	it’s a mystery
