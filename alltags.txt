@@ -79,10 +79,12 @@ Marcia	Marcia Sutton, a keeper of Young’s Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
 Matt	A student who is a classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
+Monster A scary creature
 Moon	Our most ancient satellite!
 Mort	A ghost
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
 NapoleonHat	A fitting hat for Reynardine the Great!
+NancyDrew A series of novels featuring a teenage girl solving mysteries.
 Ocean	a whole bunch of water
 Octopus	A floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called Bobeyes. Sister of Torus.
