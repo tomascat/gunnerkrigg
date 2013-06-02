@@ -1,5 +1,5 @@
 ﻿1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
-1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)<hr>
+1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
 1201	AnimalLab	Blush	Kat	Paz	#I decide to stop worrying and see what would happen
 1200	AnimalLab	Blush	Kat	Paz	#The letter was from me
@@ -25,8 +25,8 @@
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
-1177	CityFace	Filler	#City Face guest comic 10 by City Face
-1176	CityFace	Filler	LaundryList	#City Face guest comic 9 by Tom
+1177	CityFace	Filler	#City Face guest comic by City Face
+1176	CityFace	Filler	LaundryList	#City Face guest comic by Tom
 1175	CityFace	Filler	#City Face guest comic 8 by Red and “Blue”
 1174	CityFace	Filler	#City Face guest comic by Gamma (and Zimmy?)
 1173	Annie	CityFace	Filler	Kat	#City Face guest comic by Lindsey
@@ -43,10 +43,10 @@
 1162	Annie	Kat	Rey	#I’m glad we’ll be sharing this room together, Kat
 1161	Annie	Kat	Robots	#How are Robot and Shadow?
 1160	Annie	Kat	Rey	#Whoa, you set your hair on fire?!
-1159	Annie	Coyote	Fire	Rey	#Well, Fire Head Girl, what do you say?
+1159	Annie	Coyote	Etherics	Fire	Rey	#Well, Fire Head Girl, what do you say?
 1158	Annie	Coyote	Eglamore	Headmaster	Jones	Parley	Smitty	Ysengrin	#You want me to work for <i>you?</i>
 1157	Annie	Coyote	Rey	Ysengrin	#An honorary citizen of the forest!
-1156	Coyote	Headmaster	Parley	Rey	Smitty	#Are you husband and wife?<br>Tom: Personal space? What's that?
+1156	Coyote	Headmaster	Parley	Rey	Smitty	#Are you husband and wife?<br>Tom: Personal space? What’s that?
 1155	Annie	Headmaster	Jones	Parley	Rey	Smitty	Tears	#I’m sure you understand this ends your visiting privileges to the forest
 1154	Anja	Annie	Donny	Eglamore	Headmaster	LeadSymbol	Parley	#Tom: Nice to have career options
 1153	Anja	Annie	Blush	Donny	Coyote	Eglamore	Headmaster	Smitty	Tears	Ysengrin	#MURMRMR
@@ -55,28 +55,44 @@
 1150	Annie	BismuthSymbol	Coyote	Eglamore	Jones	Ysengrin	#Nod
 1149	Anja	Blush	Annie	Donny	Parley	Rey	Smitty	#Did we miss anything?
 1148	Annie	BismuthSymbol	Rey	#I think we made it…
-1147	Annie	BlinkerStone	Kat	KatsWorkshop	Rey	Robots	#Who <i>are</i> you guys?!
-1146	Annie	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#SRobot, you have long since predicted the coming of an angel
-1145	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
+1147	Annie	BlinkerStone	Kat	KatsWorkshop	Rey	Robots	Seraph	#Who <i>are</i> you guys?!
+1146	Annie	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#S13, you have long since predicted the coming of an angel1145	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
 1144	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	#Are you sure about this, Robot?
-1143	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#S13 is being held for the spreading of disinformation and rumour
-1142	Annie	Etherics	Kat	Rey	Robot	Robots	Warehouse113	#Just because she is beautiful and angelic in appearance
-1141	Annie	Kat	Robots	Warehouse113	#A simple electro-disruptor. Use of this illegal device has been noted
-1140	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#Shadow! You should not have come here!
-1139	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#NOT a secret base
+1143	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#S13 is being held for the spreading of disinformation and rumour
+1142	Annie	Etherics	Kat	Rey	Robot	Robots	Seraph	Warehouse113	#Just because she is beautiful and angelic in appearance
+1141	Annie	Kat	Robots	Seraph	Warehouse113	#A simple electro-disruptor. Use of this illegal device has been noted
+1140	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#Shadow! You should not have come here!
+1139	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#NOT a secret base
+1138	Annie	Kat	Rey	Roof	Robot	Robots	Seraph	Shadow	SmallBot	#Good day to you, young eye-witness model
+1137	Annie	Kat	Rey	Robots	Roof	Seraph	Shadow	SmallBot	#I’m going to take a look at your video log, okay?
+1136	Annie	Kat	Rey	Robots	Roof	Shadow	SmallBot	#I sawed it all!
+1135	Annie	Dorm	Kat	Shadow	Robots	Roof	Seraph	#Shadow! What are you doing here?
+1134	Annie	Dorm	Kat	Rey	SubDorm	#I’m in your room all the time anyway
+1133	Annie	Dorm	Kat	Lindsey	Paz	Rey	SubDorm	#Would you like to share a room?
+1132	Roof	Shadow	#(casts: Fly like an Eagle)
+1131	Robot	Roof	Robots	Seraph	Shadow	#Shadow, you must get away, like we practiced
+1130	Robot	Roof	Robots	Seraph	Shadow	#We have found you, Number 13
+1129	Robot	Roof	Shadow	#Here, you just sit like that… (a tender moment)
+1128	Annie	Cover	Coyote	Kat	Parley	Smitty	Rey	Robot	Robots	Seraph	Shadow	#<hr>Chapter 41: Changes<hr>
+1092	Cover	#<hr>Chapter 40: The Stone<hr>
+1056	Cover	#<hr>Chapter 39: The Great Secret<hr>
+1026	Cover	#<hr>Chapter 38: Divine<hr>
+1002	Cover	#<hr>Chapter 37: Microsat 5<hr>
+974	Cover	#<hr>Chapter 36: Red Gets a Name<hr>
+948	Cover	#<hr>Chapter 35: Parley and Smitty Are In This One<hr>
 900	Cover	#<hr>Chapter 34: Faraway Morning (and three short tales)<hr>
-899	Bonus	Boxbot	Robots	Robox	Terrible	#<hr><b>Bonus Page:</b>Helping Hand<hr>
-898	Angel	Robot	Robots	RobotTomb	Shadow	DiegoBot	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
-897	Annie	Kat	Heart	Robots	SeedOfBismuth	RobotTomb	DiegoBot	#CRACK (broken heart)
-896	Annie	Kat	Robot	Robots	RobotTomb	DiegoBot	#We belong here. A tribute to our father, and to a time passed
-895	Annie	Kat	Robot	Robots	RobotTomb	DiegoBot	#so I… I brought you back f-from the dead?
-894	Kat	Robots	RobotTomb	DiegoBot	#We left this world to our children and chose to end our lives
-893	Annie	Kat	Robots	RobotTomb	DiegoBot	#to be still is death, because if we are not useful then we are nothing
-892	Annie	Kat	Robot	Robots	RobotTomb	DiegoBot	#but then… this is your tomb
-891	Annie	Kat	Robot	Robots	Shadow	DiegoBot	#I apologise miss, I was startled
-890	Annie	Kat	KatsWorkshop	Robot	Robots	DiegoBot	#s-stop him!
-889	Annie	BlinkerStone	Kat	KatsWorkshop	Robot	Robots	DiegoBot	#SKANG!
-888	Annie	Kat	KatsWorkshop	Robot	Robots	DiegoBot	#I think I can make a bypass for it…
+899	Bonus	Boxbot	Robots	Robox	Terrible	#<b>Bonus Page:</b>Helping Hand
+898	Angel	Robot	Robots	RobotTomb	Shadow	Seraph	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
+897	Annie	Kat	Heart	Robots	SeedOfBismuth	RobotTomb	Seraph	#CRACK (broken heart)
+896	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#We belong here. A tribute to our father, and to a time passed
+895	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#so I… I brought you back f-from the dead?
+894	Kat	Robots	RobotTomb	Seraph	#We left this world to our children and chose to end our lives
+893	Annie	Kat	Robots	RobotTomb	Seraph	#to be still is death, because if we are not useful then we are nothing
+892	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#but then… this is your tomb
+891	Annie	Kat	Robot	Robots	Shadow	Seraph	#I apologise miss, I was startled
+890	Annie	Kat	KatsWorkshop	Robot	Robots	Seraph	#s-stop him!
+889	Annie	BlinkerStone	Kat	KatsWorkshop	Robot	Robots	Seraph	#SKANG!
+888	Annie	Kat	KatsWorkshop	Robot	Robots	Seraph	#I think I can make a bypass for it…
 887	Annie	Kat	KatsWorkshop	Robot	Robots	Robotics	#I know how to get the old robots started up again
 886	Annie	Kat	KatsWorkshop	Robots	Robotics	#you… can read it?
 885	Annie	Kat	KatsWorkshop	Robot	Robots	Robotics	#Oh my god! This is incredible!
@@ -115,41 +131,49 @@
 852	Annie	Dorm	Kat	#Sometimes… you kinda make it hard to be your friend
 851	Annie	Dorm	Kat	#I’m so sorry about the summer holiday
 850	Annie	Boots	Dorm	Kat	Rey	#Kat, I made these for you!
-849	Annie 	Dorm	Rey	#I have no idea what this thing does
+849	Annie	Dorm	Rey	#I have no idea what this thing does
 848	Annie	Dorm	Rey	#I wish I hadn’t been so cruel to you Reynard
 847	Annie	Anwyn	Bind	CoyoteTooth	Dorm	Homework	Khepi	Rey	#I’m so sorry for what I said
 846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
 845	Dorm	Rey	#Waiting Reynardine
 844	Cover	#<hr>Chapter 32: From the Forest She Came<hr>
+789	Cover	#<hr>Chapter 31: Fire Spike<hr>
+761	Cover	#<hr>Chapter 30: The Coward Heart<hr>
+743	Cover	#<hr>Chapter 29: A Bad Start<hr>
+717	Cover	#<hr>Chapter 28: Spring Heeled Part 2<hr>
+689	Cover	#<hr>Chapter 27: Spring Heeled<hr>
+663	Cover	#<hr>Chapter 26: The Old Dog’s Tricks<hr>
+632	Cover	#<hr>Chapter 25: Sky Watcher And The Angel<hr>
+596	Cover	#<hr>Chapter 24: Residential<hr>
 595	Bonus	DrDisaster	Jones	Simulation	VincentPrice	#<hr><b>Bonus Page:</b> (Dr Disaster panics when Parley teleports everyone out of the simulation, but Jones turns up to reassure with Vincent Price DVDs)<hr>
 594	Annie	Flowers	JackHyland	Monster	Rey	#Oh... you have a, uh, large wolf with you.
 593	Annie	JackHyland	Monster	Rey	Zimmy	#Where is she, Right now?
 592	Annie	Chester	JackHyland	Zimmy	#Yeah... Zimmy. What class is she in?
 591	Annie	JackHyland	Rey	Students	#Hello Jack
 590	Annie	Jones	Surma	Rey	Robots	#Is Ms Jones a robot?
-589	Annie	BismuthSymbol	Mort	Rey	#Poor Mort... I still feel terrible about it.	
+589	Annie	BismuthSymbol	Mort	Rey	#Poor Mort... I still feel terrible about it.
 588	Annie	Flowers	Jeanne	Jones	Rey	#What made you ask about a woman named Jeanne before?
-587	Annie	Flowers	Jones	Smitty	Rey	#Don't you think that was a little cruel?
+587	Annie	Flowers	Jones	Smitty	Rey	#Don’t you think that was a little cruel?
 586	Annie	Dorm	Flowers	Jones	Parley	Smitty	Rey	#GET OUT! GET OUT! GET OUT!      LEAVE THE CHOCOLATES!
 585	Annie	Dorm	Flowers	Jones	Parley	Smitty	Sword	Rey	#Interesting. It may be that Parley posesses the power to distort space. A rare power.
 584	Annie	Flowers	Jones	Parley	Smitty	Rey	#Ha! A flower? Y-you sap...
-583	Annie	Court	Diego	Flowers	Gillitie	Jeanne	Jones	Robots	Rey	Siryoung	#Was there a woman among the humans by the name of Jeanne?		
-582	Annie	Court	Flowers	Gillitie	Jones	Parley	Smitty	Rey	#Coyote Ysengrin and I didn't arrive until... Later
+583	Annie	Court	Diego	Flowers	Gillitie	Jeanne	Jones	Robots	Rey	Siryoung	#Was there a woman among the humans by the name of Jeanne?
+582	Annie	Court	Flowers	Gillitie	Jones	Parley	Smitty	Rey	#Coyote Ysengrin and I didn’t arrive until... Later
 581	Annie	Court	Diego	Flowers	Gillitie	Jones	Parley	SeedofBismuth	Simulation	SirYoung	Smitty	Rey	#It is known as the seed Bismuth. There is no record of exactly what it was.
 580	Annie	Court	Diego	Gillitie	Jones	Parley	SeedofBismuth	Simulation	SirYoung	Smitty	Rey	#This is a depiction of the beginnings of the court, before the division caused by coyote
 579	Annie	Etherics	Jones	Parley	Simulation	Smitty	Rey	#Ok, please begin, Randy.
-578	Annie	Flowers	Jones	Parley	Simulation	Smitty	Rey	#It's obvious Carver is gonna be picked as the next medium.
+578	Annie	Flowers	Jones	Parley	Simulation	Smitty	Rey	#It’s obvious Carver is gonna be picked as the next medium.
 577	Annie	Parley	Smitty	Rey	#I wagerwhen she leaves the changing room her hands will soon find your body!
 576	Annie	Smitty	Rey	#Andrew, why do you let Parley talk to you like she does?
 575	Annie	Flowers	Jones	Parley	Smitty	Rey	#I think you detect a hint of shut your face.
-574	Annie	DrDisaster	Flowers	Jones	Parley	Smitty	Rey	#I don't know what happened! A glitch in the simulator.
+574	Annie	DrDisaster	Flowers	Jones	Parley	Smitty	Rey	#I don’t know what happened! A glitch in the simulator.
 573	Annie	Jones	Parley	Smitty	Rey	#Smitface ruined the sim!
 572	Annie	Moon	Parley	Simulation	Smitty	#After all these years! our ancient artifact returned to us!
 571	Annie	Moon	Parley	Simulation	Smitty	#They receive a strange request from the king of the jupiter moon martians himself!
 570	Cover	#<hr>Chapter 23: Terror castle of the Jupiter moon martians! A spacemonauts adventure!<hr>
 569	Filler	Cityface	Fairies	#Bye, pigeon face! I knew you could do it!
 568	Filler	Cityface	Fairies	#Is she looking?? Oh my gosh I think she is!
-567	Filler	Cityface	Fairies	#It's because of Humans!
+567	Filler	Cityface	Fairies	#It’s because of Humans!
 566	Filler	Cityface	Fairies	#I am here to help you learn the lovliest of dances!
 565	Filler	Cityface	Gamma	Zimmy	#It wer a joke, mate!
 564	Filler	Cityface	Zimmy	#I got the answer to all yerz troubles, fella. Right here.. in my mouf!
@@ -159,30 +183,30 @@
 560	Filler	CityFace	#I am trying my best to woo that female pigeon but she does not notice me!
 559	Filler	Tea	#<hr>CityFace<hr>
 558	Bonus	Treatise	Annie	Bridge	Court	Coyote	Etherics	Fire	Gillitie	Kat	Latin	MercurySymbol	Moon	Rey	Shadowman	Sun	Sword	Ysengrin	#<b>Bonus Page:</b>Treatise Three. The end of the Second book<hr>
-557	Anja	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	TreeDog	#You guys aren't going to believe this... But that guy is our games teacher!
-556	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	TreeDog	#Don't forget, double cross country tomorrow James.
-555	Eglamore	Flashback	Fight	LeadSymbol	Monster	MrThorn	Shadowmen	Sword	TreeDog	#(Eglamore): Hi guys!
-554	Anja	Donny	Flashback	Fight	LeadSymbol	Monster	MrThorn	Roof	Surma	Sword	TreeDog	#Uh can you guys save it for later?
-553	Anja	Donny	Etherics	Ethericshield	Fight	Flashback	Monster	Roof	Shadowmen	Surma	TreeDog	#(Second forest TreeDog leaps at young Anja, Donny and Surma. Anja protects them via etheric SPANG barrier)
-552	Anja	Donny	Flashback	Monster	Roof	Robots	Surma	TreeDog	#Is... Not a real creature. More like... puppet... being called back to forest.
-551	Anja	Donny	Flashback	Monster	Roof	Robots	Surma	TreeDog	#Some kinda dog! A dog made of wood...
+557	Anja	Dog	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	#You guys aren’t going to believe this... But that guy is our games teacher!
+556	Dog	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	#Don’t forget, double cross country tomorrow James.
+555	Dog	Eglamore	Flashback	Fight	LeadSymbol	Monster	MrThorn	Shadowmen	Sword	#(Eglamore): Hi guys!
+554	Anja	Dog	Donny	Flashback	Fight	LeadSymbol	Monster	MrThorn	Roof	Surma	Sword	#Uh can you guys save it for later?
+553	Anja	Dog	Donny	Etherics	Ethericshield	Fight	Flashback	Monster	Roof	Shadowmen	Surma	#(Second forest dog leaps at young Anja, Donny and Surma. Anja protects them via etheric SPANG barrier)
+552	Anja	Dog	Donny	Flashback	Monster	Roof	Robots	Surma	#Is... Not a real creature. More like... puppet... being called back to forest.
+551	Anja	Dog	Donny	Flashback	Monster	Roof	Robots	Surma	#Some kinda dog! A dog made of wood...
 550	Anja	Donny	Flashback	Robots	StopBot	Surma	#Yes, We shall leave now! Thank you! Good job!
-549	Anja	Donny	Flashback	Monster	Robots	StopBot	Students	Surma	TreeDog	#c'mon, we have to get a better look at this!
-548	Anja	Donny	Flashback	Monster	Robots	Surma	TreeDog	#(Large forest TreeDog crashes through a window in front of young Anja, Donny and Surma)
+549	Anja	Dog	Donny	Flashback	Monster	Robots	Stopbot	Students	Surma	#c’mon, we have to get a better look at this!
+548	Anja	Dog	Donny	Flashback	Monster	Robots	Surma	#(Large forest dog crashes through a window in front of young Anja, Donny and Surma)
 547	Anja	BismuthSymbol	Donny	Flashback	Monster	Robots	StopBot	Students	Surma	#The situation does not involve a large monster or two
 546	Eglamore	Flashback	LeadSymbol	MrThorn	RogatOrjak	Teacher	#Have you ever heard of the Rogat Orjak?
 545	Eglamore	Flashback	Hyland	MrThorn	Teacher	#Standing up for a friend. A noble act, cannot be dismissed.
-544	Anja	Court	Donny	Flashback	Surma	#Looks like it's just the three of us for lunch then!
+544	Anja	Court	Donny	Flashback	Surma	#Looks like it’s just the three of us for lunch then!
 543	Anja	Chester	Court	Donny	Etheric	Flashback	Queslett	Surma	#The court made a mistake when they put us in Chester, they said so.
 542	Anja	Donny	Flashback	Surma	#You shoulda zapped him Anja!
 541	Anja	Donny	Eglamore	Fight	Flashback	Hyland	MrThorn	Students	Surma	Teacher	#Eglamore, my office. Now.
-540	Anja	Chester	Donny	Eglamore	Fight	Flashback	Hyland	Students	Surma	#You an' your friends are freaks, how's that you cu- WHUD
-539	Anja	Brinnie	Etheric	Flashback	Students	Surma	#Won't you stay a little longer Brinnie?
-538	Donny	Eglamore	Flashback	Jones	Tony	#"I have matters to attend to" Jeez, who talks like that?
+540	Anja	Chester	Donny	Eglamore	Fight	Flashback	Hyland	Students	Surma	#You an’ your friends are freaks, how’s that you cu- WHUD
+539	Anja	Brinnie	Etheric	Flashback	Students	Surma	#Won’t you stay a little longer Brinnie?
+538	Donny	Eglamore	Flashback	Jones	Tony	#”I have matters to attend to” Jeez, who talks like that?
 537	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Tony	#You mean a picture of Donny!
-536	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Teacher	Tony	#Any other groups want their picture takin'?
+536	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Teacher	Tony	#Any other groups want their picture takin’?
 535	Cover	#<hr>Chapter 22: Ties<hr>
-534	Bonus	Dorm	NancyDrew	Rey	#<b>Bonus Page:</b> Bah! Bah! Baah! (Rey gets angry before settling down with a Nancy Drew book)<hr>
+534	Bonus	Dorm	NancyDrew	Rey	#<b>Bonus Page:</b> Bah! Bah! Baah! (Rey gets angry before settling down with a Nancy Drew book)
 533	Annie	Heart	Mort	Monster	#ooh, a card!
 532	Mort	Monster	#WE ARE HERE TO DESTROY YOU!
 531	Annie	Classroom	Kat	Muut	#now I ask a tiny favour of you
@@ -192,28 +216,36 @@
 527	Annie	Classroom	Kat	Muut	Psychopomp	#You should not have wasted a life in such a way
 526	Annie	Classroom	Kat	Psychopomp	#Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
 525	Annie	Argument	BlinkerStone	Classroom	Kat	Latin	Mort	#Tom: You screwed up big time Carver.
-524	Annie	Argument	BlinkerStone	Bridge	Kat	Mort	Muut	#Yeah how would I know? I'm just a ghost. BWIP
-523	Annie	Argument	BlinkerStone	Kat	Mort	#He's not a boy Kat, he's just a ghost
+524	Annie	Argument	BlinkerStone	Bridge	Kat	Mort	Muut	#Yeah how would I know? I’m just a ghost. BWIP
+523	Annie	Argument	BlinkerStone	Kat	Mort	#He’s not a boy Kat, he’s just a ghost
 522	Anja	Argument	Annie	BlinkerStone	Kat	Mort	#I suppose you think this is funny?
 521	Anja	Annie	BlinkerStone	Etherics	Mort	Kat	#Blinker stones are traditionally given between couples
-520	Anja	Annie	Court	Etherics	Kat	Rey	#Some say that isn't good enough if you can't explain how it works.
+520	Anja	Annie	Court	Etherics	Kat	Rey	#Some say that isn’t good enough if you can’t explain how it works.
 519	Anja	Annie	BlinkerStone	Court	Donny	Eglamore	Etherics	EyeSymbol	Kat	#I tattooed them both myself. Good times, good times.
 518	Annie	AnnieCut	BlinkerStone	Etherics	Rey	#Anja forgot to mention that spying with a blinker stone is not recommended
-517	Anja	Annie	BlinkerStone	Court	Donny	Etherics	EthericShield	Kat	Rey	#Tom: Annie's just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
-516	Anja	Annie	BismuthSymbol	Court	EthericShield	EyeSymbol	Kat	Rey	#How can a glowing... floaty... symbol be a program?
-515	Anja	Annie	BlinkerStone	Court	Etherics	Kat	#Others may call these methods Magic, The court, prefers to refer to them as "Etheric Sciences"
-514	Anja	Annie	BlinkerStone	Etherics	EthericShield	EyeSymbol	Kat	KatsWorkshop	Rey	#Oh... hmm... Why Don't we go talk in the office.
+517	Anja	Annie	BlinkerStone	Court	Donny	Etherics	EthericShield	Kat	Rey	#Tom: Annie’s just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
+516	Anja	Annie	BismuthSymbol	Court	EthericShield	EyeSymbol	Kat	Rey	#How can a glowing… floaty… symbol be a program?
+515	Anja	Annie	BlinkerStone	Court	Etherics	Kat	#Others may call these methods Magic, The court, prefers to refer to them as “Etheric Sciences”
+514	Anja	Annie	BlinkerStone	Etherics	EthericShield	EyeSymbol	Kat	KatsWorkshop	Rey	#Oh… hmm… Why Don’t we go talk in the office.
 513	Anja	Annie	BlinkerStone	Etherics	Kat	KatsWorkshop	#Anja, Are you a magician of some sort?
 512	Anja	Annie	AnnieCut	BlinkerStone	Etherics	Gillitie	KatsWorkshop	Roof	#I can see into the horizon, there are so many colours coming from the forest.
 511	Anja	Annie	AnnieCut	BlinkerStone	Etherics	EyeSymbol	Kat	KatsWorkshop	Rey	#I hid your stone outside
-510	Anja	Annie	AnnieCut	BlinkerStone	Etherics	Kat	KatsWorkshop	#It's gotta be some kind of matter transference! 
+510	Anja	Annie	AnnieCut	BlinkerStone	Etherics	Kat	KatsWorkshop	#It’s gotta be some kind of matter transference!
 509	Anja	Annie	BlinkerStone	Kat	KatsWorkshop	#Did you know you can never lose a blinker stone?
-508	Anja	Annie	BlinkerStone	Kat	KatsWorkshop	RobotParts	Robox	Rey	#Time to learn a little more about your blinker stone Annie, what do you say? 
-507	Annie	Jeanne	Kat	KatsWorkshop	Rey	Robots	#They really are obsessed with that painting of Jeanne aren't they?
+508	Anja	Annie	BlinkerStone	Kat	KatsWorkshop	RobotParts	Robox	Rey	#Time to learn a little more about your blinker stone Annie, what do you say?
+507	Annie	Jeanne	Kat	KatsWorkshop	Rey	Robots	#They really are obsessed with that painting of Jeanne aren’t they?
 506	Annie	Kat	KatsWorkshop	Rey	#Come on now, be friends again
 505	Annie	Kat	KatsWorkshop	Rey	#Ms Jones said everyone has a special skill, so I bet this is yours
 504	Annie	Kat	KatsWorkshop	Rey	Robots	#Set it down over there, boys
 503	Cover	#<hr>Chapter 21: Blinking<hr>
+473	Cover	#<hr>Chapter 20: Coyote Stories<hr>
+441	Cover	#<hr>Chapter 19: Power Station<hr>
+395	Cover	#<hr>Chapter 18: S1<hr>
+361	Cover	#<hr>Chapter 17: The Medium Beginning<hr>
+331	Cover	#<hr>Chapter 16: A Ghost Story<hr>
+305	Cover	#Year 8<hr>Chapter 15: Red Returns<hr>
+258	Cover	#<hr>Chapter 14: The Fangs Of Summertime<hr>
+228	Cover	#<hr>Chapter 13: A Week For Kat<hr>
 227	Bonus	Annie	Dorm	Rey	#<b>Bonus Page:</b> Adonis in Stitches (Rey tries to excite Annie by generating a muscly human body)
 226	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#Well, now that we have you back, Robot, we should do something about your body.
 225	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#It's a wonder my fool cousin hasn't already retaliated.
@@ -242,23 +274,25 @@
 202	Annie	Kat	ScienceLab	Shadow	#Kat, that's wonderful! He even sounds like you!
 201	Annie	Kat	ScienceLab	Shadow	#He isn't really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
 200	Cover	#<hr>Chapter 12: Mainly Involves Robots<hr>
-180	Annie	Classroom	Kat	#<b>Bonus Page:</b> Pressing Matters (Kat dreams about Mulder in class)<hr>
+181	Cover	#<hr>Chapter 11: Dobranoc, Gamma<hr>
+180	Annie	Classroom	Kat	#<b>Bonus Page:</b> Pressing Matters (Kat dreams about Mulder in class)
 179	Annie	Court	DrDisaster	Janet	Moon	Paz	SimRocket	SullivansJohn	Winsbury	#I suppose some things are better learned away from a text book.
-178	Annie	EnigmaronLair	Janet	Kat	Moon	Winsbury	#I hope you like your... smashed... death ray!
+178	Annie	EnigmaronLair	Janet	Kat	Moon	Winsbury	#I hope you like your… smashed… death ray!
 177	Annie	BeckyGround	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#Oh well, here I go.
-176	Annie	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#You'll never get away with this!
+176	Annie	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#You’ll never get away with this!
 175	Annie	DrDisaster	EnigmaronLair	Moon	Simulation	#It is up to you, spacemonaut Carver, to rescue them and complete the mission!
-174	Annie	Kat	Moon	Simulation	Students	#It's a chance for us to dress up and run around like crazies.
-173	Annie	Kat	Moon	Simulation	Students	#You can join them if you wish. I'm sure I'll catch up eventually.
-172	Annie	Enigmarons	Janet	Kat	Matt	Moon	Simulation	Winsbury	#Those are the terrible Enigmarons? They don't even have arms.
+174	Annie	Kat	Moon	Simulation	Students	#It’s a chance for us to dress up and run around like crazies.
+173	Annie	Kat	Moon	Simulation	Students	#You can join them if you wish. I’m sure I’ll catch up eventually.
+172	Annie	Enigmarons	Janet	Kat	Matt	Moon	Simulation	Winsbury	#Those are the terrible Enigmarons? They don’t even have arms.
 171	Annie	DrDisaster	Janet	Kat	Matt	Moon	SimRocket	Simulation	Winsbury	#Doctor! We are approaching the moon!
 170	Annie	DrDisaster	Kat	SimRocket	Simulation	#The evil Enigmarons are threatening the earth from their moon base on the moon!
-169	Annie	Court	Kat	SimRocket	Simulation	#But that's not the point. You're supposed to enjoy it!
-168	Annie	Court	DrDisaster	Kat	#I must admit I question the educational value of Dr. Disaster's classes.
+169	Annie	Court	Kat	SimRocket	Simulation	#But that’s not the point. You’re supposed to enjoy it!
+168	Annie	Court	DrDisaster	Kat	#I must admit I question the educational value of Dr. Disaster’s classes.
 167	Classroom	DrDisaster	Janet	Matt	Students	Teacher	Winsbury	#Well, that clears my next 40 minutes
 166	Annie	Classroom	DrDisaster	Janet	Kat	SullivansJohn	Teacher	Winsbury	#Spacemonauts! The earth is in peril!
 165	Cover	#<hr>Chapter 10: Doctor Disaster Versus the Creepy Space Aliens from Outer Space<hr>
-148	Bonus	Fairies	Ogee	Tea	#<b>Bonus Page:</b> Regional Fairies<hr>
+149	Cover	#<hr>Chapter 9: Questions and Answers<hr>
+148	Bonus	Fairies	Ogee	Tea	#<b>Bonus Page:</b> Regional Fairies
 147	Annie	AntiGravShip	Court	Kat	#This isn’t just a school is it?
 146	Annan	Annie	AntiGravShip	Gillitie	Jeanne	Kat	Shadow	#You remember that time I told you that I’d never lost anyone I cared for?
 145	Annan	Annie	BlinkerStone	Gillitie	Jeanne	Kat	Shadow	#Shadow 2, I may be able to take you back with me if you hide.
@@ -266,14 +300,14 @@
 143	Annan	Annie	AntiGravShip	Blue	Gillitie	Kat	Red	Shadow	#I made my anti-grav unit into a ship!
 142	Annan	Annie	AntiGravShip	Gillitie	Kat	#I knew you were still alive!
 141	Annan	Annie	AnnieCut	Blood	Blue	Gillitie	Jeanne	Red	Sword	#(Jeanne slashes Annie across the face, a light appears)
-140	Annan	Annie	Blue	Gillitie	Jeanne	Red	Sword	#Are you from the other shore? How did you cross the...
+140	Annan	Annie	Blue	Gillitie	Jeanne	Red	Sword	#Are you from the other shore? How did you cross the…
 139	Annan	Annie	BlinkerStone	Blue	Fire	Gillitie	Jeanne	Red	Sword	TicToc	#(The fire goes out, the fairies and Annie sleep, and Jeanne appears)
 138	Annan	Annie	BlinkerStone	Blue	Fire	Gillitie	Jeanne	Red	Shadow	#Are you saying that some of the students at my school used to be fairies like you?
 137	Annan	Annie	Blue	Gillitie	Red	Shadow	#Gunner’s crag? Do you mean Gunnerkrigg Court?
 136	Annan	Annie	Blue	Blood	Gillitie	GoodHope	Red	Shadow	Surma	#It was my fault. I should clean it up.
 135	Annan	Annie	BlinkerStone	Blue	Fire	Gillitie	Red	Shadow	#Just put it on the ground and imagine a fire.
 134	Annan	Annie	Blue	Gillitie	Jeanne	Muut	Red	Shadow	#Someone beyond even our reach. Be thankful she cannot cross the river.
-133	Annan	Annie	BlinkerStone	Gillitie	Jeanne	Muut	Shadow	#He wanted us to give you this. Something you may find useful given your... current situation
+133	Annan	Annie	BlinkerStone	Gillitie	Jeanne	Muut	Shadow	#He wanted us to give you this. Something you may find useful given your… current situation
 132	Annan	Annie	Blue	Gillitie	Muut	Red	TicToc	#Someone who is “just fine” would not be in this place.
 131	Annan	Annie	Blue	Gillitie	Muut	Red	Shadow	#Well if you are so eager to take your own lives, you can do it yourselves.
 130	Annan	Annie	Blue	Gillitie	Red	Shadow	#Now bring it over here! And squash us flat!
@@ -281,12 +315,12 @@
 128	Annan	Annie	Blue	Gillitie	Red	Robot	Shadow	WoodenArm	#You did something to poor robot, and I won’t allow you to do the same to me.
 127	Annan	Annie	Gillitie	Scissors	TicToc	#Well, mechanical or not, you and your friends saved my life
 126	Annan	Annie	Jeanne	Jumper	Gillitie	TicToc	#in the distance there was a light, shining dimly from the opposite shore.
-125	Annan	Annie	Gillitie	TicToc	#If it’s not too much trouble, perhaps the other shore would be a better...
+125	Annan	Annie	Gillitie	TicToc	#If it’s not too much trouble, perhaps the other shore would be a better…
 124	Annan	Annie	Gillitie	TicToc	#(TicTocs catch Annie and carry her to the riverbank)
 123	Annie	GoodHope	Surma	#Now I know how the glass felt
 122	Annie	GoodHope	#I dropped a glass.
 121	Cover	#<hr>Chapter 8: Broken Glass and Other Things<hr>
-120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	StarofDavid	Stars	Sun	Trees	VII	WaterSymbol	#<b>Bonus Page:</b> Treatise One (Ora lege relege labora et invenies = Pray, Read, Reread, Work and You Shall Find)<hr>
+120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	StarOfDavid	Stars	Sun	Trees	VII	WaterSymbol	#<b>Bonus Page:</b> Treatise One (<i>Ora lege relege labora et invenies</i> = Pray, Read, Reread, Work and You Shall Find)
 119	Annie	Bridge	Eglamore	TicToc	#(Annie falls off the bridge)
 118	Annie	Bridge	Rey	Robot	Shadowman	Sword	WoodenArm	#(Robot pushes Annie, the sword flies into him, breaking his body and slicing the WoodenArm and the Shadowman)
 117	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	Sword	TicToc	WoodenArm	#Oh! So this is Reynardine? Well now, this makes things much easier!
@@ -297,24 +331,24 @@
 112	AlchemyChart	Annie	BismuthSymbol	Bridge	Kat	Rey	Robot	ScienceLab	Shadowman	#Could he have come back?
 111	AlchemyChart	Annie	BismuthSymbol	Blush	Bridge	Kat	Rey	ScienceLab	#Are you two going to kiss now?
 110	AlchemyChart	Annie	BismuthSymbol	Kat	Rey	ScienceLab	VenusSymbol	#Kat, I’m sorry I caused a scene this morning.
-109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	SilverSymbol	#You still carry that thing, Jim?
-108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	SilverSymbol	Kat	Rey	#Criminal or not, I won’t allow him to be subjected to that again.
-107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	SilverSymbol	EthericShield	EyeSymbol	Rey	#I can take anything with eyes, be they real or not.
+109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	#You still carry that thing, Jim?
+108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Kat	Rey	#Criminal or not, I won’t allow him to be subjected to that again.
+107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	EthericShield	EyeSymbol	Rey	#I can take anything with eyes, be they real or not.
 106	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeSymbol	Rey	#Damn you, girl! And I had the perfect disguise!
 105	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	Rey	#If you don’t mind; I also have something I think you should see
 104	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	#But when Anthony wants to disappear, he’ll do so.
-103	Annie	Anja	Blush	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who’s this cute guy here? That... that would be me.
+103	Annie	Anja	Blush	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who’s this cute guy here? That… that would be me.
 102	Annie	Anja	Brinnie	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Wow! Is this you guys when you were kids?!
-101	Annie	Anja	Donny	DonlanHouse	Eglamore	SilverSymbol	Kat	MercurySymbol	Rey	#Reynardine can’t hurt anyone any more
-100	Annie	Anja	Donny	DonlanHouse	Eglamore	SilverSymbol	Kat	#Call me Anja, and this is Donny.
+101	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	MercurySymbol	Rey	#Reynardine can’t hurt anyone any more
+100	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	#Call me Anja, and this is Donny.
 99	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	TicToc	WoodenArm	#(Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 98	Annie	BismuthSymbol	Court	Kat	LeadSymbol	TicToc	#Something is wrong.
 97	Cover	#<hr>Chapter 7: Of New and Old<hr>
-96	Bonus	Annie	Dolls	Dorm	Kat	NapoleonHat	Rey	#<b>Bonus Page:</b> Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)<hr>
+96	Bonus	Annie	Dolls	Dorm	Kat	NapoleonHat	Rey	#<b>Bonus Page:</b> Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)
 95	Annie	CherryTree	Habitat	Kat	#The school’s got to know where your dad is.
 94	Annie	CherryTree	Court	GoodHope	Habitat	Kat	#They said he didn’t work there any more and they didn’t know how to contact him.
 93	Annie	CherryTree	Habitat	Kat	#What about your dad? I don’t know where he is.
-92	Annie	Bob	CherryTree	Crying	Habitat	Kat	#I miss my mummy...
+92	Annie	Bob	CherryTree	Crying	Habitat	Kat	#I miss my mummy…
 91	Annie	Bob	CherryTree	Habitat	Kat	#You caught us red handed! Hahaha!
 90	Annie	CherryTree	Habitat	Kat	#(Annie and Kat throw cherries into each others’ mouths and Kat falls out of the tree)
 89	Annie	CherryTree	Habitat	Kat	#(Annie and Kat climb the tree and sit in it)
@@ -322,7 +356,7 @@
 87	Annie	Court	Habitat	Kat	#I wanted to show you something
 86	Annie	BismuthSymbol	Blush	Court	HabitatSymbol	Kat	#Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
 85	Cover	#<hr>Chapter 6: A Handful of Dirt<hr>
-84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<b>Bonus Page:</b> Cupid Undone (Winsbury and Janet secretly express their love)<hr>
+84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<b>Bonus Page:</b> Cupid Undone (Winsbury and Janet secretly express their love)
 83	Annie	BismuthSymbol	Dorm	Gamma	Hall	Kat	Rey	Zimmy	#Bah! This is the thanks I get!
 82	Annie	Gamma	Hall	Kat	Rey	Zimmy	#I don’t know what you are but you’re so cute!
 81	Annie	AntimonySymbol	Gamma	Hall	Kat	Rey	Zimmy	#I hoped I could win your favour if I helped your gypsy friend win this blasted spectacle.
@@ -330,7 +364,7 @@
 79	Annie	Gamma	Hall	Kat	Rey	Zimmy	#We’re here to find who’s been messing with our stuff. an’ we found ‘im!
 78	Annie	Dorm	Gamma	Hall	Kat	Zimmy	#aha!
 77	Annie	Dorm	Kat	Hall	Students	#Several of the 8 experiments had been purposefully ruined overnight.
-76	Annie	Gamma	Hall	Zimmy	#This is... an abomination.
+76	Annie	Gamma	Hall	Zimmy	#This is… an abomination.
 75	Anja	Annie	AntiGravGenerator	BismuthSymbol	Eglamore	Hall	Kat	#Quite a chip off the ol’ block, eh Anja?
 74	Annie	Gamma	Kat	Library	Zimmy	#I’ll see you and bignose and ‘er crappy invention tomorrow!
 73	Annie	Gamma	Kat	Library	Zimmy	#Zimmy and Gamma from Chester South, that’s us!
@@ -338,7 +372,7 @@
 71	Annie	BismuthSymbol	Classroom	Kat	#Do you want to help? I’d like that very much!
 70	AntiGravGenerator	Classroom	Kat	Teacher	#class 7qn’s entrant in the year 7 science fair will be Katerina’s zero gravity generator!
 69	Cover	#<hr>Chapter 5: Two Strange girls<hr>
-68	Bonus	Janet	Mort	#<b>Bonus Page:</b> Bad Choice (Mort tries to scare Janet)<hr>
+68	Bonus	Janet	Mort	#<b>Bonus Page:</b> Bad Choice (Mort tries to scare Janet)
 67	Annie	Court	Mort	#Thanks a bunch, Annie
 66	Circus	Clowns	Paz	#(Paz gets frightened by a creepy circus clown, screams and runs away)
 65	Circus	Clowns	Paz	#(Paz follows the balloon to some creepy circus clowns)
@@ -348,7 +382,7 @@
 61	Annie	Court	Mort	#I’m a ghost! Aren’t you scared?!
 60	Annie	Court	#(Annie trims a bonsai, then hears a ghost wailing)
 59	Cover	#<hr>Chapter 4: Not Very Scary<hr>
-58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<b>Bonus Page:</b> Rogat Orjak (Hardwick and Little’s Bestiary)<hr>
+58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<b>Bonus Page:</b> Rogat Orjak (Hardwick and Little’s Bestiary)
 57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
 56	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
 55	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	#The body originally belonged to a Rogat Orjak named Sivo
@@ -374,7 +408,7 @@
 35	Annie	Eglamore	Gym	Kat	Winsbury	#Carver! Donlan! Get over here!
 34	Annie	Gym	Kat	Winsbury	#So what are you gonna do about it?
 33	Cover	#<hr>Chapter 3: Reynardine<hr>
-32	Bonus	Dorm	Queslett	Shadow	Tea	#<b>Bonus Page:</b> Year 7 Dormitories<hr>
+32	Bonus	Dorm	Queslett	Shadow	Tea	#<b>Bonus Page:</b> Year 7 Dormitories
 31	Annie	Basil	Classroom	Janet	Kat	SullivansJohn	#I hope all our homework is this interesting.
 30	Annie	Basil	Classroom	#And now of course, I turn out to be the bad guy.
 29	Annie	Basil	Classroom	Janet	Kat	Paz	SullivansJohn	Winsbury	#I have a time share on the labyrinth you found me in
@@ -390,7 +424,7 @@
 19	Anja	Annie	Classroom	Kat	Winsbury	SullivansJohn	#Wait for me!
 18	Anja	Annie	Classroom	Winsbury	#How have you found your first two weeks at our school?
 17	Cover	#<hr>Chapter 2: Schoolyard Myths<hr>
-16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#<b>Bonus Page:</b> Houses at Gunnerkrigg Court<hr>
+16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#<b>Bonus Page:</b> Houses at Gunnerkrigg Court
 15	Annie	Bridge	Gillitie	Teacher	#Sorry sir. I got lost.
 14	Bridge	Gillitie	Robot	Shadow	Shadowmen	#Here you go little buddie!
 13	Bridge	Robot	Shadow	TicToc	#Oh look! A birdie!

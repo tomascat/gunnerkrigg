@@ -6,7 +6,7 @@ AnimalLab	a Court research lab
 Anja	Anja Donlan, Kat’s mother
 Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist (Fire Head Girl)
-AnnieCut	The cut on Annie's face from Jeanne’s sword
+AnnieCut	The cut on Annie’s face from Jeanne’s sword
 AntiGravGenerator	An anti-gravity generator that Kat made for the science fair
 AntiGravShip	An anti-gravity ship that Kat made out of the anti-gravity generator
 AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Surma
@@ -26,18 +26,18 @@ Boots	made for walking
 Boxbot	see Terrible
 Bridge	over the Annan Water to Gillitie Wood
 Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers &amp; co.
-Caduceus	“Herald's staff” borne by Hermes (Mercury), symbol of commerce
-Chickcharney	see Hardwick &amp; Little’s Bestiary, p65
+Caduceus	“Herald’s staff” borne by Hermes (Mercury), symbol of commerce
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
+Chickcharney	see Hardwick &amp; Little’s Bestiary, p65
 Circus	creepy and filled with clowns
 CityFace	A pigeon
 Classroom	Where they have classes
 Clowns	creepy, no-one likes them
-Coyote	Trickster; the creator of all; he does not exist, he says
-CoyoteTooth	it’s a tooth, or is it?
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
 Cover	A chapter cover
+Coyote	Trickster; the creator of all; he does not exist, he says
+CoyoteTooth	it’s a tooth, or is it?
 CreatorGlyph	mark of the robots’ creator: now associated with Kat
 Creeper	someone who is creeping
 Crying	when salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
@@ -78,8 +78,8 @@ Headmaster	surprisingly grey, tired man, with bad posture
 Heart	a heart sign, symbol, glyph or character
 Hospital	The hospital within the court
 Hyland	Not a close friend of Eglamore, Donny or Anja. Presumably related to Jack.
-Janet	Fierce daughter of the headmaster
 JackHyland	A boy with spiders in his hair, in the same year as Annie and Kat.
+Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
 Jones	a name of Wandering Eye
 Kamlen	Anwyn boy about Annie’s and Kat’s age
@@ -94,7 +94,7 @@ Latin	A dead language, some things are written in it
 LaundryList	a seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as Eglamore
 Library	includes robot parts
-Lindsey	giant crab creature / dorm caretaker
+Lindsey	Dorm monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon
 Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey’s body
 Marcia	Marcia Sutton, a keeper of Young’s Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
@@ -104,8 +104,8 @@ Monster	A scary creature
 Montgomery	An SRobot Robot
 Moon	Our most ancient satellite!
 Mort	A ghost
-Muut	Egyptian psychopomp (escorts the dead to the afterlife).
 MrThorn	Mr Thorn, Court protector and games teacher to Annie and Kat's parents.
+Muut	Egyptian psychopomp (escorts the dead to the afterlife).
 NancyDrew	A series of novels featuring a teenage girl solving mysteries.
 NapoleonHat	A fitting hat for Reynardine the Great!
 Ocean	a whole bunch of water
@@ -137,17 +137,20 @@ Shadow	the Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
 SilverSymbol	Alchemical Symbol for Silver
-SimRocket	A rocket in Dr Disaster's simulation
-Simulation	One of Dr Disaster's holographic simulations
+SimRocket	A rocket in Dr Disaster’s simulation
+Simulation	One of Dr Disaster’s holographic simulations
+SirYoung	Protector of the Court at its founding
 SivoBody	A deceased Rogat Orjak
+SmallBot	a young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot
 StarOfDavid	Jewish and alchemical symbol
 Stars	celestial bodies
 StopBot	Model B robots with stop signs for heads and boxing glove arms.
 Students	miscellaneous students
-Sun	our closest star!
+SubDorm	Year 9’s dorm: a retrofitted sub aquatic deep sea drilling platform
 SullivansJohn	Sullivan’s John. A student who likes to play the mandolin
+Sun	our closest star!
 Surma	Surma Stibnite, Annie’s mother
 Sword	Comes as advertised
 Tea	explains things in-between chapters
@@ -164,7 +167,7 @@ Treatise	Symbolic representation of the story
 Trees	come as advertised (usually)
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 WanderingEye	symbol of that which calls itself Jones, currently
-Warehouse113	Not a secret base
+Warehouse113	Not a secret base at Long Acre
 WaterSymbol	Alchemical symbol for water
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie’s mother
