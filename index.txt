@@ -268,8 +268,8 @@
 208	Annie	Court	DoorBot	Rey	RobotHQ	Robots	StarHeadband	#Robots onl... What's that on your head?
 207	Annie	Kat	ScienceLab	#Oh, I think I can put together a clever disguise. And bring some help.
 206	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#I should at least find out what happened to him.
-205	Annie	DoorBot	Court	Robots	RobotHQ	SRobot	#(Boring Door) There was no handle on the door through which they escaped.
-204	Annie	Court	Montgomery	Robots	SRobot	#i wanted to ask them about him, but they ran away when they saw me.
+205	Annie	DoorBot	Court	Robots	RobotHQ	Seraph	#(Boring Door) There was no handle on the door through which they escaped.
+204	Annie	Court	Montgomery	Robots	Seraph	#i wanted to ask them about him, but they ran away when they saw me.
 203	Annie	BoxBot	Kat	Robot	Robots	ScienceLab	Shadow	#On my way over I saw... Robots! (helloooo!)<br>Tom: nobody likes boxbot
 202	Annie	Kat	ScienceLab	Shadow	#Kat, that's wonderful! He even sounds like you!
 201	Annie	Kat	ScienceLab	Shadow	#He isn't really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.

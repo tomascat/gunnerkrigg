@@ -101,7 +101,7 @@ Margo	A student who enjoys singing. Friends with SullivansJohn
 Matt	A student who is a classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Monster	A scary creature
-Montgomery	An SRobot Robot
+Montgomery	An Seraph Robot
 Moon	Our most ancient satellite!
 Mort	A ghost
 MrThorn	Mr Thorn, Court protector and games teacher to Annie and Kat's parents.
@@ -129,7 +129,7 @@ RobotTomb	tomb/theater full of robots
 Robox	has no hands; awesome; everybody loves Robox. The opposite of terrible.
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
-SRobot	Generic member of the Seraph model of robots. Robot was originally one.
+Seraph	Generic member of the Seraph model of robots. Robot was originally one.
 SecurityRobots	They ensure security, as robots.
 SeedOfBismuth	it’s a mystery
 SirYoung	Protector of the Court at it's founding
