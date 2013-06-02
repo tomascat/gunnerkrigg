@@ -56,14 +56,71 @@
 1149	Anja	Blush	Annie	Donny	Parley	Rey	Smitty	#Did we miss anything?
 1148	Annie	BismuthSymbol	Rey	#I think we made it…
 1147	Annie	BlinkerStone	Kat	KatWorkshop	Rey	Robots	#Who <i>are</i> you guys?!
-1146	Annie	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#S13, you have long since predicted the coming of an angel
-1145	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
-1144	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	#Are you sure about this, Robot?
+1146	Annie	Kat	KatWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#S13, you have long since predicted the coming of an angel
+1145	Annie	Kat	KatWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
+1144	Annie	Kat	KatWorkshop	Rey	Robot	Robots	#Are you sure about this, Robot?
 1143	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#S13 is being held for the spreading of disinformation and rumour
 1142	Annie	Etherics	Kat	Rey	Robot	Robots	Warehouse113	#Just because she is beautiful and angelic in appearance
 1141	Annie	Kat	Robots	Warehouse113	#A simple electro-disruptor. Use of this illegal device has been noted
 1140	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#Shadow! You should not have come here!
 1139	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#NOT a secret base
+900	Cover	#<hr>Chapter 34: Faraway Morning (and three short tales)<hr>
+899	Bonus	Boxbot	Robots	Robox	Terrible	#<hr><b>Bonus Page:<b>Helping Hand<hr>
+898	Angel	Robot	Robots	RobotTomb	Shadow	Seraph	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
+897	Annie	Kat	Heart	Robots	SeedOfBismuth	RobotTomb	Seraph	#CRACK (brokenheart)
+896	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#We belong here. A tribute to our father, and to a time passed
+895	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#so I… I brought you back f-from the dead?
+894	Kat	Robots	RobotTomb	Seraph	#We left this world to our children and chose to end our lives
+893	Annie	Kat	Robots	RobotTomb	Seraph	#to be still is death, because if we are not useful then we are nothing
+892	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#but then… this is your tomb
+891	Annie	Kat	Robot	Robots	Shadow	Seraph	#I apologise miss, I was startled
+890	Annie	Kat	KatWorkshop	Robot	Robots	Seraph	#s-stop him!
+889	Annie	BlinkerStone	Kat	KatWorkshop	Robot	Robots	Seraph	#SKANG!
+888	Annie	Kat	KatWorkshop	Robot	Robots	Seraph	#I think I can make a bypass for it…
+887	Annie	Kat	KatWorkshop	Robot	Robots	Robotics	#I know how to get the old robots started up again
+886	Annie	Kat	KatWorkshop	Robots	Robotics	#you… can read it?
+885	Annie	Kat	KatWorkshop	Robot	Robots	Robotics	#Oh my god! This is incredible!
+884	Annie	BlinkerStone	Kat	KatWorkshop	Robots	Robotics	#about that operating code you asked us to print…
+883	Annie	Kat	KatWorkshop	Robots	Seraph	#but… this would mean Diego was a… magician, not a scientist
+882	Annie	Etherics	Kat	KatWorkshop	Robots	Robotics	Seraph	#What if these are not really robots in the modern sense, but golems?
+881	Annie	Kat	Robots	KatWorkshop		Seraph	#how come you guys picked a creepy looking robot
+880	Annie	DiegosStudy	Heart	Kat	Robotics	#the bad news is that all his work is written in gibberish
+879	Annie	Diego	DiegosStudy	Kat	Robots	
+878	Robot	Roof	Shadow	Creeper	#should you really be following her around like this?
+877	Annie	Kat	Robot	Roof	SeedOfBismuth	#I wonder how the court was built
+876	Annie	Kat	Robotics	Roof	#I guess clearing my mind was harder than I thought
+875	Annie	Etherics	Kat	Roof	#Clear your mind and listen
+874	Annie	Kat	Roof	#I brought you up here because I wanted to show you something
+873	Annie	Kat	Roof	Ysengrin	#didn’t he try to kill you at one point?
+872	Annie	Anwyn	Kamlen	Khepi	Roof	#if you like green skin and pointy ears
+871	Annie	Kat	Roof	Landscape	#So… you’re descended from a fire spirit?
+870 	Cover	#<hr>Chapter 33: Give and Take<hr>
+869	Annie	Filler	Kat	PrincessMononoke	Rey	#Moro
+868	Annie	Filler	Kat	PrincessMononoke	Rey	#Bah! It’s some manner of animated picture?
+867	Bonus	Bud	Dorm	Habitat	Lindsey	#<hr><b>Bonus Page:<b> Welcome to Year 9!<hr>
+866	Annie	Boots	Dorm	Etherics	Kat	Rey	#It is with love that I must inform you that you really gotta take a shower
+865	Annie	Dorm	Kat	Rey	PrincessMononoke	#I just want to go back to being friends
+864	Annie	Dorm	Kat	Lindsey	#traumatized kat<br>Tom: Next: A rhino beetle that enjoys Sudoku.
+863	Annie	Dorm	Kat	Lindsey	Rey	#Girls, this is Lindsey
+862	Annie	Dorm	Kat	Lindsey	Rey	BlinkerStone	#Okay that is quite enough thank you
+861	Annie	Dorm	Kat	Lindsey	#Ahhh! I touched it! With my hand!
+860	Annie	Dorm	Kat	Lindsey	#What is this thing? It’s seriously creeping me out, haha
+859	Kat	Dorm	Lindsey	#Haha! Okay Annie. Now I’m impressed
+858	Annie	Dorm	Kat	#Enough already!<br>Tom: Not even sure how she’s doing that in panel 2.
+857	Annie	Basil	Kat	Red	#Hey, fats mcgee! Be friends with lady tubsalot again!
+856	Annie	Kat	Mort	Shadow	#I’m supposed to tell you she’s been kidnapped by evil dino-demons
+855	Annie	Kat	Robot	#All right guys, have fun
+854	Annie	BlinkerStone	Kat	Robot	#Kat! Robot has gone mad!
+853	Kat	Robot	#Must. Cause. Inconvenience.
+852	Annie	Dorm	Kat	#Sometimes… you kinda make it hard to be your friend
+851	Annie	Dorm	Kat	#I’m so sorry about the summer holiday
+850	Annie	Boots	Dorm	Kat	Rey	#Kat, I made these for you!
+849	Annie 	Dorm	Rey	#I have no idea what this thing does
+848	Annie	Dorm	Rey	#I wish I hadn’t been so cruel to you Reynard
+847	Annie	Anwyn	Bind	CoyoteTooth	Dorm	Homework	Khepi	Rey	#I’m so sorry for what I said
+846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
+845	Dorm	Rey	#Waitng Reynardine
+844	Cover	#<hr>Chapter 32: From the Forest She Came<hr>
 534	Bonus	Dorm	NancyDrew	Rey	#<b>Bonus Page:</b> Bah! Bah! Baah! (Rey gets angry before settling down with a Nancy Drew book)<hr>
 533	Annie	Heart	Mort	Monster	#ooh, a card!
 532	Mort	Monster	#WE ARE HERE TO DESTROY YOU!
@@ -84,17 +141,17 @@
 517	Anja	Annie	BlinkerStone	Court	Donny	Etherics	EthericShield	Kat	Rey	#Tom: Annie's just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
 516	Anja	Annie	BismuthSymbol	Court	EthericShield	EyeSymbol	Kat	Rey	#How can a glowing... floaty... symbol be a program?
 515	Anja	Annie	BlinkerStone	Court	Etherics	Kat	#Others may call these methods Magic, The court, prefers to refer to them as "Etheric Sciences"
-514	Anja	Annie	BlinkerStone	Etherics	EthericShield	EyeSymbol	Kat	KatsWorkshop	Rey	#Oh... hmm... Why Don't we go talk in the office.
-513	Anja	Annie	BlinkerStone	Etherics	Kat	KatsWorkshop	#Anja, Are you a magician of some sort?
-512	Anja	Annie	AnnieCut	BlinkerStone	Etherics	Gillitie	KatsWorkshop	Roof	#I can see into the horizon, there are so many colours coming from the forest.
-511	Anja	Annie	AnnieCut	BlinkerStone	Etherics	EyeSymbol	Kat	KatsWorkshop	Rey	#I hid your stone outside
-510	Anja	Annie	AnnieCut	BlinkerStone	Etherics	Kat	KatsWorkshop	#It's gotta be some kind of matter transferance! 
-509	Anja	Annie	BlinkerStone	Kat	KatsWorkshop	#Did you know you can never lose a blinker stone?
-508	Anja	Annie	BlinkerStone	Kat	KatsWorkshop	RobotParts	Robox	Rey	#Time to learn a little more about your blinker stone Annie, what do you say? 
-507	Annie	Jeanne	Kat	KatsWorkshop	Rey	Robots	#They really are obsessed with that painting of Jeanne aren't they?
-506	Annie	Kat	KatsWorkshop	Rey	#Come on now, be friends again
-505	Annie	Kat	KatsWorkshop	Rey	#Ms Jones said everyone has a special skill, so I bet this is yours
-504	Annie	Kat	KatsWorkshop	Rey	Robots	#Set it down over there, boys
+514	Anja	Annie	BlinkerStone	Etherics	EthericShield	EyeSymbol	Kat	KatWorkshop	Rey	#Oh... hmm... Why Don't we go talk in the office.
+513	Anja	Annie	BlinkerStone	Etherics	Kat	KatWorkshop	#Anja, Are you a magician of some sort?
+512	Anja	Annie	AnnieCut	BlinkerStone	Etherics	Gillitie	KatWorkshop	Roof	#I can see into the horizon, there are so many colours coming from the forest.
+511	Anja	Annie	AnnieCut	BlinkerStone	Etherics	EyeSymbol	Kat	KatWorkshop	Rey	#I hid your stone outside
+510	Anja	Annie	AnnieCut	BlinkerStone	Etherics	Kat	KatWorkshop	#It's gotta be some kind of matter transferance! 
+509	Anja	Annie	BlinkerStone	Kat	KatWorkshop	#Did you know you can never lose a blinker stone?
+508	Anja	Annie	BlinkerStone	Kat	KatWorkshop	RobotParts	Robox	Rey	#Time to learn a little more about your blinker stone Annie, what do you say? 
+507	Annie	Jeanne	Kat	KatWorkshop	Rey	Robots	#They really are obsessed with that painting of Jeanne aren't they?
+506	Annie	Kat	KatWorkshop	Rey	#Come on now, be friends again
+505	Annie	Kat	KatWorkshop	Rey	#Ms Jones said everyone has a special skill, so I bet this is yours
+504	Annie	Kat	KatWorkshop	Rey	Robots	#Set it down over there, boys
 503	Cover	#<hr>Chapter 21: Blinking<hr>
 180	Annie	Classroom	Kat	#<b>Bonus Page:</b> Pressing Matters (Kat dreams about Mulder in class)<hr>
 179	Annie	Court	DrDisaster	Janet	Moon	Paz	SimRocket	SullivansJohn	Winsbury	#I suppose somethings are better learned away from a text book.
