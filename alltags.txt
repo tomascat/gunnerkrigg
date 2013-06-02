@@ -62,6 +62,7 @@ Filler	not a mainstream story comic
 Fire	an ancient element
 FireSymbol	The alchemical symbol for fire
 Flashback	Things that happened in the past
+Flowers	Colourful plants that grow from the ground. Often given as gifts.
 Foley	One of the other school Houses
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Gillitie	Gillitie Wood where the wild things are
@@ -76,6 +77,7 @@ Heart	a heart sign, symbol, glyph or character
 Hospital	The hospital within the court
 Hyland	Not a close friend of Eglamore, Donny or Anja. Presumably related to Jack.
 Janet	Fierce daughter of the headmaster
+JackHyland	A boy with spiders in his hair, in the same year as Annie and Kat.
 Jeanne	vengeful ghost
 Jones	a name of Wandering Eye
 Kamlen	Anwyn boy about Annie’s and Kat’s age
@@ -100,7 +102,7 @@ Monster	A scary creature
 Moon	Our most ancient satellite!
 Mort	A ghost
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
-MrThorn	Mr Thorn, games teacher to Annie and Kat's parents
+MrThorn	Mr Thorn, Court protector and games teacher to Annie and Kat's parents.
 NancyDrew	A series of novels featuring a teenage girl solving mysteries.
 NapoleonHat	A fitting hat for Reynardine the Great!
 Ocean	a whole bunch of water
@@ -124,6 +126,7 @@ Robox	has no hands; awesome; everybody loves Robox. The opposite of terrible.
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
 SeedOfBismuth	it’s a mystery
+SirYoung	Protector of the Court at it's founding
 Shadow	the Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
@@ -157,6 +160,7 @@ Warehouse113	Not a secret base
 WaterSymbol	Alchemical symbol for water
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie’s mother
+VincentPrice	A famous actor
 WoodenArm	A mysterious wooden arm from Gillitie
 Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
 Zimmy	aka Zeta, a strange girl who is friends with Gamma

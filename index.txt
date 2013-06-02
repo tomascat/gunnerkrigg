@@ -121,6 +121,43 @@
 846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
 845	Dorm	Rey	#Waiting Reynardine
 844	Cover	#<hr>Chapter 32: From the Forest She Came<hr>
+595	Bonus	DrDisaster	Jones	Simulation	VincentPrice	#<hr><b>Bonus Page:</b> (Dr Disaster panics when Parley teleports everyone out of the simulation, but Jones turns up to reassure with Vincent Price DVDs)<hr>
+594	Annie	Flowers	JackHyland	Monster	Rey	#Oh... you have a, uh, large wolf with you.
+593	Annie	JackHyland	Monster	Rey	Zimmy	#Where is she, Right now?
+592	Annie	Chester	JackHyland	Zimmy	#Yeah... Zimmy. What class is she in?
+591	Annie	JackHyland	Rey	Students	#Hello Jack
+590	Annie	Jones	Surma	Rey	Robots	#Is Ms Jones a robot?
+589	Annie	BismuthSymbol	Mort	Rey	#Poor Mort... I still feel terrible about it.	
+588	Annie	Flowers	Jeanne	Jones	Rey	#What made you ask about a woman named Jeanne before?
+587	Annie	Flowers	Jones	Smitty	Rey	#Don't you think that was a little cruel?
+586	Annie	Dorm	Flowers	Jones	Parley	Smitty	Rey	#GET OUT! GET OUT! GET OUT!      LEAVE THE CHOCOLATES!
+585	Annie	Dorm	Flowers	Jones	Parley	Smitty	Sword	Rey	#Interesting. It may be that Parley posesses the power to distort space. A rare power.
+584	Annie	Flowers	Jones	Parley	Smitty	Rey	#Ha! A flower? Y-you sap...
+583	Annie	Court	Diego	Flowers	Gillitie	Jeanne	Jones	Robots	Rey	Siryoung	#Was there a woman among the humans by the name of Jeanne?		
+582	Annie	Court	Flowers	Gillitie	Jones	Parley	Smitty	Rey	#Coyote Ysengrin and I didn't arrive until... Later
+581	Annie	Court	Diego	Flowers	Gillitie	Jones	Parley	SeedofBismuth	Simulation	SirYoung	Smitty	Rey	#It is known as the seed Bismuth. There is no record of exactly what it was.
+580	Annie	Court	Diego	Gillitie	Jones	Parley	SeedofBismuth	Simulation	SirYoung	Smitty	Rey	#This is a depiction of the beginnings of the court, before the division caused by coyote
+579	Annie	Etherics	Jones	Parley	Simulation	Smitty	Rey	#Ok, please begin, Randy.
+578	Annie	Flowers	Jones	Parley	Simulation	Smitty	Rey	#It's obvious Carver is gonna be picked as the next medium.
+577	Annie	Parley	Smitty	Rey	#I wagerwhen she leaves the changing room her hands will soon find your body!
+576	Annie	Smitty	Rey	#Andrew, why do you let Parley talk to you like she does?
+575	Annie	Flowers	Jones	Parley	Smitty	Rey	#I think you detect a hint of shut your face.
+574	Annie	DrDisaster	Flowers	Jones	Parley	Smitty	Rey	#I don't know what happened! A glitch in the simulator.
+573	Annie	Jones	Parley	Smitty	Rey	#Smitface ruined the sim!
+572	Annie	Moon	Parley	Simulation	Smitty	#After all these years! our ancient artifact returned to us!
+571	Annie	Moon	Parley	Simulation	Smitty	#They receive a strange request from the king of the jupiter moon martians himself!
+570	Cover	#<hr>Chapter 23: Terror castle of the Jupiter moon martians! A spacemonauts adventure!<hr>
+569	Filler	Cityface	Fairies	#Bye, pigeon face! I knew you could do it!
+568	Filler	Cityface	Fairies	#Is she looking?? Oh my gosh I think she is!
+567	Filler	Cityface	Fairies	#It's because of Humans!
+566	Filler	Cityface	Fairies	#I am here to help you learn the lovliest of dances!
+565	Filler	Cityface	Gamma	Zimmy	#It wer a joke, mate!
+564	Filler	Cityface	Zimmy	#I got the answer to all yerz troubles, fella. Right here.. in my mouf!
+563	Filler	Cityface	Fairies	#I gotta go give the gift of dance to an induvidual in need!
+562	Filler	Cityface	Fairies	#I will always rule the fairy dancing circle!
+561	Filler	Cityface	#And now I am feeling ultra bummed.
+560	Filler	CityFace	#I am trying my best to woo that female pigeon but she does not notice me!
+559	Filler	Tea	#<hr>CityFace<hr>
 558	Bonus	Treatise	Annie	Bridge	Court	Coyote	Etherics	Fire	Gillitie	Kat	Latin	MercurySymbol	Moon	Rey	Shadowman	Sun	Sword	Ysengrin	#<b>Bonus Page:</b>Treatise Three. The end of the Second book<hr>
 557	Anja	Dog	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	#You guys aren't going to believe this... But that guy is our games teacher!
 556	Dog	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	#Don't forget, double cross country tomorrow James.
