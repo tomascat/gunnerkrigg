@@ -65,7 +65,7 @@
 1140	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#Shadow! You should not have come here!
 1139	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#NOT a secret base
 900	Cover	#<hr>Chapter 34: Faraway Morning (and three short tales)<hr>
-899	Bonus	Boxbot	Robots	Robox	Terrible	#<hr><b>Bonus Page:<b>Helping Hand<hr>
+899	Bonus	Boxbot	Robots	Robox	Terrible	#<hr><b>Bonus Page:</b>Helping Hand<hr>
 898	Angel	Robot	Robots	RobotTomb	Shadow	Seraph	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
 897	Annie	Kat	Heart	Robots	SeedOfBismuth	RobotTomb	Seraph	#CRACK (broken heart)
 896	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#We belong here. A tribute to our father, and to a time passed
@@ -97,7 +97,7 @@
 870 	Cover	#<hr>Chapter 33: Give and Take<hr>
 869	Annie	Filler	Kat	PrincessMononoke	Rey	#Moro
 868	Annie	Filler	Kat	PrincessMononoke	Rey	#Bah! It’s some manner of animated picture?
-867	Bonus	Bud	Dorm	Habitat	Lindsey	#<hr><b>Bonus Page:<b> Welcome to Year 9!<hr>
+867	Bonus	Bud	Dorm	Habitat	Lindsey	#<hr><b>Bonus Page:</b> Welcome to Year 9!<hr>
 866	Annie	Boots	Dorm	Etherics	Kat	Rey	#It is with love that I must inform you that you really gotta take a shower
 865	Annie	Dorm	Kat	Rey	PrincessMononoke	#I just want to go back to being friends
 864	Annie	Dorm	Kat	Lindsey	#traumatized Kat<br>Tom: Next: A rhino beetle that enjoys Sudoku.
