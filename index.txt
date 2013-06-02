@@ -64,40 +64,6 @@
 1141	Annie	Kat	Robots	Warehouse113	#A simple electro-disruptor. Use of this illegal device has been noted
 1140	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#Shadow! You should not have come here!
 1139	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#NOT a secret base
-<<<<<<< HEAD
-534 Bonus Dorm  NancyDrew Rey #<b>Bonus Page:</b> Bah! Bah! Baah! Rey gets angry before settling down with a Nancy Drew book<hr>
-533 Annie Heart Mort  Monster #ooh, a card!
-532 Mort  Monster #WE ARE HERE TO DESTROY YOU!
-531 Annie Classroom Kat Muut  #now I ask a tiny favour of you
-530 Annie Classroom Kat Muut  Psychopomp  Surma #The night Surma passed on, none of us came for her.
-529 Annie Blinkerstone  Classroom Etherics  Jeanne  Kat Muut  #Lost, stranded in the aether, she needs a hand like yours to be an anchor
-528 Annie Blinkerstone  Classroom Jeanne  Kat Mort  Muut  #Then you have already begun to help. We knew you would. It was only a matter of time.
-527 Annie Classroom Kat Muut  Psychopomp  #You should not have wasted a life in such a way
-526 Annie Classroom Kat Psychopomp  #Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
-525 Annie Argument  BlinkerStone  Classroom Kat Mort  #Tom: You screwed up big time Carver.
-524 Annie Argument  Blinkerstone  Bridge  Kat Mort  Muut  #Yeah how would I know? I'm just a ghost. BWIP
-523 Annie Argument  BlinkerStone  Kat Mort  #He's not a boy Kat, he's just a ghost
-522 Anja  Argument  Annie BlinkerStone  Kat Mort #I suppose you think this is funny?
-521 Anja  Annie BlinkerStone  Etherics  Mort  Kat #Blinker stones are traditionally given between couples
-520 Anja  Annie Court Etherics  Kat Rey #Some say that isn't good enough if you can't explain how it works.
-519 Anja  Annie Blinkerstone  Court Donny Eglamore  Etherics  EyeSymbol Kat #I tattooed them both myself. Good times, good times.
-518 Annie AnnieCut  BlinkerStone  Etherics  Rey #Anja forgot to mention that spying with a blinker stone is not reccomended
-517 Anja  Annie BlinkerStone  Court Donny Etherics  EthericShield Kat Rey #Tom: Annie's just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
-516 Anja  Annie BismuthSymbol Court EthericShield EyeSymbol Kat Rey #How can a glowing... floaty... symbol be a program?
-515 Anja  Annie BlinkerStone  Court  Etherics  Kat #Others may call these methods Magic, The court, prefers to refer to them as "Etheric Sciences"
-514 Anja  Annie BlinkerStone  Etherics  EthericShield EyeSymbol Kat KatsWorkshop  Rey #Oh... hmm... Why Don't we go talk in the office.
-513 Anja  Annie BlinkerStone  Etherics  Kat KatsWorkshop #Anja, Are you a magician of some sort?
-512 Anja  Annie AnnieCut  BlinkerStone Etherics  Gillitie KatsWorkshop  Roof #I can see into the horizon, there are so many colours coming from the forest.
-511 Anja  Annie AnnieCut BlinkerStone Etherics  EyeSymbol  Kat  KatsWorkshop Rey #I hid your stone outside
-510 Anja  Annie AnnieCut  BlinkerStone  Etherics  Kat KatsWorkshop  #It's gotta be some kind of matter transferance! 
-509 Anja  Annie  BlinkerStone Kat KatsWorkshop  #Did you know you can never lose a blinker stone?
-508 Anja  Annie BlinkerStone  Kat KatsWorkshop  RobotParts  Robox Rey #Time to learn a little more about your blinker stone Annie, what do you say? 
-507 Annie Jeanne  Kat  KatsWorkshop Rey Robots  #They really are obsessed with that painting of Jeanne aren't they?
-506 Annie Kat KatsWorkshop  Rey #Come on now, be friends again
-505 Annie Kat KatsWorkshop  Rey  #Ms Jones said everyone has a special skill, so I bet this is yours
-504 Annie Kat KatsWorkshop  Rey Robots  #Set it down over there, boys
-503 Cover #<hr>Chapter 21: Blinking<hr>
-=======
 534	Bonus	Dorm	NancyDrew	Rey	#<b>Bonus Page:</b> Bah! Bah! Baah! (Rey gets angry before settling down with a Nancy Drew book)<hr>
 533	Annie	Heart	Mort	Monster	#ooh, a card!
 532	Mort	Monster	#WE ARE HERE TO DESTROY YOU!
@@ -146,7 +112,6 @@
 167	Classroom	DrDisaster	Janet	Matt	Students	Teacher	Winsbury	#Well, that clears my next 40 minutes
 166	Annie	Classroom	DrDisaster	Janet	Kat	SullivansJohn	Teacher	Winsbury	#Spacemonauts! The earth is in peril!
 165	Cover	#<hr>Chapter 10: Doctor Disaster Versus the Creepy Space Aliens from Outer Space<hr>
->>>>>>> tabspaced chap21; NOTE PLEASE SYNC b4 EDIT GUYS
 148	Bonus	Fairies	Ogee	Tea	#<b>Bonus Page:</b> Regional Fairies<hr>
 147	Annie	AntiGravShip	Court	Kat	#This isn’t just a school is it?
 146	Annan	Annie	AntiGravShip	Gillitie	Jeanne	Kat	Shadow	#You remember that time I told you that I’d never lost anyone I cared for?
