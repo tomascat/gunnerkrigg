@@ -34,6 +34,7 @@ For more information see the <a href="https://github.com/snipergirl/gunnerkrigg/
 - This is also a tutorial about Git in general: try.github.io/levels/1/challenges/1
 
 ##Format
+
 ###Index of pages - Index.txt
 - The comics are in reverse order
 - Each comic is on a separate line, starting with the page number (look at the URL of the comic and find the number at the end)
