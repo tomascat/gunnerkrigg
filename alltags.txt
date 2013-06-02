@@ -43,7 +43,7 @@ Creeper	someone who is creeping
 Crying	when salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 Diego	former creepy robotics expert
 DiegosStudy	home of all things ancient robot
-Dog	They usually go woof, unless created by the forest
+TreeDog	They usually go woof, unless created by the forest
 Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
 DoorBot	A cranky old man robot who guards the door to the RobotHQ
 DonlanHouse	home of the Donlan family: Anja, Donny, Kat

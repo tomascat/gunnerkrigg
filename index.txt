@@ -159,16 +159,16 @@
 560	Filler	CityFace	#I am trying my best to woo that female pigeon but she does not notice me!
 559	Filler	Tea	#<hr>CityFace<hr>
 558	Bonus	Treatise	Annie	Bridge	Court	Coyote	Etherics	Fire	Gillitie	Kat	Latin	MercurySymbol	Moon	Rey	Shadowman	Sun	Sword	Ysengrin	#<b>Bonus Page:</b>Treatise Three. The end of the Second book<hr>
-557	Anja	Dog	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	#You guys aren't going to believe this... But that guy is our games teacher!
-556	Dog	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	#Don't forget, double cross country tomorrow James.
-555	Dog	Eglamore	Flashback	Fight	LeadSymbol	Monster	MrThorn	Shadowmen	Sword	#(Eglamore): Hi guys!
-554	Anja	Dog	Donny	Flashback	Fight	LeadSymbol	Monster	MrThorn	Roof	Surma	Sword	#Uh can you guys save it for later?
-553	Anja	Dog	Donny	Etherics	Ethericshield	Fight	Flashback	Monster	Roof	Shadowmen	Surma	#(Second forest dog leaps at young Anja, Donny and Surma. Anja protects them via etheric SPANG barrier)
-552	Anja	Dog	Donny	Flashback	Monster	Roof	Robots	Surma	#Is... Not a real creature. More like... puppet... being called back to forest.
-551	Anja	Dog	Donny	Flashback	Monster	Roof	Robots	Surma	#Some kinda dog! A dog made of wood...
+557	Anja	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	TreeDog	#You guys aren't going to believe this... But that guy is our games teacher!
+556	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	TreeDog	#Don't forget, double cross country tomorrow James.
+555	Eglamore	Flashback	Fight	LeadSymbol	Monster	MrThorn	Shadowmen	Sword	TreeDog	#(Eglamore): Hi guys!
+554	Anja	Donny	Flashback	Fight	LeadSymbol	Monster	MrThorn	Roof	Surma	Sword	TreeDog	#Uh can you guys save it for later?
+553	Anja	Donny	Etherics	Ethericshield	Fight	Flashback	Monster	Roof	Shadowmen	Surma	TreeDog	#(Second forest TreeDog leaps at young Anja, Donny and Surma. Anja protects them via etheric SPANG barrier)
+552	Anja	Donny	Flashback	Monster	Roof	Robots	Surma	TreeDog	#Is... Not a real creature. More like... puppet... being called back to forest.
+551	Anja	Donny	Flashback	Monster	Roof	Robots	Surma	TreeDog	#Some kinda dog! A dog made of wood...
 550	Anja	Donny	Flashback	Robots	StopBot	Surma	#Yes, We shall leave now! Thank you! Good job!
-549	Anja	Dog	Donny	Flashback	Monster	Robots	Stopbot	Students	Surma	#c'mon, we have to get a better look at this!
-548	Anja	Dog	Donny	Flashback	Monster	Robots	Surma	#(Large forest dog crashes through a window in front of young Anja, Donny and Surma)
+549	Anja	Donny	Flashback	Monster	Robots	StopBot	Students	Surma	TreeDog	#c'mon, we have to get a better look at this!
+548	Anja	Donny	Flashback	Monster	Robots	Surma	TreeDog	#(Large forest TreeDog crashes through a window in front of young Anja, Donny and Surma)
 547	Anja	BismuthSymbol	Donny	Flashback	Monster	Robots	StopBot	Students	Surma	#The situation does not involve a large monster or two
 546	Eglamore	Flashback	LeadSymbol	MrThorn	RogatOrjak	Teacher	#Have you ever heard of the Rogat Orjak?
 545	Eglamore	Flashback	Hyland	MrThorn	Teacher	#Standing up for a friend. A noble act, cannot be dismissed.
