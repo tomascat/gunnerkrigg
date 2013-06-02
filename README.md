@@ -1,9 +1,11 @@
 #Gunnerkrigg Online Searchable Site
 Files for the online searchable Gunnerkrigg Court site: http://www.louisxiv.co.uk/gunnerkrigg/
-Index.txt when on the site is parsed into HTML by a python script
+Index.txt is parsed into HTML by a python script
 
 ##Getting Started
 Please send me a PM on the <a href="http://gunnerkrigg.proboards.com/">forums</a> or reply to the <a href="http://gunnerkrigg.proboards.com/thread/1883/searchable-database-comics?page=1">forum post</a> if you want to get involved and we can get you started.
+
+For more information see the <a href="https://github.com/snipergirl/gunnerkrigg/wiki">Wiki</a> for this project
 
 ###Tagging guide
 - What to tag? Anything relevant that can be seen in the page that people might want to search for
