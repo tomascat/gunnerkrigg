@@ -1,0 +1,88 @@
+/* Site css modifies Blueprint */
+body {
+	color: black;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+a            {text-decoration:none;}
+
+.tag ,.all,.alpha {
+	display: inline;
+	text-decoration: none;
+	color: black;
+	background: #cfc;
+	padding: 0 .5em 0 .5em;
+	border-radius: .4em;
+	-moz-border-radius: .4em;
+}
+
+.tag:hover,.all:hover {
+	background:#3ff;
+	color:black;
+}
+
+p.tags {
+	margin-bottom:0.5em;
+}
+
+.comicpage {
+	padding-left: 4em;
+	text-indent: -4em;
+	margin-bottom:.5em;
+}
+
+.bonus {
+}
+
+.dt {
+	background:#E6E6E6;
+	border-radius: .4em;
+	-moz-border-radius: .4em;
+}
+
+#title {text-align: center;}
+
+#nav ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style-type: none;
+}
+
+#nav a {
+	display: block;
+	padding: 0 1em 0 1em;
+	color: #111111;
+	background-color: #CCCCFF;
+	border-bottom: 1px solid #eee;
+}
+
+#nav a:link, .navlist a:visited {
+	/*	color: #eee;	*/
+	text-decoration: none;
+}
+
+#nav a:hover {
+	background-color: #369;
+	color: #fff;
+}
+/*  July 2012 long events column   */
+#longev p {
+	padding-left: 0em;
+	text-indent: 0em;
+}
+
+#longev span.summary {display:block;}
+
+h4.head { background:#eee;}
+
+.highlighted {
+	background-color:#390;
+	color:white;
+	display:inline;
+}
+
+.hidden {
+	display:none;
+}
+
+/* eof */
