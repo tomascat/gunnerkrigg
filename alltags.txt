@@ -96,6 +96,8 @@ Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
 Robots	a collective noun
+RobotParts  Bits of robots currently not attatched
+Robox Everybody loves Robox
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
 Shadow	the Thin Man
