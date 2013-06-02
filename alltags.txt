@@ -37,8 +37,11 @@ Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David
 DonlanHouse	home of the Donlan family: Anja, Donny, Kat
 Donny	Donald Donlan, Kat’s father
 Dorm	Living quarters at school
+DrDisaster	Sends the students on hologram simulation adventures!
 Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
 EglamoreKnife	A switchblade/flick knife that Eglamore treasures
+EnigmaronLair	Where the Enigmarons hang out
+Enigmarons	Bad guy aliens in a simulation
 Etherics	manipulation of the Ether – “magic”
 EthericShield	An etheric/magical shield
 EtherSymbol	Alchemical Symbol for Ether
@@ -64,7 +67,7 @@ Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
 Jones	a name of Wandering Eye
 Kat	Katerina Donlan
-KatsWorkshop	where Kat indulges her hobbies
+KatWorkshop	where Kat indulges her hobbies
 Labyrinth	Not quite a maze
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome.
 Lasers	Zap! Awesome!
@@ -74,6 +77,7 @@ Library	includes robot parts
 Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey’s body
 Marcia	Marcia Sutton, a keeper of Young’s Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
+Matt	A student who is a classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Moon	Our most ancient satellite!
 Mort	A ghost
@@ -97,6 +101,8 @@ Roof	The top of the court
 Shadow	the Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
+SimRocket	A rocket in Dr Disaster's simulation
+Simulation	One of Dr Disaster's holographic simulations
 SivoBody	A deceased Rogat Orjak
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 StarOfDavid	Jewish and alchemical symbol

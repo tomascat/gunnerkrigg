@@ -64,6 +64,22 @@
 1141	Annie	Kat	Robots	Warehouse113	#A simple electro-disruptor. Use of this illegal device has been noted
 1140	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#Shadow! You should not have come here!
 1139	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#NOT a secret base
+180	Annie	Classroom	Kat	#<b>Bonus Page:</b> Pressing Matters (Kat dreams about Mulder in class)<hr>
+179	Annie	Court	DrDisaster	Janet	Moon	Paz	SimRocket	SullivansJohn	Winsbury	#I suppose somethings are better learned away from a text book.
+178	Annie	EnigmaronLair	Janet	Kat	Moon	Winsbury	#I hope you like your... smashed... death ray!
+177	Annie	BeckyGround	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#Oh well, here I go.	
+176	Annie	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#You'll never get away with this!
+175	Annie	DrDisaster	EnigmaronLair	Moon	Simulation	#It is up to you, spacemonaut Carver, to rescue them and complete the mission!
+174	Annie	Kat	Moon	Simulation	Students	#It's a chance for us to dress up and run around like crazies.
+173	Annie	Kat	Moon	Simulation	Students	#You can join them if you wish. I'm sure I'll catch up eventually.
+172	Annie	Enigmarons	Janet	Kat	Matt	Moon	Simulation	Winsbury	#Those are the terrible Enigmarons? They don't even have arms.
+171	Annie	DrDisaster	Janet	Kat	Matt	Moon	SimRocket	Simulation	Winsbury	#Doctor! We are approaching the moon!
+170	Annie	DrDisaster	Kat	SimRocket	Simulation	#The evil Enigmarons are threatening the earth from their moon base on the moon!
+169	Annie	Court	Kat	SimRocket	Simulation	#But that's not the point. You're supposed to enjoy it!
+168	Annie	Court	DrDisaster	Kat	#I must admit I question the educational value of Dr. Disaster's classes.
+167	Classroom	DrDisaster	Janet	Matt	Students	Teacher	Winsbury	#Well, that clears my next 40 minutes
+166	Annie	Classroom	DrDisaster	Janet	Kat	SullivansJohn	Teacher	Winsbury	#Spacemonauts! The earth is in peril!
+165	Cover	#<hr>Chapter 10: Doctor Disaster Versus the Creepy Space Aliens from Outer Space<hr>
 148	Bonus	Fairies	Ogee	Tea	#<b>Bonus Page:</b> Regional Fairies<hr>
 147	Annie	AntiGravShip	Court	Kat	#This isn’t just a school is it?
 146	Annan	Annie	AntiGravShip	Gillitie	Jeanne	Kat	Shadow	#You remember that time I told you that I’d never lost anyone I cared for?
