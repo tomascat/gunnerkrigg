@@ -42,7 +42,7 @@ $("document").ready(function(){
 		{
 		}
 		else {
-			var alltheseones = $("#jscloud").find("span[class^='"+alphabet+"'],span[class*=' "+alphabet+"']")
+			var alltheseones = $("#jscloud").find("span[class*=' "+alphabet+"']")
 			$(".alpha").removeClass("highlighted")
 			$(this).addClass("highlighted")
 			$("#jscloud").find(".tags").addClass('hidden')
