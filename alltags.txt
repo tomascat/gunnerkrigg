@@ -1,4 +1,4 @@
-AlchemyChart	An alchemical chart
+﻿AlchemyChart	An alchemical chart
 AnimalCells	the secret Court large animal holding cells
 AnimalLab	a Court research lab
 Anja	Anja Donlan, Kat’s mother
@@ -41,6 +41,7 @@ Creeper	someone who is creeping
 Crying	when salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 Diego	former creepy robotics expert
 DiegosStudy	home of all things ancient robot
+Dog	They usually go woof, unless created by the forest
 Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
 DonlanHouse	home of the Donlan family: Anja, Donny, Kat
 Donny	Donald Donlan, Kat’s father
@@ -56,9 +57,11 @@ EtherSymbol	Alchemical Symbol for Ether
 EugeneGould	explorer
 EyeSymbol	A crossed out eye that is a complex warding sign
 Fairies	Gillitie Wood is full of them
+Fight	When two people have a disagreement, violently.
 Filler	not a mainstream story comic
 Fire	an ancient element
 FireSymbol	The alchemical symbol for fire
+Flashback	Things that happened in the past
 Foley	One of the other school Houses
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Gillitie	Gillitie Wood where the wild things are
@@ -71,6 +74,7 @@ HardwickLittleBestiary	Reference on mystical creatures
 Headmaster	surprisingly grey, tired man, with bad posture
 Heart	a heart sign, symbol, glyph or character
 Hospital	The hospital within the court
+Hyland	Not a close friend of Eglamore, Donny or Anja. Presumably related to Jack.
 Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
 Jones	a name of Wandering Eye
@@ -82,6 +86,7 @@ Labyrinth	Not quite a maze
 Landscape	a view of a wide expanse of land
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome.
 Lasers	Zap! Awesome!
+Latin	A dead language, some things are written in it
 LaundryList	a seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as Eglamore
 Library	includes robot parts
@@ -95,6 +100,7 @@ Monster	A scary creature
 Moon	Our most ancient satellite!
 Mort	A ghost
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
+MrThorn	Mr Thorn, games teacher to Annie and Kat's parents
 NancyDrew	A series of novels featuring a teenage girl solving mysteries.
 NapoleonHat	A fitting hat for Reynardine the Great!
 Ocean	a whole bunch of water
@@ -127,6 +133,7 @@ SivoBody	A deceased Rogat Orjak
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 StarOfDavid	Jewish and alchemical symbol
 Stars	celestial bodies
+StopBot	Model B robots with stop signs for heads and boxing glove arms.
 Students	miscellaneous students
 Sun	our closest star!
 SullivansJohn	Sullivan’s John. A student who likes to play the mandolin

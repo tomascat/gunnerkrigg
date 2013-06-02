@@ -121,6 +121,30 @@
 846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
 845	Dorm	Rey	#Waiting Reynardine
 844	Cover	#<hr>Chapter 32: From the Forest She Came<hr>
+558	Bonus	Treatise	Annie	Bridge	Court	Coyote	Etherics	Fire	Gillitie	Kat	Latin	MercurySymbol	Moon	Rey	Shadowman	Sun	Sword	Ysengrin	#<b>Bonus Page:</b>Treatise Three. The end of the Second book<hr>
+557	Anja	Dog	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	#You guys aren't going to believe this... But that guy is our games teacher!
+556	Dog	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	#Don't forget, double cross country tomorrow James.
+555	Dog	Eglamore	Flashback	Fight	LeadSymbol	Monster	MrThorn	Shadowmen	Sword	#(Eglamore): Hi guys!
+554	Anja	Dog	Donny	Flashback	Fight	LeadSymbol	Monster	MrThorn	Roof	Surma	Sword	#Uh can you guys save it for later?
+553	Anja	Dog	Donny	Etherics	Ethericshield	Fight	Flashback	Monster	Roof	Shadowmen	Surma	#(Second forest dog leaps at young Anja, Donny and Surma. Anja protects them via etheric SPANG barrier)
+552	Anja	Dog	Donny	Flashback	Monster	Roof	Robots	Surma	#Is... Not a real creature. More like... puppet... being called back to forest.
+551	Anja	Dog	Donny	Flashback	Monster	Roof	Robots	Surma	#Some kinda dog! A dog made of wood...
+550	Anja	Donny	Flashback	Robots	StopBot	Surma	#Yes, We shall leave now! Thank you! Good job!
+549	Anja	Dog	Donny	Flashback	Monster	Robots	Stopbot	Students	Surma	#c'mon, we have to get a better look at this!
+548	Anja	Dog	Donny	Flashback	Monster	Robots	Surma	#(Large forest dog crashes through a window in front of young Anja, Donny and Surma)
+547	Anja	BismuthSymbol	Donny	Flashback	Monster	Robots	StopBot	Students	Surma	#The situation does not involve a large monster or two
+546	Eglamore	Flashback	LeadSymbol	MrThorn	RogatOrjak	Teacher	#Have you ever heard of the Rogat Orjak?
+545	Eglamore	Flashback	Hyland	MrThorn	Teacher	#Standing up for a friend. A noble act, cannot be dismissed.
+544	Anja	Court	Donny	Flashback	Surma	#Looks like it's just the three of us for lunch then!
+543	Anja	Chester	Court	Donny	Etheric	Flashback	Queslett	Surma	#The court made a mistake when they put us in Chester, they said so.
+542	Anja	Donny	Flashback	Surma	#You shoulda zapped him Anja!
+541	Anja	Donny	Eglamore	Fight	Flashback	Hyland	MrThorn	Students	Surma	Teacher	#Eglamore, my office. Now.
+540	Anja	Chester	Donny	Eglamore	Fight	Flashback	Hyland	Students	Surma	#You an' your friends are freaks, how's that you cu- WHUD
+539	Anja	Brinnie	Etheric	Flashback	Students	Surma	#Won't you stay a little longer Brinnie?
+538	Donny	Eglamore	Flashback	Jones	Tony	#"I have matters to attend to" Jeez, who talks like that?
+537	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Tony	#You mean a picture of Donny!
+536	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Teacher	Tony	#Any other groups want their picture takin'?
+535	Cover	#<hr>Chapter 22: Ties<hr>
 534	Bonus	Dorm	NancyDrew	Rey	#<b>Bonus Page:</b> Bah! Bah! Baah! (Rey gets angry before settling down with a Nancy Drew book)<hr>
 533	Annie	Heart	Mort	Monster	#ooh, a card!
 532	Mort	Monster	#WE ARE HERE TO DESTROY YOU!
@@ -130,7 +154,7 @@
 528	Annie	BlinkerStone	Classroom	Jeanne	Kat	Mort	Muut	#Then you have already begun to help. We knew you would. It was only a matter of time.
 527	Annie	Classroom	Kat	Muut	Psychopomp	#You should not have wasted a life in such a way
 526	Annie	Classroom	Kat	Psychopomp	#Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
-525	Annie	Argument	BlinkerStone	Classroom	Kat	Mort	#Tom: You screwed up big time Carver.
+525	Annie	Argument	BlinkerStone	Classroom	Kat	Latin	Mort	#Tom: You screwed up big time Carver.
 524	Annie	Argument	BlinkerStone	Bridge	Kat	Mort	Muut	#Yeah how would I know? I'm just a ghost. BWIP
 523	Annie	Argument	BlinkerStone	Kat	Mort	#He's not a boy Kat, he's just a ghost
 522	Anja	Argument	Annie	BlinkerStone	Kat	Mort	#I suppose you think this is funny?
