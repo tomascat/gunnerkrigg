@@ -56,7 +56,7 @@
 1149	Anja	Blush	Annie	Donny	Parley	Rey	Smitty	#Did we miss anything?
 1148	Annie	BismuthSymbol	Rey	#I think we made it…
 1147	Annie	BlinkerStone	Kat	KatsWorkshop	Rey	Robots	#Who <i>are</i> you guys?!
-1146	Annie	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#S13, you have long since predicted the coming of an angel
+1146	Annie	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#SRobot, you have long since predicted the coming of an angel
 1145	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
 1144	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	#Are you sure about this, Robot?
 1143	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#S13 is being held for the spreading of disinformation and rumour
@@ -66,24 +66,24 @@
 1139	Annie	Kat	Rey	Robot	Robots	Shadow	Warehouse113	#NOT a secret base
 900	Cover	#<hr>Chapter 34: Faraway Morning (and three short tales)<hr>
 899	Bonus	Boxbot	Robots	Robox	Terrible	#<hr><b>Bonus Page:</b>Helping Hand<hr>
-898	Angel	Robot	Robots	RobotTomb	Shadow	Seraph	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
-897	Annie	Kat	Heart	Robots	SeedOfBismuth	RobotTomb	Seraph	#CRACK (broken heart)
-896	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#We belong here. A tribute to our father, and to a time passed
-895	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#so I… I brought you back f-from the dead?
-894	Kat	Robots	RobotTomb	Seraph	#We left this world to our children and chose to end our lives
-893	Annie	Kat	Robots	RobotTomb	Seraph	#to be still is death, because if we are not useful then we are nothing
-892	Annie	Kat	Robot	Robots	RobotTomb	Seraph	#but then… this is your tomb
-891	Annie	Kat	Robot	Robots	Shadow	Seraph	#I apologise miss, I was startled
-890	Annie	Kat	KatsWorkshop	Robot	Robots	Seraph	#s-stop him!
-889	Annie	BlinkerStone	Kat	KatsWorkshop	Robot	Robots	Seraph	#SKANG!
-888	Annie	Kat	KatsWorkshop	Robot	Robots	Seraph	#I think I can make a bypass for it…
+898	Angel	Robot	Robots	RobotTomb	Shadow	DiegoBot	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
+897	Annie	Kat	Heart	Robots	SeedOfBismuth	RobotTomb	DiegoBot	#CRACK (broken heart)
+896	Annie	Kat	Robot	Robots	RobotTomb	DiegoBot	#We belong here. A tribute to our father, and to a time passed
+895	Annie	Kat	Robot	Robots	RobotTomb	DiegoBot	#so I… I brought you back f-from the dead?
+894	Kat	Robots	RobotTomb	DiegoBot	#We left this world to our children and chose to end our lives
+893	Annie	Kat	Robots	RobotTomb	DiegoBot	#to be still is death, because if we are not useful then we are nothing
+892	Annie	Kat	Robot	Robots	RobotTomb	DiegoBot	#but then… this is your tomb
+891	Annie	Kat	Robot	Robots	Shadow	DiegoBot	#I apologise miss, I was startled
+890	Annie	Kat	KatsWorkshop	Robot	Robots	DiegoBot	#s-stop him!
+889	Annie	BlinkerStone	Kat	KatsWorkshop	Robot	Robots	DiegoBot	#SKANG!
+888	Annie	Kat	KatsWorkshop	Robot	Robots	DiegoBot	#I think I can make a bypass for it…
 887	Annie	Kat	KatsWorkshop	Robot	Robots	Robotics	#I know how to get the old robots started up again
 886	Annie	Kat	KatsWorkshop	Robots	Robotics	#you… can read it?
 885	Annie	Kat	KatsWorkshop	Robot	Robots	Robotics	#Oh my god! This is incredible!
 884	Annie	BlinkerStone	Kat	KatsWorkshop	Robots	Robotics	#about that operating code you asked us to print…
-883	Annie	Kat	KatsWorkshop	Robots	Seraph	#but… this would mean Diego was a… magician, not a scientist
-882	Annie	Etherics	Kat	KatsWorkshop	Robots	Robotics	Seraph	#What if these are not really robots in the modern sense, but golems?
-881	Annie	Kat	Robots	KatsWorkshop		Seraph	#how come you guys picked a creepy looking robot
+883	Annie	Kat	KatsWorkshop	Robots	DiegoBot	#but… this would mean Diego was a… magician, not a scientist
+882	Annie	Etherics	Kat	KatsWorkshop	Robots	Robotics	DiegoBot	#What if these are not really robots in the modern sense, but golems?
+881	Annie	Kat	Robots	KatsWorkshop		DiegoBot	#how come you guys picked a creepy looking robot
 880	Annie	DiegosStudy	Heart	Kat	Robotics	#the bad news is that all his work is written in gibberish
 879	Annie	Diego	DiegosStudy	Kat	Robots	
 878	Robot	Roof	Shadow	Creeper	#should you really be following her around like this?
@@ -214,6 +214,34 @@
 505	Annie	Kat	KatsWorkshop	Rey	#Ms Jones said everyone has a special skill, so I bet this is yours
 504	Annie	Kat	KatsWorkshop	Rey	Robots	#Set it down over there, boys
 503	Cover	#<hr>Chapter 21: Blinking<hr>
+227	Bonus	Annie	Dorm	Rey	#<b>Bonus Page:</b> Adonis in Stitches (Rey tries to excite Annie by generating a muscly human body)
+226	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#Well, now that we have you back, Robot, we should do something about your body.
+225	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#It's a wonder my fool cousin hasn't already retaliated.
+224	Annie	Annan	Gillitie	Kat	Rey	Robot	#The people of the forest will be wanting answers!
+223	Annie	Bridge	Gillitie	Robot	ShadowMan	WoodenArm	#A ShadowMan took control of my body!
+222	Annie	Gillitie	Rey	Robot	ScienceLab	Ysengrin	#I remember. I crossed the bridge and the Shadow man joined his family.
+221	Annie	Kat	Rey	Robot	ScienceLab	#Am... am I in heaven?! I see an Angel before me!
+220	Annie	BismuthSymbol	Kat	Robot	ScienceLab	#This docking station has a camera, speaker and microphone, so the Robot will be able to see, speak and hear.
+219	Annie	AntimonySymbol	DoorBot	Rey	Robot	RobotHQ	Robots	SecurityRobots	StarHeadband	#Open the door, please, Mister Door Robot!
+218	AdminBot	Annie	AntimonySymbol	Rey	Robot	RobotHQ	Robots	SecurityRobots	StarHeadband	#Oh my, how polite! And such a curious design.
+217	Annie	AntimonySymbol	Rey	Robot	RobotHQ	Robots	SecurityRobots	StarHeadband	#Oh, I do so dislike alarms.
+216	Annie	Lockpicks	Rey	Robot	RobotHQ	StarHeadband	#Here it is... S13
+215	Annie	AntimonySymbol	Rey	RobotHQ	StarHeadband	Symbol	#This must be a directory of all the CPUs being studied.
+214	Annie	AntimonySymbol	Rey	RobotHQ	StarHeadband	#Fine... get on (Rey turns from a WolfToy into a proper wolf form)
+213	Annie	Rey	RobotHQ	StarHeadband	#Haha! Tired already child?!
+212	AdminBot	Annie	RobotHQ	Robots	StarHeadband	#Meanwhile as his body begins a career in paper fastening, S13's cpu has been sent to Research.
+211	AdminBot	Annie	Rey	RobotHQ	Robots	StarHeadband	#Of course. S13 is quite sought after. Not least for all the trouble he causes.
+210	AdminBot	Annie	Rey	RobotHQ	Robots	StarHeadband	#His name is Robot! Um... number 13?
+209	Annie	Court	DoorBot	Rey	RobotHQ	Robots	StarHeadband	#We're looking for a particular Robot.
+208	Annie	Court	DoorBot	Rey	RobotHQ	Robots	StarHeadband	#Robots onl... What's that on your head?
+207	Annie	Kat	ScienceLab	#Oh, I think I can put together a clever disguise. And bring some help.
+206	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#I should at least find out what happened to him.
+205	Annie	DoorBot	Court	Robots	RobotHQ	SRobot	#(Boring Door) There was no handle on the door through which they escaped.
+204	Annie	Court	Montgomery	Robots	SRobot	#i wanted to ask them about him, but they ran away when they saw me.
+203	Annie	BoxBot	Kat	Robot	Robots	ScienceLab	Shadow	#On my way over I saw... Robots! (helloooo!)<br>Tom: nobody likes boxbot
+202	Annie	Kat	ScienceLab	Shadow	#Kat, that's wonderful! He even sounds like you!
+201	Annie	Kat	ScienceLab	Shadow	#He isn't really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
+200	Cover	#<hr>Chapter 12: Mainly Involves Robots<hr>
 180	Annie	Classroom	Kat	#<b>Bonus Page:</b> Pressing Matters (Kat dreams about Mulder in class)<hr>
 179	Annie	Court	DrDisaster	Janet	Moon	Paz	SimRocket	SullivansJohn	Winsbury	#I suppose some things are better learned away from a text book.
 178	Annie	EnigmaronLair	Janet	Kat	Moon	Winsbury	#I hope you like your... smashed... death ray!
@@ -269,16 +297,16 @@
 112	AlchemyChart	Annie	BismuthSymbol	Bridge	Kat	Rey	Robot	ScienceLab	Shadowman	#Could he have come back?
 111	AlchemyChart	Annie	BismuthSymbol	Blush	Bridge	Kat	Rey	ScienceLab	#Are you two going to kiss now?
 110	AlchemyChart	Annie	BismuthSymbol	Kat	Rey	ScienceLab	VenusSymbol	#Kat, I’m sorry I caused a scene this morning.
-109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	#You still carry that thing, Jim?
-108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Kat	Rey	#Criminal or not, I won’t allow him to be subjected to that again.
-107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	EthericShield	EyeSymbol	Rey	#I can take anything with eyes, be they real or not.
+109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	SilverSymbol	#You still carry that thing, Jim?
+108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	SilverSymbol	Kat	Rey	#Criminal or not, I won’t allow him to be subjected to that again.
+107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	SilverSymbol	EthericShield	EyeSymbol	Rey	#I can take anything with eyes, be they real or not.
 106	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeSymbol	Rey	#Damn you, girl! And I had the perfect disguise!
 105	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	Rey	#If you don’t mind; I also have something I think you should see
 104	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	#But when Anthony wants to disappear, he’ll do so.
 103	Annie	Anja	Blush	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who’s this cute guy here? That... that would be me.
 102	Annie	Anja	Brinnie	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Wow! Is this you guys when you were kids?!
-101	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	MercurySymbol	Rey	#Reynardine can’t hurt anyone any more
-100	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	#Call me Anja, and this is Donny.
+101	Annie	Anja	Donny	DonlanHouse	Eglamore	SilverSymbol	Kat	MercurySymbol	Rey	#Reynardine can’t hurt anyone any more
+100	Annie	Anja	Donny	DonlanHouse	Eglamore	SilverSymbol	Kat	#Call me Anja, and this is Donny.
 99	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	TicToc	WoodenArm	#(Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 98	Annie	BismuthSymbol	Court	Kat	LeadSymbol	TicToc	#Something is wrong.
 97	Cover	#<hr>Chapter 7: Of New and Old<hr>

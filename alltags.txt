@@ -1,4 +1,6 @@
-﻿AlchemyChart	An alchemical chart
+AdminBot	A secretarial robot who sits at the Admin desk at RobotHQ
+AlchemyChart	An alchemical chart
+Angel	What Robot refers to Kat as, as he believes she is some sort of semi-religious figure
 AnimalCells	the secret Court large animal holding cells
 AnimalLab	a Court research lab
 Anja	Anja Donlan, Kat’s mother
@@ -43,6 +45,7 @@ Diego	former creepy robotics expert
 DiegosStudy	home of all things ancient robot
 Dog	They usually go woof, unless created by the forest
 Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
+DoorBot	A cranky old man robot who guards the door to the RobotHQ
 DonlanHouse	home of the Donlan family: Anja, Donny, Kat
 Donny	Donald Donlan, Kat’s father
 Dorm	Living quarters at school
@@ -53,7 +56,6 @@ EnigmaronLair	Where the Enigmarons hang out
 Enigmarons	Bad guy aliens in a simulation
 Etherics	manipulation of the Ether – “magic”
 EthericShield	An etheric/magical shield
-EtherSymbol	Alchemical Symbol for Ether
 EugeneGould	explorer
 EyeSymbol	A crossed out eye that is a complex warding sign
 Fairies	Gillitie Wood is full of them
@@ -99,6 +101,7 @@ Margo	A student who enjoys singing. Friends with SullivansJohn
 Matt	A student who is a classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Monster	A scary creature
+Montgomery	An SRobot Robot
 Moon	Our most ancient satellite!
 Mort	A ghost
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
@@ -118,6 +121,7 @@ Red	A crazy and abrasive fairy
 Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
+RobotHQ	Where the Robots hang out
 Robotics	like Etherics but with metal
 RobotParts	Bits of robots currently not attached
 Robots	a collective noun
@@ -125,15 +129,19 @@ RobotTomb	tomb/theater full of robots
 Robox	has no hands; awesome; everybody loves Robox. The opposite of terrible.
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
+SRobot	Generic member of the Seraph model of robots. Robot was originally one.
+SecurityRobots	They ensure security, as robots.
 SeedOfBismuth	it’s a mystery
 SirYoung	Protector of the Court at it's founding
 Shadow	the Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
+SilverSymbol	Alchemical Symbol for Silver
 SimRocket	A rocket in Dr Disaster's simulation
 Simulation	One of Dr Disaster's holographic simulations
 SivoBody	A deceased Rogat Orjak
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
+StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot
 StarOfDavid	Jewish and alchemical symbol
 Stars	celestial bodies
 StopBot	Model B robots with stop signs for heads and boxing glove arms.
