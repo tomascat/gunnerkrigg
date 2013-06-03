@@ -80,6 +80,53 @@
 1002	Cover	#<hr>Chapter 37: Microsat 5<hr>
 974	Cover	#<hr>Chapter 36: Red Gets a Name<hr>
 948	Cover	#<hr>Chapter 35: Parley and Smitty Are In This One<hr>
+947	Bonus	Janet	Kat	Margo	SullivansJohn	Winsbury	#<b>Bonus Page:</b>Backfired
+946	Annie	AnnieCut	Bud	Lindsey	#hey Linds, gimmie a kiss
+945	Annie	Bud	Creeper	Etherics	#They’re a good bunch of kids just having some fun
+944	Annie	Kat	#Scoot, scoot, dearest
+943	Annie	Jack	Kat	Paz	Creeper	#Kat creepin’
+942	Annie	Jack	#well I-
+941	Annie	Jack	Kat	Margo	Paz	SullivansJohn	#The sun’s coming up
+940	Annie	Jack	Ysengrin	#So really… Zimmy?
+939	Bud	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#huh, looks like they don’t believe us!
+938	Janet	Winsbury	#right, right. So you were driving your tricked out horse
+937	Janet	Winsbury	#no no, William, you misremember
+936	Janet	Winsbury	#it all started in year 7 when I was an undercover cop
+935	Bud	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#I’d say you get along pretty well now
+934	Bud	Janet	Kat	Mandolin	Margo	Matt	Paz	SullivansJohn	Winsbury	#no! sing the boys part!
+933	Annie	Jack	#I just don’t know what I’m doing…
+932	Annie	Jack	Roof	#I really am sorry, Jack
+931	Annie	Jack	Roof	#this wasn’t some “flash of anger” thing
+930	Annie	Jack	Roof	#man, talk about baggage!
+929	Annie	Jack	Roof	#You’ve got some strange ideas about revenge, Carver
+928	Annie	Jack	Roof	Spiders	Zimmy	#I-I’m fairly certain she and Gamma are… an item.
+927	Annie	Jack	Roof	Zimmy	#I’m in love with Zimmy!
+926	Annie	Jack	Roof	#Jack… I don’t think I like you very much
+925	Annie	Bud	Jack	Roof	#no, bud can still see us
+924	Blush	Kat	Paz	#I wasn’t hitting on you!
+923	Kat	Paz	#I-I like you but… I-I’m not… like that…
+922	Kat	Paz	#oh Kat, I’m so embarrassed!
+921	Blush	Bud	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#was that necessary, William?
+920	Matt	MoonGirl	WhiteRabbit	#but I can’t stop thinking about her. Oh, and I think she took my mp3 player.
+919	Matt	MoonGirl	MoonPrint	#she was really really obsessed with the moon
+918	Matt	MoonGirl	WhiteRabbit	#so I was walking back from my extended trig class and there was a rabbit.
+917	Janet	Kat	Margo	Matt	Paz	Winsbury	#Hey Matt. Why don’t you tell us about that girl you’re always on about?
+916	Annie	Blush	Bud	Jack	Janet	Kat	Margo	Matt	Paz	Winsbury	#Give to me your hand!
+915	Annie	BlinkerStone	Etherics	Jack	#can I try it?
+914	Annie	BlinkerStone	Bud	Etherics	Jack	Kat	#he’s actually a very powerful psychic
+913	Annie	Jack	Janet	Margo	Matt	Paz	SullivansJohn	Winsbury	#so romantic! Don’t you think so, matt?
+912	Ghosts	Mandolin	Margo	SullivansJohn	#so we went back and we finished it
+911	Ghosts	Margo	SullivansJohn	#even when we left the mandolin behind, they wouldn’t leave us alone
+910	Mandolin	Margo	SullivansJohn	#it sounded great when I played it, but as soon as Margo started singing…
+909	Annie	Bud	Jack	Janet	Kat	Mandolin	Margo	Matt	Paz	SullivansJohn	Winsbury	#hey Margo, look what I brought! Oh nooo! That’s not the haunted one, is it?
+908	Annie	Buzzer	Jack	#we haven’t really talked since before the summer
+907	Annie	Bud	Jack	Kat	#what the wife doesn’t know can’t hurt her, right?
+906	Annie	Bud	Jack	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#so… no trouble?
+905	Annie	Dorms	Janet	Kat	Landscape	Lindsey	MoonPrint	Paz	Robots	#girls sneaking out
+904	Annie	Buzzer	Dorms	Janet	Kat	Margo	Paz	Rey	Robots	#thanks for your help, robots!
+903	Annie	Janet	Kat	KatsWorkshop	Margo	Paz	Robots	#so… we’ll be out all night?
+902	Annie	Buzzer	Janet	Kat	Margo	Paz	Robots	Robotics	#if we keep quiet, she will think the robots are leaving, not us.
+901	Annie	Buzzer	Jack	Janet	Kat	Margo	Paz	Robots	#well, we found out the court can track all our movements.
 900	Cover	#<hr>Chapter 34: Faraway Morning (and three short tales)<hr>
 899	Bonus	Boxbot	Robots	Robox	Terrible	#<b>Bonus Page:</b>Helping Hand
 898	Angel	Robot	Robots	RobotTomb	Shadow	DiegoBot	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
@@ -113,7 +160,7 @@
 870 	Cover	#<hr>Chapter 33: Give and Take<hr>
 869	Annie	Filler	Kat	PrincessMononoke	Rey	#Moro
 868	Annie	Filler	Kat	PrincessMononoke	Rey	#Bah! It’s some manner of animated picture?
-867	Bonus	Bud	Dorm	Habitat	Lindsey	#<hr><b>Bonus Page:</b> Welcome to Year 9!<hr>
+867	Bonus	Bud	Dorm	Habitat	Lindsey	#<hr><b>Bonus Page:</b> Welcome to Year 9!
 866	Annie	Boots	Dorm	Etherics	Kat	Rey	#It is with love that I must inform you that you really gotta take a shower
 865	Annie	Dorm	Kat	Rey	PrincessMononoke	#I just want to go back to being friends
 864	Annie	Dorm	Kat	Lindsey	#traumatized Kat<br>Tom: Next: A rhino beetle that enjoys Sudoku.
@@ -145,7 +192,7 @@
 663	Cover	#<hr>Chapter 26: The Old Dog’s Tricks<hr>
 632	Cover	#<hr>Chapter 25: Sky Watcher And The Angel<hr>
 596	Cover	#<hr>Chapter 24: Residential<hr>
-595	Bonus	DrDisaster	Jones	Simulation	VincentPrice	#<hr><b>Bonus Page:</b> (Dr Disaster panics when Parley teleports everyone out of the simulation, but Jones turns up to reassure with Vincent Price DVDs)<hr>
+595	Bonus	DrDisaster	Jones	Simulation	VincentPrice	#<b>Bonus Page:</b> (Dr Disaster panics when Parley teleports everyone out of the simulation, but Jones turns up to reassure with Vincent Price DVDs)
 594	Annie	Flowers	JackHyland	Monster	Rey	#Oh... you have a, uh, large wolf with you.
 593	Annie	JackHyland	Monster	Rey	Zimmy	#Where is she, Right now?
 592	Annie	Chester	JackHyland	Zimmy	#Yeah... Zimmy. What class is she in?
@@ -207,8 +254,8 @@
 536	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Teacher	Tony	#Any other groups want their picture takin’?
 535	Cover	#<hr>Chapter 22: Ties<hr>
 534	Bonus	Dorm	NancyDrew	Rey	#<b>Bonus Page:</b> Bah! Bah! Baah! (Rey gets angry before settling down with a Nancy Drew book)
-533	Annie	Heart	Mort	Monster	#ooh, a card!
-532	Mort	Monster	#WE ARE HERE TO DESTROY YOU!
+533	Annie	Ghosts	Heart	Mort	#ooh, a card!
+532	Ghosts	Mort	#WE ARE HERE TO DESTROY YOU!
 531	Annie	Classroom	Kat	Muut	#now I ask a tiny favour of you
 530	Annie	Classroom	Kat	Muut	Psychopomp	Surma	#The night Surma passed on, none of us came for her.
 529	Annie	BlinkerStone	Classroom	Etherics	Jeanne	Kat	Muut	#Lost, stranded in the aether, she needs a hand like yours to be an anchor

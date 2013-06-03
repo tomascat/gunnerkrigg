@@ -26,6 +26,7 @@ Boots	made for walking
 Boxbot	see Terrible
 Bridge	over the Annan Water to Gillitie Wood
 Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers &amp; co.
+Buzzer	bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes (Mercury), symbol of commerce
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
@@ -67,6 +68,7 @@ Flashback	Things that happened in the past
 Flowers	Colourful plants that grow from the ground. Often given as gifts.
 Foley	One of the other school Houses
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
+Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are
 GoodHope	Good Hope Hospital is where Surma was before she died
 Gym	school gymnasium
@@ -74,10 +76,10 @@ Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
-Headmaster	surprisingly grey, tired man, with bad posture
+Headmaster	Mr Llanwellyn, Janet's father; surprisingly grey, apathetic man, with bad posture
 Heart	a heart sign, symbol, glyph or character
 Hospital	The hospital within the court
-Hyland	Not a close friend of Eglamore, Donny or Anja. Presumably related to Jack.
+Hyland	Jack's father and classmate of Eglamore, Donny, Anja and Surma. Not very nice to Anja or Surma.
 JackHyland	A boy with spiders in his hair, in the same year as Annie and Kat.
 Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
@@ -96,13 +98,15 @@ LeadSymbol	The alchemical symbol for lead; associated with protectors of the cou
 Library	includes robot parts
 Lindsey	Dorm monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon
 Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey’s body
+Mandolin	sometimes they’re haunted
 Marcia	Marcia Sutton, a keeper of Young’s Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
 Matt	A student who is a classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
-Monster	A scary creature
 Montgomery	An Seraph Robot
 Moon	Our most ancient satellite!
+MoonGirl	Chang’e
+MoonPrint	thumbprint on the moon
 Mort	A ghost
 MrThorn	Mr Thorn, Court protector and games teacher to Annie and Kat's parents.
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
@@ -172,6 +176,7 @@ WaterSymbol	Alchemical symbol for water
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie’s mother
 VincentPrice	A famous actor
+WhiteRabbit	Every story begins with a rabbit (except the ones that don't)
 WoodenArm	A mysterious wooden arm from Gillitie
 Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
 Zimmy	aka Zeta, a strange girl who is friends with Gamma
