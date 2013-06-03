@@ -1,4 +1,4 @@
-1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we're heading off to class now
+﻿1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we're heading off to class now
 1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
 1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
@@ -193,8 +193,43 @@
 689	Cover	#<hr>Chapter 27: Spring Heeled<hr>
 663	Cover	#<hr>Chapter 26: The Old Dog’s Tricks<hr>
 632	Cover	#<hr>Chapter 25: Sky Watcher And The Angel<hr>
+631	Bonus	Annie	Dorm	Rey	#<b>Bonus Page:</b>Absence and Hearts. (Reynardine... I... Actually missed you)
+630	Annie	Bob	Eglamore	LaserCow	Lasers	Marcia	Students	YoungsPark	#Never let 60 angry kids use a herd of laser cows to take over your house.
+629	Annie	Bob	Eglamore	JackHyland	LaserCow	Lasers	Marcia	Students	Winsbury	YoungsPark	#And thank you... Laser Cows
+628	Annie	Bob	Dryad	Eglamore	Kat	Marcia	Monument	Trees	YoungsPark	#They covered up the tree in our house!
+627	Annie	BlinkerStone	Bob	Dryad	Eglamore	Etherics	Fire	Marcia	YoungsPark	#You're a dryad, aren't you?
+626	Annie	BlinkerStone	Bob	Eglamore	Etherics	Fire	Marcia	Monument	SirYoung	Trees	YoungsPark	#My trees!
+625	Annie	Fire	Marcia	Matt	Monument	SirYoung	Trees	YoungsPark	#Bob! James! There's a problem!
+624	Annie	AnnieCut	BlinkerStone	Etherics	Janet	Kat	Paz	Students	Tree	YoungsPark	#Kat, this is what you need to do
+623	BlinkerStone	Dryad	Ghosts	Kat	Monster	Tree	YoungsPark	#I hope nothing happens to me now that I'm here all alone!
+622	Annie	BlinkerStone	Eglamore	Ghosts	Kat	Matt	Paz	Students	Tents	YoungsPark	#Six people missing overnight?
+621	Annie	BlinkerStone	Fire	Ghosts	Kat	Margo	Matt	Paz	Students	SullivansJohn	Tents	Winsbury	YoungsPark	#(Paz goes to grab some chocolate from her tent, but gets grabbed by the ghost?)
+620	Annie	BlinkerStone	Etherics	Fire	Kat	Students	SullivansJohn	Tents	YoungsPark	#I think I make people nervous
+619	Annie	BlinkerStone	Etherics	Fire	Kat	SullivansJohn	Tents	YoungsPark	#You shouldn't be lonely because of me, Kat
+618	Annie	BlinkerStone	JackHyland	Kat	LaserCow	Robots	YoungsPark	#And you think I'm the creep
+617	Annie	JackHyland	Kat	LaserCow	Robots	YoungsPark	#Get away from there, you creep!
+616	Ghosts	Janet	Kat	Students	Winsbury	YoungsPark	#Janet should have been back by now
+615	Archery	Bob	Ghosts	Janet	Kat	Students	Trees	YoungsPark	#Who did this to my tree?!
+614	Archery	Bob	Janet	Marcia	Students	Trees	Winsbury	YoungsPark	#Jimmy! Emergency!
+613	Annie	Archery	BlinkerStone	Eglamore	Janet	Kat	Students	Tents	Trees	Winsbury	YoungsPark	#Kat, I don't want you going near Jack.
+612	Annie	AnnieCut	BlinkerStone	Etherics	JackHyland	WhiteSpider	YoungsPark	#Huh? Who's there? BLINK
+611	Annie	BlinkerStone	Eglamore	JackHyland	Students	Tents	Trees	YoungsPark	#My blinkerstone is not where I left it last night
+610	Annie	BlinkerStone	Fire	LaserCow	Janet	Kat	Paz	Students	Tents	Trees	Winsbury	YoungsPark	#No heat source detected
+609	Argument	Fire	Janet	Kat	LaserCow	Lasers	Margo	Matt	Paz	Students	Tents	Trees	Winsbury	YoungsPark	#Go away you big, dumb cow!
+608	Annie	Eglamore	Janet	Kat	LaserCow	Robots	Stars	Students	Winsbury	YoungsPark	#Get your hands off me.
+607	Annie	Bob	Court	Eglamore	Habitat	Kat	Marcia	Shadowmen	TreeDog	Trees	WoodenArm	YoungsPark	#Take a look at that tree Carver, seem familier?
+606	Annie	Bob	CherryTree	Eglamore	Gillitie	Habitat	Kat	LaserCow	Robots	Trees	YoungsPark	#Oh we met once before
+605	Annie	BismuthSymbol	Bob	Eglamore	Kat	Monument	Nevihta	RogatOrjak	SirYoung	Trees	YoungsPark	#It's a monument to that guy you learned about
+604	Annie	Gillitie	JackHyland	Kat	LaserCow	Robots	YoungsPark	#This place is kinda boring
+603	Annie	Eglamore	JackHyland	Kat	LaserCow	Robots	Students	Tents	Trees	YoungsPark	#Pick your tents and drop your stuff off.
+602	Bob	LaserCow	Lasers	Marcia	Paz	Robots	YoungsPark	#Auditory response: Moo
+601	Axe	Eglamore	LaserCow	Paz	Robots	Students	Teacher	Tents	YoungsPark	#Cows!
+600	Annie	Bob	Eglamore	Kat	Marcia	Students	teacher	YoungsPark	#Maybe this won't be so bad after all!	
+599	BismuthSymbol	Bob	Marcia	Paz	Students	Teacher	Trees	YoungsPark	#Walking is Nature's quadbikes!
+598	Annie	BlinkerStone	Court	Kat	Rey	Students	#I still can't believe the park we're camping in is IN the court
+597	Annie	BlinkerStone	Etherics	Rey	#Go have fun with your friends child.
 596	Cover	#<hr>Chapter 24: Residential<hr>
-595	Bonus	DrDisaster	Jones	Simulation	VincentPrice	#<b>Bonus Page:</b> (Dr Disaster panics when Parley teleports everyone out of the simulation, but Jones turns up to reassure with Vincent Price DVDs)
+595	Bonus	DrDisaster	Jones	Simulation	VincentPrice	#<b>Bonus Page:</b> Doctor Disaster and the Chamber of Doom skull
 594	Annie	Flowers	JackHyland	Monster	Rey	#Oh... you have a, uh, large wolf with you.
 593	Annie	JackHyland	Monster	Rey	Zimmy	#Where is she, Right now?
 592	Annie	Chester	JackHyland	Zimmy	#Yeah... Zimmy. What class is she in?
@@ -255,7 +290,7 @@
 537	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Tony	#You mean a picture of Donny!
 536	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Teacher	Tony	#Any other groups want their picture takin’?
 535	Cover	#<hr>Chapter 22: Ties<hr>
-534	Bonus	Dorm	NancyDrew	Rey	#<b>Bonus Page:</b> Bah! Bah! Baah! (Rey gets angry before settling down with a Nancy Drew book)
+534	Bonus	Dorm	NancyDrew	Rey	#<b>Bonus Page:</b> Reynardine the Sheep (Rey gets angry before settling down with a Nancy Drew book)
 533	Annie	Ghosts	Heart	Mort	#ooh, a card!
 532	Ghosts	Mort	#WE ARE HERE TO DESTROY YOU!
 531	Annie	Classroom	Kat	Muut	#now I ask a tiny favour of you
