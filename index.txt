@@ -1,4 +1,4 @@
-﻿1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we're heading off to class now
+1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we're heading off to class now
 1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
 1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
@@ -162,7 +162,7 @@
 870	Cover	#<hr>Chapter 33: Give and Take<hr>
 869	Annie	Filler	Kat	PrincessMononoke	Rey	#Moro
 868	Annie	Filler	Kat	PrincessMononoke	Rey	#Bah! It’s some manner of animated picture?
-867	Bonus	Bud	Dorm	Habitat	Lindsey	#<hr><b>Bonus Page:</b> Welcome to Year 9!
+867	Bonus	Bud	Dorm	Habitat	Lindsey	#<b>Bonus Page:</b> Welcome to Year 9!
 866	Annie	Boots	Dorm	Etherics	Kat	Rey	#It is with love that I must inform you that you really gotta take a shower
 865	Annie	Dorm	Kat	Rey	PrincessMononoke	#I just want to go back to being friends
 864	Annie	Dorm	Kat	Lindsey	#traumatized Kat<br>Tom: Next: A rhino beetle that enjoys Sudoku.
