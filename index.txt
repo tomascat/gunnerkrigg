@@ -38,7 +38,7 @@
 1168	Annie	CityFace	Filler	#City Face guest comic by Annie
 1167	Filler	Tea	#<hr>Guest Comics<hr>
 1166	Filler	Tom	#“So, how’s it been going?” open letter by Tom
-1165	Bonus	Treatise	Annie	AntimonySymbol	BlinkerStone	Court	Coyote	CreatorGlyph	Gillitie	Heart	Kat	Robot	Shadow	Treatise	WanderingEye	Ysengrin	#symbolically summarising the last NN pages…
+1165	Bonus	Treatise	Annie	AntimonySymbol	BlinkerStone	Court	Coyote	CreatorGlyph	Gillitie	Heart	Kat	Robot	Shadow	Treatise	WanderingEye	Ysengrin	#<b>Bonus Page:</b> Treatise Five
 1164	Annie	Kat	#It’s written to <i>you</i>.
 1163	Annie	Heart	Kat	Rey	#It’s a <i>Love Letter</i><br>Tom: Oh no
 1162	Annie	Kat	Rey	#I’m glad we’ll be sharing this room together, Kat
@@ -57,7 +57,8 @@
 1149	Anja	Blush	Annie	Donny	Parley	Rey	Smitty	#Did we miss anything?
 1148	Annie	BismuthSymbol	Rey	#I think we made it…
 1147	Annie	BlinkerStone	Kat	KatsWorkshop	Rey	Robots	Seraph	#Who <i>are</i> you guys?!
-1146	Annie	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#S13, you have long since predicted the coming of an angel1145	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
+1146	Annie	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#S13, you have long since predicted the coming of an angel
+1145	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
 1144	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	#Are you sure about this, Robot?
 1143	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#S13 is being held for the spreading of disinformation and rumour
 1142	Annie	Etherics	Kat	Rey	Robot	Robots	Seraph	Warehouse113	#Just because she is beautiful and angelic in appearance
@@ -158,7 +159,7 @@
 873	Annie	Kat	Roof	Ysengrin	#didn’t he try to kill you at one point?
 872	Annie	Anwyn	Kamlen	Khepi	Roof	#if you like green skin and pointy ears
 871	Annie	Kat	Roof	Landscape	#So… you’re descended from a fire spirit?
-870 	Cover	#<hr>Chapter 33: Give and Take<hr>
+870	Cover	#<hr>Chapter 33: Give and Take<hr>
 869	Annie	Filler	Kat	PrincessMononoke	Rey	#Moro
 868	Annie	Filler	Kat	PrincessMononoke	Rey	#Bah! It’s some manner of animated picture?
 867	Bonus	Bud	Dorm	Habitat	Lindsey	#<hr><b>Bonus Page:</b> Welcome to Year 9!
@@ -205,7 +206,7 @@
 586	Annie	Dorm	Flowers	Jones	Parley	Smitty	Rey	#GET OUT! GET OUT! GET OUT!      LEAVE THE CHOCOLATES!
 585	Annie	Dorm	Flowers	Jones	Parley	Smitty	Sword	Rey	#Interesting. It may be that Parley possesses the power to distort space. A rare power.
 584	Annie	Flowers	Jones	Parley	Smitty	Rey	#Ha! A flower? Y-you sap...
-583	Annie	Court	Diego	Flowers	Gillitie	Jeanne	Jones	Robots	Rey	Siryoung	#Was there a woman among the humans by the name of Jeanne?
+583	Annie	Court	Diego	Flowers	Gillitie	Jeanne	Jones	Robots	Rey	SirYoung	#Was there a woman among the humans by the name of Jeanne?
 582	Annie	Court	Flowers	Gillitie	Jones	Parley	Smitty	Rey	#Coyote Ysengrin and I didn’t arrive until... Later
 581	Annie	Court	Diego	Flowers	Gillitie	Jones	Parley	SeedofBismuth	Simulation	SirYoung	Smitty	Rey	#It is known as the seed Bismuth. There is no record of exactly what it was.
 580	Annie	Court	Diego	Gillitie	Jones	Parley	SeedofBismuth	Simulation	SirYoung	Smitty	Rey	#This is a depiction of the beginnings of the court, before the division caused by coyote
@@ -231,16 +232,16 @@
 560	Filler	CityFace	#I am trying my best to woo that female pigeon but she does not notice me!
 559	Filler	Tea	#<hr>CityFace<hr>
 558	Bonus	Treatise	Annie	Bridge	Court	Coyote	Etherics	Fire	Gillitie	Kat	Latin	MercurySymbol	Moon	Rey	Shadowman	Sun	Sword	Ysengrin	#<b>Bonus Page:</b>Treatise Three. The end of the Second book<hr>
-557	Anja	Dog	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	#You guys aren’t going to believe this... But that guy is our games teacher!
-556	Dog	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	#Don’t forget, double cross country tomorrow James.
-555	Dog	Eglamore	Flashback	Fight	LeadSymbol	Monster	MrThorn	Shadowmen	Sword	#(Eglamore): Hi guys!
-554	Anja	Dog	Donny	Flashback	Fight	LeadSymbol	Monster	MrThorn	Roof	Surma	Sword	#Uh can you guys save it for later?
-553	Anja	Dog	Donny	Etherics	Ethericshield	Fight	Flashback	Monster	Roof	Shadowmen	Surma	#(Second forest dog leaps at young Anja, Donny and Surma. Anja protects them via etheric SPANG barrier)
-552	Anja	Dog	Donny	Flashback	Monster	Roof	Robots	Surma	#Is... Not a real creature. More like... puppet... being called back to forest.
-551	Anja	Dog	Donny	Flashback	Monster	Roof	Robots	Surma	#Some kinda dog! A dog made of wood...
+557	Anja	TreeDog	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	#You guys aren’t going to believe this... But that guy is our games teacher!
+556	TreeDog	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	#Don’t forget, double cross country tomorrow James.
+555	TreeDog	Eglamore	Flashback	Fight	LeadSymbol	Monster	MrThorn	Shadowmen	Sword	#(Eglamore): Hi guys!
+554	Anja	TreeDog	Donny	Flashback	Fight	LeadSymbol	Monster	MrThorn	Roof	Surma	Sword	#Uh can you guys save it for later?
+553	Anja	TreeDog	Donny	Etherics	Ethericshield	Fight	Flashback	Monster	Roof	Shadowmen	Surma	#(Second forest TreeDog leaps at young Anja, Donny and Surma. Anja protects them via etheric SPANG barrier)
+552	Anja	TreeDog	Donny	Flashback	Monster	Roof	Robots	Surma	#Is... Not a real creature. More like... puppet... being called back to forest.
+551	Anja	TreeDog	Donny	Flashback	Monster	Roof	Robots	Surma	#Some kinda dog! A dog made of wood...
 550	Anja	Donny	Flashback	Robots	StopBot	Surma	#Yes, We shall leave now! Thank you! Good job!
-549	Anja	Dog	Donny	Flashback	Monster	Robots	Stopbot	Students	Surma	#c’mon, we have to get a better look at this!
-548	Anja	Dog	Donny	Flashback	Monster	Robots	Surma	#(Large forest dog crashes through a window in front of young Anja, Donny and Surma)
+549	Anja	TreeDog	Donny	Flashback	Monster	Robots	StopBot	Students	Surma	#c’mon, we have to get a better look at this!
+548	Anja	TreeDog	Donny	Flashback	Monster	Robots	Surma	#(Large forest dog crashes through a window in front of young Anja, Donny and Surma)
 547	Anja	BismuthSymbol	Donny	Flashback	Monster	Robots	StopBot	Students	Surma	#The situation does not involve a large monster or two
 546	Eglamore	Flashback	LeadSymbol	MrThorn	RogatOrjak	Teacher	#Have you ever heard of the Rogat Orjak?
 545	Eglamore	Flashback	Hyland	MrThorn	Teacher	#Standing up for a friend. A noble act, cannot be dismissed.
@@ -318,7 +319,7 @@
 206	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#I should at least find out what happened to him.
 205	Annie	DoorBot	Court	Robots	RobotHQ	Seraph	#(Boring Door) There was no handle on the door through which they escaped.
 204	Annie	Court	Montgomery	Robots	Seraph	#i wanted to ask them about him, but they ran away when they saw me.
-203	Annie	BoxBot	Kat	Robot	Robots	ScienceLab	Shadow	#On my way over I saw... Robots! (helloooo!)<br>Tom: nobody likes boxbot
+203	Annie	BoxBot	Kat	Robot	Robots	ScienceLab	Shadow	Terrible	#On my way over I saw... Robots! (helloooo!)<br>Tom: nobody likes boxbot
 202	Annie	Kat	ScienceLab	Shadow	#Kat, that's wonderful! He even sounds like you!
 201	Annie	Kat	ScienceLab	Shadow	#He isn't really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
 200	Cover	#<hr>Chapter 12: Mainly Involves Robots<hr>
