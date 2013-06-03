@@ -147,6 +147,7 @@ SirYoung	Protector of the Court at its founding
 SivoBody	A deceased Rogat Orjak
 SmallBot	a young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
+Speakeasy	A hotel-like place that the students sneak out to with a "speakeasy-like atmosphere"
 StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot
 StarOfDavid	Jewish and alchemical symbol
 Stars	celestial bodies
@@ -163,6 +164,7 @@ Teacher	a miscellaneous teacher
 Terrible	see Boxbot
 Thornhill	One of the other school Houses
 TicToc	birdlike robotic watchers
+Tom	Tom Siddell, author of Gunnerkrigg Court
 Tony	Anthony Carver, Annie’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of Ogee.
 Train	One of many trains that is used to commute in the court

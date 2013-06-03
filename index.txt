@@ -1,4 +1,5 @@
-﻿1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
+﻿1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we're heading off to class now
+1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
 1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
 1201	AnimalLab	Blush	Kat	Paz	#I decide to stop worrying and see what would happen
@@ -26,17 +27,17 @@
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
 1178	Cover	#<hr>Chapter 42: Catalyst<hr>
 1177	CityFace	Filler	#City Face guest comic by City Face
-1176	CityFace	Filler	LaundryList	#City Face guest comic by Tom
-1175	CityFace	Filler	#City Face guest comic 8 by Red and “Blue”
-1174	CityFace	Filler	#City Face guest comic by Gamma (and Zimmy?)
-1173	Annie	CityFace	Filler	Kat	#City Face guest comic by Lindsey
-1172	CityFace	Filler	#City Face guest comic by Mort
-1171	CityFace	Filler	#City Face guest comic by Robot and Shadow
-1170	CityFace	Filler	#City Face guest comic by Renard
-1169	CityFace	Filler	#City Face guest comic by Kat
-1168	CityFace	Filler	#City Face guest comic by Annie
+1176	CityFace	Filler	LaundryList	Tom	#City Face guest comic by Tom
+1175	Blue	CityFace	Filler	Red	#City Face guest comic 8 by Red and “Blue”
+1174	CityFace	Filler	Gamma	Zimmy#City Face guest comic by Gamma (and Zimmy?)
+1173	Annie	CityFace	Filler	Kat	Lindsey	#City Face guest comic by Lindsey
+1172	CityFace	Filler	Mort	#City Face guest comic by Mort
+1171	CityFace	Filler	Robot	Shadow	#City Face guest comic by Robot and Shadow
+1170	CityFace	Filler	Rey	ReyComic	#City Face guest comic by Renard
+1169	CityFace	Filler	Kat	#City Face guest comic by Kat
+1168	Annie	CityFace	Filler	#City Face guest comic by Annie
 1167	Filler	Tea	#<hr>Guest Comics<hr>
-1166	Filler	#“So, how’s it been going?” open letter by Tom
+1166	Filler	Tom	#“So, how’s it been going?” open letter by Tom
 1165	Bonus	Treatise	Annie	AntimonySymbol	BlinkerStone	Court	Coyote	CreatorGlyph	Gillitie	Heart	Kat	Robot	Shadow	Treatise	WanderingEye	Ysengrin	#symbolically summarising the last NN pages…
 1164	Annie	Kat	#It’s written to <i>you</i>.
 1163	Annie	Heart	Kat	Rey	#It’s a <i>Love Letter</i><br>Tom: Oh no
@@ -81,48 +82,48 @@
 974	Cover	#<hr>Chapter 36: Red Gets a Name<hr>
 948	Cover	#<hr>Chapter 35: Parley and Smitty Are In This One<hr>
 947	Bonus	Janet	Kat	Margo	SullivansJohn	Winsbury	#<b>Bonus Page:</b>Backfired
-946	Annie	AnnieCut	Bud	Lindsey	#hey Linds, gimmie a kiss
-945	Annie	Bud	Creeper	Etherics	#They’re a good bunch of kids just having some fun
-944	Annie	Kat	#Scoot, scoot, dearest
-943	Annie	Jack	Kat	Paz	Creeper	#Kat creepin’
-942	Annie	Jack	#well I-
-941	Annie	Jack	Kat	Margo	Paz	SullivansJohn	#The sun’s coming up
-940	Annie	Jack	Ysengrin	#So really… Zimmy?
-939	Bud	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#huh, looks like they don’t believe us!
-938	Janet	Winsbury	#right, right. So you were driving your tricked out horse
-937	Janet	Winsbury	#no no, William, you misremember
-936	Janet	Winsbury	#it all started in year 7 when I was an undercover cop
-935	Bud	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#I’d say you get along pretty well now
-934	Bud	Janet	Kat	Mandolin	Margo	Matt	Paz	SullivansJohn	Winsbury	#no! sing the boys part!
-933	Annie	Jack	#I just don’t know what I’m doing…
-932	Annie	Jack	Roof	#I really am sorry, Jack
-931	Annie	Jack	Roof	#this wasn’t some “flash of anger” thing
-930	Annie	Jack	Roof	#man, talk about baggage!
-929	Annie	Jack	Roof	#You’ve got some strange ideas about revenge, Carver
-928	Annie	Jack	Roof	Spiders	Zimmy	#I-I’m fairly certain she and Gamma are… an item.
-927	Annie	Jack	Roof	Zimmy	#I’m in love with Zimmy!
-926	Annie	Jack	Roof	#Jack… I don’t think I like you very much
-925	Annie	Bud	Jack	Roof	#no, bud can still see us
-924	Blush	Kat	Paz	#I wasn’t hitting on you!
-923	Kat	Paz	#I-I like you but… I-I’m not… like that…
-922	Kat	Paz	#oh Kat, I’m so embarrassed!
-921	Blush	Bud	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#was that necessary, William?
-920	Matt	MoonGirl	WhiteRabbit	#but I can’t stop thinking about her. Oh, and I think she took my mp3 player.
-919	Matt	MoonGirl	MoonPrint	#she was really really obsessed with the moon
-918	Matt	MoonGirl	WhiteRabbit	#so I was walking back from my extended trig class and there was a rabbit.
-917	Janet	Kat	Margo	Matt	Paz	Winsbury	#Hey Matt. Why don’t you tell us about that girl you’re always on about?
-916	Annie	Blush	Bud	Jack	Janet	Kat	Margo	Matt	Paz	Winsbury	#Give to me your hand!
-915	Annie	BlinkerStone	Etherics	Jack	#can I try it?
-914	Annie	BlinkerStone	Bud	Etherics	Jack	Kat	#he’s actually a very powerful psychic
-913	Annie	Jack	Janet	Margo	Matt	Paz	SullivansJohn	Winsbury	#so romantic! Don’t you think so, matt?
-912	Ghosts	Mandolin	Margo	SullivansJohn	#so we went back and we finished it
-911	Ghosts	Margo	SullivansJohn	#even when we left the mandolin behind, they wouldn’t leave us alone
-910	Mandolin	Margo	SullivansJohn	#it sounded great when I played it, but as soon as Margo started singing…
-909	Annie	Bud	Jack	Janet	Kat	Mandolin	Margo	Matt	Paz	SullivansJohn	Winsbury	#hey Margo, look what I brought! Oh nooo! That’s not the haunted one, is it?
-908	Annie	Buzzer	Jack	#we haven’t really talked since before the summer
-907	Annie	Bud	Jack	Kat	#what the wife doesn’t know can’t hurt her, right?
-906	Annie	Bud	Jack	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#so… no trouble?
-905	Annie	Dorms	Janet	Kat	Landscape	Lindsey	MoonPrint	Paz	Robots	#girls sneaking out
+946	Annie	AnnieCut	Bud	Etherics	Lindsey	Speakeasy	#hey Linds, gimmie a kiss
+945	Annie	Bud	Creeper	Etherics	Speakeasy	#They’re a good bunch of kids just having some fun
+944	Annie	Kat	Speakeasy	#Scoot, scoot, dearest
+943	Annie	Jack	Kat	Paz	Speakeasy	Creeper	#Kat creepin’
+942	Annie	Jack	Speakeasy	#well I-
+941	Annie	Buzzer	Jack	Kat	Margo	Paz	Speakeasy	SullivansJohn	#The sun’s coming up
+940	Annie	Jack	Speakeasy	Ysengrin	#So really… Zimmy?
+939	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#huh, looks like they don’t believe us!
+938	Janet	Speakeasy	Winsbury	#right, right. So you were driving your tricked out horse
+937	Janet	Speakeasy	Winsbury	#no no, William, you misremember
+936	Janet	Speakeasy	Winsbury	#it all started in year 7 when I was an undercover cop
+935	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#I’d say you get along pretty well now
+934	Bud	Janet	Kat	Mandolin	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#no! sing the boys part!
+933	Annie	Jack	Speakeasy	#I just don’t know what I’m doing…
+932	Annie	Jack	Roof	Speakeasy	#I really am sorry, Jack
+931	Annie	Jack	Roof	Speakeasy	#this wasn’t some “flash of anger” thing
+930	Annie	Jack	Roof	Speakeasy	#man, talk about baggage!
+929	Annie	Jack	Roof	Speakeasy	#You’ve got some strange ideas about revenge, Carver
+928	Annie	Jack	Roof	Speakeasy	Spiders	Zimmy	#I-I’m fairly certain she and Gamma are… an item.
+927	Annie	Jack	Roof	Speakeasy	Zimmy	#I’m in love with Zimmy!
+926	Annie	Jack	Roof	Speakeasy	#Jack… I don’t think I like you very much
+925	Annie	Bud	Jack	Roof	Speakeasy	#no, bud can still see us
+924	Blush	Kat	Paz	Speakeasy	#I wasn’t hitting on you!
+923	Kat	Paz	Speakeasy	#I-I like you but… I-I’m not… like that…
+922	Kat	Paz	Speakeasy	#oh Kat, I’m so embarrassed!
+921	Blush	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#was that necessary, William?
+920	Matt	MoonGirl	Speakeasy	WhiteRabbit	#but I can’t stop thinking about her. Oh, and I think she took my mp3 player.
+919	Matt	MoonGirl	MoonPrint	Speakeasy	#she was really really obsessed with the moon
+918	Matt	MoonGirl	Speakeasy	WhiteRabbit	#so I was walking back from my extended trig class and there was a rabbit.
+917	Janet	Kat	Margo	Matt	Paz	Speakeasy	Winsbury	#Hey Matt. Why don’t you tell us about that girl you’re always on about?
+916	Annie	Blush	Bud	Jack	Janet	Kat	Margo	Matt	Paz	Speakeasy	Winsbury	#Give to me your hand!
+915	Annie	BlinkerStone	Etherics	Jack	Speakeasy	#can I try it?
+914	Annie	BlinkerStone	Bud	Etherics	Jack	Kat	Speakeasy	#he’s actually a very powerful psychic
+913	Annie	Jack	Janet	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#so romantic! Don’t you think so, matt?
+912	Ghosts	Mandolin	Margo	Speakeasy	SullivansJohn	#so we went back and we finished it
+911	Ghosts	Margo	Speakeasy	SullivansJohn	#even when we left the mandolin behind, they wouldn’t leave us alone
+910	Mandolin	Margo	Speakeasy	SullivansJohn	#it sounded great when I played it, but as soon as Margo started singing…
+909	Annie	Bud	Jack	Janet	Kat	Mandolin	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#hey Margo, look what I brought! Oh nooo! That’s not the haunted one, is it?
+908	Annie	Buzzer	Jack	Speakeasy	#we haven’t really talked since before the summer
+907	Annie	Bud	Jack	Kat	Speakeasy	#what the wife doesn’t know can’t hurt her, right?
+906	Annie	Bud	Jack	Janet	Kat	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#so… no trouble?
+905	Annie	Dorms	Janet	Kat	Landscape	Lindsey	Moon	MoonPrint	Paz	Robots	Speakeasy	#girls sneaking out
 904	Annie	Buzzer	Dorms	Janet	Kat	Margo	Paz	Rey	Robots	#thanks for your help, robots!
 903	Annie	Janet	Kat	KatsWorkshop	Margo	Paz	Robots	#so… we’ll be out all night?
 902	Annie	Buzzer	Janet	Kat	Margo	Paz	Robots	Robotics	#if we keep quiet, she will think the robots are leaving, not us.
@@ -202,7 +203,7 @@
 588	Annie	Flowers	Jeanne	Jones	Rey	#What made you ask about a woman named Jeanne before?
 587	Annie	Flowers	Jones	Smitty	Rey	#Don’t you think that was a little cruel?
 586	Annie	Dorm	Flowers	Jones	Parley	Smitty	Rey	#GET OUT! GET OUT! GET OUT!      LEAVE THE CHOCOLATES!
-585	Annie	Dorm	Flowers	Jones	Parley	Smitty	Sword	Rey	#Interesting. It may be that Parley posesses the power to distort space. A rare power.
+585	Annie	Dorm	Flowers	Jones	Parley	Smitty	Sword	Rey	#Interesting. It may be that Parley possesses the power to distort space. A rare power.
 584	Annie	Flowers	Jones	Parley	Smitty	Rey	#Ha! A flower? Y-you sap...
 583	Annie	Court	Diego	Flowers	Gillitie	Jeanne	Jones	Robots	Rey	Siryoung	#Was there a woman among the humans by the name of Jeanne?
 582	Annie	Court	Flowers	Gillitie	Jones	Parley	Smitty	Rey	#Coyote Ysengrin and I didn’t arrive until... Later
@@ -215,13 +216,13 @@
 575	Annie	Flowers	Jones	Parley	Smitty	Rey	#I think you detect a hint of shut your face.
 574	Annie	DrDisaster	Flowers	Jones	Parley	Smitty	Rey	#I don’t know what happened! A glitch in the simulator.
 573	Annie	Jones	Parley	Smitty	Rey	#Smitface ruined the sim!
-572	Annie	Moon	Parley	Simulation	Smitty	#After all these years! our ancient artifact returned to us!
-571	Annie	Moon	Parley	Simulation	Smitty	#They receive a strange request from the king of the jupiter moon martians himself!
-570	Cover	#<hr>Chapter 23: Terror castle of the Jupiter moon martians! A spacemonauts adventure!<hr>
+572	Annie	Moon	Parley	Simulation	Smitty	#After all these years! our ancient artefact returned to us!
+571	Annie	Moon	Parley	Simulation	Smitty	#They receive a strange request from the king of the Jupiter moon Martians himself!
+570	Cover	#<hr>Chapter 23: Terror castle of the Jupiter moon Martians! A spacemonauts adventure!<hr>
 569	Filler	Cityface	Fairies	#Bye, pigeon face! I knew you could do it!
 568	Filler	Cityface	Fairies	#Is she looking?? Oh my gosh I think she is!
 567	Filler	Cityface	Fairies	#It’s because of Humans!
-566	Filler	Cityface	Fairies	#I am here to help you learn the lovliest of dances!
+566	Filler	Cityface	Fairies	#I am here to help you learn the loveliest of dances!
 565	Filler	Cityface	Gamma	Zimmy	#It wer a joke, mate!
 564	Filler	Cityface	Zimmy	#I got the answer to all yerz troubles, fella. Right here.. in my mouf!
 563	Filler	Cityface	Fairies	#I gotta go give the gift of dance to an induvidual in need!
