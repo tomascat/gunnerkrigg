@@ -29,7 +29,7 @@
 1177	CityFace	Filler	#City Face guest comic by City Face
 1176	CityFace	Filler	LaundryList	Tom	#City Face guest comic by Tom
 1175	Blue	CityFace	Filler	Red	#City Face guest comic 8 by Red and “Blue”
-1174	CityFace	Filler	Gamma	Zimmy	#City Face guest comic by Gamma (and Zimmy?)
+1174	CityFace	Filler	Gamma	Zimmy#City Face guest comic by Gamma (and Zimmy?)
 1173	Annie	CityFace	Filler	Kat	Lindsey	#City Face guest comic by Lindsey
 1172	CityFace	Filler	Mort	#City Face guest comic by Mort
 1171	CityFace	Filler	Robot	Shadow	#City Face guest comic by Robot and Shadow
@@ -81,31 +81,6 @@
 1026	Cover	#<hr>Chapter 38: Divine<hr>
 1002	Cover	#<hr>Chapter 37: Microsat 5<hr>
 974	Cover	#<hr>Chapter 36: Red Gets a Name<hr>
-973	Bonus	Cookie	Jan	Parley	Smitty	#<hr><b>Bonus Page:<b>Parley Display of Affection<hr>
-972	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#truly, I’ve never seen anything like it
-971	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#shadow, you are three dimensional now.
-970	Annie	Bip	Kat	Robot	Shadow	
-969	Kat	Robot	Shadow	#i love my good friend, shadow
-968	Bip	Kat	FlowerHeadband	Parley	Robot	Smitty	#let’s get you fixed up!
-967	Annie	Bip	FlowerHeadband	Kat	Parley	Robot	Shadow	Smitty	#i’m okay, I just feel… really weird…
-966	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#urghh… i… don’t feel so… good…
-965	CoyoteTooth	Parley	Robot	Shadow	#Tom: sharp enough to cut a shadow from the floor
-964	Annie	CoyoteTooth	FlowerHeadband	Kat	Parley	Robot	#well how sharp can it-
-963	Annie	CoyoteTooth	Parley	#it’s one of coyote’s teeth
-962	Annie	DiegoBot	CoyoteTooth	Parley	Rey	Robot	Seraph	Shadow	#Parley, I have something you may be able to use
-961	Annie	Bip	Kat	Parley	Rey	Robot	Shadow	Smitty	#Bip and Barge!
-960	Bip	Parley	Robot	Shadow	#don’t stop ‘til you hit me this time!
-959	Parley	Robot	#don’t apologise, man, this is awesome!
-958	Annie	FlowerHeadband	Parley	Robot	Shadow	#Whoa, hey, you’re not holding back on me, are ya?!
-957	Annie	FlowerHeadband	Kat	Rey	Smitty	#you must admit, it is a nice sight
-956	Parley	Robot	Shadow	#fencing…
-955	Annie	FlowerHeadband	Jeanne	Kat	Parley	Rey	Robot	Smitty	#okay! you up for some sparring, robby?
-954	Annie	Bip	FlowerHeadband	Kat	Parley	Rey	Robot	Shadow	Smitty	#did you just do that thing where you say “bam” right when I decide to jump?
-953	Annie	FlowerHeadband	Kat	Rey	Robot	Smitty	#Reynard is the resident ladies expert
-952	Annie	Bip	FlowerHeadband	Kat	Parley	Rey	Smitty	#sorry about that. It happens sometimes
-951	Cookie	Jan	Parley	Smitty	#byee, little lovelies!
-950	Annie	Bip	BismuthSymbol	Cookie	FlowerHeadband	Jan	Kat	Parley	Smitty	#aw, look, parley, it’s your kiddy club!
-949	Annie	Bip	FlowerHeadband	Kat	Parley	Rey	Smitty	#is she not here yet? Ahem… bam. BIP
 948	Cover	#<hr>Chapter 35: Parley and Smitty Are In This One<hr>
 947	Bonus	Janet	Kat	Margo	SullivansJohn	Winsbury	#<b>Bonus Page:</b>Backfired
 946	Annie	AnnieCut	Bud	Etherics	Lindsey	Speakeasy	#hey Linds, gimmie a kiss
@@ -175,7 +150,7 @@
 882	Annie	Etherics	Kat	KatsWorkshop	Robots	Robotics	DiegoBot	#What if these are not really robots in the modern sense, but golems?
 881	Annie	Kat	Robots	KatsWorkshop		DiegoBot	#how come you guys picked a creepy looking robot
 880	Annie	DiegosStudy	Heart	Kat	Robotics	#the bad news is that all his work is written in gibberish
-879	Annie	Diego	DiegosStudy	Kat	Robots	#He somehow made machines that could move despite not having internal mechanisms like modern robots
+879	Annie	Diego	DiegosStudy	Kat	Robots	
 878	Robot	Roof	Shadow	Creeper	#should you really be following her around like this?
 877	Annie	Kat	Robot	Roof	SeedOfBismuth	#I wonder how the court was built
 876	Annie	Kat	Robotics	Roof	#I guess clearing my mind was harder than I thought
@@ -210,7 +185,7 @@
 847	Annie	Anwyn	Bind	CoyoteTooth	Dorm	Homework	Khepi	Rey	#I’m so sorry for what I said
 846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
 845	Dorm	Rey	#Waiting Reynardine
-844	Cover	#Year 9<hr>Chapter 32: From the Forest She Came<hr>
+844	Cover	#<hr>Chapter 32: From the Forest She Came<hr>
 789	Cover	#<hr>Chapter 31: Fire Spike<hr>
 761	Cover	#<hr>Chapter 30: The Coward Heart<hr>
 743	Cover	#<hr>Chapter 29: A Bad Start<hr>
@@ -353,20 +328,6 @@
 361	Cover	#<hr>Chapter 17: The Medium Beginning<hr>
 331	Cover	#<hr>Chapter 16: A Ghost Story<hr>
 305	Cover	#Year 8<hr>Chapter 15: Red Returns<hr>
-272	Annie	CourtHall	Coyote	Jones	Headmaster	Parley	Smitty	#What game is this, Surma? Why are they saying you are dead?
-271	Anja	CourtHall	Coyote	Parley	Smitty	Ysengrin	#What is this? Where is your medium?
-270	Anja	Annie	CourtHall	Coyote	Donny	Eglamore	Headmaster	Ysengrin	#Is that you general? What the devil have you done to yourself?
-269	Annie	BismuthSymbol	CourtHall	Eglamore	Parley	Smitty	Symbol	Ysengrin	#She worked here as a medium, right? (Ysengrin and Eglamore make a dramatic entrance)
-268	Annie	CourtHall	Parley	Smitty	#Jeez! You're Surma Stibnite's kid?!
-267	Annie	BismuthSymbol	CourtHall	Headmaster	Jones	Parley	Smitty	SunSymbol	#Bah! I had all me stuff packed already. I look a mess! (People gather in the main court hall)
-266	AlyShirt	Anja	Annie	BlinkerStone	DonlanHouse	Eglamore	Kat	Roof	#There are more important things to focus on for now.
-265	AlyShirt	Anja	Annie	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#Well, I'll go and gather the usual people in the greeting hall.
-264	AlyShirt	Anja	Annie	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#The people of the forest are requesting a visit.
-263	AlyShirt	Anja	Annie	BlinkerStone	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#I can only use the stone to make fire.
-262	Anja	Annie	BlinkerStone	Court	CourtSymbol	DonlanHouse	ForestSymbol	Gillitie	Roof	#It's a signal from the forest. We have to reply.
-261	AlyShirt	Anja	Annie	DonlanHouse	ForestSymbol	Kat	Roof	SilverSymbol	#Wow! What is it?!
-260	AlyShirt	Anja	Annie	DonlanHouse	Kat	SilverSymbol	#You would of course be welcome to come with us over the summer.
-259	Annie	Court	Coyote	Gillitie	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#And the second was when a god emerged from Gillitie Wood.
 258	Cover	#<hr>Chapter 14: The Fangs Of Summertime<hr>
 228	Cover	#<hr>Chapter 13: A Week For Kat<hr>
 227	Bonus	Annie	Dorm	Rey	#<b>Bonus Page:</b> Adonis in Stitches (Rey tries to excite Annie by generating a muscly human body)
@@ -443,7 +404,7 @@
 123	Annie	GoodHope	Surma	#Now I know how the glass felt
 122	Annie	GoodHope	#I dropped a glass.
 121	Cover	#<hr>Chapter 8: Broken Glass and Other Things<hr>
-120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	Hexagram	Stars	Sun	Trees	VII	WaterSymbol	#<b>Bonus Page:</b> Treatise One (<i>Ora lege relege labora et invenies</i> = Pray, Read, Reread, Work and You Shall Find)
+120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	StarOfDavid	Stars	Sun	Trees	VII	WaterSymbol	#<b>Bonus Page:</b> Treatise One (<i>Ora lege relege labora et invenies</i> = Pray, Read, Reread, Work and You Shall Find)
 119	Annie	Bridge	Eglamore	TicToc	#(Annie falls off the bridge)
 118	Annie	Bridge	Rey	Robot	Shadowman	Sword	WoodenArm	#(Robot pushes Annie, the sword flies into him, breaking his body and slicing the WoodenArm and the Shadowman)
 117	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	Sword	TicToc	WoodenArm	#Oh! So this is Reynardine? Well now, this makes things much easier!
