@@ -9,6 +9,7 @@ Anja	Anja Donlan, Kat’s mother
 Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist (Fire Head Girl)
 AnnieCut	The cut on Annie’s face from Jeanne’s sword
+AnnieJumper	Annie's original school jumper
 AntiGravGenerator	An anti-gravity generator that Kat made for the science fair
 AntiGravShip	An anti-gravity ship that Kat made out of the anti-gravity generator
 AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Surma
@@ -61,12 +62,14 @@ Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
 Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
 EglamoreKnife	A switchblade/flick knife that Eglamore treasures
+Employees	Miscellaneous Court employees
 EnigmaronLair	Where the Enigmarons hang out
 Enigmarons	Bad guy aliens in a simulation
 Etherics	manipulation of the Ether – “magic”
 EthericShield	An etheric/magical shield
 EugeneGould	explorer
-EyeSymbol	A crossed out eye that is a complex warding sign
+EyeCrossed	A crossed out eye that is a complex warding sign
+EyeSymbol	An eye symbol associated with Coyote and Gillitie
 Fairies	Gillitie Wood is full of them
 Fight	When two people have a disagreement, violently.
 Filler	not a mainstream story comic

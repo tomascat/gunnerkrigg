@@ -81,7 +81,7 @@
 1026	Cover	#<hr>Chapter 38: Divine<hr>
 1002	Cover	#<hr>Chapter 37: Microsat 5<hr>
 974	Cover	#<hr>Chapter 36: Red Gets a Name<hr>
-973	Bonus	Cookie	Jan	Parley	Smitty	#<hr><b>Bonus Page:<b>Parley Display of Affection<hr>
+973	Bonus	Cookie	Jan	Parley	Smitty	#<b>Bonus Page:<b>Parley Display of Affection
 972	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#truly, I’ve never seen anything like it
 971	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#shadow, you are three dimensional now.
 970	Annie	Bip	Kat	Robot	Shadow	
@@ -330,15 +330,15 @@
 522	Anja	Argument	Annie	BlinkerStone	Kat	Mort	#I suppose you think this is funny?
 521	Anja	Annie	BlinkerStone	Etherics	Mort	Kat	#Blinker stones are traditionally given between couples
 520	Anja	Annie	Court	Etherics	Kat	Rey	#Some say that isn’t good enough if you can’t explain how it works.
-519	Anja	Annie	BlinkerStone	Court	Donny	Eglamore	Etherics	EyeSymbol	Kat	#I tattooed them both myself. Good times, good times.
+519	Anja	Annie	BlinkerStone	Court	Donny	Eglamore	Etherics	EyeCrossed	Kat	#I tattooed them both myself. Good times, good times.
 518	Annie	AnnieCut	BlinkerStone	Etherics	Rey	#Anja forgot to mention that spying with a blinker stone is not recommended
 517	Anja	Annie	BlinkerStone	Court	Donny	Etherics	EthericShield	Kat	Rey	#Tom: Annie’s just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
-516	Anja	Annie	BismuthSymbol	Court	EthericShield	EyeSymbol	Kat	Rey	#How can a glowing… floaty… symbol be a program?
+516	Anja	Annie	BismuthSymbol	Court	EthericShield	EyeCrossed	Kat	Rey	#How can a glowing… floaty… symbol be a program?
 515	Anja	Annie	BlinkerStone	Court	Etherics	Kat	#Others may call these methods Magic, The court, prefers to refer to them as “Etheric Sciences”
-514	Anja	Annie	BlinkerStone	Etherics	EthericShield	EyeSymbol	Kat	KatsWorkshop	Rey	#Oh… hmm… Why Don’t we go talk in the office.
+514	Anja	Annie	BlinkerStone	Etherics	EthericShield	EyeCrossed	Kat	KatsWorkshop	Rey	#Oh… hmm… Why Don’t we go talk in the office.
 513	Anja	Annie	BlinkerStone	Etherics	Kat	KatsWorkshop	#Anja, Are you a magician of some sort?
 512	Anja	Annie	AnnieCut	BlinkerStone	Etherics	Gillitie	KatsWorkshop	Roof	#I can see into the horizon, there are so many colours coming from the forest.
-511	Anja	Annie	AnnieCut	BlinkerStone	Etherics	EyeSymbol	Kat	KatsWorkshop	Rey	#I hid your stone outside
+511	Anja	Annie	AnnieCut	BlinkerStone	Etherics	EyeCrossed	Kat	KatsWorkshop	Rey	#I hid your stone outside
 510	Anja	Annie	AnnieCut	BlinkerStone	Etherics	Kat	KatsWorkshop	#It’s gotta be some kind of matter transference!
 509	Anja	Annie	BlinkerStone	Kat	KatsWorkshop	#Did you know you can never lose a blinker stone?
 508	Anja	Annie	BlinkerStone	Kat	KatsWorkshop	RobotParts	Robox	Rey	#Time to learn a little more about your blinker stone Annie, what do you say?
@@ -353,6 +353,18 @@
 361	Cover	#<hr>Chapter 17: The Medium Beginning<hr>
 331	Cover	#<hr>Chapter 16: A Ghost Story<hr>
 305	Cover	#Year 8<hr>Chapter 15: Red Returns<hr>
+284	CourtHall	Coyote	Ysengrin	#My sincerest apologies. Poor Ysengrin is so easy to rile these days.
+283	Annie	CourtHall	Donny	Eglamore	EthericShield	Rey	Sword	Ysengrin	#(Ysengrin shoots his arm out to attack Annie, Rey steps in front and Donny's etheric shield stops it)
+282	Annie	CourtHall	Coyote	Spankies	Ysengrin	#You never could resist a pretty girl, could you?!
+281	Annie	AntimonySymbol	CourtHall	Coyote	Rey	Robot	WoodenArm	#Won't you come back to the forest with us, dearest cousin?
+280	AntimonySymbol	CourtHall	Coyote	Employees	Rey	Ysengrin	#I tremble in the presence of your terrifying skills of gardening, Ysengrin.
+279	Annie	AnnieJumper	AntimonySymbol	CourtHall	Coyote	Headmaster	Rey	Ysengrin	#You fools are making jackasses of yourselves!
+278	Anja	Annie	AnnieJumper	CourtHall	Donny	Eglamore	Headmaster	Ysengrin	#Furthermore, we have proof that Anthony Carver was the one who planted the device there!
+277	Anja	CourtHall	Donny	TicToc	Ysengrin	#We've wanted to capture one of them for a long time. If we could just study the remains...
+276	Anja	Annan	Annie	CourtHall	Coyote	Donny	Eglamore	Gillitie	Headmaster	TicToc	Ysengrin	#It's one of those birds!
+275	Annie	CourtHall	Coyote	Eglamore	Jones	Headmaster	Muut	Ysengrin	#Perhaps with the death of one of our people. At the hands of Sir Eglamore no less.
+274	Annie	CourtHall	Coyote	EyeSymbol	Shadowmen	Sun	Ysengrin	#Your creations had glass eyes because of it
+273	Anja	Annie	CourtHall	Coyote	Donny	Eglamore	#Eglamore you hound!
 272	Annie	CourtHall	Coyote	Jones	Headmaster	Parley	Smitty	#What game is this, Surma? Why are they saying you are dead?
 271	Anja	CourtHall	Coyote	Parley	Smitty	Ysengrin	#What is this? Where is your medium?
 270	Anja	Annie	CourtHall	Coyote	Donny	Eglamore	Headmaster	Ysengrin	#Is that you general? What the devil have you done to yourself?
@@ -437,7 +449,7 @@
 129	Annan	Annie	Blue	Gillitie	Red	Shadow	#He says it was some other shadow guy dat made your friend push you off the bridge.
 128	Annan	Annie	Blue	Gillitie	Red	Robot	Shadow	WoodenArm	#You did something to poor robot, and I won’t allow you to do the same to me.
 127	Annan	Annie	Gillitie	Scissors	TicToc	#Well, mechanical or not, you and your friends saved my life
-126	Annan	Annie	Jeanne	Jumper	Gillitie	TicToc	#in the distance there was a light, shining dimly from the opposite shore.
+126	Annan	Annie	AnnieJumper	Jeanne	Gillitie	TicToc	#in the distance there was a light, shining dimly from the opposite shore.
 125	Annan	Annie	Gillitie	TicToc	#If it’s not too much trouble, perhaps the other shore would be a better…
 124	Annan	Annie	Gillitie	TicToc	#(TicTocs catch Annie and carry her to the riverbank)
 123	Annie	GoodHope	Surma	#Now I know how the glass felt
@@ -456,8 +468,8 @@
 110	AlchemyChart	Annie	BismuthSymbol	Kat	Rey	ScienceLab	VenusSymbol	#Kat, I’m sorry I caused a scene this morning.
 109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	#You still carry that thing, Jim?
 108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Kat	Rey	#Criminal or not, I won’t allow him to be subjected to that again.
-107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	EthericShield	EyeSymbol	Rey	#I can take anything with eyes, be they real or not.
-106	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeSymbol	Rey	#Damn you, girl! And I had the perfect disguise!
+107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	EthericShield	EyeCrossed	Rey	#I can take anything with eyes, be they real or not.
+106	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeCrossed	Rey	#Damn you, girl! And I had the perfect disguise!
 105	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	Rey	#If you don’t mind; I also have something I think you should see
 104	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	#But when Anthony wants to disappear, he’ll do so.
 103	Annie	Anja	Blush	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who’s this cute guy here? That… that would be me.
@@ -507,13 +519,13 @@
 59	Cover	#<hr>Chapter 4: Not Very Scary<hr>
 58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<b>Bonus Page:</b> Rogat Orjak (Hardwick and Little’s Bestiary)
 57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
-56	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
-55	AnimalCells	Annie	Eglamore	EyeSymbol	LeadSymbol	SivoBody	#The body originally belonged to a Rogat Orjak named Sivo
-54	AnimalCells	Annie	AntimonySymbol	Eglamore	EyeSymbol	Lockpicks	Rey	MercurySymbol	WolfToy	#(Rey’s spirit enters the Wolf Toy instead)
+56	AnimalCells	Annie	Eglamore	EyeCrossed	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
+55	AnimalCells	Annie	Eglamore	EyeCrossed	LeadSymbol	SivoBody	#The body originally belonged to a Rogat Orjak named Sivo
+54	AnimalCells	Annie	AntimonySymbol	Eglamore	EyeCrossed	Lockpicks	Rey	MercurySymbol	WolfToy	#(Rey’s spirit enters the Wolf Toy instead)
 53	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	MercurySymbol	WolfToy	#(Rey leaves his body as a spirit and hovers over Annie. Eglamore knocks Annie out of the way)
 52	AnimalCells	Annie	Rey	MercurySymbol	WolfToy	#In fact what I need is… your body!
 51	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	Sword	#Hiding behind a little girl isn’t exactly very sporting
-50	AnimalCells	Annie	Eglamore	EyeSymbol	Rey	Sword	#(Large Animal Holding Cells. Annie peers in, Rey is lying down, Eglamore standing in front of him)
+50	AnimalCells	Annie	Eglamore	EyeCrossed	Rey	Sword	#(Large Animal Holding Cells. Annie peers in, Rey is lying down, Eglamore standing in front of him)
 49	Annie	Court	Train	TrainStation	WolfToy	#I realised for the first time that I’d barely seen anyone other than the people in my class
 48	Annie	Hospital	Lockpicks	TicToc	WolfToy	#Judging by the state Reynardine was in, I deduced his prison was somewhere on the school grounds.
 47	Annie	Hospital	Rey	Surma	#My mother could not be the only person with this name
