@@ -16,6 +16,7 @@ Axe	Often used to chop wood
 Basil	Minotaur
 BeckyGround	A student
 Bind	mystical binding hoodoo
+Bip	Parley’s teleportation. May be accompanied by BARGE.
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
 Blackboard	classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
 BlinkerStone	Etheric lens device
@@ -37,6 +38,7 @@ Circus	creepy and filled with clowns
 CityFace	A pigeon
 Classroom	Where they have classes
 Clowns	creepy, no-one likes them
+Cookie	Cookie Monster(?), enthusiastic friend of Parley
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
 Cover	A chapter cover
 Coyote	Trickster; the creator of all; he does not exist, he says
@@ -80,9 +82,11 @@ Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
 Headmaster	Mr Llanwellyn, Janet's father; surprisingly grey, apathetic man, with bad posture
 Heart	a heart sign, symbol, glyph or character
+FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
 Hospital	The hospital within the court
 Hyland	Jack's father and classmate of Eglamore, Donny, Anja and Surma. Not very nice to Anja or Surma.
 JackHyland	A boy with spiders in his hair, in the same year as Annie and Kat.
+Jan	January, curt friend of Parley
 Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
 Jones	a name of Wandering Eye
@@ -189,3 +193,8 @@ WoodenArm	A mysterious wooden arm from Gillitie
 YoungsPark	A large park within the Court, looked after by Bob and his wife Marcia
 Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
 Zimmy	aka Zeta, a strange girl who is friends with Gamma
+
+
+
+
+
