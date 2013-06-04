@@ -29,7 +29,7 @@
 1177	CityFace	Filler	#City Face guest comic by City Face
 1176	CityFace	Filler	LaundryList	Tom	#City Face guest comic by Tom
 1175	Blue	CityFace	Filler	Red	#City Face guest comic 8 by Red and “Blue”
-1174	CityFace	Filler	Gamma	Zimmy#City Face guest comic by Gamma (and Zimmy?)
+1174	CityFace	Filler	Gamma	Zimmy	#City Face guest comic by Gamma (and Zimmy?)
 1173	Annie	CityFace	Filler	Kat	Lindsey	#City Face guest comic by Lindsey
 1172	CityFace	Filler	Mort	#City Face guest comic by Mort
 1171	CityFace	Filler	Robot	Shadow	#City Face guest comic by Robot and Shadow
