@@ -24,6 +24,7 @@ Bind	mystical binding hoodoo
 Bip	Parley’s teleportation. May be accompanied by BARGE.
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
 Blackboard	classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
+BlackPen	A black marker pen used to draw faces.
 BlinkerStone	Etheric lens device
 Blue	A crazy fairy obsessed with hair
 Blush	happy/embarrassed
@@ -56,7 +57,8 @@ Creeper	someone who is creeping
 Crying	when salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 Dryad	Folk who can control and travel through the trees themselves, Marcia is one.
 Diego	former creepy robotics expert
-DiegosStudy	home of all things ancient robot
+DiegoBot	One of the origional robots created by Diego many years ago
+DiegoStudy	home of all things ancient robot
 Dirty	What you become when you don't wash for a while
 Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
 DoorBot	A cranky old man robot who guards the door to the RobotHQ
@@ -90,6 +92,7 @@ Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are
 God	What is god?
 GoodHope	Good Hope Hospital is where Surma was before she died
+GroundSymbol	The electronic symbol for ground
 Gym	school gymnasium
 Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
@@ -131,6 +134,7 @@ MoonGirl	Chang’e
 MoonPrint	thumbprint on the moon
 Mort	A ghost
 MrThorn	Mr Thorn, Court protector and games teacher to Annie and Kat's parents.
+Music	Everyone loves music!
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
 NancyDrew	A series of novels featuring a teenage girl solving mysteries.
 NapoleonHat	A fitting hat for Reynardine the Great!
@@ -150,6 +154,7 @@ Rey	Reynardine/Renard, a crafty fox spirit
 River	comes as advertised
 Robot	Messianic S-13
 RobotHQ	Where the Robots hang out
+RobotKing	A robot with a crown, blank face, and a pen.
 Robotics	like Etherics but with metal
 RobotParts	Bits of robots currently not attached
 Robots	a collective noun
@@ -169,17 +174,19 @@ SimRocket	A rocket in Dr Disaster’s simulation
 Simulation	One of Dr Disaster’s holographic simulations
 SirYoung	Protector of the Court at its founding
 SivoBody	A deceased Rogat Orjak
+SkyWatcher	A praying mantis-like robot that collects meteorological data.
 SmallBot	a young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 Speakeasy	A hotel-like place that the students sneak out to with a "speakeasy-like atmosphere"
 StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot
 Stars	celestial bodies
+Steadman	An archer, present at the founding of the court. 
 StopBot	Model B robots with stop signs for heads and boxing glove arms.
 Students	miscellaneous students
 SubDorm	Year 9’s dorm: a retrofitted sub aquatic deep sea drilling platform
 SullivansJohn	Sullivan’s John. A student who likes to play the mandolin
 Sun	our closest star!
-SunSymbol	Alchemical symbol for the Sun
+SunSymbol	Alchemical symbol for the Sun, doubles as the symbol for gold.
 Surma	Surma Stibnite, Annie’s mother
 Symbol	Unidentified symbol (please help!)
 Sword	Comes as advertised
@@ -195,6 +202,7 @@ Tony	Anthony Carver, Annie’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of Ogee.
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
+Traitor	One who betrays their allies
 Treatise	Symbolic representation of the story
 TreeDog	They usually go woof, unless created by the forest
 Trees	come as advertised (usually)

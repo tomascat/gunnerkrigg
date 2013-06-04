@@ -217,6 +217,36 @@
 717	Cover	#<hr>Chapter 28: Spring Heeled Part 2<hr>
 689	Cover	#<hr>Chapter 27: Spring Heeled<hr>
 663	Cover	#<hr>Chapter 26: The Old Dog’s Tricks<hr>
+662	Filler	Gamma	Zimmy	#Another year...
+661	Bonus	Flowers	Robots	Students	#<b>Bonus page<b>Robot Handling. Section H: miscellanious. Robots may sometimes become attracted to you
+660	Angel	Diego	Robot	Robots	Roof	SkyWatcher	#The number of angels I have seen is One.
+659	Angel	Crying	Diego	LaserCow	Robot	RobotHQ	Robots	SkyWatcher	#"Love makes you act in strange ways."
+658	Angel	BlackPen	Crying	DiegoBot	DiegoStudy	Jeanne	Robot	RobotKing	Robots	SkyWatcher	#Please, dearest angel, help us understand...
+657	Diego	DiegoBot	Flashback	Heart	Jeanne	Monster	Robots	SirYoung	#...and I did nothing
+656	Annan	Archery	Diego	DiegoBot	Flashback	Gilittie	Jeanne	Moon	SirYoung	Steadman	#We will bury what was done here this night.
+655	Diego	DiegoBot	Flashback	Jeanne	#It didn't have to be this way...
+654	Annan	Archery	Court	Diego	DiegoBot	Flashback	Jeanne	SirYoung	#It must be Jeanne.
+653	Archery	Court	Diego	DiegoBot	Flashback	SirYoung	Steadman	#The device is ready, Sir Young
+652	Diego	DiegoBot	Fight	Flashback	Jeanne	Robots	Traitor	#So she still loves that traitor does she?
+651	Diego	DiegoBot	Fight	Flashback	Gillitie	Jeanne	Robots	Sword	Traitor	#Get out you horrible little man!
+650	Annan	Court	Diego	DiegoBot	Flashback	Gillitie	Jeanne	Robots	Sword	#Who needs the trees and animals of the forest?
+649	Diego	DiegoBot	Flashback	Jeanne	Robots	Sword	#Another little toy Diego?
+648	Annie	Diego	DiegoBot	DiegoStudy	Flashback	Kat	RobotKing	RobotParts	Robots	#Please awaken and show us your story once more.
+647	Annie	BismuthSymbol	DiegoBot	DiegoStudy	Kat	RobotHQ	RobotKing	Robots	#What IS all this?
+646	AdminBot	Angel	Annie	AntimonySymbol	Kat	RobotHQ	RobotKing	Robots	SunSymbol	TicToc	#It was created by a divine being and sent to watch over us all
+645	Angel	Annie	Kat	Music	RobotKing	Robots	RobotTomb	#Sweet angel, Kat, we beg for your help!
+644	Annie	BlackPen	Crying	GroundSymbol	Jeanne	Kat	RobotKing	Robots	RobotTomb	Stars	Sword	#The saddest face!
+643	Angel	Annie	BlackPen	Kat	KatsWorkshop	Music	RobotKing	Robots	RobotTomb	#I demand to see it!
+642	Annie	BismuthSymbol	Kat	KatsWorkshop	Music	RobotKing	Robots	SkyWatcher	SunSymbol	#What's this now?
+641	Annie	Kat	KatsWorkshop	Parley	Smitty	#I thought love was supposed to be a good thing
+640	Annie	GroundSymbol	Kat	KatsWorkshop	Robot	Robots	RobotTomb	SkyWatcher	#What would make two people deny their love?
+639	Eyes	Jeanne	Robots	RobotTomb	SkyWatcher	Sword	#(Sky Watcher enters and sees Jeanne's painting)
+638	DiegoBot	GroundSymbol	Robot	Robots	RobotTomb	SkyWatcher	#You must do this part on your own
+637	Angel	Kat	KatsWorkshop	Robot	Robots	SkyWatcher	#I told you she was an angel
+636	Kat	KatsWorkshop	Robot	Robots	Shadow	SkyWatcher	#Hmm, let me guess what your primary function is...
+635	Angel	Jeanne	Kat	KatsWorkshop	Robot	Robots	Roof	Shadow	Skywatcher	#Who else would be chosen to guard Jeanne's tomb?
+634	Angel	Robot	Robots	Roof	Shadow	Skywatcher	#Robot, should you really be calling Kat an angel?
+633	Angel	Jeanne	Robot	Robots	Roof	SkyWatcher	#Skywatcher, do you see anything interesting?
 632	Cover	#<hr>Chapter 25: Sky Watcher And The Angel<hr>
 631	Bonus	Annie	Dorm	Rey	#<b>Bonus Page:</b>Absence and Hearts. (Reynardine... I... Actually missed you)
 630	Annie	Bob	Eglamore	LaserCow	Lasers	Marcia	Students	YoungsPark	#Never let 60 angry kids use a herd of laser cows to take over your house.
@@ -250,9 +280,9 @@
 602	Bob	LaserCow	Lasers	Marcia	Paz	Robots	YoungsPark	#Auditory response: Moo
 601	Axe	Eglamore	LaserCow	Paz	Robots	Students	Teacher	Tents	YoungsPark	#Cows!
 600	Annie	Bob	Eglamore	Kat	Marcia	Students	teacher	YoungsPark	#Maybe this won't be so bad after all!	
-599	BismuthSymbol	Bob	Marcia	Paz	Students	Teacher	Trees	YoungsPark	#Walking is Nature's quadbikes!
-598	Annie	BlinkerStone	Court	Kat	Rey	Students	#I still can't believe the park we're camping in is IN the court
-597	Annie	BlinkerStone	Etherics	Rey	#Go have fun with your friends child.
+599	BismuthSymbol	Bob	Marcia	Paz	Students	Teacher	Train	TrainStation	Trees	YoungsPark	#Walking is Nature's quadbikes!
+598	Annie	BlinkerStone	Court	Kat	Rey	Students	Train	#I still can't believe the park we're camping in is IN the court
+597	Annie	BlinkerStone	Etherics	Rey	Train	#Go have fun with your friends child.
 596	Cover	#<hr>Chapter 24: Residential<hr>
 595	Bonus	DrDisaster	Jones	Simulation	VincentPrice	#<b>Bonus Page:</b> Doctor Disaster and the Chamber of Doom skull
 594	Annie	Flowers	JackHyland	Monster	Rey	#Oh... you have a, uh, large wolf with you.
@@ -265,8 +295,8 @@
 587	Annie	Flowers	Jones	Smitty	Rey	#Don’t you think that was a little cruel?
 586	Annie	Dorm	Flowers	Jones	Parley	Smitty	Rey	#GET OUT! GET OUT! GET OUT!      LEAVE THE CHOCOLATES!
 585	Annie	Dorm	Flowers	Jones	Parley	Smitty	Sword	Rey	#Interesting. It may be that Parley possesses the power to distort space. A rare power.
-584	Annie	Flowers	Jones	Parley	Smitty	Rey	#Ha! A flower? Y-you sap...
-583	Annie	Court	Diego	Flowers	Gillitie	Jeanne	Jones	Robots	Rey	SirYoung	#Was there a woman among the humans by the name of Jeanne?
+584	Annie	Flowers	Jones	Parley	Smitty	Steadman	Rey	#Ha! A flower? Y-you sap...
+583	Annie	Court	Diego	DiegoBot	Flowers	Gillitie	Jeanne	Jones	Robots	Rey	SirYoung	#Was there a woman among the humans by the name of Jeanne?
 582	Annie	Court	Flowers	Gillitie	Jones	Parley	Smitty	Rey	#Coyote Ysengrin and I didn’t arrive until... Later
 581	Annie	Court	Diego	Flowers	Gillitie	Jones	Parley	SeedofBismuth	Simulation	SirYoung	Smitty	Rey	#It is known as the seed Bismuth. There is no record of exactly what it was.
 580	Annie	Court	Diego	Gillitie	Jones	Parley	SeedofBismuth	Simulation	SirYoung	Smitty	Rey	#This is a depiction of the beginnings of the court, before the division caused by coyote
@@ -357,7 +387,7 @@
 495	Annie	AntimonySymbol	Bridge	Coyote	CoyoteStories	Etherics	Eyes	Gillitie	MercurySymbol	Moon	Rey	#We heard he was captured. Tricked!
 494	Annie	Coyote	CoyoteStories	Gillitie	Flowers	Rey	Surma	Ysengrin	#Renard Loooves humans
 493	Annie	Coyote	CoyoteStories	Gillitie	Rey	#Why, he killed that young man of course.
-492	Aly	Annie	Court	Coyote	CoyoteStories	Gillitie	Ysengrin	#Is this the test I've heard about?
+492	Aly	Annie	Court	Coyote	CoyoteStories	Gillitie	Traitor	Ysengrin	#Is this the test I've heard about?
 491	Annan	Annie	Bridge	Court	Coyote	CoyoteStories	Gillitie	Moon	#When they shun their humanity, we welcome them here
 490	Annie	Coyote	CoyoteStories	Gillitie	Moon	MoonPrint	#Watch as I pluck the moon from the very sky
 489	Annan	Annie	BismuthSymbol	Court	CourtSymbol	Coyote	CoyoteStories	ForestSymbol	Gillitie	Rey	Sun	Ysengrin	#You made the Annan waters and the ravine?
