@@ -359,7 +359,7 @@
 269	Annie	BismuthSymbol	CourtHall	Eglamore	Parley	Smitty	Symbol	Ysengrin	#She worked here as a medium, right? (Ysengrin and Eglamore make a dramatic entrance)
 268	Annie	CourtHall	Parley	Smitty	#Jeez! You're Surma Stibnite's kid?!
 267	Annie	BismuthSymbol	CourtHall	Headmaster	Jones	Parley	Smitty	SunSymbol	#Bah! I had all me stuff packed already. I look a mess! (People gather in the main court hall)
-266	AlyShirt	Anja	Annie	DonlanHouse	Eglamore	Kat	Roof	#There are more important things to focus on for now.
+266	AlyShirt	Anja	Annie	BlinkerStone	DonlanHouse	Eglamore	Kat	Roof	#There are more important things to focus on for now.
 265	AlyShirt	Anja	Annie	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#Well, I'll go and gather the usual people in the greeting hall.
 264	AlyShirt	Anja	Annie	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#The people of the forest are requesting a visit.
 263	AlyShirt	Anja	Annie	BlinkerStone	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#I can only use the stone to make fire.

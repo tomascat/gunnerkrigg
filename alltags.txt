@@ -43,7 +43,7 @@ Clowns	creepy, no-one likes them
 Cookie	Cookie Monster(?), enthusiastic friend of Parley
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
 CourtHall	A large important hall for meetings
-CourtSymbol	The symbol Annie's blinker stone makes
+CourtSymbol	The symbol Annie's blinker stone makes; has a BismuthSymbol within it
 Cover	A chapter cover
 Coyote	Trickster; the creator of all; he does not exist, he says
 CoyoteTooth	it’s a tooth, or is it?
@@ -75,7 +75,7 @@ FireSymbol	The alchemical symbol for fire
 Flashback	Things that happened in the past
 Flowers	Colourful plants that grow from the ground. Often given as gifts.
 Foley	One of the other school Houses
-ForestSymbol	The symbol Gillitie uses to message
+ForestSymbol	The symbol Gillitie uses to message; has an "eye" within it
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are
