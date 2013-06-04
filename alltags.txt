@@ -73,6 +73,7 @@ Filler	not a mainstream story comic
 Fire	an ancient element
 FireSymbol	The alchemical symbol for fire
 Flashback	Things that happened in the past
+FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
 Flowers	Colourful plants that grow from the ground. Often given as gifts.
 Foley	One of the other school Houses
 ForestSymbol	The symbol Gillitie uses to message; has an "eye" within it
@@ -87,7 +88,7 @@ Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
 Headmaster	Mr Llanwellyn, Janet's father; surprisingly grey, apathetic man, with bad posture
 Heart	a heart sign, symbol, glyph or character
-FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
+Hexagram	Means the art of alchemy, the quintessence or "fire-water"/alcohol; the Jewish Kingdom (Star of David)
 Hospital	The hospital within the court
 Hyland	Jack's father and classmate of Eglamore, Donny, Anja and Surma. Not very nice to Anja or Surma.
 JackHyland	A boy with spiders in his hair, in the same year as Annie and Kat.
@@ -161,7 +162,6 @@ SmallBot	a young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 Speakeasy	A hotel-like place that the students sneak out to with a "speakeasy-like atmosphere"
 StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot
-StarOfDavid	Jewish and alchemical symbol
 Stars	celestial bodies
 StopBot	Model B robots with stop signs for heads and boxing glove arms.
 Students	miscellaneous students
