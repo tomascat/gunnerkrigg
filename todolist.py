@@ -4,7 +4,7 @@
 import codecs
 
 last = None
-
+linecount=0
 toWrite=[]
 
 
@@ -22,7 +22,11 @@ with codecs.open('index.txt',"r","utf-8-sig") as f:
 					toWrite.append('http://www.gunnerkrigg.com/?p=' + str(new + 1) + "\n")
 					# print '%d-%d' % (new + 1, last - 1)
 				# print 'http://www.gunnerkrigg.com/?p=' + str(new + 1)
+		else:
+			maxvalue=new;
 		last = new
+		linecount+=1
+	toWrite.append("\n"+str(linecount)+"/"+str(maxvalue)+" comics transcribed = "+str(int(linecount*100/maxvalue))+"%")
 
 s = ''.join(toWrite)
 
