@@ -81,7 +81,7 @@
 1026	Cover	#<hr>Chapter 38: Divine<hr>
 1002	Cover	#<hr>Chapter 37: Microsat 5<hr>
 974	Cover	#<hr>Chapter 36: Red Gets a Name<hr>
-973	Bonus	Cookie	Jan	Parley	Smitty	#<b>Bonus Page:<b>Parley Display of Affection
+973	Bonus	Cookie	Jan	Parley	Smitty	#<b>Bonus Page:</b>Parley Display of Affection
 972	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#truly, I’ve never seen anything like it
 971	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#shadow, you are three dimensional now.
 970	Annie	Bip	Kat	Robot	Shadow	
