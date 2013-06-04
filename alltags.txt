@@ -74,6 +74,7 @@ EthericShield	An etheric/magical shield
 EugeneGould	explorer
 EyeCrossed	A crossed out eye that is a complex warding sign
 EyeSymbol	An eye symbol associated with Coyote and Gillitie
+Eyes	When seeing is important
 Fairies	Gillitie Wood is full of them
 Fight	When two people have a disagreement, violently.
 Filler	not a mainstream story comic
@@ -87,6 +88,7 @@ ForestSymbol	The symbol Gillitie uses to message; has an "eye" within it
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are
+God	What is god?
 GoodHope	Good Hope Hospital is where Surma was before she died
 Gym	school gymnasium
 Habitat	An environmental decontamination habitat
