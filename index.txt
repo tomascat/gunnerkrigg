@@ -210,7 +210,7 @@
 847	Annie	Anwyn	Bind	CoyoteTooth	Dorm	Homework	Khepi	Rey	#I’m so sorry for what I said
 846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
 845	Dorm	Rey	#Waiting Reynardine
-844	Cover	#<hr>Chapter 32: From the Forest She Came<hr>
+844	Cover	#Year 9<hr>Chapter 32: From the Forest She Came<hr>
 789	Cover	#<hr>Chapter 31: Fire Spike<hr>
 761	Cover	#<hr>Chapter 30: The Coward Heart<hr>
 743	Cover	#<hr>Chapter 29: A Bad Start<hr>
@@ -353,6 +353,20 @@
 361	Cover	#<hr>Chapter 17: The Medium Beginning<hr>
 331	Cover	#<hr>Chapter 16: A Ghost Story<hr>
 305	Cover	#Year 8<hr>Chapter 15: Red Returns<hr>
+272	Annie	CourtHall	Coyote	Jones	Headmaster	Parley	Smitty	#What game is this, Surma? Why are they saying you are dead?
+271	Anja	CourtHall	Coyote	Parley	Smitty	Ysengrin	#What is this? Where is your medium?
+270	Anja	Annie	CourtHall	Coyote	Donny	Eglamore	Headmaster	Ysengrin	#Is that you general? What the devil have you done to yourself?
+269	Annie	BismuthSymbol	CourtHall	Eglamore	Parley	Smitty	Symbol	Ysengrin	#She worked here as a medium, right? (Ysengrin and Eglamore make a dramatic entrance)
+268	Annie	CourtHall	Parley	Smitty	#Jeez! You're Surma Stibnite's kid?!
+267	Annie	BismuthSymbol	CourtHall	Headmaster	Jones	Parley	Smitty	SunSymbol	#Bah! I had all me stuff packed already. I look a mess! (People gather in the main court hall)
+266	AlyShirt	Anja	Annie	DonlanHouse	Eglamore	Kat	Roof	#There are more important things to focus on for now.
+265	AlyShirt	Anja	Annie	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#Well, I'll go and gather the usual people in the greeting hall.
+264	AlyShirt	Anja	Annie	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#The people of the forest are requesting a visit.
+263	AlyShirt	Anja	Annie	BlinkerStone	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#I can only use the stone to make fire.
+262	Anja	Annie	BlinkerStone	Court	CourtSymbol	DonlanHouse	ForestSymbol	Gillitie	Roof	#It's a signal from the forest. We have to reply.
+261	AlyShirt	Anja	Annie	DonlanHouse	ForestSymbol	Kat	Roof	SilverSymbol	#Wow! What is it?!
+260	AlyShirt	Anja	Annie	DonlanHouse	Kat	SilverSymbol	#You would of course be welcome to come with us over the summer.
+259	Annie	Court	Coyote	Gillitie	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#And the second was when a god emerged from Gillitie Wood.
 258	Cover	#<hr>Chapter 14: The Fangs Of Summertime<hr>
 228	Cover	#<hr>Chapter 13: A Week For Kat<hr>
 227	Bonus	Annie	Dorm	Rey	#<b>Bonus Page:</b> Adonis in Stitches (Rey tries to excite Annie by generating a muscly human body)
