@@ -242,7 +242,7 @@
 610	Annie	BlinkerStone	Fire	LaserCow	Janet	Kat	Paz	Students	Tents	Trees	Winsbury	YoungsPark	#No heat source detected
 609	Argument	Fire	Janet	Kat	LaserCow	Lasers	Margo	Matt	Paz	Students	Tents	Trees	Winsbury	YoungsPark	#Go away you big, dumb cow!
 608	Annie	Eglamore	Janet	Kat	LaserCow	Robots	Stars	Students	Winsbury	YoungsPark	#Get your hands off me.
-607	Annie	Bob	Court	Eglamore	Habitat	Kat	Marcia	Shadowmen	TreeDog	Trees	WoodenArm	YoungsPark	#Take a look at that tree Carver, seem familier?
+607	Annie	Bob	CourtSymbol	Eglamore	ForestSymbol	Habitat	Kat	Marcia	Shadowmen	TreeDog	Trees	WoodenArm	YoungsPark	#Take a look at that tree Carver, seem familier?
 606	Annie	Bob	CherryTree	Eglamore	Gillitie	Habitat	Kat	LaserCow	Robots	Trees	YoungsPark	#Oh we met once before
 605	Annie	BismuthSymbol	Bob	Eglamore	Kat	Monument	Nevihta	RogatOrjak	SirYoung	Trees	YoungsPark	#It's a monument to that guy you learned about
 604	Annie	Gillitie	JackHyland	Kat	LaserCow	Robots	YoungsPark	#This place is kinda boring
