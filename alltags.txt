@@ -15,8 +15,10 @@ AntiGravShip	An anti-gravity ship that Kat made out of the anti-gravity generato
 AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Surma
 Anwyn	could be described as tree elves but they don’t call themselves that
 Archery	Fun with bows and arrows!
+Armoury	Place where lots of weapons are stored
 Axe	Often used to chop wood
 Basil	Minotaur
+Beacon	Safety tool given to Annie, can summon Eglamore within 5 seconds. 
 BeckyGround	A student
 Bind	mystical binding hoodoo
 Bip	Parley’s teleportation. May be accompanied by BARGE.
@@ -48,12 +50,14 @@ CourtSymbol	The symbol Annie's blinker stone makes; has a BismuthSymbol within i
 Cover	A chapter cover
 Coyote	Trickster; the creator of all; he does not exist, he says
 CoyoteTooth	it’s a tooth, or is it?
+CoyoteStories	Stories told about or by Coyote.
 CreatorGlyph	mark of the robots’ creator: now associated with Kat
 Creeper	someone who is creeping
 Crying	when salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 Dryad	Folk who can control and travel through the trees themselves, Marcia is one.
 Diego	former creepy robotics expert
 DiegosStudy	home of all things ancient robot
+Dirty	What you become when you don't wash for a while
 Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
 DoorBot	A cranky old man robot who guards the door to the RobotHQ
 DonlanHouse	home of the Donlan family: Anja, Donny, Kat
@@ -129,6 +133,7 @@ Muut	Egyptian psychopomp (escorts the dead to the afterlife).
 NancyDrew	A series of novels featuring a teenage girl solving mysteries.
 NapoleonHat	A fitting hat for Reynardine the Great!
 Nevihta	Rogat Orjak to Sir Young, first protector of the court.
+Observatory	A massive telescope
 Ocean	a whole bunch of water
 Octopus	A floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called Bobeyes. Sister of Torus.
@@ -151,6 +156,7 @@ Robox	has no hands; awesome; everybody loves Robox. The opposite of terrible.
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
 Seraph	Generic member of the Seraph model of robots. Robot was originally one.
+Secret	Things that are kept hidden, unknown, mysterious...
 SecurityRobots	They ensure security, as robots.
 SeedOfBismuth	it’s a mystery
 Shadow	the Thin Man
@@ -190,6 +196,7 @@ TrainStation	One of many stations in the court
 Treatise	Symbolic representation of the story
 TreeDog	They usually go woof, unless created by the forest
 Trees	come as advertised (usually)
+Uniform	An outfit one wears when on official business.
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 VincentPrice	A famous actor
 WanderingEye	symbol of that which calls itself Jones, currently

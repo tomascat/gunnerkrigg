@@ -347,6 +347,35 @@
 505	Annie	Kat	KatsWorkshop	Rey	#Ms Jones said everyone has a special skill, so I bet this is yours
 504	Annie	Kat	KatsWorkshop	Rey	Robots	#Set it down over there, boys
 503	Cover	#<hr>Chapter 21: Blinking<hr>
+502	Bonus	Coyote	CoyoteStory	Eyes	Moon	Thief	#<b>Bonus Page:</b> (Coyote tells a story about the moon. And himself, obviously)
+501	Annie	Kat	Moon	MoonPrint	Observatory	#That... That can't be right!
+500	Annie	Dirty	Kat	Moon	MoonPrint	Observatory	Rey	#Everything's the same as it always is
+499	Annie	Bridge	Eglamore	Gillitie	Sword	Ysengrin	#(Ysengrin escorts Annie to Eglamore, who then escorts her out of the forest)
+498	Annie	Coyote	Gillitie	Secret	Ysengrin	#That is all for tonight, I think!
+497	Annie	Court	Coyote	CoyoteStories	Gillitie	God	Ysengrin	#Why... It is man's endevour to become God!
+496	Annie	Coyote	CoyoteStories	Eyes	Gillitie	Rey	WoodenArm	Ysengrin	#Ysengrin loves me very much
+495	Annie	AntimonySymbol	Bridge	Coyote	CoyoteStories	Etherics	Eyes	Gillitie	MercurySymbol	Moon	Rey	#We heard he was captured. Tricked!
+494	Annie	Coyote	CoyoteStories	Gillitie	Flowers	Rey	Surma	Ysengrin	#Renard Loooves humans
+493	Annie	Coyote	CoyoteStories	Gillitie	Rey	#Why, he killed that young man of course.
+492	Aly	Annie	Court	Coyote	CoyoteStories	Gillitie	Ysengrin	#Is this the test I've heard about?
+491	Annan	Annie	Bridge	Court	Coyote	CoyoteStories	Gillitie	Moon	#When they shun their humanity, we welcome them here
+490	Annie	Coyote	CoyoteStories	Gillitie	Moon	MoonPrint	#Watch as I pluck the moon from the very sky
+489	Annan	Annie	BismuthSymbol	Court	CourtSymbol	Coyote	CoyoteStories	ForestSymbol	Gillitie	Rey	Sun	Ysengrin	#You made the Annan waters and the ravine?
+488	Annie	Coyote	CoyoteStories	Gillitie	Moon	Stars	Sun	Rey	Ysengrin	#Together we came to this grand forest
+487	Annie	Coyote	CoyoteStories	Gillitie	Eyes	Stars	Surma	#And we hope the friendship can be born anew
+486	Annie	Coyote	CoyoteStories	Etherics	Eyes	Gillitie	Stars	#She told me how you placed the stars in the sky
+485	Annie	Coyote	Gillitie	Surma	Ysengrin	#FIRE HEAD GIRL! Welcome to my forest
+484	Coyote	CoyoteTooth	Gillitie	Moon	Trees	Sun	#(Coyote, talking about himself. Really that could describe any page with him in...)
+483	Annie	Gillitie	Shadowmen	Trees	Ysengrin	#(Annie and Ysengrin walk through the forest, watched by Shadowmen, until they reach a glade)
+482	Annie	Eglamore	Gillitie	Moon	Stars	Sword	Trees	Uniform	Ysengrin	#You will take me to Coyote now
+481	Annie	Eglamore	Gillitie	Moon	Stars	Sword	Trees	Uniform	Ysengrin	#Eglamore stays here. He is not welcome.
+480	Annie	Beacon	Bridge	Eglamore	LeadSymbol	Sword	Uniform	#At the first sign of trouble, snap this beacon
+479	Annie	Bridge	Eglamore	LeadSymbol	Sword	Uniform	#Do you really need all those swords?
+478	Annie	Bridge	CourtSymbol	Eglamore	ForestSymbol	Jones	LeadSymbol	Sword	Uniform	#Well, no need to keep them waiting.
+477	Annie	Armoury	Eglamore	Jones	Uniform	#Is the forest really so dangerous?
+476	Annie	Armoury	Eglamore	Jones	Uniform	#Try not to undress the female students James.
+475	Annie	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
+474	Annie	Dirty	Dorm	Kat	Rey	Surma	Uniform	#Surma made this body?
 473	Cover	#<hr>Chapter 20: Coyote Stories<hr>
 441	Cover	#<hr>Chapter 19: Power Station<hr>
 395	Cover	#<hr>Chapter 18: S1<hr>
