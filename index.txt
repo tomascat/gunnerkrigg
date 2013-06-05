@@ -76,6 +76,41 @@
 1130	Robot	Roof	Robots	Seraph	Shadow	#We have found you, Number 13
 1129	Robot	Roof	Shadow	#Here, you just sit like that… (a tender moment)
 1128	Annie	Cover	Coyote	Kat	Parley	Smitty	Rey	Robot	Robots	Seraph	Shadow	#<hr>Chapter 41: Changes<hr>
+1127	Annie	Bonus	Jones	Kat	#<b>Bonus page:</b> Smile
+1126	Annie	Jones	#And, I don’t think you are as emotionless as you say
+1125	Annie	Jeanne	Jones	#Since you spent the summer in the forest I noticed you have become somewhat unruly
+1124	Annie	Coyote	Jones	#He… attacked me when we talked about all this
+1123	Annie	PowerStation	Jones	Rey	#Why is Coyote so eager for me to learn about this?
+1122	Annie	Coyote	Jones	Mort	Moon	MoonPrint	Rey	#But that has always been true in a way
+1121	Annie	Jones	#Coyote’s theory claims all supernatural creatures are created by
+1120	Annie	Coyote	Jones	Stars	#Now, I gather something happened in the forest?
+1119	Annie	Court	Jones	#So, were you around when the court was founded?
+1118	Annie	Eglamore	Jones	#I found the best way to observe human life is to live closely with them
+1117	Annie	Jones	WanderingEye	#You remember… everything?
+1116	Annie	Jones	#I cannot be marked or damaged in any way
+1115	Annie	Jones	#A stone? Like some sort of golem?
+1114	Annie	Jones	#For the longest time I merely existed and travelled the Earth
+1113	Annie	Jones	#You… were there at the formation of the Earth?
+1112	Annie	#Currently (and formation of the Earth ~4.5 Gya)
+1111	Fire	Jones	#Many eons ago (bombardment ~4 Gya)
+1110	Jones	Ocean	#Several eras ago (Cambrian? 500mya) (Bud &amp; Lindsey’s forebears??)
+1109	Jones	#The previous epoch: (Ice age?)
+1108	Jones	#Many millennia ago: (~30,000BCE) (bison tossing)
+1107	Jones	#Several millennia ago: (desert) (mirage)
+1106	Fire	Jones	#Millennia ago: (Rome? 64AD?)
+1105	Jones	#Many centuries ago: (Mediaeval) She’s a devil!
+1104	Jones	Ocean	#Several centuries ago: (C16) We will be in Jamestown this evening
+1103	Jones	#The previous century: (C18?) You will find him a most agreeable child, Elizabeth. (young Samuel Langdon)
+1102	Jones	#The previous century: (Early C19?) Will you not keep the name Elizabeth? (old Samuel Langdon)(Elizabeth Langdon)
+1101	Jones	#Many Decades ago: (Mid C19) It is clear to see why the Lady Elizabeth remains hidden from sight
+1100	Blood	Jones	#Several decades ago: (WWII?) (Mr Jones)<br>Tom: Emma becomes Jones
+1099	Eglamore	Jones	#Decades ago: (Late 50s/early 60s?) Wave to your parents James (Eglamore is 9, see 1118)<br>Tom: Mr Eglamore whistles, “Do all their teachers look like that?” and Mrs Eglamore playfully slaps him. There are tears in her eyes.
+1098	Donny	Eglamore	Jones	#Many years ago: Donald has come to us from outside the court
+1097	Eglamore	Jones	#Several years ago: What could Surma possibly see in someone like Tony?
+1096	Eglamore	Jones	RogatOrjak	#Years ago
+1095	Eglamore	Jones	#A week ago
+1094	Headmaster	Jones	#Yesterday: You have my recommendation, Jonathan
+1093	Annie	Jones	#What are you?
 1092	Cover	#<hr>Chapter 40: The Stone<hr>
 1056	Cover	#<hr>Chapter 39: The Great Secret<hr>
 1026	Cover	#<hr>Chapter 38: Divine<hr>
@@ -173,7 +208,7 @@
 884	Annie	BlinkerStone	Kat	KatsWorkshop	Robots	Robotics	#about that operating code you asked us to print…
 883	Annie	Kat	KatsWorkshop	Robots	DiegoBot	#but… this would mean Diego was a… magician, not a scientist
 882	Annie	Etherics	Kat	KatsWorkshop	Robots	Robotics	DiegoBot	#What if these are not really robots in the modern sense, but golems?
-881	Annie	Kat	Robots	KatsWorkshop		DiegoBot	#how come you guys picked a creepy looking robot
+881	Annie	Kat	Robots	KatsWorkshop	DiegoBot	#how come you guys picked a creepy looking robot
 880	Annie	DiegosStudy	Heart	Kat	Robotics	#the bad news is that all his work is written in gibberish
 879	Annie	Diego	DiegosStudy	Kat	Robots	#He somehow made machines that could move despite not having internal mechanisms like modern robots
 878	Robot	Roof	Shadow	Creeper	#should you really be following her around like this?
