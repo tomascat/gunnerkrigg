@@ -1,4 +1,11 @@
 $("document").ready(function(){
+//Custom selector case insensitive :Contains
+	jQuery.expr[":"].Contains = jQuery.expr.createPseudo(function(arg) {
+		return function( elem ) {
+			return jQuery(elem).text().toUpperCase().indexOf(arg.toUpperCase()) >= 0;
+		};
+	});
+
 
 //Click a tag to hide all comic pages except those that contain the tag
 	$(".tag").on('click',function(){
@@ -16,6 +23,12 @@ $("document").ready(function(){
 			alltheseones.addClass("highlighted")
 		}
 		
+		// Scroll to top instance of this tag
+		var container = $('#events')
+		var scrollTo = $(".comicpage"+classname)
+		$('html,body').animate({
+			scrollTop: scrollTo.offset().top - 100 + container.scrollTop()
+		}, 900);
 	})
 
 //Click "show all" to show all comic pages and tags
@@ -35,7 +48,7 @@ $("document").ready(function(){
 		}
 	})
 	
-//Click on letter of alphabet to show only tags starting with that letter	
+//Click on letter of alphabet to show only tags starting with that letter
 	$(".alpha").on("click",function(){
 		var alphabet = $(this).attr("class").split(" ")[1]
 		if (alphabet=="num")
@@ -46,7 +59,41 @@ $("document").ready(function(){
 			$(".alpha").removeClass("highlighted")
 			$(this).addClass("highlighted")
 			$("#jscloud").find(".tags").addClass('hidden')
-			alltheseones.closest(".tags").removeClass('hidden')		
+			alltheseones.closest(".tags").removeClass('hidden')
 		}
+	})
+	
+//Type to narrow down results based on text field input
+	$(".search").on("keyup",function(){
+		$(".tags,.comicpage").addClass("hidden")
+		if ($(this).val()) {
+			$("p:Contains('"+$(this).val()+"')").removeClass("hidden")
+		}
+		else {
+			$(".tags,.comicpage").removeClass("hidden")
+		}
+	})
+
+//show "scroll to top" on page load if already scrolled down
+	var y = $(this).scrollTop();
+	if (y > 200) {
+		$('#topscroll').removeClass("hidden");
+	}
+
+//show "scroll to top" button if page scrolled down
+	$(document).scroll(function () {
+		var y = $(this).scrollTop();
+		if (y > 200) {
+			$('#topscroll').slideDown(300);
+		} else {
+			$('#topscroll').slideUp(300);
+		}
+	});
+
+//Scroll to top if "scroll to top" button clicked
+	$('#topscroll').on('click',function(){
+		$("html,body").animate({
+			scrollTop: 0
+		}, 900);
 	})
 })

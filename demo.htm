@@ -23,6 +23,7 @@
 	<script src="handler.js"></script>
 </head>
 <body>
+<div id="topscroll" class="hidden">&#9650; &#9650; &#9650; &#9650; &#9650; &#9650;</div>
 <div class="container">
 	<div class="span-24 last">
 		<h1>
@@ -54,6 +55,7 @@
 
 	<!-- index side panel -->
 <div id="jscloud" class="span-8">
+	Search: <input class="search" />
 	<h2>Index</h2>
 	<span class="all">Show All</span><br><br>
 	<span class="alpha a">a</span>
@@ -119,9 +121,13 @@
 	</p>
 	<p class='tags'><span class='tag archery'>Archery</span> Fun with bows and arrows!
 	</p>
+	<p class='tags'><span class='tag armoury'>Armoury</span> Place where lots of weapons are stored
+	</p>
 	<p class='tags'><span class='tag axe'>Axe</span> Often used to chop wood
 	</p>
 	<p class='tags'><span class='tag basil'>Basil</span> Minotaur
+	</p>
+	<p class='tags'><span class='tag beacon'>Beacon</span> Safety tool given to Annie, can summon Eglamore within 5 seconds. 
 	</p>
 	<p class='tags'><span class='tag beckyground'>BeckyGround</span> A student
 	</p>
@@ -132,6 +138,8 @@
 	<p class='tags'><span class='tag bismuthsymbol'>BismuthSymbol</span> The alchemical symbol for bismuth; associated with the Court
 	</p>
 	<p class='tags'><span class='tag blackboard'>Blackboard</span> classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
+	</p>
+	<p class='tags'><span class='tag blackpen'>BlackPen</span> A black marker pen used to draw faces.
 	</p>
 	<p class='tags'><span class='tag blinkerstone'>BlinkerStone</span> Etheric lens device
 	</p>
@@ -185,6 +193,8 @@
 	</p>
 	<p class='tags'><span class='tag coyotetooth'>CoyoteTooth</span> it’s a tooth, or is it?
 	</p>
+	<p class='tags'><span class='tag coyotestories'>CoyoteStories</span> Stories told about or by Coyote.
+	</p>
 	<p class='tags'><span class='tag creatorglyph'>CreatorGlyph</span> mark of the robots’ creator: now associated with Kat
 	</p>
 	<p class='tags'><span class='tag creeper'>Creeper</span> someone who is creeping
@@ -195,7 +205,11 @@
 	</p>
 	<p class='tags'><span class='tag diego'>Diego</span> former creepy robotics expert
 	</p>
-	<p class='tags'><span class='tag diegosstudy'>DiegosStudy</span> home of all things ancient robot
+	<p class='tags'><span class='tag diegobot'>DiegoBot</span> One of the origional robots created by Diego many years ago
+	</p>
+	<p class='tags'><span class='tag diegostudy'>DiegoStudy</span> home of all things ancient robot
+	</p>
+	<p class='tags'><span class='tag dirty'>Dirty</span> What you become when you don't wash for a while
 	</p>
 	<p class='tags'><span class='tag dolls'>Dolls</span> Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
 	</p>
@@ -229,6 +243,8 @@
 	</p>
 	<p class='tags'><span class='tag eyesymbol'>EyeSymbol</span> An eye symbol associated with Coyote and Gillitie
 	</p>
+	<p class='tags'><span class='tag eyes'>Eyes</span> When seeing is important
+	</p>
 	<p class='tags'><span class='tag fairies'>Fairies</span> Gillitie Wood is full of them
 	</p>
 	<p class='tags'><span class='tag fight'>Fight</span> When two people have a disagreement, violently.
@@ -255,7 +271,11 @@
 	</p>
 	<p class='tags'><span class='tag gillitie'>Gillitie</span> Gillitie Wood where the wild things are
 	</p>
+	<p class='tags'><span class='tag god'>God</span> What is god?
+	</p>
 	<p class='tags'><span class='tag goodhope'>GoodHope</span> Good Hope Hospital is where Surma was before she died
+	</p>
+	<p class='tags'><span class='tag groundsymbol'>GroundSymbol</span> The electronic symbol for ground
 	</p>
 	<p class='tags'><span class='tag gym'>Gym</span> school gymnasium
 	</p>
@@ -339,6 +359,8 @@
 	</p>
 	<p class='tags'><span class='tag mrthorn'>MrThorn</span> Mr Thorn, Court protector and games teacher to Annie and Kat's parents.
 	</p>
+	<p class='tags'><span class='tag music'>Music</span> Everyone loves music!
+	</p>
 	<p class='tags'><span class='tag muut'>Muut</span> Egyptian psychopomp (escorts the dead to the afterlife).
 	</p>
 	<p class='tags'><span class='tag nancydrew'>NancyDrew</span> A series of novels featuring a teenage girl solving mysteries.
@@ -346,6 +368,8 @@
 	<p class='tags'><span class='tag napoleonhat'>NapoleonHat</span> A fitting hat for Reynardine the Great!
 	</p>
 	<p class='tags'><span class='tag nevihta'>Nevihta</span> Rogat Orjak to Sir Young, first protector of the court.
+	</p>
+	<p class='tags'><span class='tag observatory'>Observatory</span> A massive telescope
 	</p>
 	<p class='tags'><span class='tag ocean'>Ocean</span> a whole bunch of water
 	</p>
@@ -375,6 +399,8 @@
 	</p>
 	<p class='tags'><span class='tag robothq'>RobotHQ</span> Where the Robots hang out
 	</p>
+	<p class='tags'><span class='tag robotking'>RobotKing</span> A robot with a crown, blank face, and a pen.
+	</p>
 	<p class='tags'><span class='tag robotics'>Robotics</span> like Etherics but with metal
 	</p>
 	<p class='tags'><span class='tag robotparts'>RobotParts</span> Bits of robots currently not attached
@@ -390,6 +416,8 @@
 	<p class='tags'><span class='tag roof'>Roof</span> The top of the court
 	</p>
 	<p class='tags'><span class='tag seraph'>Seraph</span> Generic member of the Seraph model of robots. Robot was originally one.
+	</p>
+	<p class='tags'><span class='tag secret'>Secret</span> Things that are kept hidden, unknown, mysterious...
 	</p>
 	<p class='tags'><span class='tag securityrobots'>SecurityRobots</span> They ensure security, as robots.
 	</p>
@@ -411,6 +439,8 @@
 	</p>
 	<p class='tags'><span class='tag sivobody'>SivoBody</span> A deceased Rogat Orjak
 	</p>
+	<p class='tags'><span class='tag skywatcher'>SkyWatcher</span> A praying mantis-like robot that collects meteorological data.
+	</p>
 	<p class='tags'><span class='tag smallbot'>SmallBot</span> a young eye-witness model
 	</p>
 	<p class='tags'><span class='tag smitty'>Smitty</span> Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
@@ -420,6 +450,8 @@
 	<p class='tags'><span class='tag starheadband'>StarHeadband</span> A headband with stars on antennae that Annie uses to pretend she is a Robot
 	</p>
 	<p class='tags'><span class='tag stars'>Stars</span> celestial bodies
+	</p>
+	<p class='tags'><span class='tag steadman'>Steadman</span> An archer, present at the founding of the court. 
 	</p>
 	<p class='tags'><span class='tag stopbot'>StopBot</span> Model B robots with stop signs for heads and boxing glove arms.
 	</p>
@@ -431,7 +463,7 @@
 	</p>
 	<p class='tags'><span class='tag sun'>Sun</span> our closest star!
 	</p>
-	<p class='tags'><span class='tag sunsymbol'>SunSymbol</span> Alchemical symbol for the Sun
+	<p class='tags'><span class='tag sunsymbol'>SunSymbol</span> Alchemical symbol for the Sun, doubles as the symbol for gold.
 	</p>
 	<p class='tags'><span class='tag surma'>Surma</span> Surma Stibnite, Annie’s mother
 	</p>
@@ -463,11 +495,15 @@
 	</p>
 	<p class='tags'><span class='tag trainstation'>TrainStation</span> One of many stations in the court
 	</p>
+	<p class='tags'><span class='tag traitor'>Traitor</span> One who betrays their allies
+	</p>
 	<p class='tags'><span class='tag treatise'>Treatise</span> Symbolic representation of the story
 	</p>
 	<p class='tags'><span class='tag treedog'>TreeDog</span> They usually go woof, unless created by the forest
 	</p>
 	<p class='tags'><span class='tag trees'>Trees</span> come as advertised (usually)
+	</p>
+	<p class='tags'><span class='tag uniform'>Uniform</span> An outfit one wears when on official business.
 	</p>
 	<p class='tags'><span class='tag vii'>VII</span> The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 	</p>
@@ -2674,6 +2710,376 @@
 		<hr>Chapter 26: The Old Dog’s Tricks<hr>
 	</p>
 
+	<p class='comicpage filler gamma zimmy '>
+		<a href='http://www.gunnerkrigg.com/?p=662' target='_blank'>p.662</a>
+		<span class='tag filler'>Filler</span>
+		<span class='tag gamma'>Gamma</span>
+		<span class='tag zimmy'>Zimmy</span>
+		Another year...
+	</p>
+
+	<p class='comicpage bonus flowers robots students '>
+		<a href='http://www.gunnerkrigg.com/?p=661' target='_blank'>p.661</a>
+		<span class='tag bonus'>Bonus</span>
+		<span class='tag flowers'>Flowers</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag students'>Students</span>
+		<b>Bonus page</b>Robot Handling. Section H: miscellanious. Robots may sometimes become attracted to you
+	</p>
+
+	<p class='comicpage angel diego robot robots roof skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=660' target='_blank'>p.660</a>
+		<span class='tag angel'>Angel</span>
+		<span class='tag diego'>Diego</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag roof'>Roof</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		The number of angels I have seen is One.
+	</p>
+
+	<p class='comicpage angel crying diego lasercow robot robothq robots skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=659' target='_blank'>p.659</a>
+		<span class='tag angel'>Angel</span>
+		<span class='tag crying'>Crying</span>
+		<span class='tag diego'>Diego</span>
+		<span class='tag lasercow'>LaserCow</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robothq'>RobotHQ</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		"Love makes you act in strange ways."
+	</p>
+
+	<p class='comicpage angel blackpen crying diegobot diegostudy jeanne robot robotking robots skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=658' target='_blank'>p.658</a>
+		<span class='tag angel'>Angel</span>
+		<span class='tag blackpen'>BlackPen</span>
+		<span class='tag crying'>Crying</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag diegostudy'>DiegoStudy</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robotking'>RobotKing</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		Please, dearest angel, help us understand...
+	</p>
+
+	<p class='comicpage diego diegobot flashback heart jeanne monster robots siryoung '>
+		<a href='http://www.gunnerkrigg.com/?p=657' target='_blank'>p.657</a>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag heart'>Heart</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag monster'>Monster</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag siryoung'>SirYoung</span>
+		...and I did nothing
+	</p>
+
+	<p class='comicpage annan archery diego diegobot flashback gilittie jeanne moon siryoung steadman '>
+		<a href='http://www.gunnerkrigg.com/?p=656' target='_blank'>p.656</a>
+		<span class='tag annan'>Annan</span>
+		<span class='tag archery'>Archery</span>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag gilittie'>Gilittie</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag siryoung'>SirYoung</span>
+		<span class='tag steadman'>Steadman</span>
+		We will bury what was done here this night.
+	</p>
+
+	<p class='comicpage diego diegobot flashback jeanne '>
+		<a href='http://www.gunnerkrigg.com/?p=655' target='_blank'>p.655</a>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag jeanne'>Jeanne</span>
+		It didn't have to be this way...
+	</p>
+
+	<p class='comicpage annan archery court diego diegobot flashback jeanne siryoung '>
+		<a href='http://www.gunnerkrigg.com/?p=654' target='_blank'>p.654</a>
+		<span class='tag annan'>Annan</span>
+		<span class='tag archery'>Archery</span>
+		<span class='tag court'>Court</span>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag siryoung'>SirYoung</span>
+		It must be Jeanne.
+	</p>
+
+	<p class='comicpage archery court diego diegobot flashback siryoung steadman '>
+		<a href='http://www.gunnerkrigg.com/?p=653' target='_blank'>p.653</a>
+		<span class='tag archery'>Archery</span>
+		<span class='tag court'>Court</span>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag siryoung'>SirYoung</span>
+		<span class='tag steadman'>Steadman</span>
+		The device is ready, Sir Young
+	</p>
+
+	<p class='comicpage diego diegobot fight flashback jeanne robots traitor '>
+		<a href='http://www.gunnerkrigg.com/?p=652' target='_blank'>p.652</a>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag fight'>Fight</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag traitor'>Traitor</span>
+		So she still loves that traitor does she?
+	</p>
+
+	<p class='comicpage diego diegobot fight flashback gillitie jeanne robots sword traitor '>
+		<a href='http://www.gunnerkrigg.com/?p=651' target='_blank'>p.651</a>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag fight'>Fight</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag sword'>Sword</span>
+		<span class='tag traitor'>Traitor</span>
+		Get out you horrible little man!
+	</p>
+
+	<p class='comicpage annan court diego diegobot flashback gillitie jeanne robots sword '>
+		<a href='http://www.gunnerkrigg.com/?p=650' target='_blank'>p.650</a>
+		<span class='tag annan'>Annan</span>
+		<span class='tag court'>Court</span>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag sword'>Sword</span>
+		Who needs the trees and animals of the forest?
+	</p>
+
+	<p class='comicpage diego diegobot flashback jeanne robots sword '>
+		<a href='http://www.gunnerkrigg.com/?p=649' target='_blank'>p.649</a>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag sword'>Sword</span>
+		Another little toy Diego?
+	</p>
+
+	<p class='comicpage annie diego diegobot diegostudy flashback kat robotking robotparts robots '>
+		<a href='http://www.gunnerkrigg.com/?p=648' target='_blank'>p.648</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag diegostudy'>DiegoStudy</span>
+		<span class='tag flashback'>Flashback</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag robotking'>RobotKing</span>
+		<span class='tag robotparts'>RobotParts</span>
+		<span class='tag robots'>Robots</span>
+		Please awaken and show us your story once more.
+	</p>
+
+	<p class='comicpage annie bismuthsymbol diegobot diegostudy kat robothq robotking robots '>
+		<a href='http://www.gunnerkrigg.com/?p=647' target='_blank'>p.647</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag bismuthsymbol'>BismuthSymbol</span>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag diegostudy'>DiegoStudy</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag robothq'>RobotHQ</span>
+		<span class='tag robotking'>RobotKing</span>
+		<span class='tag robots'>Robots</span>
+		What IS all this?
+	</p>
+
+	<p class='comicpage adminbot angel annie antimonysymbol kat robothq robotking robots sunsymbol tictoc '>
+		<a href='http://www.gunnerkrigg.com/?p=646' target='_blank'>p.646</a>
+		<span class='tag adminbot'>AdminBot</span>
+		<span class='tag angel'>Angel</span>
+		<span class='tag annie'>Annie</span>
+		<span class='tag antimonysymbol'>AntimonySymbol</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag robothq'>RobotHQ</span>
+		<span class='tag robotking'>RobotKing</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag sunsymbol'>SunSymbol</span>
+		<span class='tag tictoc'>TicToc</span>
+		It was created by a divine being and sent to watch over us all
+	</p>
+
+	<p class='comicpage angel annie kat music robotking robots robottomb '>
+		<a href='http://www.gunnerkrigg.com/?p=645' target='_blank'>p.645</a>
+		<span class='tag angel'>Angel</span>
+		<span class='tag annie'>Annie</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag music'>Music</span>
+		<span class='tag robotking'>RobotKing</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag robottomb'>RobotTomb</span>
+		Sweet angel, Kat, we beg for your help!
+	</p>
+
+	<p class='comicpage annie blackpen crying groundsymbol jeanne kat robotking robots robottomb stars sword '>
+		<a href='http://www.gunnerkrigg.com/?p=644' target='_blank'>p.644</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag blackpen'>BlackPen</span>
+		<span class='tag crying'>Crying</span>
+		<span class='tag groundsymbol'>GroundSymbol</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag robotking'>RobotKing</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag robottomb'>RobotTomb</span>
+		<span class='tag stars'>Stars</span>
+		<span class='tag sword'>Sword</span>
+		The saddest face!
+	</p>
+
+	<p class='comicpage angel annie blackpen kat katsworkshop music robotking robots robottomb '>
+		<a href='http://www.gunnerkrigg.com/?p=643' target='_blank'>p.643</a>
+		<span class='tag angel'>Angel</span>
+		<span class='tag annie'>Annie</span>
+		<span class='tag blackpen'>BlackPen</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag katsworkshop'>KatsWorkshop</span>
+		<span class='tag music'>Music</span>
+		<span class='tag robotking'>RobotKing</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag robottomb'>RobotTomb</span>
+		I demand to see it!
+	</p>
+
+	<p class='comicpage annie bismuthsymbol kat katsworkshop music robotking robots skywatcher sunsymbol '>
+		<a href='http://www.gunnerkrigg.com/?p=642' target='_blank'>p.642</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag bismuthsymbol'>BismuthSymbol</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag katsworkshop'>KatsWorkshop</span>
+		<span class='tag music'>Music</span>
+		<span class='tag robotking'>RobotKing</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		<span class='tag sunsymbol'>SunSymbol</span>
+		What's this now?
+	</p>
+
+	<p class='comicpage annie kat katsworkshop parley smitty '>
+		<a href='http://www.gunnerkrigg.com/?p=641' target='_blank'>p.641</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag katsworkshop'>KatsWorkshop</span>
+		<span class='tag parley'>Parley</span>
+		<span class='tag smitty'>Smitty</span>
+		I thought love was supposed to be a good thing
+	</p>
+
+	<p class='comicpage annie groundsymbol kat katsworkshop robot robots robottomb skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=640' target='_blank'>p.640</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag groundsymbol'>GroundSymbol</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag katsworkshop'>KatsWorkshop</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag robottomb'>RobotTomb</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		What would make two people deny their love?
+	</p>
+
+	<p class='comicpage eyes jeanne robots robottomb skywatcher sword '>
+		<a href='http://www.gunnerkrigg.com/?p=639' target='_blank'>p.639</a>
+		<span class='tag eyes'>Eyes</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag robottomb'>RobotTomb</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		<span class='tag sword'>Sword</span>
+		(Sky Watcher enters and sees Jeanne's painting)
+	</p>
+
+	<p class='comicpage diegobot groundsymbol robot robots robottomb skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=638' target='_blank'>p.638</a>
+		<span class='tag diegobot'>DiegoBot</span>
+		<span class='tag groundsymbol'>GroundSymbol</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag robottomb'>RobotTomb</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		You must do this part on your own
+	</p>
+
+	<p class='comicpage angel kat katsworkshop robot robots skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=637' target='_blank'>p.637</a>
+		<span class='tag angel'>Angel</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag katsworkshop'>KatsWorkshop</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		I told you she was an angel
+	</p>
+
+	<p class='comicpage kat katsworkshop robot robots shadow skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=636' target='_blank'>p.636</a>
+		<span class='tag kat'>Kat</span>
+		<span class='tag katsworkshop'>KatsWorkshop</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag shadow'>Shadow</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		Hmm, let me guess what your primary function is...
+	</p>
+
+	<p class='comicpage angel jeanne kat katsworkshop robot robots roof shadow skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=635' target='_blank'>p.635</a>
+		<span class='tag angel'>Angel</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag katsworkshop'>KatsWorkshop</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag roof'>Roof</span>
+		<span class='tag shadow'>Shadow</span>
+		<span class='tag skywatcher'>Skywatcher</span>
+		Who else would be chosen to guard Jeanne's tomb?
+	</p>
+
+	<p class='comicpage angel robot robots roof shadow skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=634' target='_blank'>p.634</a>
+		<span class='tag angel'>Angel</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag roof'>Roof</span>
+		<span class='tag shadow'>Shadow</span>
+		<span class='tag skywatcher'>Skywatcher</span>
+		Robot, should you really be calling Kat an angel?
+	</p>
+
+	<p class='comicpage angel jeanne robot robots roof skywatcher '>
+		<a href='http://www.gunnerkrigg.com/?p=633' target='_blank'>p.633</a>
+		<span class='tag angel'>Angel</span>
+		<span class='tag jeanne'>Jeanne</span>
+		<span class='tag robot'>Robot</span>
+		<span class='tag robots'>Robots</span>
+		<span class='tag roof'>Roof</span>
+		<span class='tag skywatcher'>SkyWatcher</span>
+		Skywatcher, do you see anything interesting?
+	</p>
+
 	<p class='comicpage cover '>
 		<a href='http://www.gunnerkrigg.com/?p=632' target='_blank'>p.632</a>
 		<span class='tag cover'>Cover</span>
@@ -3129,7 +3535,7 @@
 		<span class='tag #maybe this won't be so bad after all!'>#Maybe this won't be so bad after all!</span>
 			</p>
 
-	<p class='comicpage bismuthsymbol bob marcia paz students teacher trees youngspark '>
+	<p class='comicpage bismuthsymbol bob marcia paz students teacher train trainstation trees youngspark '>
 		<a href='http://www.gunnerkrigg.com/?p=599' target='_blank'>p.599</a>
 		<span class='tag bismuthsymbol'>BismuthSymbol</span>
 		<span class='tag bob'>Bob</span>
@@ -3137,12 +3543,14 @@
 		<span class='tag paz'>Paz</span>
 		<span class='tag students'>Students</span>
 		<span class='tag teacher'>Teacher</span>
+		<span class='tag train'>Train</span>
+		<span class='tag trainstation'>TrainStation</span>
 		<span class='tag trees'>Trees</span>
 		<span class='tag youngspark'>YoungsPark</span>
 		Walking is Nature's quadbikes!
 	</p>
 
-	<p class='comicpage annie blinkerstone court kat rey students '>
+	<p class='comicpage annie blinkerstone court kat rey students train '>
 		<a href='http://www.gunnerkrigg.com/?p=598' target='_blank'>p.598</a>
 		<span class='tag annie'>Annie</span>
 		<span class='tag blinkerstone'>BlinkerStone</span>
@@ -3150,15 +3558,17 @@
 		<span class='tag kat'>Kat</span>
 		<span class='tag rey'>Rey</span>
 		<span class='tag students'>Students</span>
+		<span class='tag train'>Train</span>
 		I still can't believe the park we're camping in is IN the court
 	</p>
 
-	<p class='comicpage annie blinkerstone etherics rey '>
+	<p class='comicpage annie blinkerstone etherics rey train '>
 		<a href='http://www.gunnerkrigg.com/?p=597' target='_blank'>p.597</a>
 		<span class='tag annie'>Annie</span>
 		<span class='tag blinkerstone'>BlinkerStone</span>
 		<span class='tag etherics'>Etherics</span>
 		<span class='tag rey'>Rey</span>
+		<span class='tag train'>Train</span>
 		Go have fun with your friends child.
 	</p>
 
@@ -3280,22 +3690,24 @@
 		Interesting. It may be that Parley possesses the power to distort space. A rare power.
 	</p>
 
-	<p class='comicpage annie flowers jones parley smitty rey '>
+	<p class='comicpage annie flowers jones parley smitty steadman rey '>
 		<a href='http://www.gunnerkrigg.com/?p=584' target='_blank'>p.584</a>
 		<span class='tag annie'>Annie</span>
 		<span class='tag flowers'>Flowers</span>
 		<span class='tag jones'>Jones</span>
 		<span class='tag parley'>Parley</span>
 		<span class='tag smitty'>Smitty</span>
+		<span class='tag steadman'>Steadman</span>
 		<span class='tag rey'>Rey</span>
 		Ha! A flower? Y-you sap...
 	</p>
 
-	<p class='comicpage annie court diego flowers gillitie jeanne jones robots rey siryoung '>
+	<p class='comicpage annie court diego diegobot flowers gillitie jeanne jones robots rey siryoung '>
 		<a href='http://www.gunnerkrigg.com/?p=583' target='_blank'>p.583</a>
 		<span class='tag annie'>Annie</span>
 		<span class='tag court'>Court</span>
 		<span class='tag diego'>Diego</span>
+		<span class='tag diegobot'>DiegoBot</span>
 		<span class='tag flowers'>Flowers</span>
 		<span class='tag gillitie'>Gillitie</span>
 		<span class='tag jeanne'>Jeanne</span>
@@ -4195,6 +4607,356 @@
 		<a href='http://www.gunnerkrigg.com/?p=503' target='_blank'>p.503</a>
 		<span class='tag cover'>Cover</span>
 		<hr>Chapter 21: Blinking<hr>
+	</p>
+
+	<p class='comicpage bonus coyote coyotestory eyes moon thief '>
+		<a href='http://www.gunnerkrigg.com/?p=502' target='_blank'>p.502</a>
+		<span class='tag bonus'>Bonus</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestory'>CoyoteStory</span>
+		<span class='tag eyes'>Eyes</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag thief'>Thief</span>
+		<b>Bonus Page:</b> (Coyote tells a story about the moon. And himself, obviously)
+	</p>
+
+	<p class='comicpage annie kat moon moonprint observatory '>
+		<a href='http://www.gunnerkrigg.com/?p=501' target='_blank'>p.501</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag moonprint'>MoonPrint</span>
+		<span class='tag observatory'>Observatory</span>
+		That... That can't be right!
+	</p>
+
+	<p class='comicpage annie dirty kat moon moonprint observatory rey '>
+		<a href='http://www.gunnerkrigg.com/?p=500' target='_blank'>p.500</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag dirty'>Dirty</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag moonprint'>MoonPrint</span>
+		<span class='tag observatory'>Observatory</span>
+		<span class='tag rey'>Rey</span>
+		Everything's the same as it always is
+	</p>
+
+	<p class='comicpage annie bridge eglamore gillitie sword ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=499' target='_blank'>p.499</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag bridge'>Bridge</span>
+		<span class='tag eglamore'>Eglamore</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag sword'>Sword</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		(Ysengrin escorts Annie to Eglamore, who then escorts her out of the forest)
+	</p>
+
+	<p class='comicpage annie coyote gillitie secret ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=498' target='_blank'>p.498</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag secret'>Secret</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		That is all for tonight, I think!
+	</p>
+
+	<p class='comicpage annie court coyote coyotestories gillitie god ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=497' target='_blank'>p.497</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag court'>Court</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag god'>God</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		Why... It is man's endevour to become God!
+	</p>
+
+	<p class='comicpage annie coyote coyotestories eyes gillitie rey woodenarm ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=496' target='_blank'>p.496</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag eyes'>Eyes</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag rey'>Rey</span>
+		<span class='tag woodenarm'>WoodenArm</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		Ysengrin loves me very much
+	</p>
+
+	<p class='comicpage annie antimonysymbol bridge coyote coyotestories etherics eyes gillitie mercurysymbol moon rey '>
+		<a href='http://www.gunnerkrigg.com/?p=495' target='_blank'>p.495</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag antimonysymbol'>AntimonySymbol</span>
+		<span class='tag bridge'>Bridge</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag etherics'>Etherics</span>
+		<span class='tag eyes'>Eyes</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag mercurysymbol'>MercurySymbol</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag rey'>Rey</span>
+		We heard he was captured. Tricked!
+	</p>
+
+	<p class='comicpage annie coyote coyotestories gillitie flowers rey surma ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=494' target='_blank'>p.494</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag flowers'>Flowers</span>
+		<span class='tag rey'>Rey</span>
+		<span class='tag surma'>Surma</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		Renard Loooves humans
+	</p>
+
+	<p class='comicpage annie coyote coyotestories gillitie rey '>
+		<a href='http://www.gunnerkrigg.com/?p=493' target='_blank'>p.493</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag rey'>Rey</span>
+		Why, he killed that young man of course.
+	</p>
+
+	<p class='comicpage aly annie court coyote coyotestories gillitie traitor ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=492' target='_blank'>p.492</a>
+		<span class='tag aly'>Aly</span>
+		<span class='tag annie'>Annie</span>
+		<span class='tag court'>Court</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag traitor'>Traitor</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		Is this the test I've heard about?
+	</p>
+
+	<p class='comicpage annan annie bridge court coyote coyotestories gillitie moon '>
+		<a href='http://www.gunnerkrigg.com/?p=491' target='_blank'>p.491</a>
+		<span class='tag annan'>Annan</span>
+		<span class='tag annie'>Annie</span>
+		<span class='tag bridge'>Bridge</span>
+		<span class='tag court'>Court</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag moon'>Moon</span>
+		When they shun their humanity, we welcome them here
+	</p>
+
+	<p class='comicpage annie coyote coyotestories gillitie moon moonprint '>
+		<a href='http://www.gunnerkrigg.com/?p=490' target='_blank'>p.490</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag moonprint'>MoonPrint</span>
+		Watch as I pluck the moon from the very sky
+	</p>
+
+	<p class='comicpage annan annie bismuthsymbol court courtsymbol coyote coyotestories forestsymbol gillitie rey sun ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=489' target='_blank'>p.489</a>
+		<span class='tag annan'>Annan</span>
+		<span class='tag annie'>Annie</span>
+		<span class='tag bismuthsymbol'>BismuthSymbol</span>
+		<span class='tag court'>Court</span>
+		<span class='tag courtsymbol'>CourtSymbol</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag forestsymbol'>ForestSymbol</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag rey'>Rey</span>
+		<span class='tag sun'>Sun</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		You made the Annan waters and the ravine?
+	</p>
+
+	<p class='comicpage annie coyote coyotestories gillitie moon stars sun rey ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=488' target='_blank'>p.488</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag stars'>Stars</span>
+		<span class='tag sun'>Sun</span>
+		<span class='tag rey'>Rey</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		Together we came to this grand forest
+	</p>
+
+	<p class='comicpage annie coyote coyotestories gillitie eyes stars surma '>
+		<a href='http://www.gunnerkrigg.com/?p=487' target='_blank'>p.487</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag eyes'>Eyes</span>
+		<span class='tag stars'>Stars</span>
+		<span class='tag surma'>Surma</span>
+		And we hope the friendship can be born anew
+	</p>
+
+	<p class='comicpage annie coyote coyotestories etherics eyes gillitie stars '>
+		<a href='http://www.gunnerkrigg.com/?p=486' target='_blank'>p.486</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotestories'>CoyoteStories</span>
+		<span class='tag etherics'>Etherics</span>
+		<span class='tag eyes'>Eyes</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag stars'>Stars</span>
+		She told me how you placed the stars in the sky
+	</p>
+
+	<p class='comicpage annie coyote gillitie surma ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=485' target='_blank'>p.485</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag surma'>Surma</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		FIRE HEAD GIRL! Welcome to my forest
+	</p>
+
+	<p class='comicpage coyote coyotetooth gillitie moon trees sun '>
+		<a href='http://www.gunnerkrigg.com/?p=484' target='_blank'>p.484</a>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag coyotetooth'>CoyoteTooth</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag trees'>Trees</span>
+		<span class='tag sun'>Sun</span>
+		(Coyote, talking about himself. Really that could describe any page with him in...)
+	</p>
+
+	<p class='comicpage annie gillitie shadowmen trees ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=483' target='_blank'>p.483</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag shadowmen'>Shadowmen</span>
+		<span class='tag trees'>Trees</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		(Annie and Ysengrin walk through the forest, watched by Shadowmen, until they reach a glade)
+	</p>
+
+	<p class='comicpage annie eglamore gillitie moon stars sword trees uniform ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=482' target='_blank'>p.482</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag eglamore'>Eglamore</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag stars'>Stars</span>
+		<span class='tag sword'>Sword</span>
+		<span class='tag trees'>Trees</span>
+		<span class='tag uniform'>Uniform</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		You will take me to Coyote now
+	</p>
+
+	<p class='comicpage annie eglamore gillitie moon stars sword trees uniform ysengrin '>
+		<a href='http://www.gunnerkrigg.com/?p=481' target='_blank'>p.481</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag eglamore'>Eglamore</span>
+		<span class='tag gillitie'>Gillitie</span>
+		<span class='tag moon'>Moon</span>
+		<span class='tag stars'>Stars</span>
+		<span class='tag sword'>Sword</span>
+		<span class='tag trees'>Trees</span>
+		<span class='tag uniform'>Uniform</span>
+		<span class='tag ysengrin'>Ysengrin</span>
+		Eglamore stays here. He is not welcome.
+	</p>
+
+	<p class='comicpage annie beacon bridge eglamore leadsymbol sword uniform '>
+		<a href='http://www.gunnerkrigg.com/?p=480' target='_blank'>p.480</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag beacon'>Beacon</span>
+		<span class='tag bridge'>Bridge</span>
+		<span class='tag eglamore'>Eglamore</span>
+		<span class='tag leadsymbol'>LeadSymbol</span>
+		<span class='tag sword'>Sword</span>
+		<span class='tag uniform'>Uniform</span>
+		At the first sign of trouble, snap this beacon
+	</p>
+
+	<p class='comicpage annie bridge eglamore leadsymbol sword uniform '>
+		<a href='http://www.gunnerkrigg.com/?p=479' target='_blank'>p.479</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag bridge'>Bridge</span>
+		<span class='tag eglamore'>Eglamore</span>
+		<span class='tag leadsymbol'>LeadSymbol</span>
+		<span class='tag sword'>Sword</span>
+		<span class='tag uniform'>Uniform</span>
+		Do you really need all those swords?
+	</p>
+
+	<p class='comicpage annie bridge courtsymbol eglamore forestsymbol jones leadsymbol sword uniform '>
+		<a href='http://www.gunnerkrigg.com/?p=478' target='_blank'>p.478</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag bridge'>Bridge</span>
+		<span class='tag courtsymbol'>CourtSymbol</span>
+		<span class='tag eglamore'>Eglamore</span>
+		<span class='tag forestsymbol'>ForestSymbol</span>
+		<span class='tag jones'>Jones</span>
+		<span class='tag leadsymbol'>LeadSymbol</span>
+		<span class='tag sword'>Sword</span>
+		<span class='tag uniform'>Uniform</span>
+		Well, no need to keep them waiting.
+	</p>
+
+	<p class='comicpage annie armoury eglamore jones uniform '>
+		<a href='http://www.gunnerkrigg.com/?p=477' target='_blank'>p.477</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag armoury'>Armoury</span>
+		<span class='tag eglamore'>Eglamore</span>
+		<span class='tag jones'>Jones</span>
+		<span class='tag uniform'>Uniform</span>
+		Is the forest really so dangerous?
+	</p>
+
+	<p class='comicpage annie armoury eglamore jones uniform '>
+		<a href='http://www.gunnerkrigg.com/?p=476' target='_blank'>p.476</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag armoury'>Armoury</span>
+		<span class='tag eglamore'>Eglamore</span>
+		<span class='tag jones'>Jones</span>
+		<span class='tag uniform'>Uniform</span>
+		Try not to undress the female students James.
+	</p>
+
+	<p class='comicpage annie coyote dirty dorm kat rey uniform '>
+		<a href='http://www.gunnerkrigg.com/?p=475' target='_blank'>p.475</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag coyote'>Coyote</span>
+		<span class='tag dirty'>Dirty</span>
+		<span class='tag dorm'>Dorm</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag rey'>Rey</span>
+		<span class='tag uniform'>Uniform</span>
+		Today I am going to visit Coyote
+	</p>
+
+	<p class='comicpage annie dirty dorm kat rey surma uniform '>
+		<a href='http://www.gunnerkrigg.com/?p=474' target='_blank'>p.474</a>
+		<span class='tag annie'>Annie</span>
+		<span class='tag dirty'>Dirty</span>
+		<span class='tag dorm'>Dorm</span>
+		<span class='tag kat'>Kat</span>
+		<span class='tag rey'>Rey</span>
+		<span class='tag surma'>Surma</span>
+		<span class='tag uniform'>Uniform</span>
+		Surma made this body?
 	</p>
 
 	<p class='comicpage cover '>
