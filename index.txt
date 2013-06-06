@@ -146,7 +146,7 @@
 973	Bonus	Cookie	Jan	Parley	Smitty	#<b>Bonus Page:</b>Parley Display of Affection
 972	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#truly, I’ve never seen anything like it
 971	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#shadow, you are three dimensional now.
-970	Annie	Bip	Kat	Robot	Shadow	
+970	Annie	Bip	Kat	Robot	Shadow	#there he is!
 969	Kat	Robot	Shadow	#i love my good friend, shadow
 968	Bip	Kat	FlowerHeadband	Parley	Robot	Smitty	#let’s get you fixed up!
 967	Annie	Bip	FlowerHeadband	Kat	Parley	Robot	Shadow	Smitty	#i’m okay, I just feel… really weird…
