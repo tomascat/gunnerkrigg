@@ -1,7 +1,7 @@
 ﻿AdminBot	A secretarial robot who sits at the Admin desk at RobotHQ
 AlchemyChart	An alchemical chart
 Aly	Alistair Kershaw; went to the Forest
-AlyShirt	A shirt belonging to Aly, which apparently Kat has stolen
+AlyShirt	A shirt belonging to Aly, which Kat now owns
 Angel	What Robot refers to Kat as, as he believes she is some sort of semi-religious figure
 AnimalCells	the secret Court large animal holding cells
 AnimalLab	a Court research lab
