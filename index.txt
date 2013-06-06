@@ -498,7 +498,7 @@
 283	Annie	CourtHall	Donny	Eglamore	EthericShield	Rey	Sword	Ysengrin	#(Ysengrin shoots his arm out to attack Annie, Rey steps in front and Donny's etheric shield stops it)
 282	Annie	CourtHall	Coyote	Spankies	Ysengrin	#You never could resist a pretty girl, could you?!
 281	Annie	AntimonySymbol	CourtHall	Coyote	Rey	Robot	WoodenArm	#Won't you come back to the forest with us, dearest cousin?
-280	AntimonySymbol	CourtHall	Coyote	Employees	Rey	Ysengrin	#I tremble in the presence of your terrifying skills of gardening, Ysengrin.
+280	AntimonySymbol	Bob	CourtHall	Coyote	Employees	Rey	Ysengrin	#I tremble in the presence of your terrifying skills of gardening, Ysengrin.
 279	Annie	AnnieJumper	AntimonySymbol	CourtHall	Coyote	Headmaster	Rey	Ysengrin	#You fools are making jackasses of yourselves!
 278	Anja	Annie	AnnieJumper	CourtHall	Donny	Eglamore	Headmaster	Ysengrin	#Furthermore, we have proof that Anthony Carver was the one who planted the device there!
 277	Anja	CourtHall	Donny	TicToc	Ysengrin	#We've wanted to capture one of them for a long time. If we could just study the remains...
