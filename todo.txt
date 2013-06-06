@@ -1,7 +1,6 @@
 1057-1091: Starting here http://www.gunnerkrigg.com/?p=1057
 1027-1055: Starting here http://www.gunnerkrigg.com/?p=1027
 1003-1025: Starting here http://www.gunnerkrigg.com/?p=1003
-975-1001: Starting here http://www.gunnerkrigg.com/?p=975
 790-843: Starting here http://www.gunnerkrigg.com/?p=790
 762-788: Starting here http://www.gunnerkrigg.com/?p=762
 744-760: Starting here http://www.gunnerkrigg.com/?p=744
@@ -17,4 +16,4 @@
 182-199: Starting here http://www.gunnerkrigg.com/?p=182
 150-164: Starting here http://www.gunnerkrigg.com/?p=150
 
-691/1205 comics transcribed = 57%
+718/1205 comics transcribed = 59%

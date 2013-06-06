@@ -115,6 +115,33 @@
 1056	Cover	#<hr>Chapter 39: The Great Secret<hr>
 1026	Cover	#<hr>Chapter 38: Divine<hr>
 1002	Cover	#<hr>Chapter 37: Microsat 5<hr>
+1001	Bonus	AntlerFae	BadgerFae	Blue	BlushFae	Bugsy	CurlyFae	FishFae	FlowerFae	GreenFae	HedgehogFae	MarineFae	Red	WaterFae	YellowFae	#<b>Bonus Page:</b>Chapter 36 Character Guide
+1000	Annie	Foley	Jones	Shadow	#transferring a call, Ms. Carver
+999	Annie	Foley	Jones	Shadow	#so, shadow, did you find a nice class?
+998	Annie	Blue	Foley	Jones	Red	Shadow	#did you have a good time?
+997	Annie	AnnieCut	AntlerFae	CurlyFae	FlowerFae	Foley	MarineFae	YellowFae	#can you give me a name too?!
+996	BadgerFae	Blue	BlushFae	Bugsy	Foley	Red	WaterFae	YellowFae	#ooh! fight! fight!
+995	Annie	AnnieCut	AntlerFae	BadgerFae	Blue	FlowerFae	Foley	GreenFae	HedgehogFae	MarineFae	Red	#Tom: Here it is. The best page of Gunnerkrigg Court.
+994	Annie	AnnieCut	Blue	BlushFae	Bugsy	Foley	GreenFae	HedgehogFae	Red	YellowFae	#you didn’t guess at all! You just named her!
+993	Annie	AnnieCut	BadgerFae	Blue	BlushFae	Bugsy	Etherics	FlowerFae	Foley	Red	WaterFae	#What?! What did you call me?!
+992	Annie	AnnieCut	BadgerFae	Blue	Etherics	FlowerFae	Foley	Gol-shogeg	GreenFae	HedgehogFae	MarineFae	Red	#Red, How can you be so cruel?!
+991	Annie	AnnieCut	Blue	Etherics	Foley	Gol-shogeg	Red	#Oh no! she’s dead!
+990	Annie	AnnieCut	AntlerFae	BlushFae	Bugsy	Etherics	Fishfae	Foley	Gol-shogeg	GreenFae	Red	YellowFae	#that’s pretty scary. Still wish I was asleep though
+989	Annie	AnnieCut	BadgerFae	Blue	Etherics	Foley	Gol-shogeg	MarineFae	WaterFae	#GROOONK
+988	Annie	AnnieCut	Blue	Bugsy	Etherics	Foley	Gol-shogeg	Red	#you know what a Gol-shogeg is, right?
+987	Annie	AnnieCut	Blue	BlushFae	Coyote	CurlyFae	FlowerFae	Foley	GreenFae	MarineFae	Red	WaterFae	YellowFae	#what else can you do?!
+986	Annie	AnnieCut	Blue	Etherics	Fire	FlowerFae	Foley	Red	YellowFae	Ysengrin	#what about you, fatty? You got any tricks?
+985	Annie	AnnieCut	AntlerFae	BadgerFae	Etherics	FlowerFae	Foley	HedgehogFae	WaterFae	#what were you… before?
+984	Annie	AnnieCut	BlinkerStone	CurlyFae	Etherics	Foley	FishFae	FlowerFae	Red	#let’s try dis!
+983	Annie	AnnieCut	AntlerFae	BadgerFae	BlinkerStone	BlushFae	Etherics	Foley	GreenFae	HedgehogFae	FlowerFae	MarineFae	Red	WaterFae	YellowFae	#hey, you’s still connected to your body!
+982	Annie	AnnieCut	AntlerFae	BadgerFae	BlinkerStone	Blue	Etherics	Foley	FlowerFae	GreenFae	Red	WaterFae	YellowFae	#took ya long enough!
+981	Annie	Bugsy	Foley	Red	#um, excuse me…
+980	Annie	Foley	Jones	Red	Robot	Shadow	#do you know that girl?
+979	Annie	Foley	Jones	Robot	Shadow	Train	#He seems a little younger than yourself, but I’m sure I can find a class for him
+978	Annie	Jones	Shadow	Sweets	Train	#I think I know where he can go unnoticed
+977	Annie	Jones	Shadow	#we’ve been looking after him, but his needs are different now
+976	Annie	Jones	Shadow	#and now, a young shadow man walks and lives amongst the humans
+975	Coyote	CoyoteStories	ShadowMen	#how the glass eyed men became shadow men
 974	Cover	#<hr>Chapter 36: Red Gets a Name<hr>
 973	Bonus	Cookie	Jan	Parley	Smitty	#<b>Bonus Page:</b>Parley Display of Affection
 972	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#truly, I’ve never seen anything like it

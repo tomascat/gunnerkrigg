@@ -13,10 +13,12 @@ AnnieJumper	Annie's original school jumper
 AntiGravGenerator	An anti-gravity generator that Kat made for the science fair
 AntiGravShip	An anti-gravity ship that Kat made out of the anti-gravity generator
 AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Surma
+AntlerFae	 ‘that guy’- big nose, sandy brown hair, can haz antlers
 Anwyn	could be described as tree elves but they don’t call themselves that
 Archery	Fun with bows and arrows!
 Armoury	Place where lots of weapons are stored
 Axe	Often used to chop wood
+BadgerFae	 ‘him too’- white hair, two black stripes, former badger
 Basil	Minotaur
 Beacon	Safety tool given to Annie, can summon Eglamore within 5 seconds. 
 BeckyGround	A student
@@ -28,6 +30,7 @@ BlackPen	A black marker pen used to draw faces.
 BlinkerStone	Etheric lens device
 Blue	A crazy fairy obsessed with hair
 Blush	happy/embarrassed
+BlushFae	 ‘her too’- dark pink hair, two rosy cheeks (likes to wang tomatoes?)
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young’s Park with his wife, Marcia
 Bobbie	A robot at the AnimalLab
 Bonus	Extra pages at the end of the chapter
@@ -35,6 +38,7 @@ Boots	made for walking
 Boxbot	see Terrible
 Bridge	over the Annan Water to Gillitie Wood
 Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers &amp; co.
+Bugsy	Teacher Lady, or Teach. foley teacher, rather be sleeping
 Buzzer	bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes (Mercury), symbol of commerce
 CherryTree	Comes as advertised
@@ -55,6 +59,7 @@ CoyoteStories	Stories told about or by Coyote.
 CreatorGlyph	mark of the robots’ creator: now associated with Kat
 Creeper	someone who is creeping
 Crying	when salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
+CurlyFae	 ‘this girl too’- short curly blue hair, red dot below right eye
 Dryad	Folk who can control and travel through the trees themselves, Marcia is one.
 Diego	former creepy robotics expert
 DiegoBot	One of the origional robots created by Diego many years ago
@@ -82,7 +87,9 @@ Fight	When two people have a disagreement, violently.
 Filler	not a mainstream story comic
 Fire	an ancient element
 FireSymbol	The alchemical symbol for fire
+FishFae	 ‘a fish guy?’- concentrating on making himself handsome, former fish
 Flashback	Things that happened in the past
+FlowerFae	 ‘this one’- purple hair, green bar under left eye
 FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
 Flowers	Colourful plants that grow from the ground. Often given as gifts.
 Foley	One of the other school Houses
@@ -91,7 +98,9 @@ Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are
 God	What is god?
+Gol-shogeg	big worm slug monster
 GoodHope	Good Hope Hospital is where Surma was before she died
+GreenFae	 ‘this other one’- long straight green hair
 GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
 Gym	school gymnasium
@@ -102,6 +111,7 @@ HardwickLittleBestiary	Reference on mystical creatures
 HarryPotter	Deserves to be taped to a flag pole for being a ponce.
 Headmaster	Mr Llanwellyn, Janet's father; surprisingly grey, apathetic man, with bad posture
 Heart	a heart sign, symbol, glyph or character
+HedgehogFae	 ‘and him’- dreads, former hedgehog
 Hexagram	Means the art of alchemy, the quintessence or "fire-water"/alcohol; the Jewish Kingdom (Star of David)
 Hospital	The hospital within the court
 Hyland	Jack's father and classmate of Eglamore, Donny, Anja and Surma. Not very nice to Anja or Surma.
@@ -127,6 +137,7 @@ Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey’s body
 Mandolin	sometimes they’re haunted
 Marcia	Marcia Sutton, a dryad and keeper of Young’s Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
+MarineFae	 ‘and her’- aquamarine hair, vertical green bar on forehead
 Matt	A student who is a classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Montgomery	A Seraph Robot
@@ -215,12 +226,14 @@ VII	The number seven, numerologically symbolises virginity, change, completion o
 VincentPrice	A famous actor
 WanderingEye	symbol of that which calls itself Jones, currently
 Warehouse113	Not a secret base at Long Acre
+WaterFae	‘this girl’- short blue spikey hair, 2 dots under right eye, had a waterfall?
 WaterSymbol	Alchemical symbol for water
 WhiteSpider	White Spider associated with Jack Hyland's etheric form
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie’s mother
 WhiteRabbit	Every story begins with a rabbit (except the ones that don't)
 WoodenArm	A mysterious wooden arm from Gillitie
+YellowFae	‘him’- yellow hair, kinda sideways windswept
 YoungsPark	A large park within the Court, looked after by Bob and his wife Marcia
 Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
 Zimmy	aka Zeta, a strange girl who is friends with Gamma
