@@ -88,6 +88,7 @@ Filler	not a mainstream story comic
 Fire	an ancient element
 FireSymbol	The alchemical symbol for fire
 FishFae	 ‘a fish guy?’- concentrating on making himself handsome, former fish
+Fish	Aquatic animal, fish live in water and breathe through gills
 Flashback	Things that happened in the past
 FlowerFae	 ‘this one’- purple hair, green bar under left eye
 FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
@@ -119,6 +120,7 @@ JackHyland	A boy with spiders in his hair, in the same year as Annie and Kat.
 Jan	January, curt friend of Parley
 Janet	Fierce daughter of the headmaster
 Jeanne	vengeful ghost
+JollyElfsberry	A prancing elf, and alias of Coyote
 Jones	a name of Wandering Eye
 Kamlen	Anwyn boy about Annie’s and Kat’s age
 Kat	Katerina Donlan
@@ -149,7 +151,7 @@ Mort	A ghost
 MrThorn	Mr Thorn, Court protector and games teacher to Annie and Kat's parents.
 Music	Everyone loves music!
 Muut	Egyptian psychopomp (escorts the dead to the afterlife).
-NancyDrew	A series of novels featuring a teenage girl solving mysteries.
+NancyDrew	A series of books featuring a teenage girl solving mysteries. 
 NapoleonHat	A fitting hat for Reynardine the Great!
 Nevihta	Rogat Orjak to Sir Young, first protector of the court.
 Observatory	A massive telescope
@@ -219,6 +221,7 @@ Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Traitor	One who betrays their allies
 Treatise	Symbolic representation of the story
+TreeBody	Ysengrin's artificial tree-like body. His true body underneath is a physically weaker, much older wolf
 TreeDog	They usually go woof, unless created by the forest
 Trees	come as advertised (usually)
 Uniform	An outfit one wears when on official business.

@@ -278,6 +278,31 @@
 743	Cover	#<hr>Chapter 29: A Bad Start<hr>
 717	Cover	#<hr>Chapter 28: Spring Heeled Part 2<hr>
 689	Cover	#<hr>Chapter 27: Spring Heeled<hr>
+688	Bonus	Annie	AntimonySymbol	Rey	#<b>Bonus Page:</b>Fox Call
+687	Annie	Bridge	Coyote	Eglamore	Gillitie	JollyElfberry	Sword	#So when do you start teaching students how to use a sword?
+686	Annie	Coyote	CoyoteTooth	Gillitie	#The keenest blade you will ever find!
+685	Annie	Coyote	CoyoteTooth	Fish	Etherics	Gillitie	Ysengrin	#You saw three Ysengrins tonight
+684	Annie	Coyote	Gillitie	Ysengrin	#I will take her the rest of the way
+683	Annie	Coyote	Fish	Gillitie	Ysengrin	#Never apologise for what is not your fault
+682	Annie	Coyote	Gillitie	Ysengrin	#No no, Ysengrin will carry you back
+681	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Flowers	Stars	Gillitie	#But that is all for tonight, you are tired.
+680	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Flowers	Gillitie	Stars	#Pick this flower
+679	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Gillitie	Stars	#Did something happen to cause that cut on your cheek?
+678	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Gillitie	Stars	Rey	#I just... needed to get away from the court for a little while
+677	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Gillitie	Stars	Ysengrin	#Coyote... you're magnificent... and terrifying.
+676	Annie	BlinkerStone	Coyote	Etherics	Gillitie	Rey	Ysengrin	#Focus on yourself and expand slowly...
+675	Annie	Coyote	Flowers	Gillitie	Rey	Ysengrin	#It is Renard's body!
+674	Annie	BismuthSymbol	CourtSymbol	Coyote	Fish	Gillitie	Etherics	Ysengrin	#I'm very upset with you coyote
+673	Annie	CourtSymbol	Coyote	Gillitie	TreeBody	Ysengrin	#Well now look who it is!
+672	Annie	Fish	Gillitie	TreeBody	Ysengrin	#If you were anyone else...
+671	Annie	Fish	Gillitie	TreeBody	Ysengrin	#You!
+670	Annie	Coyote	Fish	Gillitie	TreeBody	Ysengrin	#Stand your ground
+669	Fish	Gillitie	TreeBody	Ysengrin	#A private moment (Ysengrin the wolf steps out of his wooden body to eat a fish)
+668	Fish	Gillitie	TreeBody	Ysengrin	#Snack time (Ysengrin uses his wooden body to spear a fish
+667	Annie	Coyote	Gillitie	JollyElfsberry	Ysengrin	#Where is Ysengrin?
+666	Annie	Coyote	Eglamore	Eyes	Gillitie	JollyElfsberry	Sword	Uniform	#See you later, Mr Eglamore!
+665	Annie	Eglamore	Gillitie	JollyElfsberry	Sword	Uniform	#I am Jolly Elfsberry, and Coyote sent me to greet you!
+664	Annie	CourtSymbol	Eglamore	Gillitie	JollyElfsberry	Uniform	#Symbol's a little wonky Carver.
 663	Cover	#<hr>Chapter 26: The Old Dog’s Tricks<hr>
 662	Filler	Gamma	Zimmy	#Another year...
 661	Bonus	Flowers	Robots	Students	#<b>Bonus page</b>Robot Handling. Section H: miscellanious. Robots may sometimes become attracted to you
