@@ -253,7 +253,7 @@
 689	Cover	#<hr>Chapter 27: Spring Heeled<hr>
 663	Cover	#<hr>Chapter 26: The Old Dog’s Tricks<hr>
 662	Filler	Gamma	Zimmy	#Another year...
-661	Bonus	Flowers	Robots	Students	#<b>Bonus page<b>Robot Handling. Section H: miscellanious. Robots may sometimes become attracted to you
+661	Bonus	Flowers	Robots	Students	#<b>Bonus page</b>Robot Handling. Section H: miscellanious. Robots may sometimes become attracted to you
 660	Angel	Diego	Robot	Robots	Roof	SkyWatcher	#The number of angels I have seen is One.
 659	Angel	Crying	Diego	LaserCow	Robot	RobotHQ	Robots	SkyWatcher	#"Love makes you act in strange ways."
 658	Angel	BlackPen	Crying	DiegoBot	DiegoStudy	Jeanne	Robot	RobotKing	Robots	SkyWatcher	#Please, dearest angel, help us understand...
@@ -447,6 +447,26 @@
 361	Cover	#<hr>Chapter 17: The Medium Beginning<hr>
 331	Cover	#<hr>Chapter 16: A Ghost Story<hr>
 305	Cover	#Year 8<hr>Chapter 15: Red Returns<hr>
+304	Filler	Annie	Kat	Mort	Jokes	#Annie, Kat and Mort write joke comics with bad puns
+303	Filler	#Strange photos from Tom?
+302	Filler	Kat	Letter	#Letter from Kat in Italy to Annie
+301	Filler	Kat	Letter	#Letter from Kat in Italy to Annie
+300	Filler	Annie	Court	Kat	Rey	Roof	#Guest Strip: Kel McDonald
+299	Filler	Gamma	GuestComic	Zimmy	#Guest Strip: Diana Nock of GirlBot
+298	Filler	Anja	Annie	Coyote	Donny	Eglamore	Jones	Parley	Smitty	Ysengrin	#Character sketches by Tom
+297	Filler	Dorm	GuestComic	Kat	Mort	#Guest Strip: Dan Hassan of danhassan.com
+296	Filler	Kat	Letter	#Letter from Kat in Scotland to Annie
+295	Filler	Annie	BeckyGround	Classroom	Court	GuestComic	HarryPotter	Winsbury	#Guest Strip: Ali Graham of Afterstrife
+294	Filler	Court	Roof	Sky	Tea	Telescope	Tom	#<hr>Filler & Guest Comics<hr>
+293	Bonus	Treatise	Aly	Annie	AntimonySymbol	BismuthSymbol	CreatorGlyph	Court	Coyote	FireSymbol	Gillitie	Hammer	Jeanne	Kat	MercurySymbol	Orb	Rey	Rocket	Shadowmen	Sun	SunSymbol	Sword	WaterSymbol	Ysengrin	#<b>Bonus Page:</b> Treatise 2 End of Book One<hr>
+292	Annie	AntimonySymbol	Dorm	Photo	Rey	#And so did I wait for word from my father. Unaware that I would not hear from him for over two years.
+291	Anja	Annie	AntimonySymbol	BismuthSymbol	Brinnie	Donny	Dorm	Eglamore	Photo	Rey	Surma	#You stole that from the parents of your closest friend?
+290	Annie	AntimonySymbol	Dorm	Rey	#Aren't you going to ask me what I did? What law I broke?
+289	AlyShirt	Annie	DonlanHouse	Kat	#It won't be any fun without you.
+288	AlyShirt	Annie	BlinkerStone	DonlanHouse	Kat	#In fact, the headmaster said I should meet with Parley and Andrew next year and maybe join them in some lessons
+287	Annie	AntimonySymbol	CourtHall	Headmaster	Jones	Parley	Rey	Smitty	#Do you realise how many people could slap a creature like Coyote on the rump and live to tell of it?
+286	Annie	BismuthSymbol	CourtHall	Donny	Headmaster	Jones	Parley	Rey	Seeds	#The way he has distorted his body... I've seen similar but nothing quite like that
+285	Annie	BismuthSymbol	CourtHall	Coyote	Eglamore	Rey	Ysengrin	#Come visit me in the forest where we may talk
 284	CourtHall	Coyote	Ysengrin	#My sincerest apologies. Poor Ysengrin is so easy to rile these days.
 283	Annie	CourtHall	Donny	Eglamore	EthericShield	Rey	Sword	Ysengrin	#(Ysengrin shoots his arm out to attack Annie, Rey steps in front and Donny's etheric shield stops it)
 282	Annie	CourtHall	Coyote	Spankies	Ysengrin	#You never could resist a pretty girl, could you?!

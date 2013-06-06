@@ -93,11 +93,13 @@ Gillitie	Gillitie Wood where the wild things are
 God	What is god?
 GoodHope	Good Hope Hospital is where Surma was before she died
 GroundSymbol	The electronic symbol for ground
+GuestComic	Guest comic strips from end of Year 7/Book one
 Gym	school gymnasium
 Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
+HarryPotter	Deserves to be taped to a flag pole for being a ponce.
 Headmaster	Mr Llanwellyn, Janet's father; surprisingly grey, apathetic man, with bad posture
 Heart	a heart sign, symbol, glyph or character
 Hexagram	Means the art of alchemy, the quintessence or "fire-water"/alcohol; the Jewish Kingdom (Star of David)
@@ -174,9 +176,11 @@ SimRocket	A rocket in Dr Disaster’s simulation
 Simulation	One of Dr Disaster’s holographic simulations
 SirYoung	Protector of the Court at its founding
 SivoBody	A deceased Rogat Orjak
+Sky	Comes as advertised; full of stars
 SkyWatcher	A praying mantis-like robot that collects meteorological data.
 SmallBot	a young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
+Spankies	From Annie for when Coyote is a Bad Dog!
 Speakeasy	A hotel-like place that the students sneak out to with a "speakeasy-like atmosphere"
 StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot
 Stars	celestial bodies
