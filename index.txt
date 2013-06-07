@@ -1,4 +1,6 @@
-﻿1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we're heading off to class now
+1207  Lindsey	Reynard	SubDorm	#Out and about today Reynard (toy to white wolf transform)
+1206	Annie	Blush	Kat	Paz	Reynard	SubDorm	#Tom: Annie does not know yet
+1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we're heading off to class now
 1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
 1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
@@ -112,7 +114,41 @@
 1094	Headmaster	Jones	#Yesterday: You have my recommendation, Jonathan
 1093	Annie	Jones	#What are you?
 1092	Cover	#<hr>Chapter 40: The Stone<hr>
-1056	Cover	#<hr>Chapter 39: The Great Secret<hr>
+1091  Coyote	Gillite	TreeBody	Ysengrin	#Stand back up and pull yourself together
+1090	Coyote	Ether	Gillite	Ysengrin	#Now why don’t I just remove this nasty little memory?
+1089	Coyote	Gillite	TreeBody	Ysengrin	#What… what… I- I tried to attack… the girl…
+1087	Annie	Eglamore	Gillite	#I’m sorry
+1086	Annie	Armour	Blush	Eglamore	Gillite	#They are not your pets
+1085	Annie	Armour	BlinkerStone	Eglamore	Gillite	Sword	Ysengrin	#He’s still coming!
+1084	Annie	Armour	Eglamore	Etherics	Gillite	Sword	Ysengrin	#Tree/Wolf stretch
+1083	Annie	Armour	Eglamore	Gillite	Sword	Valknut	Ysengrin	ZAM	#ZAM [‘ZAM’ is a more ostentatious ‘Bip’][Should we tag Eglamore-esque Jumps, btw?]
+1082	Annie	Beacon	Eglamore	Flashback	Gillite	Ysengrin	#On the first sign of trouble, snap this beacon
+1081	Annie	Beacon	Gillite	Ysengrin	#You’re not like this!
+1080	Annie	Gillite	Ysengrin	#creak … snap … GRUUH!<br>Tom: Ysengrin seems to disagree
+1079	Annie	Gillite	Ysengrin	#You think you are better than me because you are human?
+1078	Annie	Gillite	Ysengrin	#Well I feel real enough
+1077	Annie	Gillite	Ysengrin	#Coyote is not the only powerful one
+1076	Annie	Gillite	Ysengrin	#Why does Coyote’s theory upset you so much
+1075	Annie	Coyote	Gillite	#I really wish you weren’t so rude to Ysengrin
+1074	Annie	Coyote Gillite	#I noticed something wrong with your theory, Coyote
+1073	Annie	Coyote	Flashback	Gillite	Surma	#So… the Guides…
+1072	Annie	Coyote	Ether	Flashback	ModdeyDhoo	#It is because they are absorbed into the Ether
+1071	Annie	Coyote 	Ether	God	#The curse causes Man to stumble through this world forever asking Questions
+1070	Annie	Coyote	Ether	God	#He does not see an animal looking for a meal, he sees the power of a god
+1069	Annie	Coyote	Gillite#… Can I go home now? [and: a coyote]
+1068	Coyote	Ether	Gillite	#I. Do Not. Exist!<br>Tom: Also: kind of a jerk.
+1067	Annie	Coyote	Gillite	Ysengrin	#and so, Fire Head Girl told Coyote lovely stories about how amazing he is<br>Tom: Try not to look at the camera, Coyote
+1066	Annie	Coyote	Gillite	Ysengrin	#Your great secret?<br>Tom: Coyote gets his way
+1065	Annie	Coyote	Gillite	Ysengrin	#Coyote! Hove some dignity!<br>Tom: A new range of expressions for Ysengrin
+1064	Annie	Coyote	Gillite	#Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!<br>Tom: The Greate Coyote
+1063	Annie	Coyote	Gillite	Ysengrin	#Who said you had any choice in the matter, Fire Head Girl?<br>Tom: Flick
+1062	Annie	Coyote	Gillite	#You will tell me stories<br>Tom: Told you he was a jerk
+1061	Annie	Coyote	Gillite	#Boo!<br>Tom: This jerk again
+1060	Annie	Ether	Ysengrin	#Tom: Walkin’ along
+1059	Annie	Bridge	Eglamore	Gillite	Ysengrin	#Tom: Been a while
+1058	Annie	Armour	Bridge	Gillite	Eglamore	Sword	Ysengrin	#Considering what’s happened these part few weeks
+1057	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	#You know , you don’t have to wear that outfit every time we go across the bridge
+1056	Cover	Coyote	#<hr>Chapter 39: The Great Secret<hr>
 1026	Cover	#<hr>Chapter 38: Divine<hr>
 1025	Bonus	Anja	Eglamore	Jones	Kat	PlanTheta	#<b>Bonus Page:</b>What About These Guys?
 1024	Annie	Blush	Donny	Etherics	Robotics	Roof	#i’m happy my daughter has you as a friend 
