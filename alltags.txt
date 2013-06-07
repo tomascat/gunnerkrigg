@@ -142,6 +142,7 @@ Margo	A student who enjoys singing. Friends with SullivansJohn
 MarineFae	 ‘and her’- aquamarine hair, vertical green bar on forehead
 Matt	A student who is a classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
+Microsat5	Tony’s payload delivery satellite
 Montgomery	A Seraph Robot
 Monument	A physical tribute to a well respected person.
 Moon	Our most ancient satellite!
@@ -161,6 +162,7 @@ Ogee	A city fairy with the power of rusting, who hangs out with a magpie called 
 Orb	The <i>Globus cruciger</i>, a Christian symbol of power, wielded by monarchs and Christ
 Parley	George Parley: Swordswoman (Big Nose Girl)
 Paz	Spanish, good with animals
+PlanTheta	Baking Distraction
 PrincessMononoke	animated movie by Hayao Miyazaki
 Psychopomp	Escorts the dead to the afterlife/Ether
 Queslett	Annie &amp; Kat’s school House

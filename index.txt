@@ -114,6 +114,29 @@
 1092	Cover	#<hr>Chapter 40: The Stone<hr>
 1056	Cover	#<hr>Chapter 39: The Great Secret<hr>
 1026	Cover	#<hr>Chapter 38: Divine<hr>
+1025	Bonus	Anja	Eglamore	Jones	Kat	PlanTheta	#<b>Bonus Page:</b>What About These Guys?
+1024	Annie	Blush	Donny	Etherics	Robotics	Roof	#i’m happy my daughter has you as a friend 
+1023	Annie	Donny	Microsat5	Roof	#they flew away… that’s it? That’s it.
+1022	Annie	Donny	Etherics	Microsat5	Robotics	Roof	#what kind of rocket was that?!
+1021	Annie	Donny	Etherics	Microsat5	Robotics	Roof	#here we go… three, two, one, now
+1020	Annie	Donny	Eglamore	Microsat5	Roof	#oh! It’s time!
+1019	Annie	Flashback	Tony	#Tom: She doesn’t remember much else from that day
+1018	Annie	Flashback	Tony	#Tom: Martial arts experts, please calm down. Their belts are grey because they are no specific colour
+1017	Annie	Anja	Donny	Etherics	Robotics	Roof	#haha! Just a function of my wife’s amazing computer
+1016	Annie	Donny	Etherics	Microsat5	Robotics	Roof	Tony	#so this satellite will help us get these supplies to my father?
+1015	Annie	Donny	Etherics	Robotics	Tony	#Tony. How strange, it almost makes him sound like… like… a person
+1014	Annie	Anja	Donny	Eglamore	Flashback	Horsebot	Surma	Tony	#the point is, with Tony, the smallest thing can carry the greatest weight 
+1013	Anja	Brinnie	Donny	Eglamore	Flashback	Surma	Tony	#all he had to do was ask brinnie if she wanted to go too<br>Tom: Donny watches a friend shoot himself down. What more can he do?
+1012	Annie	Anja	Brinnie	Donny	Flashback	Surma	Tony	#i’d never seen him in a mess before, and over a girl!
+1011	Brinnie	Donny	Flashback	Tony	#you either like her or you don’t, tony!
+1010	Annie	Brinnie	Donny	Flashback	Tony	#Antimony… how well do you know your father?
+1009	Annie	Donny	Tony	Microsat5	#well now, this is no good
+1008	Annie	Donny	Tony	#so… you think it’s some kind of message?
+1007	Annie	Donny	Etherics	Robotics	#it’s my portable door
+1006	Annie	Donny	Etherics	Robotics	#anyway, about the call, did it seem strange to you? <br>Tom: Whatever you do, don’t say the message out loud
+1005	Annie	Crying	Donny	#W-what’s happening? I’m a mess!
+1004	Annie	Anja	Donny	Eglamore	Kat	#here, give your hands  a resy, eh?
+1003	Annie	Anja	Donny	Eglamore	Kat	Tony	#my father called me.
 1002	Cover	#<hr>Chapter 37: Microsat 5<hr>
 1001	Bonus	AntlerFae	BadgerFae	Blue	BlushFae	Bugsy	CurlyFae	FishFae	FlowerFae	GreenFae	HedgehogFae	MarineFae	Red	WaterFae	YellowFae	#<b>Bonus Page:</b>Chapter 36 Character Guide
 1000	Annie	Foley	Jones	Shadow	#transferring a call, Ms. Carver
