@@ -14,7 +14,7 @@ with codecs.open('index.txt',"r","utf-8-sig") as f:
 		if last is not None:
 			if last - new > 1:
 				if last - new == 2:
-					toWrite.append((new+1)+"\n")
+					toWrite.append(str(new+1)+"\n")
 					# toWrite.append("\n")
 					# print new + 1
 				else:

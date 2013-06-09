@@ -114,9 +114,10 @@
 1094	Headmaster	Jones	#Yesterday: You have my recommendation, Jonathan
 1093	Annie	Jones	#What are you?
 1092	Cover	#<hr>Chapter 40: The Stone<hr>
-1091	Coyote	Gillitie	TreeBody	Ysengrin	#Stand back up and pull yourself together
-1090	Coyote	Etherium	Gillitie	Ysengrin	#Now why don’t I just remove this nasty little memory?
-1089	Coyote	Gillitie	TreeBody	Ysengrin	#What… what… I- I tried to attack… the girl…
+1091	Bonus	Mort	#<b>Bonus Page :</b>Mort Fun Time
+1090	Coyote	Gillitie	TreeBody	Ysengrin	#Stand back up and pull yourself together
+1089	Coyote	Etherium	Gillitie	Ysengrin	#Now why don’t I just remove this nasty little memory?
+1088	Coyote	Gillitie	TreeBody	Ysengrin	#What… what… I- I tried to attack… the girl…
 1087	Annie	Eglamore	Gillitie	#I’m sorry
 1086	Annie	Armour	Blush	Eglamore	Gillitie	#They are not your pets
 1085	Annie	Armour	BlinkerStone	Eglamore	Gillitie	Sword	Ysengrin	#He’s still coming!
