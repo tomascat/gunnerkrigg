@@ -6,6 +6,7 @@
 - Categorisation of types of tags (characters vs symbols vs ideas vs settings vs plots)
 - Links to wiki as relevant(?)
 - Tag counts
+- Ability to select more than one tag at once? (Kat AND Paz for example)
 
 ###Index
 
