@@ -149,7 +149,36 @@
 1058	Annie	Armour	Bridge	Gillitie	Eglamore	Sword	Ysengrin	#Considering what’s happened these part few weeks
 1057	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	#You know , you don’t have to wear that outfit every time we go across the bridge
 1056	Cover	Coyote	#<hr>Chapter 39: The Great Secret<hr>
-1026	Cover	#<hr>Chapter 38: Divine<hr>
+1055  Bonus	Filler	Tea	#<b>Bonus Page:</b> heart rate monitors
+1054	FlowerHeadband	Gamma	Hospital	Zimmy	#Are you sure you don’t want them to know you helped?
+1053	Annie	Gamma	Hospital	Kat	MakeUp	Zimmy	#I brought these for you
+1052	Annie	Hospital	Kat	#So I just collapsed in the hall?
+1051	Annie	Hospital	Kat	#You’re awake!
+1050	FlowerHeadband	Gamma	Hospital	Kat	Tears	Zimmy	#You can’t always run from what scares you
+1049	Angel	#
+1048	FlowerHeadband	Gamma	Hospital	Kat	Robot	Shadow	Zimmy	#Hey, what happ–
+1047	Annie	Etherium	Fight	FlowerHeadband	Jack	Kat	Mask	Hospital	Zimmy	Zimmingham	#Yer Dad’s a JERK!
+1046	Annie	Etherium	Jack	Mask	Zimmy	Zimmingham	#I don’t want to know about your million boyfriends
+1045	Annie	Bone	FlowerHeadband	Hospital	Kat	Rey	Robot	Shadow	Zimmingham	Zimmy	#Okay this is where things start to go bad…
+1044	AnnieCut	Bone	Etherium	Fight	Fire	Tony	Zimmy	#A message from your little girl, mate!
+1043	Bone	Etherium	Fire	Zimmy	#
+1042	Annie	CityFace	Etherium	FlowerHeadband	Hospital	Kat	Zimmy	#What’s the matter? Don’t like him?
+1041	Annie	Bone	CityFace	Etherium	Fire	FireElemental	Hospital	Kat	Mask	Zimmy	#No wonder you’re like this, Carver
+1040	Annie	Bone	Etherium	Fire	FireElemental	Mask	#Pretty hot in here
+1039	Annie	CherryTree	Etherium	Fight	Kat	Mask	Zimmy	#You got no fight in you, Carver
+1038	Annie	CherryTree	CityFace	Homework	Kat	Mask	Spiders	Zimmy	#Well. Things seem okay up here.
+1037	Annie	CherryTree	CityFace	Gillitie	Kat	Mask	Tears	Zimmy	#Don’t tell me you are looking into her dreams…
+1036	Annie	AntimonySymbol	Anwyn	CityFace	Gillitie	Hospital	Kamlen	Kat	Jones	Mask	Rey	Robot	Shadow	Zimmy	#Woah! Haha! Did she get a green boyfriend or sumthin’?
+1035	Annie	Bind	CoyoteTooth	Gillitie	Kamlen	Spiders	Zimmy	#Oh yeah, she went into the forest, huh?
+1034	Annie	CityFace	Etherium	Gillitie	Hospital	FlowerHeadband	Kat	Zimmy	#
+1033	Annie	Blush	CityFace	Gamma	Hospital	FlowerHeadband	Kat	Rey	Zimmy	#You… You can help?
+1032	Annie	CityFace	Gamma	Hospital	FlowerHeadband	Kat	Rey	Robot	Shadow	Zimmy	#D-Did Paz say something?!
+1031	Annie	CityFace	Gamma	Hospital	FlowerHeadband	Kat	Rey	Robot	Shadow	Zimmy	#Why are those two even here?
+1030	Annie	FlowerHeadband	Gamma	Hospital	Kat	Rey	Zimmy	#Z-Zimmy, Gamma… I didn’t hear you come in
+1029	Annie	AntimonySymbol	Hospital	FlowerHeadband	Kat	Rey	Robot	Shadow	Zimmy	#(hospital room: quiet &amp; still)
+1028	Gamma	Zimmy	Zimmingham	#I don’t want to see her!
+1027	AnnieCut	Zimmy	Zimmingham	#Not mine!<br>Tom: Look who’s scrambling around in the trash again.
+1026	CityFace	Cover	#<br>Chapter 38: Divine<hr>
 1025	Bonus	Anja	Eglamore	Jones	Kat	PlanTheta	#<b>Bonus Page:</b>What About These Guys?
 1024	Annie	Blush	Donny	Etherics	Robotics	Roof	#i’m happy my daughter has you as a friend 
 1023	Annie	Donny	Microsat5	Roof	#they flew away… that’s it? That’s it.
