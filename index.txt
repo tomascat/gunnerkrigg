@@ -149,7 +149,7 @@
 1058	Annie	Armour	Bridge	Gillitie	Eglamore	Sword	Ysengrin	#Considering what’s happened these part few weeks
 1057	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	#You know , you don’t have to wear that outfit every time we go across the bridge
 1056	Cover	Coyote	#<hr>Chapter 39: The Great Secret<hr>
-1055  Bonus	Filler	Tea	#<b>Bonus Page:</b> heart rate monitors
+1055	Bonus	Filler	Tea	#<b>Bonus Page:</b> heart rate monitors
 1054	FlowerHeadband	Gamma	Hospital	Zimmy	#Are you sure you don’t want them to know you helped?
 1053	Annie	Gamma	Hospital	Kat	MakeUp	Zimmy	#I brought these for you
 1052	Annie	Hospital	Kat	#So I just collapsed in the hall?
