@@ -1,5 +1,5 @@
-1207	Lindsey	Reynard	SubDorm	#Out and about today Reynard (toy to white wolf transform)
-1206	Annie	Blush	Kat	Paz	Reynard	SubDorm	#Tom: Annie does not know yet
+1207	Lindsey	Rey	SubDorm	#Out and about today Reynard (toy to white wolf transform)
+1206	Annie	Blush	Kat	Paz	Rey	SubDorm	#Tom: Annie does not know yet
 1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we’re heading off to class now
 1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
 1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)
@@ -114,39 +114,39 @@
 1094	Headmaster	Jones	#Yesterday: You have my recommendation, Jonathan
 1093	Annie	Jones	#What are you?
 1092	Cover	#<hr>Chapter 40: The Stone<hr>
-1091	Coyote	Gillite	TreeBody	Ysengrin	#Stand back up and pull yourself together
-1090	Coyote	Ether	Gillite	Ysengrin	#Now why don’t I just remove this nasty little memory?
-1089	Coyote	Gillite	TreeBody	Ysengrin	#What… what… I- I tried to attack… the girl…
-1087	Annie	Eglamore	Gillite	#I’m sorry
-1086	Annie	Armour	Blush	Eglamore	Gillite	#They are not your pets
-1085	Annie	Armour	BlinkerStone	Eglamore	Gillite	Sword	Ysengrin	#He’s still coming!
-1084	Annie	Armour	Eglamore	Etherics	Gillite	Sword	Ysengrin	#Tree/Wolf stretch
-1083	Annie	Armour	Eglamore	Gillite	Sword	Valknut	Ysengrin	ZAM	#ZAM [‘ZAM’ is a more ostentatious ‘Bip’][Should we tag Eglamore-esque Jumps, btw?]
-1082	Annie	Beacon	Eglamore	Flashback	Gillite	Ysengrin	#On the first sign of trouble, snap this beacon
-1081	Annie	Beacon	Gillite	Ysengrin	#You’re not like this!
-1080	Annie	Gillite	Ysengrin	#creak … snap … GRUUH!<br>Tom: Ysengrin seems to disagree
-1079	Annie	Gillite	Ysengrin	#You think you are better than me because you are human?
-1078	Annie	Gillite	Ysengrin	#Well I feel real enough
-1077	Annie	Gillite	Ysengrin	#Coyote is not the only powerful one
-1076	Annie	Gillite	Ysengrin	#Why does Coyote’s theory upset you so much
-1075	Annie	Coyote	Gillite	#I really wish you weren’t so rude to Ysengrin
-1074	Annie	Coyote Gillite	#I noticed something wrong with your theory, Coyote
-1073	Annie	Coyote	Flashback	Gillite	Surma	#So… the Guides…
-1072	Annie	Coyote	Ether	Flashback	ModdeyDhoo	#It is because they are absorbed into the Ether
-1071	Annie	Coyote 	Ether	God	#The curse causes Man to stumble through this world forever asking Questions
-1070	Annie	Coyote	Ether	God	#He does not see an animal looking for a meal, he sees the power of a god
-1069	Annie	Coyote	Gillite#… Can I go home now? [and: a coyote]
-1068	Coyote	Ether	Gillite	#I. Do Not. Exist!<br>Tom: Also: kind of a jerk.
-1067	Annie	Coyote	Gillite	Ysengrin	#and so, Fire Head Girl told Coyote lovely stories about how amazing he is<br>Tom: Try not to look at the camera, Coyote
-1066	Annie	Coyote	Gillite	Ysengrin	#Your great secret?<br>Tom: Coyote gets his way
-1065	Annie	Coyote	Gillite	Ysengrin	#Coyote! Hove some dignity!<br>Tom: A new range of expressions for Ysengrin
-1064	Annie	Coyote	Gillite	#Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!<br>Tom: The Greate Coyote
-1063	Annie	Coyote	Gillite	Ysengrin	#Who said you had any choice in the matter, Fire Head Girl?<br>Tom: Flick
-1062	Annie	Coyote	Gillite	#You will tell me stories<br>Tom: Told you he was a jerk
-1061	Annie	Coyote	Gillite	#Boo!<br>Tom: This jerk again
-1060	Annie	Ether	Ysengrin	#Tom: Walkin’ along
-1059	Annie	Bridge	Eglamore	Gillite	Ysengrin	#Tom: Been a while
-1058	Annie	Armour	Bridge	Gillite	Eglamore	Sword	Ysengrin	#Considering what’s happened these part few weeks
+1091	Coyote	Gillitie	TreeBody	Ysengrin	#Stand back up and pull yourself together
+1090	Coyote	Ether	Gillitie	Ysengrin	#Now why don’t I just remove this nasty little memory?
+1089	Coyote	Gillitie	TreeBody	Ysengrin	#What… what… I- I tried to attack… the girl…
+1087	Annie	Eglamore	Gillitie	#I’m sorry
+1086	Annie	Armour	Blush	Eglamore	Gillitie	#They are not your pets
+1085	Annie	Armour	BlinkerStone	Eglamore	Gillitie	Sword	Ysengrin	#He’s still coming!
+1084	Annie	Armour	Eglamore	Etherics	Gillitie	Sword	Ysengrin	#Tree/Wolf stretch
+1083	Annie	Armour	Eglamore	Gillitie	Sword	Valknut	Ysengrin	ZAM	#ZAM [‘ZAM’ is a more ostentatious ‘Bip’][Should we tag Eglamore-esque Jumps, btw?]
+1082	Annie	Beacon	Eglamore	Flashback	Gillitie	Ysengrin	#On the first sign of trouble, snap this beacon
+1081	Annie	Beacon	Gillitie	Ysengrin	#You’re not like this!
+1080	Annie	Gillitie	Ysengrin	#creak … snap … GRUUH!<br>Tom: Ysengrin seems to disagree
+1079	Annie	Gillitie	Ysengrin	#You think you are better than me because you are human?
+1078	Annie	Gillitie	Ysengrin	#Well I feel real enough
+1077	Annie	Gillitie	Ysengrin	#Coyote is not the only powerful one
+1076	Annie	Gillitie	Ysengrin	#Why does Coyote’s theory upset you so much
+1075	Annie	Coyote	Gillitie	#I really wish you weren’t so rude to Ysengrin
+1074	Annie	Coyote Gillitie	#I noticed something wrong with your theory, Coyote
+1073	Annie	Coyote	Flashback	Gillitie	Surma	#So… the Guides…
+1072	Annie	Coyote	Etherium	Flashback	ModdeyDhoo	#It is because they are absorbed into the Ether
+1071	Annie	Coyote 	Etherium	God	#The curse causes Man to stumble through this world forever asking Questions
+1070	Annie	Coyote	Etherium	God	#He does not see an animal looking for a meal, he sees the power of a god
+1069	Annie	Coyote	Gillitie	#… Can I go home now? [and: a coyote]
+1068	Coyote	Ether	Gillitie	#I. Do Not. Exist!<br>Tom: Also: kind of a jerk.
+1067	Annie	Coyote	Gillitie	Ysengrin	#and so, Fire Head Girl told Coyote lovely stories about how amazing he is<br>Tom: Try not to look at the camera, Coyote
+1066	Annie	Coyote	Gillitie	Ysengrin	#Your great secret?<br>Tom: Coyote gets his way
+1065	Annie	Coyote	Gillitie	Ysengrin	#Coyote! Hove some dignity!<br>Tom: A new range of expressions for Ysengrin
+1064	Annie	Coyote	Gillitie	#Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!<br>Tom: The Greate Coyote
+1063	Annie	Coyote	Gillitie	Ysengrin	#Who said you had any choice in the matter, Fire Head Girl?<br>Tom: Flick
+1062	Annie	Coyote	Gillitie	#You will tell me stories<br>Tom: Told you he was a jerk
+1061	Annie	Coyote	Gillitie	#Boo!<br>Tom: This jerk again
+1060	Annie	Etherium	Ysengrin	#Tom: Walkin’ along
+1059	Annie	Bridge	Eglamore	Gillitie	Ysengrin	#Tom: Been a while
+1058	Annie	Armour	Bridge	Gillitie	Eglamore	Sword	Ysengrin	#Considering what’s happened these part few weeks
 1057	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	#You know , you don’t have to wear that outfit every time we go across the bridge
 1056	Cover	Coyote	#<hr>Chapter 39: The Great Secret<hr>
 1026	Cover	#<hr>Chapter 38: Divine<hr>
@@ -295,8 +295,8 @@
 883	Annie	Kat	KatsWorkshop	Robots	DiegoBot	#but… this would mean Diego was a… magician, not a scientist
 882	Annie	Etherics	Kat	KatsWorkshop	Robots	Robotics	DiegoBot	#What if these are not really robots in the modern sense, but golems?
 881	Annie	Kat	Robots	KatsWorkshop	DiegoBot	#how come you guys picked a creepy looking robot
-880	Annie	DiegosStudy	Heart	Kat	Robotics	#the bad news is that all his work is written in gibberish
-879	Annie	Diego	DiegosStudy	Kat	Robots	#He somehow made machines that could move despite not having internal mechanisms like modern robots
+880	Annie	DiegoStudy	Heart	Kat	Robotics	#the bad news is that all his work is written in gibberish
+879	Annie	Diego	DiegoStudy	Kat	Robots	#He somehow made machines that could move despite not having internal mechanisms like modern robots
 878	Robot	Roof	Shadow	Creeper	#should you really be following her around like this?
 877	Annie	Kat	Robot	Roof	SeedOfBismuth	#I wonder how the court was built
 876	Annie	Kat	Robotics	Roof	#I guess clearing my mind was harder than I thought
@@ -348,7 +348,7 @@
 680	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Flowers	Gillitie	Stars	#Pick this flower
 679	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Gillitie	Stars	#Did something happen to cause that cut on your cheek?
 678	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Gillitie	Stars	Rey	#I just… needed to get away from the court for a little while
-677	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Gilitie	Stars	Ysengrin	#Coyote… you’re magnificent… and terrifying.
+677	Annie	AnnieCut	BlinkerStone	Coyote	Etherics	Eyes	Gillitie	Stars	Ysengrin	#Coyote… you’re magnificent… and terrifying.
 676	Annie	BlinkerStone	Coyote	Etherics	Gillitie	Rey	Ysengrin	#Focus on yourself and expand slowly…
 675	Annie	Coyote	Flowers	Gillitie	Rey	Ysengrin	#It is Renard’s body!
 674	Annie	BismuthSymbol	CourtSymbol	Coyote	Fish	Gillitie	Etherics	Ysengrin	#I’m very upset with you coyote
@@ -369,7 +369,7 @@
 659	Angel	Crying	Diego	LaserCow	Robot	RobotHQ	Robots	SkyWatcher	#“Love makes you act in strange ways”
 658	Angel	BlackPen	Crying	DiegoBot	DiegoStudy	Jeanne	Robot	RobotKing	Robots	SkyWatcher	#Please, dearest angel, help us understand…
 657	Diego	DiegoBot	Flashback	Heart	Jeanne	Monster	Robots	SirYoung	#…and I did nothing
-656	Annan	Archery	Diego	DiegoBot	Flashback	Gilittie	Jeanne	Moon	SirYoung	Steadman	#We will bury what was done here this night
+656	Annan	Archery	Diego	DiegoBot	Flashback	Gillitie	Jeanne	Moon	SirYoung	Steadman	#We will bury what was done here this night
 655	Diego	DiegoBot	Flashback	Jeanne	#It didn’t have to be this way…
 654	Annan	Archery	Court	Diego	DiegoBot	Flashback	Jeanne	SirYoung	#It must be Jeanne
 653	Archery	Court	Diego	DiegoBot	Flashback	SirYoung	Steadman	#The device is ready, Sir Young
@@ -481,12 +481,12 @@
 547	Anja	BismuthSymbol	Donny	Flashback	Monster	Robots	StopBot	Students	Surma	#The situation does not involve a large monster or two
 546	Eglamore	Flashback	LeadSymbol	MrThorn	RogatOrjak	Teacher	#Have you ever heard of the Rogat Orjak?
 545	Eglamore	Flashback	Hyland	MrThorn	Teacher	#Standing up for a friend. A noble act, cannot be dismissed
-544	Anja	Court	Donny	Flashback	Surma	#Looks like it’s just the three of us for lunch then!
-543	Anja	Chester	Court	Donny	Etheric	Flashback	Queslett	Surma	#The court made a mistake when they put us in Chester, they said so
+544	Anja	Blush	Court	Donny	Flashback	Surma	#Looks like it’s just the three of us for lunch then!
+543	Anja	Chester	Court	Donny	Etherics	Flashback	Queslett	Surma	#The court made a mistake when they put us in Chester, they said so
 542	Anja	Donny	Flashback	Surma	#You shoulda zapped him Anja!
 541	Anja	Donny	Eglamore	Fight	Flashback	Hyland	MrThorn	Students	Surma	Teacher	#Eglamore, my office. Now.
-540	Anja	Chester	Donny	Eglamore	Fight	Flashback	Hyland	Students	Surma	#You an’ your friends are freaks, how’s that you cu- WHUD
-539	Anja	Brinnie	Etheric	Flashback	Students	Surma	#Won’t you stay a little longer Brinnie?
+540	Anja	Chester	Donny	Eglamore	Etherics	Fight	Flashback	Hyland	Students	Surma	Valknut	#You an’ your friends are freaks, how’s that you cu- WHUD
+539	Anja	Brinnie	Etherics	Flashback	Students	Surma	Valknut	Zam	#Won’t you stay a little longer Brinnie?
 538	Donny	Eglamore	Flashback	Jones	Tony	#“I have matters to attend to” Jeez, who talks like that?
 537	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Tony	#You mean a picture of Donny!
 536	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Teacher	Tony	#Any other groups want their picture takin’?
@@ -523,7 +523,7 @@
 505	Annie	Kat	KatsWorkshop	Rey	#Ms Jones said everyone has a special skill, so I bet this is yours
 504	Annie	Kat	KatsWorkshop	Rey	Robots	#Set it down over there, boys
 503	Cover	#<hr>Chapter 21: Blinking<hr>
-502	Bonus	Coyote	CoyoteStory	Eyes	Moon	Thief	#<b>Bonus Page:</b> (Coyote tells a story about the moon. And himself, obviously)
+502	Bonus	Coyote	CoyoteStories	Eyes	Moon	Thief	#<b>Bonus Page:</b> (Coyote tells a story about the moon. And himself, obviously)
 501	Annie	Kat	Moon	MoonPrint	Observatory	#That… That can’t be right!
 500	Annie	Dirty	Kat	Moon	MoonPrint	Observatory	Rey	#Everything’s the same as it always is
 499	Annie	Bridge	Eglamore	Gillitie	Sword	Ysengrin	#(Ysengrin escorts Annie to Eglamore, who then escorts her out of the forest)
