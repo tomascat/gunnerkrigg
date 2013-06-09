@@ -85,6 +85,7 @@ Etherium	The world/realm of the Ether
 EthericShield	An etheric/magical shield
 EugeneGould	Explorer
 EyeCrossed	A crossed out eye that is a complex warding sign
+EyeGunk	Etheric eye-gunk possessed by Zimmy and others affected by Zimmingham
 EyeSymbol	An eye symbol associated with Coyote and Gillitie
 Eyes	When seeing is important
 Fairies	Gillitie Wood is full of them
@@ -102,7 +103,7 @@ FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon 
 Flowers	Colourful plants that grow from the ground. Often given as gifts.
 Foley	One of the other school Houses
 ForestSymbol	The symbol Gillitie uses to message; has an “eye” within it
-Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
+Gamma	Gamma Czarnecki, a quiet girl from Poland who only speaks Polish; friends with Zimmy who she met in Birmingham
 Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are, a.k.a. The Forest
 God	What is god?
@@ -136,8 +137,9 @@ JollyElfsberry	A prancing elf, and alias of Coyote
 Jones	A name of Wandering Eye
 Kamlen	Anwyn boy about Annie’s and Kat’s age
 Kat	Katerina Donlan
-KatsWorkshop	Where Kat indulges her hobbies
+KatsWorkshop	Where Kat indulges her hobbies; in the West Canals; has a hidden room in the bottom
 Khepi	Head of an Anwyn family
+Kiss	Smooshing, pashing, making out, a peck on the cheek, first base, kissing
 Labyrinth	Not quite a maze
 Landscape	A view of a wide expanse of land
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome
@@ -187,7 +189,7 @@ Paz	Paz Cadena-Blanco, Spanish, good (speaks?) with animals
 PlanTheta	Baking Distraction
 PowerStation	A Court system to extract energy from the Etherium on an industrial scale
 PrincessMononoke	Animated movie by Hayao Miyazaki
-Psychopomp	Escorts the dead to the afterlife / Ether
+Psychopomps	Escort the dead to the afterlife / Ether
 Queslett	Annie &amp; Kat’s school House
 Red	A crazy and abrasive fairy
 Rey	Reynardine, Renard, a crafty fox spirit or demon
@@ -265,8 +267,10 @@ Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie’s mother
 WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
 WoodenArm	A mysterious wooden arm from Gillitie
+WorkshopKey	The key for Kat's Workshop
 YellowFae	‘him’- yellow hair, kinda sideways windswept
 YoungsPark	A large park within the Court, looked after by Bob and his wife Marcia
 Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
 ZAM	Noise of a Valknut teleport
-Zimmy	aka Zeta, a strange girl who is friends with Gamma
+Zimmingham	Zimmy's nightmarish version of Birmingham
+Zimmy	aka Zeta, a strange girl who is friends with Gamma; from Birmingham originally
