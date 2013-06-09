@@ -597,13 +597,13 @@
 396	BeckyGround	Grounds	Kat	Students	#Real slick, Donlan.
 395	Cover	#<hr>Chapter 18: S1<hr>
 361	Cover	#<hr>Chapter 17: The Medium Beginning<hr>
-360	Bonus	CwnAnnwn	GurtDog	Gytrash	LeanDog	ModdeyDhoo	Psychopompss	#<b>Bonus Page: </b>Dogs of the British Isles
+360	Bonus	CwnAnnwn	GurtDog	Gytrash	LeanDog	ModdeyDhoo	Psychopomps	#<b>Bonus Page: </b>Dogs of the British Isles
 359	Annie	GoodHope	Grounds	Kat	Surma	SurmaWhisper	#It was something I have always kept in mind. She said... Always remember... remember I will never send you into danger.
 358	Annan	Annie	Gillitie	Grounds	Jeanne	Kat	Sword	#I should have tried to help her... instead I was a fool and became scared when I thought she had cut me.
 357	Annan	Annie	Gillitie	Grounds	Jeanne	Kat	Sword	#You said your Psychopomps friends could help her, right? So what if she's stuck too?
 356	Annie	Grounds	Ketrak	MartinRoom	ModdeyDhoo	#The world continues to spin, pup. The boy and his family will ensure it.
-355	Annie	Martin	MartinRoom	Mallt-y-nos	ModdeyDhoo	Moon	Psychopompss	Stars	#Martin. What's done is done. And now you must choose which of us will take yeh into the Aether
-354	Annie	Martin	MartinRoom	Mallt-y-nos	ModdeyDhoo	Psychopompss	#What did I do? Something really bad.
+355	Annie	Martin	MartinRoom	Mallt-y-nos	ModdeyDhoo	Moon	Psychopomps	Stars	#Martin. What's done is done. And now you must choose which of us will take yeh into the Aether
+354	Annie	Martin	MartinRoom	Mallt-y-nos	ModdeyDhoo	Psychopomps	#What did I do? Something really bad.
 353	Annie	Fire	Martin	MartinRoom	#(Annie dispels the fire, walks to the lost boy and comforts him)
 352	Annie	Fire	MartinRoom	Surma	SurmaWhisper	#Always remember one thing...
 351	Annie	Fire	Martin	MartinLizard	MartinRoom	#It's fire! You were playing with fire!
@@ -615,16 +615,16 @@
 345	Annie	Martin	MartinRoom	#Get away from me!
 344	Annie	Martin	MartinRoom	#There is a big scary witch with a big dog outside my room! (Annie touches the lost boy's arm and it withers)
 343	Annie	Martin	MartinRoom	#(Annie finds the "boy who has lost his way" hiding under the bed)
-342	Annie	GoodHope	Mallt-y-nos	ModdeyDhoo	Psychopompss	#She isn't even listening! Surma was right, she's too young!
-341	Annie	GoodHope	Mallt-y-nos	ModdeyDhoo	Psychopompss	#In this circumstance 'e's allowed ta make a choice, being born of two jurisdictions.
-340	Annie	FireHose	GoodHope	Mallt-y-nos	ModdeyDhoo	Psychopompss	#Child, there is a boy in the hospital who has lost his way
-339	Annie	GoodHope	Mallt-y-nos	ModdeyDhoo	Psychopompss	Surma	SurmaWhisper	#Oooh a doggie.
-338	Annie	GoodHope	Moon	Mallt-y-nos	Moddey Dhoo	Psychopompss	Stars	Surma	#You know I would be of no use to you, not anymore.
+342	Annie	GoodHope	Mallt-y-nos	ModdeyDhoo	Psychopomps	#She isn't even listening! Surma was right, she's too young!
+341	Annie	GoodHope	Mallt-y-nos	ModdeyDhoo	Psychopomps	#In this circumstance 'e's allowed ta make a choice, being born of two jurisdictions.
+340	Annie	FireHose	GoodHope	Mallt-y-nos	ModdeyDhoo	Psychopomps	#Child, there is a boy in the hospital who has lost his way
+339	Annie	GoodHope	Mallt-y-nos	ModdeyDhoo	Psychopomps	Surma	SurmaWhisper	#Oooh a doggie.
+338	Annie	GoodHope	Moon	Mallt-y-nos	Moddey Dhoo	Psychopomps	Stars	Surma	#You know I would be of no use to you, not anymore.
 337	Annie	Grounds	Kat	Moon	Stars	#He ah... has an owl head and doesn't wear a shirt, you say?
 336	Annie	GoodHope	Muut	#I'm going to visit a friend in Room 426, would you like to come?
 335	Annie	GoodHope	Grounds	Kat	Moon	Muut	#You seemed like you wanted to get rid of him pretty quick.
 334	Annie	Grounds	Kat	Ketrak	Psychopombs	#Yes, I also think it might be best if you left. Goodbye, Ketrak.
-333	Annie	Grounds	Kat	Ketrak	Psychopompss	#Ketrak, the insect guide has paid me a visit.
+333	Annie	Grounds	Kat	Ketrak	Psychopomps	#Ketrak, the insect guide has paid me a visit.
 332	Annie	Grounds	Ketrak	Spider	#Hello again, Ketrak
 331	Cover	#<hr>Chapter 16: A Ghost Story<hr>
 305	Cover	#Year 8<hr>Chapter 15: Red Returns<hr>
