@@ -37,7 +37,7 @@ Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young
 Bobbie	A robot at the AnimalLab
 Bonus	Extra pages at the end of the chapter
 Boots	Made for walking
-Boxbot	Terrible (<1>q.v.</i>)
+Boxbot	Terrible (<i>q.v.</i>)
 Bridge	Across the Annan Water to Gillitie Wood
 Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers &amp; co. Probably Brynhildr, the valkrie
 Bud	Husband of Lindsey, boys’ dorm monitor
@@ -195,7 +195,7 @@ Roof	The top of the court
 Seraph	Generic member of the Seraph model of robots. Robot was originally one
 Secret	Things that are kept hidden, unknown, mysterious…
 SecurityRobots	They ensure security, as robots
-SeedOfBismuth	It’s a mystery
+SeedBismuth	It’s a mystery
 Shadow	The Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
