@@ -1,4 +1,4 @@
-1207	Lindsey	Rey	SubDorm	#Out and about today Reynard (toy to white wolf transform)
+﻿1207	Lindsey	Rey	SubDorm	#Out and about today Reynard (toy to white wolf transform)
 1206	Annie	Blush	Kat	Paz	Rey	SubDorm	#Tom: Annie does not know yet
 1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we’re heading off to class now
 1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
@@ -365,7 +365,59 @@
 789	Cover	#<hr>Chapter 31: Fire Spike<hr>
 761	Cover	#<hr>Chapter 30: The Coward Heart<hr>
 743	Cover	#<hr>Chapter 29: A Bad Start<hr>
+742	Bonus	Employees	Juliette	PowerStation	Robots	#<b>Bonus page:</b> Professionals
+741	Annie	Gamma	Jack	Jones	Lake	Rey	Zimmy	#She can hardly be blamed for what she is
+740	Annie	Gamma	Jack	Jones	Lake	PowerStation	Rain	Rey	Zimmy	#Did you make it rain?
+739	Annie	Etherium	Eyes	Gamma	Jack	Lake	WhiteSpider	Zimmy	#Also: not my boyfriend
+738	Annie	Eyes	Gamma	Jack	Lake	Zimmy	#Tell him... I'm sorry. For not helpin' him sooner.
+737	Eyes	Jack	Lake	PowerStation	Rain	WhiteSpider	Zimmy	#Splat
+736	Annie	Buzz	Eyes	Gamma	Jack	Lake	Rain	PowerStation	Rain	WhiteSpider	Zimmy	#(Rain washes Zimmingham away, revealing Zimmy and Annie...)
+735	Annie	Buzz	Eyes	Gamma	Jack	Rain	Spiders	WhiteSpider	Zimmingham	Zimmy	#She's mine! She's my friend!
+734	Annie	Buzz	Gamma	Jack	Spiders	WhiteSpider	Zimmingham	Zimmy	#You're the last one we need!
+733	Annie	Buzz	Gamma	Jack	Spiders	WhiteSpider	Zimmingham	Zimmy	#I don't want to go in there! It's the spider's nest!
+732	Annie	Buzz	Gamma	Jack	Spiders	WhiteSpider	Zimmingham	Zimmy	#Oh no... We're all inside one of Zimmy's illusions!
+731	Annie	Buzz	Gamma	Jack	Spiders	WhiteSpider	Zimmingham	Zimmy	#Why go back now?
+730	Annie	Buzz	Gamma	Jack	Zimmingham	Zimmy	#He's not a real person. Just a memory of someone.
+729	Annie	Buzz	Gamma	Zimmingham	Zimmy	#I do it because I love you Zimmy
+728	Annie	Gamma	Jack	Zimmingham	Zimmy	#No, Gamma, it's me, A-Annie
+727	Annie	Gamma	Zimmingham	Zimmy	#Gamma! We have to find Zimmy!
+726	Annie	Jones	Rey	Robots	Roof	#I am not a robot.
+725	Annie	Boat	Jones	Lake	PowerStation	Rey	#She's always been a little touchy about her weight.
+724	Annie	Boat	Etherium	Jones	Lake	PowerStation	Rey	Zimmy	#Is Simmy... human?
+723	Annie	Boat	Etherium	Gamma	Jones	Lake	PowerStation	Rey	Zimmy	Zimmingham	#Zimmy... the station...  I don't understand
+722	Annie	Boat	Etherium	Jones	Juliette	Lake	PowerStation	Rey	Zimmy	#Juliette, allow the station to enter the collection stage
+721	Aata	Annie	Employees	Jones	Juliette	PowerStation	Rey	Robots	Shell	SpringHeels	#I think... uh... I think he can fly.
+720	Aata	Annie	Employees	Jones	PowerStation	Rey	Robots	Shell	#Your assistance in locating Jack has been invaluable.
+719	Annie	AntimonySymbol	Bind	Employees	EyeCrossed	MercurySymbol	Jones	PowerStation	Rey	Robots	Shell	#Please! can't you just call...
+718	Annie	Bind	Employees	Rey	Robots	Shell	#Please! You have to help my friend!
 717	Cover	#<hr>Chapter 28: Spring Heeled Part 2<hr>
+716	Bonus	Dorm	Kat	#<b>Bonus Page:</b>Meanwhile... (Who you kiddin', Kat?)
+715	Aata	Annie	AntimonySymbol	Bind	Employees	EyeCrossed	Jack	MercurySymbol	PowerStation	Rey	Robots	SecurityDevice	Shell	SpringHeels	#What's going on here!
+714	Annie	Bind	EyeCrossed	Jack	PowerStation	Rey	SecurityDevice	SpringHeels	#I don't care! He's my friend!
+713	Annie	AntimonySymbol	Bind	Computer	EyeCrossed	Jack	MercurySymbol	PowerStation	Rey	SecurityDevice	#I'm doing you a favour! Forget about him!
+712	Annie	AntimonySymbol	Bind	Etherics	EyeCrossed	Jack	MercurySymbol	PowerStation	Rey	SecurityDevice	#Almost forgot!
+711	Annie	Computer	Etherium	Jack	PowerStation	Rey	WhiteSpider	Zimmy	#I just need to see her again...
+710	Annie	Boat	Computer	Employees	Etherium	Jack	PowerStation	Rey	Zimmy	#This has GOT to get her attention!
+709	Annie	Boat	Computer	Etherium	Jack	Lake	PowerStation	Rey	#VOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+708	Annie	Computer	Etherium	Jack	PowerStation	Rey	#I already knew what this place was.
+707	Annie	Computer	Etherium	Jack	PowerStation	Rey	#This place is called... an ether station?
+706	Annie	Etherics	Jack	PowerStation	Rey	#Wait, before you smash anything else.
+705	Annie	Jack	PowerStation	Rey	SecurityDevice	#Anyone comes this way, I'll know about it
+704	Annie	Jack	PowerStation	Rey	Robots	SecurityRobots	#Oh, what did you do?! He's dead!
+703	Annie	Boat	Jack	Lake	Moon	PowerStation	Rey	Robots	SecurityRobots	#(Annie, Jack and Rey arrive at the Power Station and come across a patrolling security robot)
+702	Annie	AnnieCut	Boat	Etherics	Lake	Jack	PowerStation	Rey	Spiders	WhiteSpider	#Jeez, rowing is harder than I thought
+701	Annie	Boat	Court	Jack	Lake	PowerStation	Rey	#I know how to stay hidden!
+700	Annie	Boat	Computer	Court	Jack	Lake	Paz	PowerStation	Rey	#They got basic stuff on the school network, information on all the students.
+699	Annie	Boat	Computer	Court	Jack	Lake	PowerStation	Rey	Zimmy	#I read it on the computer
+698	Annie	Boat	Jack	Lake	PowerStation	Rey	Zimmy	#I gotta find out what happened that night...
+697	Annie	Boat	Jack	Lake	PowerStation	Rey	#You gotta go by boat!
+696	Annie	Jack	Lake	PowerStation	Rey	#Tonight, we're going to the power station
+695	Annie	Court	Jeanne	Kat	Rey	#Katerina is a sensitive girl
+694	Annie	Dorm	Jack	Kat	Letter	Moon	Rey	#Yes, very subtle, my friends.
+693	Annie	Dorm	Jack	Kat	Letter	Rey	#I think he needs help
+692	Annie	Employees	Jack	Kat	Letter	Shell	Students	#I'll... read it later.
+691	Annie	Employees	Jack	Kat	Letter	Students	#Here! He's here!
+690	Annie	Jack	Kat	Students	#Ah, there you are
 689	Cover	#<hr>Chapter 27: Spring Heeled<hr>
 688	Bonus	Annie	AntimonySymbol	Rey	#<b>Bonus Page:</b>Fox Call
 687	Annie	Bridge	Coyote	Eglamore	Gillitie	JollyElfsberry	Sword	#So when do you start teaching students how to use a sword?

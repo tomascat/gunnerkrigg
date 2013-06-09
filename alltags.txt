@@ -1,3 +1,4 @@
+﻿Aata	An employee (Security guard??) of the court alongside Shell, seems to be more senior than Shell
 AdminBot	A secretarial robot who sits at the Admin desk at RobotHQ
 AlchemyChart	An alchemical chart
 Aly	Alistair Kershaw; went to the Forest
@@ -33,6 +34,7 @@ Blood	Circulatory fluid, supposed to be internal
 Blue	A crazy fairy obsessed with hair
 Blush	Happy/embarrassed
 BlushFae	‘her too’ – dark pink hair, two rosy cheeks (likes to wang tomatoes?)
+Boat	A vehicle for crossing water
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young’s Park with his wife, Marcia
 Bobbie	A robot at the AnimalLab
 Bonus	Extra pages at the end of the chapter
@@ -42,6 +44,7 @@ Bridge	Across the Annan Water to Gillitie Wood
 Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers &amp; co. Probably Brynhildr, the valkrie
 Bud	Husband of Lindsey, boys’ dorm monitor
 Bugsy	Teacher Lady, or Teach. Foley teacher, rather be sleeping
+Buzz	The buzzing in Zimmy's head when the stimuli get too much
 Buzzer	Bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes (Mercury), symbol of commerce
 CherryTree	Comes as advertised
@@ -51,6 +54,7 @@ Circus	Creepy and filled with clowns
 CityFace	A pigeon
 Classroom	Where they have classes
 Clowns	Creepy, no-one likes them
+Computer	You're using one right now. The court keeps student records, and many other things on computers.
 Cookie	Cookie Monster(?), enthusiastic friend of Parley
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
 CourtHall	A large important hall for meetings
@@ -135,6 +139,7 @@ Janet	Fierce daughter of the headmaster
 Jeanne	Vengeful ghost
 JollyElfsberry	A prancing elf, and alias of Coyote
 Jones	A name of Wandering Eye
+Juliette	Employee of the court, is qualified to run the Ether station
 Kamlen	Anwyn boy about Annie’s and Kat’s age
 Kat	Katerina Donlan
 KatsWorkshop	Where Kat indulges her hobbies; in the West Canals; has a hidden room in the bottom
@@ -191,6 +196,7 @@ PowerStation	A Court system to extract energy from the Etherium on an industrial
 PrincessMononoke	Animated movie by Hayao Miyazaki
 Psychopomps	Escort the dead to the afterlife / Ether
 Queslett	Annie &amp; Kat’s school House
+Rain	Water, falling from the sky
 Red	A crazy and abrasive fairy
 Rey	Reynardine, Renard, a crafty fox spirit or demon
 ReyComic	A comic page authored by Reynardine
@@ -207,11 +213,13 @@ RogatOrjak	Dragon-like giant
 Roof	The top of the court
 Seraph	Generic member of the Seraph model of robots. Robot was originally one
 Secret	Things that are kept hidden, unknown, mysterious…
+SecurityDevice	Small devices that supposedly warn Jack when people are coming
 SecurityRobots	They ensure security, as robots
 SeedBismuth	It’s a mystery
 Shadow	The Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
+Shell	An employee (Security guard??) of the court, alongside Aata
 SilverSymbol	Alchemical Symbol for Silver
 SimRocket	A rocket in Dr Disaster’s simulation
 Simulation	One of Dr Disaster’s holographic adventures
@@ -223,7 +231,8 @@ SmallBot	A young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 Spankies	From Annie for when Coyote is a Bad Dog!
 Speakeasy	A hotel-like place that the students sneak out to with a “speakeasy-like atmosphere”
-Spiders	Often white and etheric
+Spiders	Often white and etheric, also often real.
+SpringHeels	Jack can jump, really high, almost flying...
 StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot
 Stars	Celestial bodies
 Steadman	An archer, present at the founding of the court
@@ -262,7 +271,7 @@ WanderingEye	Symbol of that which calls itself Jones, currently
 Warehouse113	Not a secret base at Long Acre
 WaterFae	‘this girl’ – short blue spikey hair, 2 dots under right eye, had a waterfall?
 WaterSymbol	Alchemical symbol for water
-WhiteSpider	White Spider associated with Jack Hyland’s etheric form
+WhiteSpider	Also known as WhiteLegs, associated with Jack Hyland’s etheric form when he got stuck in Zimmingham, until Zimmy helped him get rid of it.
 Winsbury	Not a very nice boy
 WolfToy	A small wolf toy made by Annie’s mother
 WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
