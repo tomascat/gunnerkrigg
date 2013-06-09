@@ -1,0 +1,12 @@
+##To implement
+
+###Main Website
+
+- "Spoiler" tag for tag list
+- Categorisation of types of tags (characters vs symbols vs ideas vs settings vs plots)
+- Links to wiki as relevant(?)
+
+###Alltags
+
+- Categorisation of types of tags
+- Rationalise tags and de-duplicate (ongoing task)

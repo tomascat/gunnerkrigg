@@ -63,6 +63,7 @@ CreatorGlyph	Mark of the robots’ creator: now associated with Kat
 Creeper	Someone who is creeping
 Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 CurlyFae	‘this girl too’ – short curly blue hair, red dot below right eye
+CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/psychopomps of Wales; red ears
 Dryad	Folk who can control and travel through the trees themselves, Marcia is one.
 Diego	Former creepy robotics expert
 DiegoBot	One of the origional robots created by Diego many years ago
@@ -91,6 +92,7 @@ Fight	When two people have a disagreement, violently
 Filler	Not a mainstream story comic
 Fire	An ancient element
 FireElemental	A personification of Fire
+FireHose	A hose to put out a fire
 FireSymbol	The alchemical symbol for fire
 FishFae	‘a fish guy?’ — concentrating on making himself handsome, former fish
 Fish	Aquatic animal, fish live in water and breathe through gills
@@ -107,9 +109,12 @@ God	What is god?
 Gol-shogeg	Big worm slug monster
 GoodHope	Good Hope Hospital is where Surma was before she died
 GreenFae	‘this other one’- long straight green hair
+Grounds	The grounds/gardens of Gunnerkrigg Court
 GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
+GurtDog	A black dog/psychopomp of Somerset; protects children and travellers
 Gym	School gymnasium
+Gytrash	A black dog/psychopomp of Northern England; mentioned in Jane Eyre by Charlotte Bronte
 Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 Hall	Function hall 113, a hall in the school
@@ -140,20 +145,25 @@ Lasers	Zap! Awesome!
 Latin	A dead language, some things are written in it
 LaundryList	A seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as Eglamore
+LeanDog	A black dog/psychopomp for Tring, Hertfordshire; red eyes.
 Letter	A written communication
 Library	Includes robot parts (!)
 Lindsey	Dorm monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon
 Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey’s body
 MakeUp	Cosmetics to define or enhance appearance, particulaly of the face, eyes and mouth
+Mallt-y-nos	Matilda of the Night, Night Malt; Welsh psychopomp/crone/witch; rides with the Cŵn Annwn (hounds of the underworld)
 Mandolin	sometimes they’re haunted
 Marcia	Marcia Sutton, a dryad and keeper of Young’s Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
 MarineFae	‘and her’- aquamarine hair, vertical green bar on forehead
+Martin	A young boy who has "lost his way" and whom young Annie needs to help
+MartinLizard	A lizard that Martin likes and shows Annie. Bites.
+MartinRoom	Martin's hospital/bed room
 Mask	A cover to hide face, appearance, emotions
 Matt	A classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Microsat5	Tony’s payload delivery satellite
-ModdeyDhoo	One of the Black Dogs, a psychopomp
+ModdeyDhoo	One of the Black Dogs, a psychopomp from the Isle of Man
 Montgomery	A Seraph Robot
 Monument	A physical tribute to a well respected person
 Moon	Our most ancient satellite!
@@ -170,6 +180,7 @@ Observatory	A massive telescope
 Ocean	A whole bunch of water
 Octopus	A flying / floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called Bobeyes. Sister of Torus
+Ooze	What Martin, the lost boy's lizard turns into when it hits the floor
 Orb	The <i>Globus cruciger</i>, a Christian symbol of power, wielded by monarchs and Christ
 Parley	George Parley: Swordswoman, medium (Big Nose Girl)
 Paz	Paz Cadena-Blanco, Spanish, good (speaks?) with animals
@@ -221,6 +232,7 @@ SullivansJohn	Sullivan’s John. A student who likes to play the mandolin
 Sun	Our closest star!
 SunSymbol	Alchemical symbol for the Sun, doubles as the symbol for gold
 Surma	Surma Stibnite, Annie’s mother
+SurmaWhisper	Surma whispers something in the past to Annie
 Symbol	Unidentified symbol (please help!)
 Sword	Comes as advertised
 Tea	Explains things in-between chapters
