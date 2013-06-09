@@ -5,8 +5,19 @@
 - "Spoiler" tag for tag list
 - Categorisation of types of tags (characters vs symbols vs ideas vs settings vs plots)
 - Links to wiki as relevant(?)
+- Tag counts
+
+###Index
+
+- Tag chapter covers with their icons as the comment
 
 ###Alltags
 
 - Categorisation of types of tags
 - Rationalise tags and de-duplicate (ongoing task)
+
+###Tag Helper
+
+- tags that when hovered over will show the definition
+- clickable tags that generate a string for insertion into index.txt
+- "save" button to generate a temporary file (or possibly even insert into index.txt?)
