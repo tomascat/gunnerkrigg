@@ -2,13 +2,13 @@ AdminBot	A secretarial robot who sits at the Admin desk at RobotHQ
 AlchemyChart	An alchemical chart
 Aly	Alistair Kershaw; went to the Forest
 AlyShirt	A shirt belonging to Aly, which Kat now owns
-Angel	What Robot refers to Kat as, as he believes she is some sort of semi-religious figure
-AnimalCells	the secret Court large animal holding cells
+Angel	What robots call Kat
+AnimalCells	the Court’s large animal holding cells
 AnimalLab	a Court research lab
 Anja	Anja Donlan, Kat’s mother
 Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist (Fire Head Girl)
-AnnieCut	The cut on Annie’s face from Jeanne’s sword
+AnnieCut	The cut on Annie’s etherial face from Jeanne’s sword
 AnnieJumper	Annie’s original school jumper
 AntiGravGenerator	An anti-gravity generator that Kat made for the science fair
 AntiGravShip	An anti-gravity ship that Kat made out of the anti-gravity generator
@@ -19,76 +19,78 @@ Archery	Fun with bows and arrows!
 Armour	protective plates and other such wearable items
 Armoury	Place where lots of weapons are stored
 Axe	Often used to chop wood
-BadgerFae	 ‘him too’- white hair, two black stripes, former badger
+BadgerFae	‘him too’- white hair, two black stripes, former badger
 Basil	Minotaur
 Beacon	Safety tool given to Annie, can summon Eglamore within 5 seconds
 BeckyGround	A student
-Bind	mystical binding hoodoo
+Bind	Etherics binding, hold or constraint hoodoo
 Bip	Parley’s teleportation. May be accompanied by BARGE.
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
-Blackboard	classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
+Blackboard	Classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
 BlackPen	A black marker pen used to draw faces.
 BlinkerStone	Etheric lens device
+Blood	Circulatory fluid, supposed to be internal
 Blue	A crazy fairy obsessed with hair
-Blush	happy/embarrassed
+Blush	Happy/embarrassed
 BlushFae	‘her too’ – dark pink hair, two rosy cheeks (likes to wang tomatoes?)
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young’s Park with his wife, Marcia
 Bobbie	A robot at the AnimalLab
 Bonus	Extra pages at the end of the chapter
-Boots	made for walking
-Boxbot	see Terrible
-Bridge	over the Annan Water to Gillitie Wood
+Boots	Made for walking
+Boxbot	Terrible (<1>q.v.</i>)
+Bridge	Across the Annan Water to Gillitie Wood
 Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers &amp; co. Probably Brynhildr, the valkrie
 Bud	Husband of Lindsey, boys’ dorm monitor
 Bugsy	Teacher Lady, or Teach. Foley teacher, rather be sleeping
-Buzzer	bug shaped device for fooling the court’s student tracking system
+Buzzer	Bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes (Mercury), symbol of commerce
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
-Chickcharney	see Hardwick &amp; Little’s Bestiary, p65
-Circus	creepy and filled with clowns
+Chickcharney	See Hardwick &amp; Little’s Bestiary, p65
+Circus	Creepy and filled with clowns
 CityFace	A pigeon
 Classroom	Where they have classes
-Clowns	creepy, no-one likes them
+Clowns	Creepy, no-one likes them
 Cookie	Cookie Monster(?), enthusiastic friend of Parley
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
 CourtHall	A large important hall for meetings
 CourtSymbol	The symbol Annie’s blinker stone makes; has a BismuthSymbol within it
 Cover	A chapter cover
 Coyote	Trickster; the creator of all; he does not exist, he says
-CoyoteTooth	it’s a tooth, or is it?
+CoyoteTooth	It’s a tooth, or is it?
 CoyoteStories	Stories told about or by Coyote
-CreatorGlyph	mark of the robots’ creator: now associated with Kat
-Creeper	someone who is creeping
-Crying	when salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
+CreatorGlyph	Mark of the robots’ creator: now associated with Kat
+Creeper	Someone who is creeping
+Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 CurlyFae	‘this girl too’ – short curly blue hair, red dot below right eye
 Dryad	Folk who can control and travel through the trees themselves, Marcia is one.
-Diego	former creepy robotics expert
+Diego	Former creepy robotics expert
 DiegoBot	One of the origional robots created by Diego many years ago
-DiegoStudy	home of all things ancient robot
+DiegoStudy	Home of all things ancient robot
 Dirty	What you become when you don't wash for a while
 Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
 DoorBot	A cranky old man robot who guards the door to the RobotHQ
-DonlanHouse	home of the Donlan family: Anja, Donny, Kat
+DonlanHouse	Home of the Donlan family: Anja, Donny, Kat
 Donny	Donald Donlan, Kat’s father
 Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
 Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
-EglamoreKnife	A switchblade/flick knife that Eglamore treasures
+EglamoreKnife	A switchblade/flick knife present that Eglamore treasures
 Employees	Miscellaneous Court employees
 EnigmaronLair	Where the Enigmarons hang out
 Enigmarons	Bad guy aliens in a simulation
-Etherics	manipulation of the Ether – “magic”
-Etherium	the world/realm of the Ether
+Etherics	Manipulation of the Ether – “magic”
+Etherium	The world/realm of the Ether
 EthericShield	An etheric/magical shield
-EugeneGould	explorer
+EugeneGould	Explorer
 EyeCrossed	A crossed out eye that is a complex warding sign
 EyeSymbol	An eye symbol associated with Coyote and Gillitie
 Eyes	When seeing is important
 Fairies	Gillitie Wood is full of them
 Fight	When two people have a disagreement, violently
-Filler	not a mainstream story comic
-Fire	an ancient element
+Filler	Not a mainstream story comic
+Fire	An ancient element
+FireElemental	A personification of Fire
 FireSymbol	The alchemical symbol for fire
 FishFae	‘a fish guy?’ — concentrating on making himself handsome, former fish
 Fish	Aquatic animal, fish live in water and breathe through gills
@@ -100,58 +102,63 @@ Foley	One of the other school Houses
 ForestSymbol	The symbol Gillitie uses to message; has an “eye” within it
 Gamma	Gamma Czarnecki, a quiet Polish girl, friends with Zimmy
 Ghosts	sometimes haunt mandolins
-Gillitie	Gillitie Wood where the wild things are
+Gillitie	Gillitie Wood where the wild things are, a.k.a. The Forest
 God	What is god?
-Gol-shogeg	big worm slug monster
+Gol-shogeg	Big worm slug monster
 GoodHope	Good Hope Hospital is where Surma was before she died
 GreenFae	‘this other one’- long straight green hair
 GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
-Gym	school gymnasium
+Gym	School gymnasium
 Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, Janet’s father; surprisingly grey, apathetic man, with bad posture
-Heart	a heart sign, symbol, glyph or character
-HedgehogFae	 ‘and him’- dreads, former hedgehog
+Heart	A heart sign, symbol, glyph or character
+HedgehogFae	‘and him’ – dreads, former hedgehog
 Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol; the Jewish Kingdom (Star of David)
-Hospital	The hospital within the court
+Homework	School work done outside class hours
+Horsebot	Robot in a horse frame, as motive power for carriages, carts etc
+Hospital	The hospital / infirmary within the court
 Hyland	Jack’s father and classmate of Eglamore, Donny, Anja and Surma. Not very nice to Anja or Surma.
-JackHyland	A boy with spiders in his hair, in the same year as Annie and Kat
+Jack	Jack Hyland, in the same year as Annie and Kat
 Jan	January, curt friend of Parley
 Janet	Fierce daughter of the headmaster
-Jeanne	vengeful ghost
+Jeanne	Vengeful ghost
 JollyElfsberry	A prancing elf, and alias of Coyote
-Jones	a name of Wandering Eye
+Jones	A name of Wandering Eye
 Kamlen	Anwyn boy about Annie’s and Kat’s age
 Kat	Katerina Donlan
-KatsWorkshop	where Kat indulges her hobbies
-Khepi	head of an Anwyn family
+KatsWorkshop	Where Kat indulges her hobbies
+Khepi	Head of an Anwyn family
 Labyrinth	Not quite a maze
-Landscape	a view of a wide expanse of land
+Landscape	A view of a wide expanse of land
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome
 Lasers	Zap! Awesome!
 Latin	A dead language, some things are written in it
-LaundryList	a seagull
+LaundryList	A seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as Eglamore
-Library	includes robot parts
+Letter	A written communication
+Library	Includes robot parts (!)
 Lindsey	Dorm monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon
 Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey’s body
+MakeUp	Cosmetics to define or enhance appearance, particulaly of the face, eyes and mouth
 Mandolin	sometimes they’re haunted
 Marcia	Marcia Sutton, a dryad and keeper of Young’s Park with her husband, Bob
 Margo	A student who enjoys singing. Friends with SullivansJohn
-MarineFae	 ‘and her’- aquamarine hair, vertical green bar on forehead
-Matt	A student who is a classmate of Annie and Kat
+MarineFae	‘and her’- aquamarine hair, vertical green bar on forehead
+Mask	A cover to hide face, appearance, emotions
+Matt	A classmate of Annie and Kat
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Microsat5	Tony’s payload delivery satellite
-ModdeyDhoo	one of the Black Dogs, and a psychopomp
+ModdeyDhoo	One of the Black Dogs, a psychopomp
 Montgomery	A Seraph Robot
 Monument	A physical tribute to a well respected person
 Moon	Our most ancient satellite!
 MoonGirl	Chang’e
-MoonPrint	thumbprint on the moon
+MoonPrint	Thumbprint on the moon
 Mort	A ghost
 MrThorn	Mr Thorn, Court protector and games teacher to Annie and Kat’s parents
 Music	Everyone loves music!
@@ -160,67 +167,69 @@ NancyDrew	A series of books featuring a teenage girl solving mysteries
 NapoleonHat	A fitting hat for Reynardine the Great!
 Nevihta	Rogat Orjak to Sir Young, first protector of the court
 Observatory	A massive telescope
-Ocean	a whole bunch of water
-Octopus	A floating octopus
+Ocean	A whole bunch of water
+Octopus	A flying / floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called Bobeyes. Sister of Torus
 Orb	The <i>Globus cruciger</i>, a Christian symbol of power, wielded by monarchs and Christ
-Parley	George Parley: Swordswoman (Big Nose Girl)
+Parley	George Parley: Swordswoman, medium (Big Nose Girl)
 Paz	Paz Cadena-Blanco, Spanish, good (speaks?) with animals
 PlanTheta	Baking Distraction
-PrincessMononoke	animated movie by Hayao Miyazaki
-Psychopomp	Escorts the dead to the afterlife/Ether
+PowerStation	A Court system to extract energy from the Etherium on an industrial scale
+PrincessMononoke	Animated movie by Hayao Miyazaki
+Psychopomp	Escorts the dead to the afterlife / Ether
 Queslett	Annie &amp; Kat’s school House
 Red	A crazy and abrasive fairy
-Rey	Reynardine/Renard, a crafty fox spirit
-River	comes as advertised
-Robot	Messianic S-13
+Rey	Reynardine, Renard, a crafty fox spirit or demon
+ReyComic	A comic page authored by Reynardine
+River	Comes as advertised
+Robot	A Messianic S-13
 RobotHQ	Where the Robots hang out
 RobotKing	A robot with a crown, blank face, and a pen
-Robotics	like Etherics but with metal
+Robotics	Like Etherics but with metal
 RobotParts	Bits of robots currently not attached
-Robots	a collective noun
-RobotTomb	tomb/theater full of robots
-Robox	has no hands; awesome; everybody loves Robox. The opposite of terrible
+Robots	A collective noun
+RobotTomb	Tomb/theatre full of robots
+Robox	Has no hands; awesome; everybody loves Robox. The opposite of terrible
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
 Seraph	Generic member of the Seraph model of robots. Robot was originally one
 Secret	Things that are kept hidden, unknown, mysterious…
 SecurityRobots	They ensure security, as robots
-SeedOfBismuth	it’s a mystery
-Shadow	the Thin Man
+SeedOfBismuth	It’s a mystery
+Shadow	The Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
 SilverSymbol	Alchemical Symbol for Silver
 SimRocket	A rocket in Dr Disaster’s simulation
-Simulation	One of Dr Disaster’s holographic simulations
+Simulation	One of Dr Disaster’s holographic adventures
 SirYoung	Protector of the Court at its founding
 SivoBody	A deceased Rogat Orjak
 Sky	Comes as advertised; full of stars
 SkyWatcher	A praying mantis-like robot that collects meteorological data
-SmallBot	a young eye-witness model
+SmallBot	A young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 Spankies	From Annie for when Coyote is a Bad Dog!
 Speakeasy	A hotel-like place that the students sneak out to with a “speakeasy-like atmosphere”
-Spiders	often white and etheric
+Spiders	Often white and etheric
 StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot
-Stars	celestial bodies
+Stars	Celestial bodies
 Steadman	An archer, present at the founding of the court
 StopBot	Model B robots with stop signs for heads and boxing glove arms
-Students	miscellaneous students
+Students	Miscellaneous students
 SubDorm	Year 9’s dorm: a retrofitted sub aquatic deep sea drilling platform
 SullivansJohn	Sullivan’s John. A student who likes to play the mandolin
-Sun	our closest star!
+Sun	Our closest star!
 SunSymbol	Alchemical symbol for the Sun, doubles as the symbol for gold
 Surma	Surma Stibnite, Annie’s mother
 Symbol	Unidentified symbol (please help!)
 Sword	Comes as advertised
-Tea	explains things in-between chapters
-Tears	in the eyes, visibly crying, <i>etc</i>
-Teacher	a miscellaneous teacher
+Tea	Explains things in-between chapters
+Tears	In the eyes, visibly crying, <i>etc</i>
+Teacher	A miscellaneous teacher
 Tents	For sleeping inside, outside
-Terrible	see Boxbot
+Terrible	BoxBot (<i>q.v.</i>)
 Thornhill	One of the other school Houses
-TicToc	birdlike robotic watchers
+TicToc	Birdlike robotic watchers
 Tom	Tom Siddell, author of Gunnerkrigg Court
 Tony	Anthony Carver, Annie’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of Ogee.
@@ -230,14 +239,14 @@ Traitor	One who betrays their allies
 Treatise	Symbolic representation of the story
 TreeBody	Ysengrin’s artificial tree-like body. His true body underneath is a physically weaker, much older wolf
 TreeDog	They usually go woof, unless created by the forest
-Trees	come as advertised (usually)
+Trees	Come as advertised (usually)
 Uniform	An outfit one wears when on official business
-Valknut	a Norse symbol, indicates a form of teleport/gateway
+Valknut	A Norse symbol, indicates a form of teleport/gateway
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 VincentPrice	A famous actor
-WanderingEye	symbol of that which calls itself Jones, currently
+WanderingEye	Symbol of that which calls itself Jones, currently
 Warehouse113	Not a secret base at Long Acre
-WaterFae	‘this girl’- short blue spikey hair, 2 dots under right eye, had a waterfall?
+WaterFae	‘this girl’ – short blue spikey hair, 2 dots under right eye, had a waterfall?
 WaterSymbol	Alchemical symbol for water
 WhiteSpider	White Spider associated with Jack Hyland’s etheric form
 Winsbury	Not a very nice boy
@@ -247,5 +256,5 @@ WoodenArm	A mysterious wooden arm from Gillitie
 YellowFae	‘him’- yellow hair, kinda sideways windswept
 YoungsPark	A large park within the Court, looked after by Bob and his wife Marcia
 Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
-Zam	noise of a Valknut teleport
+ZAM	Noise of a Valknut teleport
 Zimmy	aka Zeta, a strange girl who is friends with Gamma
