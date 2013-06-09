@@ -6,9 +6,9 @@
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
 1201	AnimalLab	Blush	Kat	Paz	#I decide to stop worrying and see what would happen
 1200	AnimalLab	Blush	Kat	Paz	#The letter was from me
-1199	AnimalLab	Bobbie	Kat	Paz	#The only time I get a love letter and it is from a robot
-1198	AnimalLab	Bobbie	Kat	#Did you write this letter to me?
-1197	AnimalLab	Bobbie	Kat	Paz	#Kat! You have not been here in a while…
+1199	AnimalLab	Bobby	Kat	Paz	#The only time I get a love letter and it is from a robot
+1198	AnimalLab	Bobby	Kat	#Did you write this letter to me?
+1197	AnimalLab	Bobby	Kat	Paz	#Kat! You have not been here in a while…
 1196	AnimalLab	Annie	Kat	Parley	Paz	Smitty	#Say, where is Kat anyway
 1195	Annie	Jeanne	Parley	Smitty	#I think it’s exactly what I need to face Jeanne
 1194	Annie	Parley	Smitty	#Annie was laughing her head off but you looked so shocked, babe!
@@ -364,6 +364,23 @@
 844	Cover	#Year 9<hr>Chapter 32: From the Forest She Came<hr>
 789	Cover	#<hr>Chapter 31: Fire Spike<hr>
 761	Cover	#<hr>Chapter 30: The Coward Heart<hr>
+760	Bonus	Birds	Bobby	CityFace	#<b>Bonus Page:</b> Pigeon facts
+759	Kat	KatsWorkshop	Robot	RobotDesigns	RobotParts	Robots	#I had an amazing idea.
+758	Annie	CityFace	Kat	KatsWorkshop	Robot	RobotParts	Robots	#What kind of name is City Face?
+757	Annie	Kat	KatsWorkshop	Robot	RobotParts	Robots	#Not a test, just me being a butt.
+756	Angel	AnimalLab	Birds	Bobby	CityFace	Kat	Paz	#You are welcome, Angel.
+755	AnimalLab	Birds	Bobby	CityFace	CreatorGlyph	Kat	Paz	Robot	RobotDesigns	RobotParts	Robots	#(Kat gets insperation from a bird's wing!)
+754	AnimalLab	Birds	Bobby	CityFace	Kat	Paz	Robots	#I ask to help, to change things and make them better.
+753	AnimalLab	Bobby	Court	Kat	Mice	Paz	Robots	#Self-regulated?! That just means they can do what they want!
+752	AnimalLab	Birds	Bobby	CityFace	Kat	Mice	Paz	Robots	#Are these, like, pets or something?
+751	AnimalLab	Birds	Bobby	CityFace	Kat	Paz	Robots	#The bird appears to be unharmed, Paz
+750	AnimalLab	Birds	Bobby	CityFace	Kat	Paz	Robots	#Ooh! A baby pigeon!
+749	Birds	CityFace	Kat	Train	#How can you be so tiny and fragine?
+748	Birds	CityFace	Kat	KatsWorkshop	Paz	RobotParts	Robots	#I better get you to Paz.
+747	Birds	CityFace	Kat	KatsWorkshop	RobotParts	Robots	#Where'd the parents go?
+746	Birds	CityFace	Kat	KatsWorkshop	Robots	#I-it's a... baby bird! Uhh I think...
+745	Kat	KatsWorkshop	Robot	RobotDesigns	RobotParts	Robots	#Who asked you guys for help? 
+744	Kat	KatsWorkshop	Robot	RobotParts	Robots	#Okay, how's that?
 743	Cover	#<hr>Chapter 29: A Bad Start<hr>
 742	Bonus	Employees	Juliette	PowerStation	Robots	#<b>Bonus page:</b> Professionals
 741	Annie	Gamma	Jack	Jones	Lake	Rey	Zimmy	#She can hardly be blamed for what she is
