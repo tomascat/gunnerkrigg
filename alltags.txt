@@ -201,6 +201,7 @@ Ogee	A city fairy with the power of rusting, who hangs out with a magpie called 
 Ooze	What Martin, the lost boy's lizard turns into when it hits the floor
 Orb	The <i>Globus cruciger</i>, a Christian symbol of power, wielded by monarchs and Christ
 Parley	George Parley: Swordswoman, medium (Big Nose Girl)
+PartyHat	A Party hat, hats are fun!
 Paz	Paz Cadena-Blanco, Spanish, good (speaks?) with animals
 PlanTheta	Baking Distraction
 Pliers	Used for manipulating wire; may include wire-strippers or wire-cutters

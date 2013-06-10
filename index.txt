@@ -363,6 +363,33 @@
 845	Dorm	Rey	#Waiting Reynardine
 844	Cover	Flower	#Icon: SubDorm <hr><b>Year 9</b><hr>Chapter 32: From the Forest She Came<hr>
 789	Cover	FireSpike	#Icon: FireSpike <hr>Chapter 31: Fire Spike<hr>
+788	Bonus	Jones	PartyHat	#<b>Bonus Page:</b>New Skill
+787	Annie	Kat	Kiss	Parley	Smitty	#(Kat drags Annie off while Parley and Smitty have their first kiss)
+786	Annie	Kat	Parley	Smitty	#I-I think we're going to stay out here a while.
+785	Annie	Bip	Kat	Parley	Smitty	Steadman	#That's incredible, Parley...
+784	Annie	Bip	Kat	Parley	Smitty	#haha, I think I get it now.
+783	Blush	Parley	Smitty	#She thought I was a coward
+782	Annie	Court	Jeanne	Kat	Parley	SirYoung	Smitty	#Don't tell anyone about her. Not until I can see her again.
+781	Annie	Jeanne	Kat	Parley	Smitty	Tears	#I-I felt everything she did... She loved him so much...
+780	Annie	BlinkerStone	Etherics	Kat	Parley	Smitty	Tears	#Oh god! What was that?! What the hell was that?!
+779	Annan	Annie	AnnieCut	BlinkerStone	Etherics	Jeanne	Parley	Sword	Tears	#That's it!
+778	Annan	Annie	AnnieCut	BlinkerStone	Etherics	Jeanne	Parley	Sword	Tears	#Knock the stone from her hand!
+777	Annan	Annie	AnnieCut	Etherics	Heart	Jeanne	Parley	Sword	Tears	#My heart was run through and left to die on the riverbed
+776	Annan	Archery	Etherics	Flashback	Jeanne	Steadman	#(Jeanne's lover is peirced by Steadman's arrow)
+775	Annan	Court	Etherics	Flashback	Gillitie	Jeanne	Sword	#(Jeanne is lowered to the banks of the Annan waters, and sees her lover swimming towards her)
+774	Archery	Birds	Court	Etherics	Flashback	Gillitie	Flashback	Jeanne	Letter	Steadman	#(Jeanne receives a note, writes a letter and gets Steadman to fire it into the forest on an arrow)
+773	Court	Coyote	Etherics	Flashback	Gillitie	Jeanne	Moon	Renard	Sun	Sword	Ysengrin	#(Jeanne and her lover seperated, (by coyote??) into the court and the forest sides.
+772	Birds	Court	Coyote	Etherics	Flashback	Gillitie	Jeanne	Kiss	Parley	SirYoung	Steadman	Ysengrin	#(Jeanne and her lover embracing, surrounded by dissaproving looking figures from both the court and the forest)
+771JeanneBoyfriend??	Court	Diego	Etherics	Flashback	Gillitie	Jeanne	Kiss	#(Jeanne and her lover embracing, watched by Diego)
+770JeanneBoyfriend??	Etherics	Flashback	Gillitie	Jeanne	Kiss	Sword	#(Jeanne finishing fencing practice, before going to the forest and embracing her lover)
+769	Annan	Annie	AnnieCut	BlinkerStone	Etherics	Jeanne	Parley	Sword	#Wh-what's going on?!
+768	Annie	Etherics	Kat	Parley	Smitty	#You getting the hang of it?
+767	Annan	Annie	Bip	BlinkerStone	Etherics	Kat	Parley	Smitty	#Oof! Aw damn it!
+766	Annan	Annie	AnnieCut	BlinkerStone	Etherics	Jeanne	Sword	#I-I can't get back!
+765	Annan	Annie	AnnieCut	BlinkerStone	Bones	Etherics	Jeanne	Sword	#It landed right where we need it!
+764	Annan	Annie	Birds	BlinkerStone	Kat	Smitty	#I think I know who could make the shot
+763	Annan	Annie	BlinkerStone	Bridge	Kat	#No, it landed in the river again
+762	Annan	BlinkerStone	#(The blinkerstone bounces over the ground next to the court, before falling into the Annan)
 761	Cover	Jeanne	#Icon: Jeanne and Annie in the Etherium <hr>Chapter 30: The Coward Heart<hr>
 760	Bonus	Birds	Bobby	CityFace	#<b>Bonus Page:</b> Pigeon facts
 759	Kat	KatsWorkshop	Robot	RobotDesigns	RobotParts	Robots	#I had an amazing idea.
