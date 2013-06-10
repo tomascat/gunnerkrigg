@@ -38,6 +38,7 @@ BlushFae	‘her too’ – dark pink hair, two rosy cheeks (likes to wang tomato
 Boat	A vehicle for crossing water
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young’s Park with his wife, Marcia
 Bobby	A robot at the AnimalLab
+Bones	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death
 Bonus	Extra pages at the end of the chapter
 Boots	Made for walking
 Boxbot	Terrible (<i>q.v.</i>)
@@ -48,6 +49,7 @@ Bugsy	Teacher Lady, or Teach. Foley teacher, rather be sleeping
 Buzz	The buzzing in Zimmy's head when the stimuli get too much
 Buzzer	Bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes (Mercury), symbol of commerce
+Chemicals	May be used to perform terrifying skills of Chemistry or Alchemy
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
 Chickcharney	See Hardwick &amp; Little’s Bestiary, p65
@@ -82,6 +84,7 @@ Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
 Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
 EglamoreKnife	A switchblade/flick knife present that Eglamore treasures
+Earth	Ancient element; the planet on which we live; the great mother and life-giver
 Employees	Miscellaneous Court employees
 EnigmaronLair	Where the Enigmarons hang out
 Enigmarons	Bad guy aliens in a simulation
@@ -97,8 +100,9 @@ Fairies	Gillitie Wood is full of them
 Fight	When two people have a disagreement, violently
 Filler	Not a mainstream story comic
 Fire	An ancient element
-FireElemental	A personification of Fire
+FireElemental	A personification of Fire, represented with a FireSpike on their head
 FireHose	A hose to put out a fire
+FireSpike	A spiky fire crown associated with FireElemental
 FireSymbol	The alchemical symbol for fire
 FishFae	‘a fish guy?’ — concentrating on making himself handsome, former fish
 Fish	Aquatic animal, fish live in water and breathe through gills
@@ -108,11 +112,14 @@ FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon 
 Flowers	Colourful plants that grow from the ground. Often given as gifts.
 Foley	One of the other school Houses
 ForestSymbol	The symbol Gillitie uses to message; has an “eye” within it
-Gamma	Gamma Czarnecki, a quiet girl from Poland who only speaks Polish; friends with Zimmy who she met in Birmingham
+Gamma	Gamma Czarnecki, a quiet girl from Poland who only speaks Polish; friends with Zimmy who she met in Birmingham; a Greek letter equivalent to our letter "G"
+Gear	A toothed cog device which articulates with similar gears or with chains in order to transmit mechanical energy; symbol of mechanical object or machine
 Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are, a.k.a. The Forest
+Glass	A transparent silicon oxide substance used to make windows and the water bearing vessels also called "glasses"
 God	What is god?
 Gol-shogeg	Big worm slug monster
+GolemHeart	The core that makes the robots "work", if you will. Perhaps etheric?
 GoodHope	Good Hope Hospital is where Surma was before she died
 GreenFae	‘this other one’- long straight green hair
 Grounds	The grounds/gardens of Gunnerkrigg Court
@@ -146,6 +153,7 @@ Kat	Katerina Donlan
 KatsWorkshop	Where Kat indulges her hobbies; in the West Canals; has a hidden room in the bottom
 Khepi	Head of an Anwyn family
 Kiss	Smooshing, pashing, making out, a peck on the cheek, first base, kissing
+Knight	A traditional warrior and military leader who is part of the landed gentry class; often trained in swordsmanship; a chess piece
 Labyrinth	Not quite a maze
 Landscape	A view of a wide expanse of land
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome
@@ -169,6 +177,7 @@ MartinLizard	A lizard that Martin likes and shows Annie. Bites.
 MartinRoom	Martin's hospital/bed room
 Mask	A cover to hide face, appearance, emotions
 Matt	A classmate of Annie and Kat
+Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Mice	Small rodents, common pests, and also in labs.
 Microsat5	Tony’s payload delivery satellite
@@ -194,6 +203,7 @@ Orb	The <i>Globus cruciger</i>, a Christian symbol of power, wielded by monarchs
 Parley	George Parley: Swordswoman, medium (Big Nose Girl)
 Paz	Paz Cadena-Blanco, Spanish, good (speaks?) with animals
 PlanTheta	Baking Distraction
+Pliers	Used for manipulating wire; may include wire-strippers or wire-cutters
 PowerStation	A Court system to extract energy from the Etherium on an industrial scale
 PrincessMononoke	Animated movie by Hayao Miyazaki
 Psychopomps	Escort the dead to the afterlife / Ether
@@ -214,6 +224,7 @@ RobotTomb	Tomb/theatre full of robots
 Robox	Has no hands; awesome; everybody loves Robox. The opposite of terrible
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
+Scissors	A simple device for cutting things, especially paper, hair
 Seraph	Generic member of the Seraph model of robots. Robot was originally one
 Secret	Things that are kept hidden, unknown, mysterious…
 SecurityDevice	Small devices that supposedly warn Jack when people are coming
@@ -224,12 +235,13 @@ Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
 Shell	An employee (Security guard??) of the court, alongside Aata
 SilverSymbol	Alchemical Symbol for Silver
-SimRocket	A rocket in Dr Disaster’s simulation
+SimRocket	A rocket/spaceship in Dr Disaster’s simulation
 Simulation	One of Dr Disaster’s holographic adventures
 SirYoung	Protector of the Court at its founding
 SivoBody	A deceased Rogat Orjak
-Sky	Comes as advertised; full of stars
+Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like robot that collects meteorological data
+SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises death; associated with pirates
 SmallBot	A young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 Spankies	From Annie for when Coyote is a Bad Dog!
@@ -256,6 +268,7 @@ Tents	For sleeping inside, outside
 Terrible	BoxBot (<i>q.v.</i>)
 Thornhill	One of the other school Houses
 TicToc	Birdlike robotic watchers
+Tiki	A Polynesian totem
 Tom	Tom Siddell, author of Gunnerkrigg Court
 Tony	Anthony Carver, Annie’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of Ogee.
@@ -284,5 +297,6 @@ YellowFae	‘him’- yellow hair, kinda sideways windswept
 YoungsPark	A large park within the Court, looked after by Bob and his wife Marcia
 Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
 ZAM	Noise of a Valknut teleport
+Zeta	A Greek letter corresponding to our "Z"; zimmy's real name
 Zimmingham	Zimmy's nightmarish version of Birmingham
 Zimmy	aka Zeta, a strange girl who is friends with Gamma; from Birmingham originally

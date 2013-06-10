@@ -1,7 +1,7 @@
 ﻿1207	Lindsey	Rey	SubDorm	#Out and about today Reynard (toy to white wolf transform)
 1206	Annie	Blush	Kat	Paz	Rey	SubDorm	#Tom: Annie does not know yet
 1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we’re heading off to class now
-1204	Cover	#<hr>Chapter 43: Quicksilver<hr>
+1204	Cover	Chemicals	ScienceLab	SkullCrossbones	#Icon: a packet of sewing needles <hr>Chapter 43: Quicksilver<hr>
 1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
 1201	AnimalLab	Blush	Kat	Paz	#I decide to stop worrying and see what would happen
@@ -27,7 +27,7 @@
 1181	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#But I suggest running!
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
-1178	Cover	#<hr>Chapter 42: Catalyst<hr>
+1178	Cover	BirdClaw	#Icon: a marble lying on the ground of Gillitie <hr>Chapter 42: Catalyst<hr>
 1177	CityFace	Filler	#City Face guest comic by City Face
 1176	CityFace	Filler	LaundryList	Tom	#City Face guest comic by Tom
 1175	Blue	CityFace	Filler	Red	#City Face guest comic 8 by Red and “Blue”
@@ -77,7 +77,7 @@
 1131	Robot	Roof	Robots	Seraph	Shadow	#Shadow, you must get away, like we practiced
 1130	Robot	Roof	Robots	Seraph	Shadow	#We have found you, Number 13
 1129	Robot	Roof	Shadow	#Here, you just sit like that… (a tender moment)
-1128	Annie	Cover	Coyote	Kat	Parley	Smitty	Rey	Robot	Robots	Seraph	Shadow	#<hr>Chapter 41: Changes<hr>
+1128	Annie	Cover	Coyote	Kat	Parley	Smitty	Rey	Robot	Robots	Seraph	Shadow	#Icon: Kat's workshop <hr>Chapter 41: Changes<hr>
 1127	Annie	Bonus	Jones	Kat	#<b>Bonus page:</b> Smile
 1126	Annie	Jones	#And, I don’t think you are as emotionless as you say
 1125	Annie	Jeanne	Jones	#Since you spent the summer in the forest I noticed you have become somewhat unruly
@@ -113,7 +113,7 @@
 1095	Eglamore	Jones	#A week ago
 1094	Headmaster	Jones	#Yesterday: You have my recommendation, Jonathan
 1093	Annie	Jones	#What are you?
-1092	Cover	#<hr>Chapter 40: The Stone<hr>
+1092	Cover	Landscape	#Icon: Jones's eye <hr>Chapter 40: The Stone<hr>
 1091	Bonus	Mort	#<b>Bonus Page :</b>Mort Fun Time
 1090	Coyote	Gillitie	TreeBody	Ysengrin	#Stand back up and pull yourself together
 1089	Coyote	Etherium	Gillitie	Ysengrin	#Now why don’t I just remove this nasty little memory?
@@ -149,23 +149,23 @@
 1059	Annie	Bridge	Eglamore	Gillitie	Ysengrin	#Tom: Been a while
 1058	Annie	Armour	Bridge	Gillitie	Eglamore	Sword	Ysengrin	#Considering what’s happened these part few weeks
 1057	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	#You know , you don’t have to wear that outfit every time we go across the bridge
-1056	Cover	Coyote	#<hr>Chapter 39: The Great Secret<hr>
+1056	Cover	Bones	Coyote	#Icon: the Moon? <hr>Chapter 39: The Great Secret<hr>
 1055	Bonus	Filler	Tea	#<b>Bonus Page:</b> heart rate monitors
 1054	FlowerHeadband	Gamma	Hospital	Zimmy	#Are you sure you don’t want them to know you helped?
 1053	Annie	Gamma	Hospital	Kat	MakeUp	Zimmy	#I brought these for you
 1052	Annie	Hospital	Kat	#So I just collapsed in the hall?
 1051	Annie	Hospital	Kat	#You’re awake!
 1050	FlowerHeadband	Gamma	Hospital	Kat	Tears	Zimmy	#You can’t always run from what scares you
-1049	Angel	#
+1049	Angel	Kat	#(The image of how Kat appears to Zimmy, a Giger-like metallic robot angel)
 1048	FlowerHeadband	Gamma	Hospital	Kat	Robot	Shadow	Zimmy	#Hey, what happ–
 1047	Annie	Etherium	Fight	FlowerHeadband	Jack	Kat	Mask	Hospital	Zimmy	Zimmingham	#Yer Dad’s a JERK!
 1046	Annie	Etherium	Jack	Mask	Zimmy	Zimmingham	#I don’t want to know about your million boyfriends
 1045	Annie	Bone	FlowerHeadband	Hospital	Kat	Rey	Robot	Shadow	Zimmingham	Zimmy	#Okay this is where things start to go bad…
 1044	AnnieCut	Bone	Etherium	Fight	Fire	Tony	Zimmy	#A message from your little girl, mate!
-1043	Bone	Etherium	Fire	Zimmy	#
+1043	Bones	Etherium	Fire	Tony	Zimmy	#(Zimmy reaches out, touching the "bones" extending from Annie's soul; she sees Tony through the fire)
 1042	Annie	CityFace	Etherium	FlowerHeadband	Hospital	Kat	Zimmy	#What’s the matter? Don’t like him?
-1041	Annie	Bone	CityFace	Etherium	Fire	FireElemental	Hospital	Kat	Mask	Zimmy	#No wonder you’re like this, Carver
-1040	Annie	Bone	Etherium	Fire	FireElemental	Mask	#Pretty hot in here
+1041	Annie	Bones	CityFace	Etherium	Fire	FireElemental	Hospital	Kat	Mask	Zimmy	#No wonder you’re like this, Carver
+1040	Annie	Bones	Etherium	Fire	FireElemental	Mask	#Pretty hot in here
 1039	Annie	CherryTree	Etherium	Fight	Kat	Mask	Zimmy	#You got no fight in you, Carver
 1038	Annie	CherryTree	CityFace	Homework	Kat	Mask	Spiders	Zimmy	#Well. Things seem okay up here.
 1037	Annie	CherryTree	CityFace	Gillitie	Kat	Mask	Tears	Zimmy	#Don’t tell me you are looking into her dreams…
@@ -179,7 +179,7 @@
 1029	Annie	AntimonySymbol	Hospital	FlowerHeadband	Kat	Rey	Robot	Shadow	Zimmy	#(hospital room: quiet &amp; still)
 1028	Gamma	Zimmy	Zimmingham	#I don’t want to see her!
 1027	AnnieCut	Zimmy	Zimmingham	#Not mine!<br>Tom: Look who’s scrambling around in the trash again.
-1026	CityFace	Cover	#<br>Chapter 38: Divine<hr>
+1026	CityFace	Cover	#Icon: Kat with the pink headband and "city face" pigeon on her head <br>Chapter 38: Divine<hr>
 1025	Bonus	Anja	Eglamore	Jones	Kat	PlanTheta	#<b>Bonus Page:</b>What About These Guys?
 1024	Annie	Blush	Donny	Etherics	Robotics	Roof	#i’m happy my daughter has you as a friend 
 1023	Annie	Donny	Microsat5	Roof	#they flew away… that’s it? That’s it.
@@ -203,7 +203,7 @@
 1005	Annie	Crying	Donny	#W-what’s happening? I’m a mess!
 1004	Annie	Anja	Donny	Eglamore	Kat	#here, give your hands  a resy, eh?
 1003	Annie	Anja	Donny	Eglamore	Kat	Tony	#my father called me.
-1002	Cover	#<hr>Chapter 37: Microsat 5<hr>
+1002	Cover	Earth	Microsat5	Sky	#Icon: a packet of scalpel blades <hr>Chapter 37: Microsat 5<hr>
 1001	Bonus	AntlerFae	BadgerFae	Blue	BlushFae	Bugsy	CurlyFae	FishFae	FlowerFae	GreenFae	HedgehogFae	MarineFae	Red	WaterFae	YellowFae	#<b>Bonus Page:</b>Chapter 36 Character Guide
 1000	Annie	Foley	Jones	Shadow	#transferring a call, Ms. Carver
 999	Annie	Foley	Jones	Shadow	#so, shadow, did you find a nice class?
@@ -231,7 +231,7 @@
 977	Annie	Jones	Shadow	#we’ve been looking after him, but his needs are different now
 976	Annie	Jones	Shadow	#and now, a young shadow man walks and lives amongst the humans
 975	Coyote	CoyoteStories	Shadowmen	#how the glass eyed men became shadow men
-974	Cover	#<hr>Chapter 36: Red Gets a Name<hr>
+974	Cover	Red	#Icon: Annie's hair and the Etherium <hr>Chapter 36: Red Gets a Name<hr>
 973	Bonus	Cookie	Jan	Parley	Smitty	#<b>Bonus Page:</b>Parley Display of Affection
 972	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#truly, I’ve never seen anything like it
 971	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#shadow, you are three dimensional now.
@@ -257,7 +257,7 @@
 951	Cookie	Jan	Parley	Smitty	#byee, little lovelies!
 950	Annie	Bip	BismuthSymbol	Cookie	FlowerHeadband	Jan	Kat	Parley	Smitty	#aw, look, parley, it’s your kiddy club!
 949	Annie	Bip	FlowerHeadband	Kat	Parley	Rey	Smitty	#is she not here yet? Ahem… bam. BIP
-948	Cover	#<hr>Chapter 35: Parley and Smitty Are In This One<hr>
+948	Cover	Flowers	#Icon: a flower <hr>Chapter 35: Parley and Smitty Are In This One<hr>
 947	Bonus	Janet	Kat	Margo	SullivansJohn	Winsbury	#<b>Bonus Page:</b>Backfired
 946	Annie	AnnieCut	Bud	Etherics	Lindsey	Speakeasy	#hey Linds, gimmie a kiss
 945	Annie	Bud	Creeper	Etherics	Speakeasy	#They’re a good bunch of kids just having some fun
@@ -305,7 +305,7 @@
 903	Annie	Janet	Kat	KatsWorkshop	Margo	Paz	Robots	#so… we’ll be out all night?
 902	Annie	Buzzer	Janet	Kat	Margo	Paz	Robots	Robotics	#if we keep quiet, she will think the robots are leaving, not us.
 901	Annie	Buzzer	Jack	Janet	Kat	Margo	Paz	Robots	#well, we found out the court can track all our movements.
-900	Cover	#<hr>Chapter 34: Faraway Morning (and three short tales)<hr>
+900	Cover	Buzzer	#Icon: Students entering the Speakeasy <hr>Chapter 34: Faraway Morning (and three short tales)<hr>
 899	Bonus	Boxbot	Robots	Robox	Terrible	#<b>Bonus Page:</b>Helping Hand
 898	Angel	Robot	Robots	RobotTomb	Shadow	DiegoBot	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
 897	Annie	Kat	Heart	Robots	SeedBismuth	RobotTomb	DiegoBot	#CRACK (broken heart)
@@ -335,7 +335,7 @@
 873	Annie	Kat	Roof	Ysengrin	#didn’t he try to kill you at one point?
 872	Annie	Anwyn	Kamlen	Khepi	Roof	#if you like green skin and pointy ears
 871	Annie	Kat	Roof	Landscape	#So… you’re descended from a fire spirit?
-870	Cover	#<hr>Chapter 33: Give and Take<hr>
+870	Cover	GolemHeart	RobotDesigns	#Icon: RobotDesigns <hr>Chapter 33: Give and Take<hr>
 869	Annie	Filler	Kat	PrincessMononoke	Rey	#Moro
 868	Annie	Filler	Kat	PrincessMononoke	Rey	#Bah! It’s some manner of animated picture?
 867	Bonus	Bud	Dorm	Habitat	Lindsey	#<b>Bonus Page:</b> Welcome to Year 9!
@@ -361,9 +361,9 @@
 847	Annie	Anwyn	Bind	CoyoteTooth	Dorm	Homework	Khepi	Rey	#I’m so sorry for what I said
 846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
 845	Dorm	Rey	#Waiting Reynardine
-844	Cover	#Year 9<hr>Chapter 32: From the Forest She Came<hr>
-789	Cover	#<hr>Chapter 31: Fire Spike<hr>
-761	Cover	#<hr>Chapter 30: The Coward Heart<hr>
+844	Cover	Flower	#Icon: SubDorm <hr><b>Year 9</b><hr>Chapter 32: From the Forest She Came<hr>
+789	Cover	FireSpike	#Icon: FireSpike <hr>Chapter 31: Fire Spike<hr>
+761	Cover	Jeanne	#Icon: Jeanne and Annie in the Etherium <hr>Chapter 30: The Coward Heart<hr>
 760	Bonus	Birds	Bobby	CityFace	#<b>Bonus Page:</b> Pigeon facts
 759	Kat	KatsWorkshop	Robot	RobotDesigns	RobotParts	Robots	#I had an amazing idea.
 758	Annie	CityFace	Kat	KatsWorkshop	Robot	RobotParts	Robots	#What kind of name is City Face?
@@ -381,7 +381,7 @@
 746	Birds	CityFace	Kat	KatsWorkshop	Robots	#I-it's a... baby bird! Uhh I think...
 745	Kat	KatsWorkshop	Robot	RobotDesigns	RobotParts	Robots	#Who asked you guys for help? 
 744	Kat	KatsWorkshop	Robot	RobotParts	Robots	#Okay, how's that?
-743	Cover	#<hr>Chapter 29: A Bad Start<hr>
+743	Cover	Kat	#Icon: Robots <hr>Chapter 29: A Bad Start<hr>
 742	Bonus	Employees	Juliette	PowerStation	Robots	#<b>Bonus page:</b> Professionals
 741	Annie	Gamma	Jack	Jones	Lake	Rey	Zimmy	#She can hardly be blamed for what she is
 740	Annie	Gamma	Jack	Jones	Lake	PowerStation	Rain	Rey	Zimmy	#Did you make it rain?
@@ -407,7 +407,7 @@
 720	Aata	Annie	Employees	Jones	PowerStation	Rey	Robots	Shell	#Your assistance in locating Jack has been invaluable.
 719	Annie	AntimonySymbol	Bind	Employees	EyeCrossed	MercurySymbol	Jones	PowerStation	Rey	Robots	Shell	#Please! can't you just call...
 718	Annie	Bind	Employees	Rey	Robots	Shell	#Please! You have to help my friend!
-717	Cover	#<hr>Chapter 28: Spring Heeled Part 2<hr>
+717	Cover	PowerStation	#Icon: The head and upper body of? <hr>Chapter 28: Spring Heeled Part 2<hr>
 716	Bonus	Dorm	Kat	#<b>Bonus Page:</b>Meanwhile... (Who you kiddin', Kat?)
 715	Aata	Annie	AntimonySymbol	Bind	Employees	EyeCrossed	Jack	MercurySymbol	PowerStation	Rey	Robots	SecurityDevice	Shell	SpringHeels	#What's going on here!
 714	Annie	Bind	EyeCrossed	Jack	PowerStation	Rey	SecurityDevice	SpringHeels	#I don't care! He's my friend!
@@ -435,7 +435,7 @@
 692	Annie	Employees	Jack	Kat	Letter	Shell	Students	#I'll... read it later.
 691	Annie	Employees	Jack	Kat	Letter	Students	#Here! He's here!
 690	Annie	Jack	Kat	Students	#Ah, there you are
-689	Cover	#<hr>Chapter 27: Spring Heeled<hr>
+689	Cover	WhiteSpider	#Icon: Annie, Jack and Rey's silhouettes as they walk into the PowerStation <hr>Chapter 27: Spring Heeled<hr>
 688	Bonus	Annie	AntimonySymbol	Rey	#<b>Bonus Page:</b>Fox Call
 687	Annie	Bridge	Coyote	Eglamore	Gillitie	JollyElfsberry	Sword	#So when do you start teaching students how to use a sword?
 686	Annie	Coyote	CoyoteTooth	Gillitie	#The keenest blade you will ever find!
@@ -461,7 +461,7 @@
 666	Annie	Coyote	Eglamore	Eyes	Gillitie	JollyElfsberry	Sword	Uniform	#See you later, Mr Eglamore!
 665	Annie	Eglamore	Gillitie	JollyElfsberry	Sword	Uniform	#I am Jolly Elfsberry, and Coyote sent me to greet you!
 664	Annie	CourtSymbol	Eglamore	Gillitie	JollyElfsberry	Uniform	#Symbol’s a little wonky Carver.
-663	Cover	#<hr>Chapter 26: The Old Dog’s Tricks<hr>
+663	Cover	Coyote	Stars	#Icon: Coyote <hr>Chapter 26: The Old Dog’s Tricks<hr>
 662	Filler	Gamma	Zimmy	#Another year…
 661	Bonus	Flowers	Robots	Students	#<b>Bonus page</b>Robot Handling. Section H: miscellaneous. Robots may sometimes become attracted to you
 660	Angel	Diego	Robot	Robots	Roof	SkyWatcher	#The number of angels I have seen is One.
@@ -492,7 +492,7 @@
 635	Angel	Jeanne	Kat	KatsWorkshop	Robot	Robots	Roof	Shadow	SkyWatcher	#Who else would be chosen to guard Jeanne’s tomb?
 634	Angel	Robot	Robots	Roof	Shadow	SkyWatcher	#Robot, should you really be calling Kat an angel?
 633	Angel	Jeanne	Robot	Robots	Roof	SkyWatcher	#Skywatcher, do you see anything interesting?
-632	Cover	#<hr>Chapter 25: Sky Watcher And The Angel<hr>
+632	Cover	Pliers	#Icon: Robot <hr>Chapter 25: Sky Watcher And The Angel<hr>
 631	Bonus	Annie	Dorm	Rey	#<b>Bonus Page:</b>Absence and Hearts. (Reynardine… I… actually missed you)
 630	Annie	Bob	Eglamore	LaserCow	Lasers	Marcia	Students	YoungsPark	#Never let 60 angry kids use a herd of laser cows to take over your house
 629	Annie	Bob	Eglamore	Jack	LaserCow	Lasers	Marcia	Students	Winsbury	YoungsPark	#And thank you… Laser Cows
@@ -528,7 +528,7 @@
 599	BismuthSymbol	Bob	Marcia	Paz	Students	Teacher	Train	TrainStation	Trees	YoungsPark	#Walking is Nature’s quadbikes!
 598	Annie	BlinkerStone	Court	Kat	Rey	Students	Train	#I still can’t believe the park we’re camping in is IN the court
 597	Annie	BlinkerStone	Etherics	Rey	Train	#Go have fun with your friends, child
-596	Cover	#<hr>Chapter 24: Residential<hr>
+596	Cover	YoungsPark	#Icon: LaserCow <hr>Chapter 24: Residential<hr>
 595	Bonus	DrDisaster	Jones	Simulation	VincentPrice	#<b>Bonus Page:</b> Doctor Disaster and the Chamber of Doom skull
 594	Annie	Flowers	Jack	Monster	Rey	#Oh… you have a, uh, large wolf with you.
 593	Annie	Jack	Monster	Rey	Zimmy	#Where is she, Right now?
@@ -554,7 +554,7 @@
 573	Annie	Jones	Parley	Smitty	Rey	#Smitface ruined the sim!
 572	Annie	Moon	Parley	Simulation	Smitty	#After all these years! our ancient artefact returned to us!
 571	Annie	Moon	Parley	Simulation	Smitty	#They receive a strange request from the king of the Jupiter moon Martians himself!
-570	Cover	#<hr>Chapter 23: Terror castle of the Jupiter moon Martians! A spacemonauts adventure!<hr>
+570	Cover	Annie	Bones	Castle	Moon	Parley	Sky	Smitty	Stars	#Icon: The castle in the simulation <hr>Chapter 23: Terror castle of the Jupiter moon Martians! A spacemonauts adventure!<hr>
 569	Filler	CityFace	Fairies	#Bye, pigeon face! I knew you could do it!
 568	Filler	CityFace	Fairies	#Is she looking?? Oh my gosh I think she is!
 567	Filler	CityFace	Fairies	#It’s because of Humans!
@@ -589,7 +589,7 @@
 538	Donny	Eglamore	Flashback	Jones	Tony	#“I have matters to attend to” Jeez, who talks like that?
 537	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Tony	#You mean a picture of Donny!
 536	Anja	Brinnie	Donny	Eglamore	Flashback	Students	Surma	Teacher	Tony	#Any other groups want their picture takin’?
-535	Cover	#<hr>Chapter 22: Ties<hr>
+535	Cover	Anja	Brinnie	Donny	Eglamore	Photo	Surma	Tony	#Icon: Eglamore's Court Protector Armour <hr>Chapter 22: Ties<hr>
 534	Bonus	Dorm	NancyDrew	Rey	#<b>Bonus Page:</b> Reynardine the Sheep (Rey gets angry before settling down with a Nancy Drew book)
 533	Annie	Ghosts	Heart	Mort	#ooh, a card!
 532	Ghosts	Mort	#WE ARE HERE TO DESTROY YOU!
@@ -621,7 +621,7 @@
 506	Annie	Kat	KatsWorkshop	Rey	#Come on now, be friends again
 505	Annie	Kat	KatsWorkshop	Rey	#Ms Jones said everyone has a special skill, so I bet this is yours
 504	Annie	Kat	KatsWorkshop	Rey	Robots	#Set it down over there, boys
-503	Cover	#<hr>Chapter 21: Blinking<hr>
+503	Cover	BlinkerStone	#Icon: Anja and Donny in front of the EyeCrossed Rey binding program?<hr>Chapter 21: Blinking<hr>
 502	Bonus	Coyote	CoyoteStories	Eyes	Moon	Thief	#<b>Bonus Page:</b> (Coyote tells a story about the moon. And himself, obviously)
 501	Annie	Kat	Moon	MoonPrint	Observatory	#That… That can’t be right!
 500	Annie	Dirty	Kat	Moon	MoonPrint	Observatory	Rey	#Everything’s the same as it always is
@@ -651,8 +651,8 @@
 476	Annie	Armoury	Eglamore	Jones	Uniform	#Try not to undress the female students James.
 475	Annie	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
 474	Annie	Dirty	Dorm	Kat	Rey	Surma	Uniform	#Surma made this body?
-473	Cover	#<hr>Chapter 20: Coyote Stories<hr>
-441	Cover	#<hr>Chapter 19: Power Station<hr>
+473	Cover	Annan	Annie	Arrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gear	Gillitie	Jeanne	LeadSymbol	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Icon: Coyote <hr>Chapter 20: Coyote Stories<hr>
+441	Cover	Etherics	PowerStation	Sky	Stars	#Icon: a HorseBot drawn cart <hr>Chapter 19: Power Station<hr>
 407	Annie	Kat	KatsWorkshop	Rey	Robot	Shadow	#Hahaa! Check this out this is awesome!
 406	Annie	AntimonySymbol	Court	Kat	KatsWorkshop	Lockpicks	Rey	Robot	Train	TrainStation	#One is allowed to defend one's own honour. (We see Robot in his mouse body)
 405	Annie	AntimonySymbol	Kat	Lockpicks	Rey	Students	TrainStation	#Bah. Those buffoons! Insult you would they... Ahhh! I absolutely did not expect thiiiiis!
@@ -665,8 +665,8 @@
 398	Anja	Annie	DonlanHouse	Donny	Kat	WorkshopKey	#This key unlocks my old unit down by the west canals.
 397	Anja	Annie	CrystalBall	DonlanHouse	Donny	Kat	#Waaait... what's going on here? Nothing! I uh... was wondering if you knew someplace I could use as a workshop. (Kat does a faaabulous entrance pose)
 396	BeckyGround	Grounds	Kat	Students	#Real slick, Donlan.
-395	Cover	#<hr>Chapter 18: S1<hr>
-361	Cover	#<hr>Chapter 17: The Medium Beginning<hr>
+395	Cover	Annie	BlinkerStone	Fire	#Icon: Kat's silhouette <hr>Chapter 18: S1<hr>
+361	Cover	Knight	Sword	#Icon: the Simulation of the founding of the court and the Seed Bismuth <hr>Chapter 17: The Medium Beginning<hr>
 360	Bonus	CwnAnnwn	GurtDog	Gytrash	LeanDog	ModdeyDhoo	Psychopomps	#<b>Bonus Page: </b>Dogs of the British Isles
 359	Annie	GoodHope	Grounds	Kat	Surma	SurmaWhisper	#It was something I have always kept in mind. She said... Always remember... remember I will never send you into danger.
 358	Annan	Annie	Gillitie	Grounds	Jeanne	Kat	Sword	#I should have tried to help her... instead I was a fool and became scared when I thought she had cut me.
@@ -696,8 +696,8 @@
 334	Annie	Grounds	Kat	Ketrak	Psychopombs	#Yes, I also think it might be best if you left. Goodbye, Ketrak.
 333	Annie	Grounds	Kat	Ketrak	Psychopomps	#Ketrak, the insect guide has paid me a visit.
 332	Annie	Grounds	Ketrak	Spider	#Hello again, Ketrak
-331	Cover	#<hr>Chapter 16: A Ghost Story<hr>
-305	Cover	#Year 8<hr>Chapter 15: Red Returns<hr>
+331	Cover	GoodHope	Moon	Stars	#Icon: Annie and Kat on the Grounds <hr>Chapter 16: A Ghost Story<hr>
+305	Cover	Scissors	#Icon: Red <hr><b>Year 8</b><hr>Chapter 15: Red Returns<hr>
 304	Filler	Annie	Kat	Mort	Jokes	#Annie, Kat and Mort write joke comics with bad puns
 303	Filler	#Strange photos from Tom?
 302	Filler	Kat	Letter	#Letter from Kat in Italy to Annie
@@ -744,8 +744,8 @@
 261	AlyShirt	Anja	Annie	DonlanHouse	ForestSymbol	Kat	Roof	SilverSymbol	#Wow! What is it?!
 260	AlyShirt	Anja	Annie	DonlanHouse	Kat	SilverSymbol	#You would of course be welcome to come with us over the summer.
 259	Annie	Court	Coyote	Gillitie	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#And the second was when a god emerged from Gillitie Wood.
-258	Cover	#<hr>Chapter 14: The Fangs Of Summertime<hr>
-228	Cover	#<hr>Chapter 13: A Week For Kat<hr>
+258	Cover	Annie	Court	Coyote	#Icon: Coyote in front of the Sun <hr>Chapter 14: The Fangs Of Summertime<hr>
+228	Cover	Kat	#Icon: Tower <hr>Chapter 13: A Week For Kat<hr>
 227	Bonus	Annie	Dorm	Rey	#<b>Bonus Page:</b> Adonis in Stitches (Rey tries to excite Annie by generating a muscly human body)
 226	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#Well, now that we have you back, Robot, we should do something about your body.
 225	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#It’s a wonder my fool cousin hasn’t already retaliated.
@@ -773,8 +773,8 @@
 203	Annie	Boxbot	Kat	Robot	Robots	ScienceLab	Shadow	Terrible	#On my way over I saw… Robots! (helloooo!)<br>Tom: nobody likes boxbot
 202	Annie	Kat	ScienceLab	Shadow	#Kat, that’s wonderful! He even sounds like you!
 201	Annie	Kat	ScienceLab	Shadow	#He isn’t really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
-200	Cover	#<hr>Chapter 12: Mainly Involves Robots<hr>
-181	Cover	#<hr>Chapter 11: Dobranoc, Gamma<hr>
+200	Cover	AdminBot	RobotParts	#Reynardine (Rey, Renard) with the AntimonySymbol on his forehead <hr>Chapter 12: Mainly Involves Robots<hr>
+181	Cover	Gamma	Moon	Sky	Stars	#Icon: Gamma and Zimmy in Zimmingham <hr>Chapter 11: Dobranoc, Gamma<hr>
 180	Annie	Classroom	Kat	#<b>Bonus Page:</b> Pressing Matters (Kat dreams about Mulder in class)
 179	Annie	Court	DrDisaster	Janet	Moon	Paz	SimRocket	SullivansJohn	Winsbury	#I suppose some things are better learned away from a text book.
 178	Annie	EnigmaronLair	Janet	Kat	Moon	Winsbury	#I hope you like your… smashed… death ray!
@@ -790,8 +790,8 @@
 168	Annie	Court	DrDisaster	Kat	#I must admit I question the educational value of Dr. Disaster’s classes.
 167	Classroom	DrDisaster	Janet	Matt	Students	Teacher	Winsbury	#Well, that clears my next 40 minutes
 166	Annie	Classroom	DrDisaster	Janet	Kat	SullivansJohn	Teacher	Winsbury	#Spacemonauts! The earth is in peril!
-165	Cover	#<hr>Chapter 10: Doctor Disaster Versus the Creepy Space Aliens from Outer Space<hr>
-149	Cover	#<hr>Chapter 9: Questions and Answers<hr>
+165	Cover	Annie	DrDisaster	EnigmaronLair	Kat	Moon	SimRocket	Simulation	Sky	Stars	#Icon: Enigmaron <hr>Chapter 10: Doctor Disaster Versus the Creepy Space Aliens from Outer Space<hr>
+149	Cover	Tiki	#Icon: Mask resembling both the Moon and a Yin-Yang <hr>Chapter 9: Questions and Answers<hr>
 148	Bonus	Fairies	Ogee	Tea	#<b>Bonus Page:</b> Regional Fairies
 147	Annie	AntiGravShip	Court	Kat	#This isn’t just a school is it?
 146	Annan	Annie	AntiGravShip	Gillitie	Jeanne	Kat	Shadow	#You remember that time I told you that I’d never lost anyone I cared for?
@@ -804,7 +804,7 @@
 139	Annan	Annie	BlinkerStone	Blue	Fire	Gillitie	Jeanne	Red	Sword	TicToc	#(The fire goes out, the fairies and Annie sleep, and Jeanne appears)
 138	Annan	Annie	BlinkerStone	Blue	Fire	Gillitie	Jeanne	Red	Shadow	#Are you saying that some of the students at my school used to be fairies like you?
 137	Annan	Annie	Blue	Gillitie	Red	Shadow	#Gunner’s crag? Do you mean Gunnerkrigg Court?
-136	Annan	Annie	Blue	Blood	Gillitie	GoodHope	Red	Shadow	Surma	#It was my fault. I should clean it up.
+136	Annan	Annie	Blue	Blood	Gillitie	Glass	GoodHope	Red	Shadow	Surma	Water	#It was my fault. I should clean it up.
 135	Annan	Annie	BlinkerStone	Blue	Fire	Gillitie	Red	Shadow	#Just put it on the ground and imagine a fire.
 134	Annan	Annie	Blue	Gillitie	Jeanne	Muut	Red	Shadow	#Someone beyond even our reach. Be thankful she cannot cross the river.
 133	Annan	Annie	BlinkerStone	Gillitie	Jeanne	Muut	Shadow	#He wanted us to give you this. Something you may find useful given your… current situation
@@ -817,9 +817,9 @@
 126	Annan	Annie	AnnieJumper	Jeanne	Gillitie	TicToc	#in the distance there was a light, shining dimly from the opposite shore.
 125	Annan	Annie	Gillitie	TicToc	#If it’s not too much trouble, perhaps the other shore would be a better…
 124	Annan	Annie	Gillitie	TicToc	#(TicTocs catch Annie and carry her to the riverbank)
-123	Annie	GoodHope	Surma	#Now I know how the glass felt
-122	Annie	GoodHope	#I dropped a glass.
-121	Cover	#<hr>Chapter 8: Broken Glass and Other Things<hr>
+123	Annie	Glass	GoodHope	Surma	Water	#Now I know how the glass felt
+122	Annie	Glass	GoodHope	Water	#I dropped a glass.
+121	Cover	Glass	Water	#Icon: Glass, Water <hr>Chapter 8: Broken Glass and Other Things<hr>
 120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	Hexagram	Stars	Sun	Trees	VII	WaterSymbol	#<b>Bonus Page:</b> Treatise One (<i>Ora lege relege labora et invenies</i> = Pray, Read, Reread, Work and You Shall Find)
 119	Annie	Bridge	Eglamore	TicToc	#(Annie falls off the bridge)
 118	Annie	Bridge	Rey	Robot	Shadowman	Sword	WoodenArm	#(Robot pushes Annie, the sword flies into him, breaking his body and slicing the WoodenArm and the Shadowman)
@@ -843,7 +843,7 @@
 100	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	#Call me Anja, and this is Donny.
 99	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	TicToc	WoodenArm	#(Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 98	Annie	BismuthSymbol	Court	Kat	LeadSymbol	TicToc	#Something is wrong.
-97	Cover	#<hr>Chapter 7: Of New and Old<hr>
+97	Cover	TicToc	#Icon: TicToc <hr>Chapter 7: Of New and Old<hr>
 96	Bonus	Annie	Dolls	Dorm	Kat	NapoleonHat	Rey	#<b>Bonus Page:</b> Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)
 95	Annie	CherryTree	Habitat	Kat	#The school’s got to know where your dad is.
 94	Annie	CherryTree	Court	GoodHope	Habitat	Kat	#They said he didn’t work there any more and they didn’t know how to contact him.
@@ -855,7 +855,7 @@
 88	Annie	CherryTree	Habitat	Kat	#We all eat a handful of dirt before we die, Annie. Who cares if it tastes like cherries?
 87	Annie	Court	Habitat	Kat	#I wanted to show you something
 86	Annie	BismuthSymbol	Blush	Court	HabitatSymbol	Kat	#Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
-85	Cover	#<hr>Chapter 6: A Handful of Dirt<hr>
+85	Cover	CherryTree	Habitat	#Icon: the Cherry Tree in the Habitat <hr>Chapter 6: A Handful of Dirt<hr>
 84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#<b>Bonus Page:</b> Cupid Undone (Winsbury and Janet secretly express their love)
 83	Annie	BismuthSymbol	Dorm	Gamma	Hall	Kat	Rey	Zimmy	#Bah! This is the thanks I get!
 82	Annie	Gamma	Hall	Kat	Rey	Zimmy	#I don’t know what you are but you’re so cute!
@@ -871,7 +871,7 @@
 72	Annie	Gamma	Kat	Library	Zimmy	#What you lookin’ at? you got a problem?
 71	Annie	BismuthSymbol	Classroom	Kat	#Do you want to help? I’d like that very much!
 70	AntiGravGenerator	Classroom	Kat	Teacher	#class 7qn’s entrant in the year 7 science fair will be Katerina’s zero gravity generator!
-69	Cover	#<hr>Chapter 5: Two Strange girls<hr>
+69	Cover	Annie	Bismuth	Gamma	Library	Zeta	#Icon: Kat in the Library <hr>Chapter 5: Two Strange girls<hr>
 68	Bonus	Janet	Mort	#<b>Bonus Page:</b> Bad Choice (Mort tries to scare Janet)
 67	Annie	Court	Mort	#Thanks a bunch, Annie
 66	Circus	Clowns	Paz	#(Paz gets frightened by a creepy circus clown, screams and runs away)
@@ -881,7 +881,7 @@
 62	Annie	Court	Mort	#I don’t think anyone has been scared of the bedsheet phantasm ensemble for a long time
 61	Annie	Court	Mort	#I’m a ghost! Aren’t you scared?!
 60	Annie	Court	#(Annie trims a bonsai, then hears a ghost wailing)
-59	Cover	#<hr>Chapter 4: Not Very Scary<hr>
+59	Cover	Annie	Court	#Icon: Annie in the Court <hr>Chapter 4: Not Very Scary<hr>
 58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#<b>Bonus Page:</b> Rogat Orjak (Hardwick and Little’s Bestiary)
 57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
 56	AnimalCells	Annie	Eglamore	EyeCrossed	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
@@ -907,7 +907,7 @@
 36	Annie	Eglamore	Gym	Kat	#Well, just let me know the next time Winsbury gives you grief
 35	Annie	Eglamore	Gym	Kat	Winsbury	#Carver! Donlan! Get over here!
 34	Annie	Gym	Kat	Winsbury	#So what are you gonna do about it?
-33	Cover	#<hr>Chapter 3: Reynardine<hr>
+33	Cover	Annie	AntimonySymbol	Court	LeadSymbol	MercurySymbol	Sky	Roof	#Icon: Crossed out eye symbol (EyeCrossed) <hr>Chapter 3: Reynardine<hr>
 32	Bonus	Dorm	Queslett	Shadow	Tea	#<b>Bonus Page:</b> Year 7 Dormitories
 31	Annie	Basil	Classroom	Janet	Kat	SullivansJohn	#I hope all our homework is this interesting.
 30	Annie	Basil	Classroom	#And now of course, I turn out to be the bad guy.
@@ -923,7 +923,7 @@
 20	Annie	Classroom	Janet	Kat	Winsbury	Teacher	#Find as much information as you can on a mythical figure of your choice
 19	Anja	Annie	Classroom	Kat	Winsbury	SullivansJohn	#Wait for me!
 18	Anja	Annie	Classroom	Winsbury	#How have you found your first two weeks at our school?
-17	Cover	#<hr>Chapter 2: Schoolyard Myths<hr>
+17	Cover	Annie	Kat	Labyrinth	#Icon: Minotaur (Basil) <hr>Chapter 2: Schoolyard Myths<hr>
 16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#<b>Bonus Page:</b> Houses at Gunnerkrigg Court
 15	Annie	Bridge	Gillitie	Teacher	#Sorry sir. I got lost.
 14	Bridge	Gillitie	Robot	Shadow	Shadowmen	#Here you go little buddie!
@@ -939,4 +939,4 @@
 4	Annie	Shadow	#Where are you trying to go?
 3	Annie	Shadow	#At times I would see this creature jump from shadow to shadow
 2	Annie	Shadow	#Gunnerkrigg Court does not look much like a school at all
-1	Annie	Cover	#<hr>Chapter 1: The Shadow and The Robot<hr>
+1	Cover	Annie	Court	Sky	#Icon: Gunnerkrigg Court <hr>Chapter 1: The Shadow and The Robot<hr>
