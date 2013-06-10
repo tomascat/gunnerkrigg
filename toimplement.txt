@@ -10,8 +10,6 @@
 
 ###Index
 
-- Tag chapter covers with their icons as the comment
-
 ###Alltags
 
 - Categorisation of types of tags
