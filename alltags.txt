@@ -144,7 +144,8 @@ Hyland	Jack’s father and classmate of Eglamore, Donny, Anja and Surma. Not ver
 Jack	Jack Hyland, in the same year as Annie and Kat
 Jan	January, curt friend of Parley
 Janet	Fierce daughter of the headmaster
-Jeanne	Vengeful ghost
+Jeanne	Vengeful ghost and guardian of the Annan waters, origionally a fencer belonging to the court.
+JeannesLover	Jeanne's green forest lover, name as yet unknown.
 JollyElfsberry	A prancing elf, and alias of Coyote
 Jones	A name of Wandering Eye
 Juliette	Employee of the court, is qualified to run the Ether station
