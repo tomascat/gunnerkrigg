@@ -680,6 +680,39 @@
 474	Annie	Dirty	Dorm	Kat	Rey	Surma	Uniform	#Surma made this body?
 473	Cover	Annan	Annie	Arrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gear	Gillitie	Jeanne	LeadSymbol	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Icon: Coyote <hr>Chapter 20: Coyote Stories<hr>
 441	Cover	Etherics	PowerStation	Sky	Stars	#Icon: a HorseBot drawn cart <hr>Chapter 19: Power Station<hr>
+440	Filler	Annie	Kat	MetalGearSolid	#Man... now I really want some eggs.
+439	Filler	Annie	Kat	MetalGearSolid	#S-snaake... (Kat finishes playing Metal Gear Solid 4 and cries)
+438	Bonus	Annie	Boxbot	Classroom	Grounds	Students	#<b>Bonus Page: </b>The Worst Robot (Boxbot is Terrible)
+437	Anja	Flashback	KatsWorkshop	Surma	#Sometimes I think Donny misses Jim more than I do.
+436	Anja	Flashback	KatsWorkshop	Surma	WorkshopKey	#Just to get one of those robots to move. I wish I could see it!
+435	Annie	Classroom	Flashback	Kat	Winsbury	#Antimony! Wait for me!
+434	Annie	AntimonySymbol	DiegoBot	Kat	Rey	Robots	RobotTomb	S1	Sword	#Now we know Jeanne's name.
+433	Annie	AntimonySymbol	DiegoBot	Kat	Rey	Robot	Robots	RobotTomb	S1	Sword	#The court robots have always maintained themselves
+432	Annan	Annie	AntimonySymbol	DiegoBot	Jeanne	Kat	Rey	Robot	Robots	RobotTomb	S1	Shadow	Sword	#I... that monster out there. I had such a hatred for it I could not... Ah... what a beautiful lady.
+431	Annie	AntimonySymbol	DiegoBot	Jeanne	Kat	Rey	Robot	Robots	RobotTomb	S1	Sword	YoungBot	#For all his technical wonders, this Diego was unable to save her. So he fabricated this contrivance, this fantasy of his, and squirrelled it away beneath the ground
+430	Annie	AntimonySymbol	Diego	DiegoBot	Kat	Rey	Robot	Robots	RobotTomb	S1	Shadow	Sword	#A coward's shrine, made in tribute to a woman he loved from afar. / do you think a woman like that could ever feel anything other than pity for such a runt of a man?
+429	Annie	DiegoBot	Jeanne	Kat	Robot	Robots	RobotTomb	S1	Shadow	Sword	#It's her. Jeanne is the ghost by the Annan Waters.
+428	Annie	DiegoBot	Kat	Robot	Robots	RobotTomb	S1	Shadow	Sword	#He's going into that hole! (S1 opens up a hole in the wall and the other guys clamber through it)
+427	Annie	DiegoBot	Kat	Rey	Robot	Robots	RobotTomb	S1	Sword	YoungBot	#Now they're all moving! (S1 beheads the YoungBot and bows while the other robots clap)
+426	Annie	AntimonySymbol	DiegoBot	Kat	Rey	Robot	Robots	RobotTomb	S1	Sword	YoungBot	#This so called "fight" is scripted. A morbid play acted out by these machines.
+425	DiegoBot	Kat	Robot	Robots	RobotTomb	S1	Sword	YoungBot	#(S1 continues to fence and damage the YoungBot; Kat is mystified)
+424	DiegoBot	Robot	Robots	RobotTomb	S1	Sword	YoungBot	#You will pay for what you did to her. But you will never be forgiven.
+423	Annie	AntimonySymbol	DiegoBot	Kat	Rey	Robot	Robots	RobotTomb	S1	Sword	YoungBot	#What is that thing? (Rey pushes Annie and Kat out of the way while S1 fences the YoungBot)
+422	DiegoBot	Robots	RobotTomb	YoungBot	#(A large, beefy looking original robot emerges from the shadows)
+421	Annie	DiegoBot	Kat	Robot	Robots	RobotTomb	S1	Shadow	Sword	#Who is Jeanne? / She died and we did nothing.
+420	Annie	DiegoBot	Kat	Robot	Robots	RobotTomb	S1	Sword	#Jeanne!
+419	Annie	DiegoBot	Kat	Robots	RobotTomb	Robots	Sword	#Actually all I did was put his limbs and head on to his body and switch him on. I don't have the first idea how to make a robot.
+418	Annie	AntimonySymbol	DiegoBot	Kat	Rey	Robot	Robots	RobotTomb	Shadow	Sword	#All these beautiful, mechanically sound machines, and they don't do anything!
+417	Annie	Kat	DiegoBot	Robot	Robots	RobotTomb	S1	Sword	#Oh! Here is one that looks a little like robot before his body was smashed / Very handsome! I bet you got all the girlbots back in the day, huh!
+416	Annie	AntimonySymbol	Boxbot	DiegoBot	Horsebot	Kat	Rey	Robots	RobotTomb	#I've never seen robots as elaborate as these before! Some of them even look like they might be early designs for existing models.
+415	Annie	Kat	DiegoBot	Robots	RobotTomb	Shadow	#Look at 'em all! Have you ever seen anything like it?!
+414	Anja	Flashback	DonlanHouse	Kat	#A new girl will be joining our class on Monday. I think you should get to know her. Maybe you can be friends. (Annie's student transfer letter is on the counter)
+413	AntimonySymbol	Kat	RobotTomb	#Are you like her dad in disguise? / Ugh. Perish the thought, I was only curious. / You should stay as a wolf more often, dude.
+412	AntimonySymbol	Kat	RobotTomb	#How is she doing in her studies? Does she have many other friends? Has anyone been givingg her trouble? Has a boy caught her eye?
+411	Annie	BlinkerStone	Fire	Kat	Rey	RobotTomb	Shadow	#Oh, we got to the bottom, finally.
+410	Annie	BlinkerStone	Fire	Kat	Rey	RobotTomb	Shadow	#Figure out how it burns somethings and not others. / It behaves that way because she wills it so. That's how a blinker stone works!
+409	Annie	Kat	KatsWorkshop	Lockpicks	Rey	RobotTomb	Shadow	#Watch as human technology crumbles before me! / Hmm, an ominous passagge that plunges into an inky blackness, sealed behind lock and chain
+408	Annie	Kat	KatsWorkshop	Lockpicks	Rey	Robot	RobotTomb	Shadow	#Perhaps Reynardine... / Could smash the lock! / Could pick the lock properly. / Aw.
 407	Annie	Kat	KatsWorkshop	Rey	Robot	Shadow	#Hahaa! Check this out this is awesome!
 406	Annie	AntimonySymbol	Court	Kat	KatsWorkshop	Lockpicks	Rey	Robot	Train	TrainStation	#One is allowed to defend one's own honour. (We see Robot in his mouse body)
 405	Annie	AntimonySymbol	Kat	Lockpicks	Rey	Students	TrainStation	#Bah. Those buffoons! Insult you would they... Ahhh! I absolutely did not expect thiiiiis!
@@ -831,7 +864,7 @@
 139	Annan	Annie	BlinkerStone	Blue	Fire	Gillitie	Jeanne	Red	Sword	TicToc	#(The fire goes out, the fairies and Annie sleep, and Jeanne appears)
 138	Annan	Annie	BlinkerStone	Blue	Fire	Gillitie	Jeanne	Red	Shadow	#Are you saying that some of the students at my school used to be fairies like you?
 137	Annan	Annie	Blue	Gillitie	Red	Shadow	#Gunner’s crag? Do you mean Gunnerkrigg Court?
-136	Annan	Annie	Blue	Blood	Gillitie	Glass	GoodHope	Red	Shadow	Surma	Water	#It was my fault. I should clean it up.
+136	Annan	Annie	Blue	Blood	Flashback	Gillitie	Glass	GoodHope	Red	Shadow	Surma	Water	#It was my fault. I should clean it up.
 135	Annan	Annie	BlinkerStone	Blue	Fire	Gillitie	Red	Shadow	#Just put it on the ground and imagine a fire.
 134	Annan	Annie	Blue	Gillitie	Jeanne	Muut	Red	Shadow	#Someone beyond even our reach. Be thankful she cannot cross the river.
 133	Annan	Annie	BlinkerStone	Gillitie	Jeanne	Muut	Shadow	#He wanted us to give you this. Something you may find useful given your… current situation
@@ -844,8 +877,8 @@
 126	Annan	Annie	AnnieJumper	Jeanne	Gillitie	TicToc	#in the distance there was a light, shining dimly from the opposite shore.
 125	Annan	Annie	Gillitie	TicToc	#If it’s not too much trouble, perhaps the other shore would be a better…
 124	Annan	Annie	Gillitie	TicToc	#(TicTocs catch Annie and carry her to the riverbank)
-123	Annie	Glass	GoodHope	Surma	Water	#Now I know how the glass felt
-122	Annie	Glass	GoodHope	Water	#I dropped a glass.
+123	Annie	Flashback	Glass	GoodHope	Surma	Water	#Now I know how the glass felt
+122	Annie	Flashback	Glass	GoodHope	Water	#I dropped a glass.
 121	Cover	Glass	Water	#Icon: Glass, Water <hr>Chapter 8: Broken Glass and Other Things<hr>
 120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	Hexagram	Stars	Sun	Trees	VII	WaterSymbol	#<b>Bonus Page:</b> Treatise One (<i>Ora lege relege labora et invenies</i> = Pray, Read, Reread, Work and You Shall Find)
 119	Annie	Bridge	Eglamore	TicToc	#(Annie falls off the bridge)

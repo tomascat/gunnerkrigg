@@ -72,8 +72,8 @@ Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, 
 CurlyFae	‘this girl too’ – short curly blue hair, red dot below right eye
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/psychopomps of Wales; red ears
 Dryad	Folk who can control and travel through the trees themselves, Marcia is one.
-Diego	Former creepy robotics expert
-DiegoBot	One of the origional robots created by Diego many years ago
+Diego	Former creepy robotics expert; creator of the original robots (but not the TicTocs); referred to as "creator" by the robots
+DiegoBot	One of the original robots created by Diego many years ago
 DiegoStudy	Home of all things ancient robot
 Dirty	What you become when you don't wash for a while
 Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
@@ -226,6 +226,7 @@ RobotTomb	Tomb/theatre full of robots
 Robox	Has no hands; awesome; everybody loves Robox. The opposite of terrible
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
+S1	Original Seraph Robot made by Diego; predecessor of Robot
 Scissors	A simple device for cutting things, especially paper, hair
 Seraph	Generic member of the Seraph model of robots. Robot was originally one
 Secret	Things that are kept hidden, unknown, mysterious…
@@ -296,7 +297,8 @@ WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
 WoodenArm	A mysterious wooden arm from Gillitie
 WorkshopKey	The key for Kat's Workshop
 YellowFae	‘him’- yellow hair, kinda sideways windswept
-YoungsPark	A large park within the Court, looked after by Bob and his wife Marcia
+YoungBot	A large, bull-like robot made my Diego that resembles Sir Young
+YoungsPark	A large park within the Court, looked after by Bob and his wife Marcia; named after Sir Young, the original Protector of the Court
 Ysengrin	Wolf/Tree hybrid demigod of the forest; Coyote’s General
 ZAM	Noise of a Valknut teleport
 Zeta	A Greek letter corresponding to our "Z"; zimmy's real name
