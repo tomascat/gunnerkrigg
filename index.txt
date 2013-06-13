@@ -706,7 +706,7 @@
 417	Annie	Kat	DiegoBot	Robot	Robots	RobotTomb	S1	Sword	#Oh! Here is one that looks a little like robot before his body was smashed / Very handsome! I bet you got all the girlbots back in the day, huh!
 416	Annie	AntimonySymbol	Boxbot	DiegoBot	Horsebot	Kat	Rey	Robots	RobotTomb	#I've never seen robots as elaborate as these before! Some of them even look like they might be early designs for existing models.
 415	Annie	Kat	DiegoBot	Robots	RobotTomb	Shadow	#Look at 'em all! Have you ever seen anything like it?!
-414	Anja	Flashback	DonlanHouse	Kat	#A new girl will be joining our class on Monday. I think you should get to know her. Maybe you can be friends. (Annie's student transfer letter is on the counter)
+414	Anja	CourtLogo	Flashback	DonlanHouse	Kat	#A new girl will be joining our class on Monday. I think you should get to know her. Maybe you can be friends. (Annie's student transfer letter is on the counter)
 413	AntimonySymbol	Kat	RobotTomb	#Are you like her dad in disguise? / Ugh. Perish the thought, I was only curious. / You should stay as a wolf more often, dude.
 412	AntimonySymbol	Kat	RobotTomb	#How is she doing in her studies? Does she have many other friends? Has anyone been givingg her trouble? Has a boy caught her eye?
 411	Annie	BlinkerStone	Fire	Kat	Rey	RobotTomb	Shadow	#Oh, we got to the bottom, finally.
@@ -851,6 +851,21 @@
 167	Classroom	DrDisaster	Janet	Matt	Students	Teacher	Winsbury	#Well, that clears my next 40 minutes
 166	Annie	Classroom	DrDisaster	Janet	Kat	SullivansJohn	Teacher	Winsbury	#Spacemonauts! The earth is in peril!
 165	Cover	Annie	DrDisaster	EnigmaronLair	Kat	Moon	SimRocket	Simulation	Sky	Stars	#Icon: Enigmaron <hr>Chapter 10: Doctor Disaster Versus the Creepy Space Aliens from Outer Space<hr>
+164	Bonus	Annie	Classroom	Rey	#<b>Bonus Page: </b>Detention (Annie and Rey in detention)
+163	113	Eglamore	Habitat	HabitatSymbol	WoodenArm	#It's been taken care of.
+162	Annie	Bridge	Eglamore	EglamoreOffice	LeadSymbol	Robot	Sword	WoodenArm	#There was... a robot on the bridge. What happened to it?
+161	Annie	Eglamore	EglamoreOffice	Rey	Tiki	#Just know that I will be keepingg a close eye on him. And you.
+160	Annie	BismuthSymbol	CourtLogo	Eglamore	EglamoreOffice	Mask	Rey	#Well I'm sorry I'm not as clever as my mother. I don't think your advice is very appropriate.
+159	Annie	Eglamore	EglamoreOffice	LeadSymbol	Sword	Tiki	#You wanted to see me sir?
+158	Annie	AntiGravGenerator	AntiGravShip	Classroom	DonlanHouse	Donny	Kat	Mort	#I told them I was going to go down there and find you one way or another.
+157	Annie	Bridge	Classroom	Eglamore	Kat	Rey	Robot	Sword	TicToc	WoodenArm	#he looked kinda upset. But nothing like how I was as soon as I found out what happened.
+156	Annie	Classroom	Kat	Mort	#It's probably because you are so attractive.
+155	Agni	Ankou	Annie	GoodHope	Mercury	Neith	Psychopomps	Veles	#For the longest time I never understood why these people were gone the next day.
+154	Annie	GoodHope	Muut	Psychopomps	Surma	#For as long as I could remember I would see creatures walking the halls, hidden from the hospital staff.
+153	Annie	Classroom	Kat	Mort	Muut	#That sucks about the ghost with the sword. That isn't supposed to happen.
+152	Annie	BlinkerStone	Classroom	Kat	Mort	#It was a very thoughtful gift. / Aw shucks, 't weren't no big thing.
+151	Annie	Classroom	Kat	Mort	#(Annie scares Mort instead)
+150	113	AlchemyChart	BismuthSymbol	Classroom	Kat	LeadSymbol	MercurySymbol	SunSymbol	VenusSymbol	#(Mort decides to scare Kat)
 149	Cover	Tiki	#Icon: Mask resembling both the Moon and a Yin-Yang <hr>Chapter 9: Questions and Answers<hr>
 148	Bonus	Fairies	Ogee	Tea	#<b>Bonus Page:</b> Regional Fairies
 147	Annie	AntiGravShip	Court	Kat	#This isn’t just a school is it?

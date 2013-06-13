@@ -1,5 +1,7 @@
-﻿Aata	An employee (Security guard??) of the court alongside Shell, seems to be more senior than Shell
+﻿113	A number that appears in many places in the court.
+Aata	An employee (Security guard??) of the court alongside Shell, seems to be more senior than Shell
 AdminBot	A secretarial robot who sits at the Admin desk at RobotHQ
+Agni	Hindu fire god; psychopomp
 AlchemyChart	An alchemical chart
 Aly	Alistair Kershaw; went to the Forest
 AlyShirt	A shirt belonging to Aly, which Kat now owns
@@ -7,6 +9,7 @@ Angel	What robots call Kat
 AnimalCells	the Court’s large animal holding cells
 AnimalLab	a Court research lab
 Anja	Anja Donlan, Kat’s mother
+Ankou	Breton grim reaper; psychopomp
 Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist (Fire Head Girl)
 AnnieCut	The cut on Annie’s etherial face from Jeanne’s sword
@@ -61,6 +64,7 @@ Computer	You're using one right now. The court keeps student records, and many o
 Cookie	Cookie Monster(?), enthusiastic friend of Parley
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
 CourtHall	A large important hall for meetings
+CourtLogo	Gunnerkrigg Court logo (for the school); Appears on detention slips and official school letters
 CourtSymbol	The symbol Annie’s blinker stone makes; has a BismuthSymbol within it
 Cover	A chapter cover
 Coyote	Trickster; the creator of all; he does not exist, he says
@@ -178,7 +182,7 @@ MartinLizard	A lizard that Martin likes and shows Annie. Bites.
 MartinRoom	Martin's hospital/bed room
 Mask	A cover to hide face, appearance, emotions
 Matt	A classmate of Annie and Kat
-Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce
+Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce; psychopomp
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Mice	Small rodents, common pests, and also in labs.
 Microsat5	Tony’s payload delivery satellite
@@ -194,6 +198,7 @@ Music	Everyone loves music!
 Muut	Egyptian psychopomp (escorts the dead to the afterlife)
 NancyDrew	A series of books featuring a teenage girl solving mysteries
 NapoleonHat	A fitting hat for Reynardine the Great!
+Neith	Egyptian goddess of war; psychopomp
 Nevihta	Rogat Orjak to Sir Young, first protector of the court
 Observatory	A massive telescope
 Ocean	A whole bunch of water
@@ -284,6 +289,7 @@ TreeDog	They usually go woof, unless created by the forest
 Trees	Come as advertised (usually)
 Uniform	An outfit one wears when on official business
 Valknut	A Norse symbol, indicates a form of teleport/gateway
+Veles	Ancient Slav snake-like god who guards the underworld; psychopomp
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 VincentPrice	A famous actor
 WanderingEye	Symbol of that which calls itself Jones, currently
