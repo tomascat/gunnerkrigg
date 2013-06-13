@@ -834,6 +834,24 @@
 202	Annie	Kat	ScienceLab	Shadow	#Kat, that’s wonderful! He even sounds like you!
 201	Annie	Kat	ScienceLab	Shadow	#He isn’t really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
 200	Cover	AdminBot	RobotParts	#Reynardine (Rey, Renard) with the AntimonySymbol on his forehead <hr>Chapter 12: Mainly Involves Robots<hr>
+199	Bonus	Annie	DonlanHouse	Dorm	Kat	#<b>Bonus Page: </b>Light Entertainment (Kat shows Annie Grand Theft Auto)
+198	Bonus	Gamma	Zimmy	#<b>Bonus Page: </b>Plenty of Spiders (Zimmy and Gamma go looking for rats and spiders)
+197	Annie	Courtyard	Gamma	Rain	Zimmy	#She says "thanks" for sitting with us.
+196	Courtyard	Rain	Zimmy	#(Zimmy joyously slips and slides in the rain)
+195	Courtyard	Rain	Zimmy	#Come on! Rain!
+194	Annie	AnnieCut	Courtyard	Gamma	Kiss	TicToc	#That bird is the thousand eyes. Zimmy cannot stand it looking at her. She can feel its stare.
+193	Annie	AnnieCut	Courtyard	Gamma	Kiss	TicToc	#(The guys go to the courtyard)
+192	Annie	Gamma	Library	Zimmingham	Zimmy	#The storm is about to break. We must go outside
+191	Birmingham	CourtAgents	Flashback	Gamma	Library	Zimmingham	Zimmy	#This is unlike the other schools you have attended.
+190	Flashback	Gamma	Monster	Zimmingham	Zimmy	#How do you do that? I don't know.
+189	Annie	AnnieCut	Library	Zimmy	#It's like... tuning in a radio. All she has to do is b e near me an' the static gets pushed out.
+188	Flashback	Gamma	Monster	Zimmingham	Zimmy	#Come on! Wake uuup!
+187	Annie	Gamma	Library	Zimmy	#'Cos she tries to stay awake as long as I do, but I don't sleep.
+186	Flashback	Gamma	Zimmingham	Zimmy	#(Zimmy is talking in static)
+185	Annie	Gamma	Kat	Library	Zimmy	#You gotta help, Carver, she needs to sleep.
+184	Annie	Gamma	Kat	Library	Zimmy	#What do you guys want?
+183	Annie	Courtyard	Gamma	TicToc	Zimmy	#(Annie and Gamma speak some Polish to each other)
+182	Annie	Courtyard	Gamma	TicToc	Zimmy	#(Zimmy is standing in the courtyard with Annie and Gamma)
 181	Cover	Gamma	Moon	Sky	Stars	#Icon: Gamma and Zimmy in Zimmingham <hr>Chapter 11: Dobranoc, Gamma<hr>
 180	Annie	Classroom	Kat	#<b>Bonus Page:</b> Pressing Matters (Kat dreams about Mulder in class)
 179	Annie	Court	DrDisaster	Janet	Moon	Paz	SimRocket	SullivansJohn	Winsbury	#I suppose some things are better learned away from a text book.

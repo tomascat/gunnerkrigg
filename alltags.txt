@@ -30,6 +30,7 @@ BeckyGround	A student
 Bind	Etherics binding, hold or constraint hoodoo
 Birds	Birds hand wings and feathers, Kat and Paz are both fond of them
 Bip	Parley’s teleportation. May be accompanied by BARGE.
+Birmingham	What Zimmingham is based on and where Gamma and Zimmy are from. Slightly less nightmarish than Zimmingham.
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
 Blackboard	Classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
 BlackPen	A black marker pen used to draw faces.
@@ -63,9 +64,11 @@ Clowns	Creepy, no-one likes them
 Computer	You're using one right now. The court keeps student records, and many other things on computers.
 Cookie	Cookie Monster(?), enthusiastic friend of Parley
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
+CourtAgents	Some mysterious dudes who take Gamma and Zimmy from Birmingham to the Court
 CourtHall	A large important hall for meetings
 CourtLogo	Gunnerkrigg Court logo (for the school); Appears on detention slips and official school letters
 CourtSymbol	The symbol Annie’s blinker stone makes; has a BismuthSymbol within it
+Courtyard	A courtyard near the library
 Cover	A chapter cover
 Coyote	Trickster; the creator of all; he does not exist, he says
 CoyoteTooth	It’s a tooth, or is it?
