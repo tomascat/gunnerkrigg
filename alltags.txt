@@ -147,6 +147,7 @@ Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol;
 Homework	School work done outside class hours
 Horsebot	Robot in a horse frame, as motive power for carriages, carts etc
 Hospital	The hospital / infirmary within the court
+House	An unknown person's house (please help!)
 Hyland	Jack’s father and classmate of Eglamore, Donny, Anja and Surma. Not very nice to Anja or Surma.
 Jack	Jack Hyland, in the same year as Annie and Kat
 Jan	January, curt friend of Parley
