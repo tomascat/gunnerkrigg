@@ -160,6 +160,8 @@ Juliette	Employee of the court, is qualified to run the Ether station
 Kamlen	Anwyn boy about Annie’s and Kat’s age
 Kat	Katerina Donlan
 KatsWorkshop	Where Kat indulges her hobbies; in the West Canals; has a hidden room in the bottom
+KershawHouse	Where Aly and his parents Mr and Mrs Kershaw used to live.
+Kershaws	Aly's parents. birds.
 Khepi	Head of an Anwyn family
 Kiss	Smooshing, pashing, making out, a peck on the cheek, first base, kissing
 Knight	A traditional warrior and military leader who is part of the landed gentry class; often trained in swordsmanship; a chess piece
