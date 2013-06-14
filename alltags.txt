@@ -118,6 +118,7 @@ Flashback	Things that happened in the past
 FlowerFae	‘this one’ – purple hair, green bar under left eye
 FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
 Flowers	Colourful plants that grow from the ground. Often given as gifts.
+Flying	Moving through the air, like superman
 Foley	One of the other school Houses
 ForestSymbol	The symbol Gillitie uses to message; has an “eye” within it
 Gamma	Gamma Czarnecki, a quiet girl from Poland who only speaks Polish; friends with Zimmy who she met in Birmingham; a Greek letter equivalent to our letter "G"
@@ -257,13 +258,13 @@ SirYoung	Protector of the Court at its founding
 SivoBody	A deceased Rogat Orjak
 Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like robot that collects meteorological data
+Skull	The bone surrounding the brain
 SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises death; associated with pirates
 SmallBot	A young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 Spankies	From Annie for when Coyote is a Bad Dog!
 Speakeasy	A hotel-like place that the students sneak out to with a “speakeasy-like atmosphere”
 Spiders	Often white and etheric, also often real.
-SpringHeels	Jack can jump, really high, almost flying...
 StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot
 Stars	Celestial bodies
 Steadman	An archer, present at the founding of the court

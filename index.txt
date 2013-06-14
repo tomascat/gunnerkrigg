@@ -488,14 +488,14 @@
 724	Annie	Boat	Etherium	Jones	Lake	PowerStation	Rey	Zimmy	#Is Simmy... human?
 723	Annie	Boat	Etherium	Gamma	Jones	Lake	PowerStation	Rey	Zimmy	Zimmingham	#Zimmy... the station...  I don't understand
 722	Annie	Boat	Etherium	Jones	Juliette	Lake	PowerStation	Rey	Zimmy	#Juliette, allow the station to enter the collection stage
-721	Aata	Annie	Employees	Jones	Juliette	PowerStation	Rey	Robots	Shell	SpringHeels	#I think... uh... I think he can fly.
+721	Aata	Annie	Employees	Flying	Jones	Juliette	PowerStation	Rey	Robots	Shell	#I think... uh... I think he can fly.
 720	Aata	Annie	Employees	Jones	PowerStation	Rey	Robots	Shell	#Your assistance in locating Jack has been invaluable.
 719	Annie	AntimonySymbol	Bind	Employees	EyeCrossed	MercurySymbol	Jones	PowerStation	Rey	Robots	Shell	#Please! can't you just call...
 718	Annie	Bind	Employees	Rey	Robots	Shell	#Please! You have to help my friend!
 717	Cover	PowerStation	#Icon: The head and upper body of? <hr>Chapter 28: Spring Heeled Part 2<hr>
 716	Bonus	Dorm	Kat	#<b>Bonus Page:</b>Meanwhile... (Who you kiddin', Kat?)
-715	Aata	Annie	AntimonySymbol	Bind	Employees	EyeCrossed	Jack	MercurySymbol	PowerStation	Rey	Robots	SecurityDevice	Shell	SpringHeels	#What's going on here!
-714	Annie	Bind	EyeCrossed	Jack	PowerStation	Rey	SecurityDevice	SpringHeels	#I don't care! He's my friend!
+715	Aata	Annie	AntimonySymbol	Bind	Employees	EyeCrossed	Flying	Jack	MercurySymbol	PowerStation	Rey	Robots	SecurityDevice	Shell	#What's going on here!
+714	Annie	Bind	EyeCrossed	Flying	Jack	PowerStation	Rey	SecurityDevice	#I don't care! He's my friend!
 713	Annie	AntimonySymbol	Bind	Computer	EyeCrossed	Jack	MercurySymbol	PowerStation	Rey	SecurityDevice	#I'm doing you a favour! Forget about him!
 712	Annie	AntimonySymbol	Bind	Etherics	EyeCrossed	Jack	MercurySymbol	PowerStation	Rey	SecurityDevice	#Almost forgot!
 711	Annie	Computer	Etherium	Jack	PowerStation	Rey	WhiteSpider	Zimmy	#I just need to see her again...
