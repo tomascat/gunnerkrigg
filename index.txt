@@ -364,6 +364,62 @@
 846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
 845	Dorm	Rey	#Waiting Reynardine
 844	Cover	Flower	#Icon: SubDorm <hr><b>Year 9</b><hr>Chapter 32: From the Forest She Came<hr>
+843	Filler	BobEyes	CityFace	Ogee	Torus	#Crow: Stop it. Stop all this nonsense
+842	Filler	BobEyes	CityFace	Ogee	Torus	#I think they are horrible liars
+841	Filler	BobEyes	CityFace	Ogee	Torus	#Now she's in direct competition with YOUR loser pigeon!
+840	Filler	CityFace	Torus	#No! You weren't supposed to eat it!
+839	Filler	CityFace	Jones	Torus	#Oh, and Jones was there too
+838	Filler	CityFace	Torus	#Go like this
+837	Filler	BobEyes	CityFace	Ogee	Torus	#What was that thing you just said previously?
+836	Filler	BobEyes	CityFace	Ogee	#Anything that eats a Bagel becomes... A Human Businessman!
+835	Filler	Bobeyes	CityFace	#OGEE! That was Mine! You! What! Why?! OGEE!
+834	Filler	Bobeyes	CityFace	#Oh no angry magpie!
+833	Filler	Tea	#Announcing ten page short story
+832	Bonus	Treatise	Annie	Coyote	Kat	Robot	Birds	Spider	WhiteSpider	Rey	Ysengrin	Robots	Jeanne	Sword	AntimonySymbol	MercurySymbol	BismuthSymbol	SunSymbol	GreenArrow	Sun	Moon	Sword	CreatorGlyph	Heart		#<b>Bonus Page:</b> Fourth Treatise, The end of third book
+831	Annie	Gillitie	Ysengrin	#(Annie enters the clearing with the forest people.)
+830	Annie	Gillitie	Ysengrin	#Show them that you are not afraid
+829	Annie	Gillitie	Ysengrin	#You are stronger than you were this morning
+828	Annie	Gillitie	Surma	Tears	Ysengrin	#Oh, Ysengrin!
+827	Annie	Bind	Coyote	Gillitie	Ysengrin	#You will be treated with kindness
+826	Annie	Bind	Coyote	Gillitie	Ysengrin	#Bring her along Ysengrin, and we will find her a home for the summer
+825	Annie	Bind	Coyote	Gillitie	Jones	TimeStop	Ysengrin	#Is this acceptable?
+824	Annie	Bind	Coyote	CoyoteTooth	Gillitie	Jones	TimeStop	Ysengrin	#I see you don't have the tooth I gave you
+823	Annie	Court	Coyote	Etherics	Gillitie	Jones	Kat	Rey	TimeStop	Ysengrin	#You put many people in danger today
+822	Annie	Court	Coyote	Etherics	Gillitie	Jones	WanderingEye	Ysengrin	#I... I think I would like to stay. Just for the Summer?
+821	Annie	Court	Coyote	Etherics	Eyes	Gillitie	Jones	Moon	Sun	WanderingEye	#You could stay here!
+820	Annie	Coyote	Etherics	Eyes	Fire	FireElemental	FireSpike	Gillitie	Jones	Surma	Tony	WanderingEye	#Do you sometimes feel your temper flaring?
+819	Annie	Coyote	Fire	Etherics	Gillitie	Jones	Surma	WanderingEye	Ysengrin	#The flame that burned inside her has passed on to you
+818	Annie	Coyote	Gillitie	Jones	Rey	Surma	WanderingEye	#Don't tell me no one has told the girl she isn't exactly human!
+817	Annie	Coyote	Gillitie	Jones	Rey	Surma	WanderingEye	Ysengrin	#It is not the meddling	laws of man that keep him there, but his love for you
+816	Annie	Coyote	Gillitie	Jones	Rey	Surma	WanderingEye	Ysengrin	#You know I can take her if I wish
+815	Annie	Coyote	Gillitie	Jones	WanderingEye	Ysengrin	#Wandering Eye? So many visitors today!
+814	Annie	Coyote	Gillitie	Surma	Tears	#Don't look into my dreams Coyote
+813	Annie	Flashback	GoodHope	Skull	Surma	Tears	Tony	#He still loves you very much
+812	Annie	Flashback	GoodHope	Surma	Tears	Tony	#(Young Annie walks in on her father crying over her mother in hospital)
+811	Annie	Gillitie	Shadowmen	Ysengrin	#I would never hurt them
+810	Annie	Gillitie	Tears	Ysengrin	#You are here because you are weak
+809	Annie	Gillitie	Tears	Ysengrin	#(Annie reaches the forest and finds Ysengrin)
+808	Annie	Bridge	Eglamore	Etherics	EthericShield	Fire	Gillitie	#Damn it...
+807	Annie	Bridge	Eglamore	Etherics	Fire	Tears	#(Annie runs over the bridge, and puts up an etheric fire to block Eglamore from stopping her)
+806	Annie	Bridge	Court	Gillitie	Tears	#(Annie runs, crying from her room, and ends up at the bridge)
+805	Anja	Annie	Dorm	Eglamore	Rey	Surma	Tears	Tony	#We all knew it would happen, if Surma ever had a child
+804	Annie	Dorm	Fire	Psychopomp	Rey	Surma	Tears	Tony	#You are the reason Surma died!
+803	Annie	Dorm	Rey	Surma	Tony	#I know why she was like that
+802	Annie	Court	Dorm	Rey	Surma	Tony	#How could she ever love a creature like you?
+801	Annie	Dorm	Rey	Surma	Tony	#She never loved you
+800	Annie	Dorm	Homework	Kat	Rey	Tony	#You're not my father Renard, stop acting like it.
+799	Annie	Dorm	Homework	Kat	Rey	#Don't tell me you're going to copy Katerina's work again?
+798	Annie	Dorm	Homework	Kat	#(Annie leaves JAck, frowns again, then goes to the dorm and takes Kat's homework book)
+797	Annie	Blush	Jack	Kat	#I'll see you next year perhaps
+796	Annie	Jack	Hyland	Kat	Surma	#He said he knew your mum
+795	Annie	Jack	WhiteSpider	#So, you know, thanks again.
+794	Annie	Jack	Kat	KatsWorkshop	#(Annie leaves Kat's workshop, andfrowns. She then sees Jack as she walks back to the dorm)
+793	Anja	Annie	Court	Coyote	Homework	Kat	KatsWorkshop	Rey	Surma	Ysengrin	#I must head back and pack some more
+792	Anja	Annie	Court	Coyote	Kat	KatsWorkshop	Rey	Surma	#So my mother... tricked Renard into thinking she loved him?
+791	Etherics	Flying	Gillitie	Heart	Rey	Surma	#Surma, I... I love you!
+790	Etherics	Flying	Gillitie	Rey	Surma	#Easy now Reynardine!
+789	Cover	FireSpike	#Icon: FireSpike <hr>Chapter 31: Fire Spike<hr>
+788	Bonus	Jones	PartyHat	#<b>Bonus Page:</b>New Skill
 789	Cover	FireSpike	#Icon: FireSpike <hr>Chapter 31: Fire Spike<hr>
 788	Bonus	Jones	PartyHat	#<b>Bonus Page:</b>New Skill
 787	Annie	Kat	Kiss	Parley	Smitty	#(Kat drags Annie off while Parley and Smitty have their first kiss)
@@ -377,7 +433,7 @@
 779	Annan	Annie	AnnieCut	BlinkerStone	Etherics	Jeanne	Parley	Sword	Tears	#That's it!
 778	Annan	Annie	AnnieCut	BlinkerStone	Etherics	Jeanne	Parley	Sword	Tears	#Knock the stone from her hand!
 777	Annan	Annie	AnnieCut	Etherics	Heart	Jeanne	Parley	Sword	Tears	#My heart was run through and left to die on the riverbed
-776	Annan	Archery	Etherics	Flashback	Jeanne	JeannesLover	Steadman	#(Jeanne's lover is peirced by Steadman's arrow)
+776	Annan	Archery	Etherics	Flashback	GreenArrow	Jeanne	JeannesLover	Steadman	#(Jeanne's lover is peirced by Steadman's arrow)
 775	Annan	Court	Etherics	Flashback	Gillitie	Jeanne	JeannesLover	Sword	#(Jeanne is lowered to the banks of the Annan waters, and sees her lover swimming towards her)
 774	Archery	Birds	Court	Etherics	Flashback	Gillitie	Flashback	Jeanne	Letter	Steadman	#(Jeanne receives a note, writes a letter and gets Steadman to fire it into the forest on an arrow)
 773	Court	Coyote	Etherics	Flashback	Gillitie	Jeanne	JeannesLover	Moon	Renard	Sun	Sword	Ysengrin	#(Jeanne and her lover seperated, (by coyote??) into the court and the forest sides.
@@ -497,10 +553,10 @@
 659	Angel	Crying	Diego	LaserCow	Robot	RobotHQ	Robots	SkyWatcher	#“Love makes you act in strange ways”
 658	Angel	BlackPen	Crying	DiegoBot	DiegoStudy	Jeanne	Robot	RobotKing	Robots	SkyWatcher	#Please, dearest angel, help us understand…
 657	Diego	DiegoBot	Flashback	Heart	Jeanne	Monster	Robots	SirYoung	#…and I did nothing
-656	Annan	Archery	Diego	DiegoBot	Flashback	Gillitie	Jeanne	Moon	SirYoung	Steadman	#We will bury what was done here this night
+656	Annan	Archery	Diego	DiegoBot	Flashback	Gillitie	GreenArrow	Jeanne	Moon	SirYoung	Steadman	#We will bury what was done here this night
 655	Diego	DiegoBot	Flashback	Jeanne	#It didn’t have to be this way…
 654	Annan	Archery	Court	Diego	DiegoBot	Flashback	Jeanne	SirYoung	#It must be Jeanne
-653	Archery	Court	Diego	DiegoBot	Flashback	SirYoung	Steadman	#The device is ready, Sir Young
+653	Archery	Court	Diego	DiegoBot	Flashback	GreenArrow	SirYoung	Steadman	#The device is ready, Sir Young
 652	Diego	DiegoBot	Fight	Flashback	Jeanne	Robots	Traitor	#So she still loves that traitor does she?
 651	Diego	DiegoBot	Fight	Flashback	Gillitie	Jeanne	Robots	Sword	Traitor	#Get out you horrible little man!
 650	Annan	Court	Diego	DiegoBot	Flashback	Gillitie	Jeanne	Robots	Sword	#Who needs the trees and animals of the forest?

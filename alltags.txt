@@ -42,6 +42,7 @@ BlushFae	‘her too’ – dark pink hair, two rosy cheeks (likes to wang tomato
 Boat	A vehicle for crossing water
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young’s Park with his wife, Marcia
 Bobby	A robot at the AnimalLab
+BobEyes	A Magpie who competes with CityFace for a bagel!
 Bones	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death
 Bonus	Extra pages at the end of the chapter
 Boots	Made for walking
@@ -128,6 +129,7 @@ God	What is god?
 Gol-shogeg	Big worm slug monster
 GolemHeart	The core that makes the robots "work", if you will. Perhaps etheric?
 GoodHope	Good Hope Hospital is where Surma was before she died
+GreenArrow	Green arrow with horseshoe tip. Created by Diego, shot by steadman, hit Jeanne's Lover in the Annan
 GreenFae	‘this other one’- long straight green hair
 Grounds	The grounds/gardens of Gunnerkrigg Court
 GroundSymbol	The electronic symbol for ground
