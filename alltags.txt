@@ -226,7 +226,7 @@ Psychopomps	Escort the dead to the afterlife / Ether
 Queslett	Annie &amp; Kat’s school House
 Rain	Water, falling from the sky
 Red	A crazy and abrasive fairy
-Rey	Reynardine, Renard, a crafty fox spirit or demon
+Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon
 ReyComic	A comic page authored by Reynardine
 River	Comes as advertised
 Robot	A Messianic S-13

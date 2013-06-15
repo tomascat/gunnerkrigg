@@ -403,7 +403,7 @@
 807	Annie	Bridge	Eglamore	Etherics	Fire	Tears	#(Annie runs over the bridge, and puts up an etheric fire to block Eglamore from stopping her)
 806	Annie	Bridge	Court	Gillitie	Tears	#(Annie runs, crying from her room, and ends up at the bridge)
 805	Anja	Annie	Dorm	Eglamore	Rey	Surma	Tears	Tony	#We all knew it would happen, if Surma ever had a child
-804	Annie	Dorm	Fire	Psychopomp	Rey	Surma	Tears	Tony	#You are the reason Surma died!
+804	Annie	Dorm	Fire	Psychopomps	Rey	Surma	Tears	Tony	#You are the reason Surma died!
 803	Annie	Dorm	Rey	Surma	Tony	#I know why she was like that
 802	Annie	Court	Dorm	Rey	Surma	Tony	#How could she ever love a creature like you?
 801	Annie	Dorm	Rey	Surma	Tony	#She never loved you
@@ -436,7 +436,7 @@
 776	Annan	Archery	Etherics	Flashback	GreenArrow	Jeanne	JeannesLover	Steadman	#(Jeanne's lover is peirced by Steadman's arrow)
 775	Annan	Court	Etherics	Flashback	Gillitie	Jeanne	JeannesLover	Sword	#(Jeanne is lowered to the banks of the Annan waters, and sees her lover swimming towards her)
 774	Archery	Birds	Court	Etherics	Flashback	Gillitie	Flashback	Jeanne	Letter	Steadman	#(Jeanne receives a note, writes a letter and gets Steadman to fire it into the forest on an arrow)
-773	Court	Coyote	Etherics	Flashback	Gillitie	Jeanne	JeannesLover	Moon	Renard	Sun	Sword	Ysengrin	#(Jeanne and her lover seperated, (by coyote??) into the court and the forest sides.
+773	Court	Coyote	Etherics	Flashback	Gillitie	Jeanne	JeannesLover	Moon	Rey	Sun	Sword	Ysengrin	#(Jeanne and her lover seperated, (by coyote??) into the court and the forest sides.
 772	Birds	Court	Coyote	Etherics	Flashback	Gillitie	Jeanne	Kiss	Parley	SirYoung	Steadman	Ysengrin	#(Jeanne and her lover embracing, surrounded by dissaproving looking figures from both the court and the forest)
 771	Court	Diego	Etherics	Flashback	Gillitie	Jeanne	JeannesLover	Kiss	#(Jeanne and her lover embracing, watched by Diego)
 770	Etherics	Flashback	Gillitie	Jeanne	JeannesLover	Kiss	Sword	#(Jeanne finishing fencing practice, before going to the forest and embracing her lover)
@@ -585,8 +585,8 @@
 627	Annie	BlinkerStone	Bob	Dryad	Eglamore	Etherics	Fire	Marcia	YoungsPark	#You’re a dryad, aren’t you?
 626	Annie	BlinkerStone	Bob	Eglamore	Etherics	Fire	Marcia	Monument	SirYoung	Trees	YoungsPark	#My trees!
 625	Annie	Fire	Marcia	Matt	Monument	SirYoung	Trees	YoungsPark	#Bob! James! There’s a problem!
-624	Annie	AnnieCut	BlinkerStone	Etherics	Janet	Kat	Paz	Students	Tree	YoungsPark	#Kat, this is what you need to do
-623	BlinkerStone	Dryad	Ghosts	Kat	Monster	Tree	YoungsPark	#I hope nothing happens to me now that I’m here all alone!
+624	Annie	AnnieCut	BlinkerStone	Etherics	Janet	Kat	Paz	Students	Trees	YoungsPark	#Kat, this is what you need to do
+623	BlinkerStone	Dryad	Ghosts	Kat	Monster	Trees	YoungsPark	#I hope nothing happens to me now that I’m here all alone!
 622	Annie	BlinkerStone	Eglamore	Ghosts	Kat	Matt	Paz	Students	Tents	YoungsPark	#Six people missing overnight?
 621	Annie	BlinkerStone	Fire	Ghosts	Kat	Margo	Matt	Paz	Students	SullivansJohn	Tents	Winsbury	YoungsPark	#(Paz goes to grab some chocolate from her tent, but gets grabbed by the ghost?)
 620	Annie	BlinkerStone	Etherics	Fire	Kat	Students	SullivansJohn	Tents	YoungsPark	#I think I make people nervous
@@ -679,11 +679,11 @@
 533	Annie	Ghosts	Heart	Mort	#ooh, a card!
 532	Ghosts	Mort	#WE ARE HERE TO DESTROY YOU!
 531	Annie	Classroom	Kat	Muut	#now I ask a tiny favour of you
-530	Annie	Classroom	Kat	Muut	Psychopomp	Surma	#The night Surma passed on, none of us came for her.
+530	Annie	Classroom	Kat	Muut	Psychopomps	Surma	#The night Surma passed on, none of us came for her.
 529	Annie	BlinkerStone	Classroom	Etherics	Jeanne	Kat	Muut	#Lost, stranded in the aether, she needs a hand like yours to be an anchor
 528	Annie	BlinkerStone	Classroom	Jeanne	Kat	Mort	Muut	#Then you have already begun to help. We knew you would. It was only a matter of time.
-527	Annie	Classroom	Kat	Muut	Psychopomp	#You should not have wasted a life in such a way
-526	Annie	Classroom	Kat	Psychopomp	#Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
+527	Annie	Classroom	Kat	Muut	Psychopomps	#You should not have wasted a life in such a way
+526	Annie	Classroom	Kat	Psychopomps	#Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
 525	Annie	Argument	BlinkerStone	Classroom	Kat	Latin	Mort	#Tom: You screwed up big time Carver.
 524	Annie	Argument	BlinkerStone	Bridge	Kat	Mort	Muut	#Yeah how would I know? I’m just a ghost. BWIP
 523	Annie	Argument	BlinkerStone	Kat	Mort	#He’s not a boy Kat, he’s just a ghost
@@ -811,10 +811,14 @@
 337	Annie	Grounds	Kat	Moon	Stars	#He ah… has an owl head and doesn’t wear a shirt, you say?
 336	Annie	GoodHope	Muut	#I’m going to visit a friend in Room 426, would you like to come?
 335	Annie	GoodHope	Grounds	Kat	Moon	Muut	#You seemed like you wanted to get rid of him pretty quick.
-334	Annie	Grounds	Kat	Ketrak	Psychopombs	#Yes, I also think it might be best if you left. Goodbye, Ketrak.
+334	Annie	Grounds	Kat	Ketrak	Psychopomps	#Yes, I also think it might be best if you left. Goodbye, Ketrak.
 333	Annie	Grounds	Kat	Ketrak	Psychopomps	#Ketrak, the insect guide has paid me a visit.
 332	Annie	Grounds	Ketrak	Spider	#Hello again, Ketrak
 331	Cover	GoodHope	Moon	Stars	#Icon: Annie and Kat on the Grounds <hr>Chapter 16: A Ghost Story<hr>
+309	Annie	Dorm	Kat	Mask	Shadow	#And a lil' beak
+308	Annie	Dorm	Kat	Rey	Shadow	#A true friend.
+307	Annie	Dorm	Shadow	#But even then it did not take me long to get settled
+306	Annie	Court	Shadow	#I could imagine I was at home
 305	Cover	Scissors	#Icon: Red <hr><b>Year 8</b><hr>Chapter 15: Red Returns<hr>
 304	Filler	Annie	Kat	Mort	Jokes	#Annie, Kat and Mort write joke comics with bad puns
 303	Filler	#Strange photos from Tom?
@@ -1051,7 +1055,7 @@
 72	Annie	Gamma	Kat	Library	Zimmy	#What you lookin’ at? you got a problem?
 71	Annie	BismuthSymbol	Classroom	Kat	#Do you want to help? I’d like that very much!
 70	AntiGravGenerator	Classroom	Kat	Teacher	#class 7qn’s entrant in the year 7 science fair will be Katerina’s zero gravity generator!
-69	Cover	Annie	Bismuth	Gamma	Library	Zeta	#Icon: Kat in the Library <hr>Chapter 5: Two Strange girls<hr>
+69	Cover	Annie	BismuthSymbol	Gamma	Library	Zeta	#Icon: Kat in the Library <hr>Chapter 5: Two Strange girls<hr>
 68	Bonus	Janet	Mort	#<b>Bonus Page:</b> Bad Choice (Mort tries to scare Janet)
 67	Annie	Court	Mort	#Thanks a bunch, Annie
 66	Circus	Clowns	Paz	#(Paz gets frightened by a creepy circus clown, screams and runs away)
