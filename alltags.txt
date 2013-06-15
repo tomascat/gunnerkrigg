@@ -140,6 +140,7 @@ Gym	School gymnasium
 Gytrash	A black dog/psychopomp of Northern England; mentioned in Jane Eyre by Charlotte Bronte
 Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
+HairdresserBot	a robot that cuts hair; lots of arms
 Hall	Function hall 113, a hall in the school
 HardwickLittleBestiary	Reference on mystical creatures
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
@@ -241,6 +242,7 @@ Robox	Has no hands; awesome; everybody loves Robox. The opposite of terrible
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
 S1	Original Seraph Robot made by Diego; predecessor of Robot
+Salon	Court hair salon, manned by the HairdresserBot
 Scissors	A simple device for cutting things, especially paper, hair
 Seraph	Generic member of the Seraph model of robots. Robot was originally one
 Secret	Things that are kept hidden, unknown, mysterious…
@@ -287,6 +289,7 @@ Thornhill	One of the other school Houses
 TicToc	Birdlike robotic watchers
 Tiki	A Polynesian totem
 Tom	Tom Siddell, author of Gunnerkrigg Court
+TomatoWangFae	likes to wang tomatoes. friends with BlushFae
 Tony	Anthony Carver, Annie’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of Ogee.
 Train	One of many trains that is used to commute in the court

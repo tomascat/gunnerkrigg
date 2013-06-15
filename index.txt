@@ -815,6 +815,27 @@
 333	Annie	Grounds	Kat	Ketrak	Psychopomps	#Ketrak, the insect guide has paid me a visit.
 332	Annie	Grounds	Ketrak	Spider	#Hello again, Ketrak
 331	Cover	GoodHope	Moon	Stars	#Icon: Annie and Kat on the Grounds <hr>Chapter 16: A Ghost Story<hr>
+330	BlushFae	Bonus	Classroom	TomatoWangFae	#<b>Bonus Page:</b> The wonderful plan. (Blue's friends discuss the day's events)
+329	Annie	BismuthSymbol	Blue	Kat	Red	SunSymbol	#So long, jerks!
+328	Annie	BismuthSymbol	Blue	Kat	Red	SunSymbol	#It goes up again!
+327	BismuthSymbol	Classroom	Kat	Red	#You don't even know her name?!
+326	Annie	Blue	BlushFae	Classroom	TomatoWangFae	#I can tell she misses you terribly
+325	Annie	Kat	Red	Salon	#I look fantastic again!
+324	Annie	HairdresserBot	Kat	Red	Salon	#Make it stick up!
+323	Annie	Kat	Red	Salon	#Dis is amazing! I had no idea you could cut stuff off these bodies! I gotta try dis!
+322	Annie	Court	Horsebot	Kat	Red	#Here we are!
+321	Annie	Court	Horsebot	Kat	Red	#Us guys who take da test live separate from da rest of da forest.
+320	Annie	Court	Kat	Red	#Good ol' Ysengrin helped us pass.
+319	Annie	Kat	Red	Train	TrainStation	#A what-er what-iday?!
+318	Annie	Kat	Red	Train	TrainStation	#Hang on a sec, how can you understand magnetic levitation but not what a chair is?
+317	Annie	BismuthSymbol	Court	Kat	Red	Train	TrainStation	#Pff that's because it's a MagLev. all the trains in the court are.
+316	Annie	CourtHall	Kat	Red	#You can do that? You can cut hair?!
+315	Annie	Blue	BlushFae	CourtHall	Kat	Red	TomatoWangFae	#I hate her so much! I wish she was my friend!
+314	Annie	Blue	BlushFae	CourtHall	Kat	Red	TomatoWangFae	#I'm all alone! All alone because of my hair! / you're alone because you're INSANE!
+313	Annie	CourtHall	Kat	Red	Students	#Lookit how faaat I am! / Stop that! Why are you doing that?!
+312	Annie	BismuthSymbol	CourtHall	Kat	Red	Students	#It's you!
+311	Annie	Dorm	Kat	Rey	Shadow	#You just bought yourself another hour, Mister
+310	Annie	Dorm	Kat	Mask	Rey	#I'm not leaving you on your own again
 309	Annie	Dorm	Kat	Mask	Shadow	#And a lil' beak
 308	Annie	Dorm	Kat	Rey	Shadow	#A true friend.
 307	Annie	Dorm	Shadow	#But even then it did not take me long to get settled
