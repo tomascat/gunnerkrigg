@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>GKC &middot; Tagging Helper</title>
+	<link rel="stylesheet" href="1.css" type="text/css" />
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script src="taghelper.js"></script>
+	<script type="text/javascript" src="ZeroClipboard.min.js"></script>
+</head>
+<body>
+	<div id="titles">
+		<h1>A tagging helper</h1>
+		Comic #: <select class="title">
+		<option value=''></option>
