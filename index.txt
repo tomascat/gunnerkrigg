@@ -68,7 +68,7 @@
 1142	Annie	Etherics	Kat	Rey	Robot	Robots	Seraph	Warehouse113	#Just because she is beautiful and angelic in appearance
 1141	Annie	Kat	Robots	Seraph	Warehouse113	#A simple electro-disruptor. Use of this illegal device has been noted
 1140	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#Shadow! You should not have come here!
-1139	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#NOT a secret base
+1139	113	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#NOT a secret base
 1138	Annie	Kat	Rey	Roof	Robot	Robots	Seraph	Shadow	SmallBot	#Good day to you, young eye-witness model
 1137	Annie	Kat	Rey	Robots	Roof	Seraph	Shadow	SmallBot	#I’m going to take a look at your video log, okay?
 1136	Annie	Kat	Rey	Robots	Roof	Shadow	SmallBot	#I sawed it all!
@@ -1067,7 +1067,7 @@
 81	Annie	AntimonySymbol	Gamma	Hall	Kat	Rey	Zimmy	#I hoped I could win your favour if I helped your gypsy friend win this blasted spectacle.
 80	Annie	Hall	Kat	Rey	Zimmy	#Reynardine? Mr Eglamore said you were dead!
 79	Annie	Gamma	Hall	Kat	Rey	Zimmy	#We’re here to find who’s been messing with our stuff. an’ we found ‘im!
-78	Annie	Dorm	Gamma	Hall	Kat	Zimmy	#aha!
+78	Annie	BismuthSymbol	Dorm	Gamma	Hall	Kat	Zimmy	#aha!
 77	Annie	Dorm	Kat	Hall	Students	#Several of the 8 experiments had been purposefully ruined overnight.
 76	Annie	Gamma	Hall	Zimmy	#This is… an abomination.
 75	Anja	Annie	AntiGravGenerator	BismuthSymbol	Eglamore	Hall	Kat	#Quite a chip off the ol’ block, eh Anja?
