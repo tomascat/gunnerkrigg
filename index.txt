@@ -372,8 +372,8 @@
 838	Filler	CityFace	Torus	#Go like this
 837	Filler	BobEyes	CityFace	Ogee	Torus	#What was that thing you just said previously?
 836	Filler	BobEyes	CityFace	Ogee	#Anything that eats a Bagel becomes... A Human Businessman!
-835	Filler	Bobeyes	CityFace	#OGEE! That was Mine! You! What! Why?! OGEE!
-834	Filler	Bobeyes	CityFace	#Oh no angry magpie!
+835	Filler	BobEyes	CityFace	#OGEE! That was Mine! You! What! Why?! OGEE!
+834	Filler	BobEyes	CityFace	#Oh no angry magpie!
 833	Filler	Tea	#Announcing ten page short story
 832	Bonus	Treatise	Annie	Coyote	Kat	Robot	Birds	Spider	WhiteSpider	Rey	Ysengrin	Robots	Jeanne	Sword	AntimonySymbol	MercurySymbol	BismuthSymbol	SunSymbol	GreenArrow	Sun	Moon	Sword	CreatorGlyph	Heart		#<b>Bonus Page:</b> Fourth Treatise, The end of third book
 831	Annie	Gillitie	Ysengrin	#(Annie enters the clearing with the forest people.)
@@ -390,7 +390,7 @@
 820	Annie	Coyote	Etherics	Eyes	Fire	FireElemental	FireSpike	Gillitie	Jones	Surma	Tony	WanderingEye	#Do you sometimes feel your temper flaring?
 819	Annie	Coyote	Fire	Etherics	Gillitie	Jones	Surma	WanderingEye	Ysengrin	#The flame that burned inside her has passed on to you
 818	Annie	Coyote	Gillitie	Jones	Rey	Surma	WanderingEye	#Don't tell me no one has told the girl she isn't exactly human!
-817	Annie	Coyote	Gillitie	Jones	Rey	Surma	WanderingEye	Ysengrin	#It is not the meddling	laws of man that keep him there, but his love for you
+817	Annie	Coyote	Gillitie	Jones	Rey	Surma	WanderingEye	Ysengrin	#It is not the meddling laws of man that keep him there, but his love for you
 816	Annie	Coyote	Gillitie	Jones	Rey	Surma	WanderingEye	Ysengrin	#You know I can take her if I wish
 815	Annie	Coyote	Gillitie	Jones	WanderingEye	Ysengrin	#Wandering Eye? So many visitors today!
 814	Annie	Coyote	Gillitie	Surma	Tears	#Don't look into my dreams Coyote
