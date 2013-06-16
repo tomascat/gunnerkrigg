@@ -420,8 +420,6 @@
 790	Etherics	Flying	Gillitie	Rey	Surma	#Easy now Reynardine!
 789	Cover	FireSpike	#Icon: FireSpike <hr>Chapter 31: Fire Spike<hr>
 788	Bonus	Jones	PartyHat	#<b>Bonus Page:</b>New Skill
-789	Cover	FireSpike	#Icon: FireSpike <hr>Chapter 31: Fire Spike<hr>
-788	Bonus	Jones	PartyHat	#<b>Bonus Page:</b>New Skill
 787	Annie	Kat	Kiss	Parley	Smitty	#(Kat drags Annie off while Parley and Smitty have their first kiss)
 786	Annie	Kat	Parley	Smitty	#I-I think we're going to stay out here a while.
 785	Annie	Bip	Kat	Parley	Smitty	Steadman	#That's incredible, Parley...
