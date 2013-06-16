@@ -1,6 +1,7 @@
-﻿1209	AntimonySymbol	Court	House	Rey	#(Rey scrapes at the door and scratches it; no-one is home; he walks down the street)
-1208	AntimonySymbol	Court	House	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)
-1207	Lindsey	Rey	SubDorm	#Out and about today Renard (toy to white wolf transform)
+1210	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
+1209	AntimonySymbol	Court	House	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>Tom: Renard Renard Renard
+1208	AntimonySymbol	Court	House	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>Tom: Renard Renard
+1207	Lindsey	Rey	SubDorm	#Out and about today Renard (toy to white wolf transform)<br>Tom: Renard
 1206	Annie	Blush	Kat	Paz	Rey	SubDorm	#Tom: Annie does not know yet
 1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we’re heading off to class now
 1204	Cover	Chemicals	ScienceLab	SkullCrossbones	#Icon: a packet of sewing needles <hr>Chapter 43: Quicksilver<hr>
