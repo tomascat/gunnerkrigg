@@ -1,15 +1,15 @@
-﻿113	A number that appears in many places in the court.
-Aata	An employee (Security guard??) of the court alongside Shell, seems to be more senior than Shell
-AdminBot	A secretarial robot who sits at the Admin desk at RobotHQ
-Agni	Hindu fire god; psychopomp
+113	A number that appears in many places in the court.
+Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell
+AdminBot	A secretarial robot who sits at the Admin desk at [RobotHQ](#robothq)
+Agni	Hindu fire god; [psychopomp](#psychopomps)
 AlchemyChart	An alchemical chart
-Aly	Alistair Kershaw; went to the Forest
-AlyShirt	A shirt belonging to Aly, which Kat now owns
-Angel	What robots call Kat
+Aly	Alistair Kershaw; went to the [Forest](#gillitie)
+AlyShirt	A shirt belonging to Aly, which [Kat](#kat) now owns
+Angel	What robots call [Kat](#kat)
 AnimalCells	the Court’s large animal holding cells
 AnimalLab	a Court research lab
-Anja	Anja Donlan, Kat’s mother; Roma origin but lived mostly in Spain.
-Ankou	Breton grim reaper; psychopomp
+Anja	Anja Donlan, [Kat](#kat)’s mother; Roma origin but lived mostly in Spain.
+Ankou	Breton grim reaper; [psychopomp](#psychopomps)
 Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist (Fire Head Girl)
 AnnieCut	The cut on Annie’s etherial face from Jeanne’s sword
@@ -137,7 +137,7 @@ Gol-shogeg	Big worm slug monster
 GolemHeart	The core that makes the robots "work", if you will. Perhaps etheric?
 GoodHope	Good Hope Hospital is where Surma was before she died
 GreenArrow	Green arrow with horseshoe tip. Created by Diego, shot by steadman, hit Jeanne's Lover in the Annan
-GreenFae	‘this other one’- long straight green hair
+GreenFae	‘this other one’ - long straight green hair
 Grounds	The grounds/gardens of Gunnerkrigg Court
 GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
@@ -154,6 +154,7 @@ HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, Janet’s father; surprisingly grey, apathetic man, with bad posture
 Heart	A heart sign, symbol, glyph or character
 HedgehogFae	‘and him’ – dreads, former hedgehog
+Hetty	a small animate doll
 Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol; the Jewish Kingdom (Star of David)
 Homework	School work done outside class hours
 Horsebot	Robot in a horse frame, as motive power for carriages, carts etc
