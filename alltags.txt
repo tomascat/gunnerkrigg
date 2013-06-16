@@ -8,7 +8,7 @@ AlyShirt	A shirt belonging to Aly, which Kat now owns
 Angel	What robots call Kat
 AnimalCells	the Court’s large animal holding cells
 AnimalLab	a Court research lab
-Anja	Anja Donlan, Kat’s mother
+Anja	Anja Donlan, Kat’s mother; Roma origin but lived mostly in Spain.
 Ankou	Breton grim reaper; psychopomp
 Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist (Fire Head Girl)
@@ -20,15 +20,18 @@ AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Sur
 AntlerFae	‘that guy’ – big nose, sandy brown hair, can haz antlers
 Anwyn	could be described as tree elves but they don’t call themselves that
 Archery	Fun with bows and arrows!
+Argument	Somewhere between a disagreement and a fight
 Armour	protective plates and other such wearable items
 Armoury	Place where lots of weapons are stored
+Arrow	A slender, straight projectile often show from a bow.
 Axe	Often used to chop wood
 BadgerFae	‘him too’- white hair, two black stripes, former badger
 Basil	Minotaur
 Beacon	Safety tool given to Annie, can summon Eglamore within 5 seconds
 BeckyGround	A student
 Bind	Etherics binding, hold or constraint hoodoo
-Birds	Birds hand wings and feathers, Kat and Paz are both fond of them
+BirdClaw	The claw of a bird. Or TicToc. Or Chickcharney.
+Birds	Birds have wings and feathers, Kat and Paz are both fond of them
 Bip	Parley’s teleportation. May be accompanied by BARGE.
 Birmingham	What Zimmingham is based on and where Gamma and Zimmy are from. Slightly less nightmarish than Zimmingham.
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
@@ -54,6 +57,7 @@ Bugsy	Teacher Lady, or Teach. Foley teacher, rather be sleeping
 Buzz	The buzzing in Zimmy's head when the stimuli get too much
 Buzzer	Bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes (Mercury), symbol of commerce
+Castle	Where royalty live. Even space alien royalty.
 Chemicals	May be used to perform terrifying skills of Chemistry or Alchemy
 CherryTree	Comes as advertised
 Chester	One of the other school Houses
@@ -77,6 +81,7 @@ CoyoteStories	Stories told about or by Coyote
 CreatorGlyph	Mark of the robots’ creator: now associated with Kat
 Creeper	Someone who is creeping
 Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
+CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
 CurlyFae	‘this girl too’ – short curly blue hair, red dot below right eye
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/psychopomps of Wales; red ears
 Dryad	Folk who can control and travel through the trees themselves, Marcia is one.
@@ -92,6 +97,7 @@ Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
 Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
 EglamoreKnife	A switchblade/flick knife present that Eglamore treasures
+EglamoreOffice	Where Eglamore hangs out; contains swords, armour, a Tiki and a mask among other things
 Earth	Ancient element; the planet on which we live; the great mother and life-giver
 Employees	Miscellaneous Court employees
 EnigmaronLair	Where the Enigmarons hang out
@@ -142,6 +148,7 @@ Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 HairdresserBot	a robot that cuts hair; lots of arms
 Hall	Function hall 113, a hall in the school
+Hammer	A tool for driving nails into things or beating things into shape
 HardwickLittleBestiary	Reference on mystical creatures
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, Janet’s father; surprisingly grey, apathetic man, with bad posture
@@ -158,18 +165,22 @@ Jan	January, curt friend of Parley
 Janet	Fierce daughter of the headmaster
 Jeanne	Vengeful ghost and guardian of the Annan waters, origionally a fencer belonging to the court.
 JeannesLover	Jeanne's green forest lover, name as yet unknown.
+Jokes	Ha ha.
 JollyElfsberry	A prancing elf, and alias of Coyote
 Jones	A name of Wandering Eye
+JonesFootprints	Ancient footprints that appear to belong to a human; how can this be?
 Juliette	Employee of the court, is qualified to run the Ether station
 Kamlen	Anwyn boy about Annie’s and Kat’s age
 Kat	Katerina Donlan
 KatsWorkshop	Where Kat indulges her hobbies; in the West Canals; has a hidden room in the bottom
 KershawHouse	Where Aly and his parents Mr and Mrs Kershaw used to live.
 Kershaws	Aly's parents. birds.
+Ketrak	Psychopomp to the insects!
 Khepi	Head of an Anwyn family
 Kiss	Smooshing, pashing, making out, a peck on the cheek, first base, kissing
 Knight	A traditional warrior and military leader who is part of the landed gentry class; often trained in swordsmanship; a chess piece
 Labyrinth	Not quite a maze
+Lake	A large, still body of water; where the power station is.
 Landscape	A view of a wide expanse of land
 LaserCow	A robotic cow that mows the lawns with its laser eyes. Also, awesome
 Lasers	Zap! Awesome!
@@ -192,11 +203,13 @@ MartinLizard	A lizard that Martin likes and shows Annie. Bites.
 MartinRoom	Martin's hospital/bed room
 Mask	A cover to hide face, appearance, emotions
 Matt	A classmate of Annie and Kat
+MetalGearSolid	A game that Kat likes.
 Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce; psychopomp
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
 Mice	Small rodents, common pests, and also in labs.
 Microsat5	Tony’s payload delivery satellite
 ModdeyDhoo	One of the Black Dogs, a psychopomp from the Isle of Man
+Monster	A scary creature
 Montgomery	A Seraph Robot
 Monument	A physical tribute to a well respected person
 Moon	Our most ancient satellite!
@@ -219,6 +232,7 @@ Orb	The <i>Globus cruciger</i>, a Christian symbol of power, wielded by monarchs
 Parley	George Parley: Swordswoman, medium (Big Nose Girl)
 PartyHat	A Party hat, hats are fun!
 Paz	Paz Cadena-Blanco, Spanish, good (speaks?) with animals
+Photo	A photograph of Anja, Donny, Eglamore, Surma, Tony and Brinnie from their school days
 PlanTheta	Baking Distraction
 Pliers	Used for manipulating wire; may include wire-strippers or wire-cutters
 PowerStation	A Court system to extract energy from the Etherium on an industrial scale
@@ -239,11 +253,14 @@ RobotParts	Bits of robots currently not attached
 Robots	A collective noun
 RobotTomb	Tomb/theatre full of robots
 Robox	Has no hands; awesome; everybody loves Robox. The opposite of terrible
+Rocket	A cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents.
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
 S1	Original Seraph Robot made by Diego; predecessor of Robot
 Salon	Court hair salon, manned by the HairdresserBot
+ScienceLab	A school science lab where Kat does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
+Seeds	Some seeds that Ysengrin dropped in the Court, possibly on purpose.
 Seraph	Generic member of the Seraph model of robots. Robot was originally one
 Secret	Things that are kept hidden, unknown, mysterious…
 SecurityDevice	Small devices that supposedly warn Jack when people are coming
@@ -278,20 +295,25 @@ Sun	Our closest star!
 SunSymbol	Alchemical symbol for the Sun, doubles as the symbol for gold
 Surma	Surma Stibnite, Annie’s mother
 SurmaWhisper	Surma whispers something in the past to Annie
+Sweets	Tasty and sugary
 Symbol	Unidentified symbol (please help!)
 Sword	Comes as advertised
 Tea	Explains things in-between chapters
 Tears	In the eyes, visibly crying, <i>etc</i>
 Teacher	A miscellaneous teacher
+Telescope	Good for seeing celestial bodies, satellites and other things that are far away
 Tents	For sleeping inside, outside
 Terrible	BoxBot (<i>q.v.</i>)
+Thief	A robber, burglar, stealer.
 Thornhill	One of the other school Houses
 TicToc	Birdlike robotic watchers
 Tiki	A Polynesian totem
+TimeStop	When time is stopped from passing; Coyote can do this.
 Tom	Tom Siddell, author of Gunnerkrigg Court
 TomatoWangFae	likes to wang tomatoes. friends with BlushFae
 Tony	Anthony Carver, Annie’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of Ogee.
+Tower	A tower in the court where Aly is staying
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Traitor	One who betrays their allies
@@ -302,10 +324,12 @@ Trees	Come as advertised (usually)
 Uniform	An outfit one wears when on official business
 Valknut	A Norse symbol, indicates a form of teleport/gateway
 Veles	Ancient Slav snake-like god who guards the underworld; psychopomp
+VenusSymbol	A symbol for Venus/Aphrodite; also the symbol of females/femininity
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 VincentPrice	A famous actor
 WanderingEye	Symbol of that which calls itself Jones, currently
 Warehouse113	Not a secret base at Long Acre
+Water	Ancient element; H2O; necessary for life; rivers, lakes and oceans are made of this
 WaterFae	‘this girl’ – short blue spikey hair, 2 dots under right eye, had a waterfall?
 WaterSymbol	Alchemical symbol for water
 WhiteSpider	Also known as WhiteLegs, associated with Jack Hyland’s etheric form when he got stuck in Zimmingham, until Zimmy helped him get rid of it.

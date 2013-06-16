@@ -29,7 +29,7 @@
 1181	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#But I suggest running!
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
-1178	Cover	BirdClaw	#Icon: a marble lying on the ground of Gillitie <hr>Chapter 42: Catalyst<hr>
+1178	Cover	BirdClaw	Chickcharney	#Icon: a marble lying on the ground of Gillitie <hr>Chapter 42: Catalyst<hr>
 1177	CityFace	Filler	#City Face guest comic by City Face
 1176	CityFace	Filler	LaundryList	Tom	#City Face guest comic by Tom
 1175	Blue	CityFace	Filler	Red	#City Face guest comic 8 by Red and “Blue”
@@ -85,24 +85,24 @@
 1125	Annie	Jeanne	Jones	#Since you spent the summer in the forest I noticed you have become somewhat unruly
 1124	Annie	Coyote	Jones	#He… attacked me when we talked about all this
 1123	Annie	PowerStation	Jones	Rey	#Why is Coyote so eager for me to learn about this?
-1122	Annie	Coyote	Jones	Mort	Moon	MoonPrint	Rey	#But that has always been true in a way
-1121	Annie	Jones	#Coyote’s theory claims all supernatural creatures are created by
+1122	Annie	Coyote	Etherium	Jones	Mort	Moon	MoonPrint	Rey	#But that has always been true in a way
+1121	Annie	Jones	JonesFootprints	#Coyote’s theory claims all supernatural creatures are created by
 1120	Annie	Coyote	Jones	Stars	#Now, I gather something happened in the forest?
-1119	Annie	Court	Jones	#So, were you around when the court was founded?
+1119	Annie	CourtHall	Jones	#So, were you around when the court was founded?
 1118	Annie	Eglamore	Jones	#I found the best way to observe human life is to live closely with them
 1117	Annie	Jones	WanderingEye	#You remember… everything?
 1116	Annie	Jones	#I cannot be marked or damaged in any way
 1115	Annie	Jones	#A stone? Like some sort of golem?
 1114	Annie	Jones	#For the longest time I merely existed and travelled the Earth
 1113	Annie	Jones	#You… were there at the formation of the Earth?
-1112	Annie	#Currently (and formation of the Earth ~4.5 Gya)
-1111	Fire	Jones	#Many eons ago (bombardment ~4 Gya)
-1110	Jones	Ocean	#Several eras ago (Cambrian? 500mya) (Bud &amp; Lindsey’s forebears??)
-1109	Jones	#The previous epoch: (Ice age?)
-1108	Jones	#Many millennia ago: (~30,000BCE) (bison tossing)
-1107	Jones	#Several millennia ago: (desert) (mirage)
+1112	Annie	Earth	#Currently (and formation of the Earth ~4.5 Gya)
+1111	Fire	Jones	#Many eons ago (Hadean Eon, bombardment ~4 Gya)
+1110	Jones	Ocean	#Several eras ago (Paleozoic era, Silurian period 500mya) (Bud &amp; Lindsey’s forebears??)
+1109	Jones	#The previous epoch: (Pleistocene epoch)
+1108	Jones	#Many millennia ago: (~30,000BCE, Cro-Magnon era) (bison tossing)
+1107	Jones	#Several millennia ago: (Gobi desert) (mirage)
 1106	Fire	Jones	#Millennia ago: (Rome? 64AD?)
-1105	Jones	#Many centuries ago: (Mediaeval) She’s a devil!
+1105	Jones	#Many centuries ago: (Medieval) She’s a devil!
 1104	Jones	Ocean	#Several centuries ago: (C16) We will be in Jamestown this evening
 1103	Jones	#The previous century: (C18?) You will find him a most agreeable child, Elizabeth. (young Samuel Langdon)
 1102	Jones	#The previous century: (Early C19?) Will you not keep the name Elizabeth? (old Samuel Langdon)(Elizabeth Langdon)
@@ -139,7 +139,7 @@
 1071	Annie	Coyote	Etherium	God	#The curse causes Man to stumble through this world forever asking Questions
 1070	Annie	Coyote	Etherium	God	#He does not see an animal looking for a meal, he sees the power of a god
 1069	Annie	Coyote	Gillitie	#… Can I go home now? [and: a coyote]
-1068	Coyote	Ether	Gillitie	#I. Do Not. Exist!<br>Tom: Also: kind of a jerk.
+1068	Bones	Coyote	Etherium	Gillitie	Sun	#I. Do Not. Exist!<br>Tom: Also: kind of a jerk.
 1067	Annie	Coyote	Gillitie	Ysengrin	#and so, Fire Head Girl told Coyote lovely stories about how amazing he is<br>Tom: Try not to look at the camera, Coyote
 1066	Annie	Coyote	Gillitie	Ysengrin	#Your great secret?<br>Tom: Coyote gets his way
 1065	Annie	Coyote	Gillitie	Ysengrin	#Coyote! Hove some dignity!<br>Tom: A new range of expressions for Ysengrin
@@ -162,8 +162,8 @@
 1048	FlowerHeadband	Gamma	Hospital	Kat	Robot	Shadow	Zimmy	#Hey, what happ–
 1047	Annie	Etherium	Fight	FlowerHeadband	Jack	Kat	Mask	Hospital	Zimmy	Zimmingham	#Yer Dad’s a JERK!
 1046	Annie	Etherium	Jack	Mask	Zimmy	Zimmingham	#I don’t want to know about your million boyfriends
-1045	Annie	Bone	FlowerHeadband	Hospital	Kat	Rey	Robot	Shadow	Zimmingham	Zimmy	#Okay this is where things start to go bad…
-1044	AnnieCut	Bone	Etherium	Fight	Fire	Tony	Zimmy	#A message from your little girl, mate!
+1045	Annie	Bones	FlowerHeadband	Hospital	Kat	Rey	Robot	Shadow	Zimmingham	Zimmy	#Okay this is where things start to go bad…
+1044	AnnieCut	Bones	Etherium	Fight	Fire	Tony	Zimmy	#A message from your little girl, mate!
 1043	Bones	Etherium	Fire	Tony	Zimmy	#(Zimmy reaches out, touching the "bones" extending from Annie's soul; she sees Tony through the fire)
 1042	Annie	CityFace	Etherium	FlowerHeadband	Hospital	Kat	Zimmy	#What’s the matter? Don’t like him?
 1041	Annie	Bones	CityFace	Etherium	Fire	FireElemental	Hospital	Kat	Mask	Zimmy	#No wonder you’re like this, Carver
@@ -363,7 +363,7 @@
 847	Annie	Anwyn	Bind	CoyoteTooth	Dorm	Homework	Khepi	Rey	#I’m so sorry for what I said
 846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
 845	Dorm	Rey	#Waiting Reynardine
-844	Cover	Flower	#Icon: SubDorm <hr><b>Year 9</b><hr>Chapter 32: From the Forest She Came<hr>
+844	Cover	Flowers	#Icon: SubDorm <hr><b>Year 9</b><hr>Chapter 32: From the Forest She Came<hr>
 843	Filler	BobEyes	CityFace	Ogee	Torus	#Crow: Stop it. Stop all this nonsense
 842	Filler	BobEyes	CityFace	Ogee	Torus	#I think they are horrible liars
 841	Filler	BobEyes	CityFace	Ogee	Torus	#Now she's in direct competition with YOUR loser pigeon!
@@ -375,7 +375,7 @@
 835	Filler	BobEyes	CityFace	#OGEE! That was Mine! You! What! Why?! OGEE!
 834	Filler	BobEyes	CityFace	#Oh no angry magpie!
 833	Filler	Tea	#Announcing ten page short story
-832	Bonus	Treatise	Annie	Coyote	Kat	Robot	Birds	Spider	WhiteSpider	Rey	Ysengrin	Robots	Jeanne	Sword	AntimonySymbol	MercurySymbol	BismuthSymbol	SunSymbol	GreenArrow	Sun	Moon	Sword	CreatorGlyph	Heart		#<b>Bonus Page:</b> Fourth Treatise, The end of third book
+832	Bonus	Treatise	Annie	Coyote	Kat	Robot	Birds	Spiders	WhiteSpider	Rey	Ysengrin	Robots	Jeanne	Sword	AntimonySymbol	MercurySymbol	BismuthSymbol	SunSymbol	GreenArrow	Sun	Moon	Sword	CreatorGlyph	Heart		#<b>Bonus Page:</b> Fourth Treatise, The end of third book
 831	Annie	Gillitie	Ysengrin	#(Annie enters the clearing with the forest people.)
 830	Annie	Gillitie	Ysengrin	#Show them that you are not afraid
 829	Annie	Gillitie	Ysengrin	#You are stronger than you were this morning
@@ -811,7 +811,7 @@
 335	Annie	GoodHope	Grounds	Kat	Moon	Muut	#You seemed like you wanted to get rid of him pretty quick.
 334	Annie	Grounds	Kat	Ketrak	Psychopomps	#Yes, I also think it might be best if you left. Goodbye, Ketrak.
 333	Annie	Grounds	Kat	Ketrak	Psychopomps	#Ketrak, the insect guide has paid me a visit.
-332	Annie	Grounds	Ketrak	Spider	#Hello again, Ketrak
+332	Annie	Grounds	Ketrak	Spiders	#Hello again, Ketrak
 331	Cover	GoodHope	Moon	Stars	#Icon: Annie and Kat on the Grounds <hr>Chapter 16: A Ghost Story<hr>
 330	BlushFae	Bonus	Classroom	TomatoWangFae	#<b>Bonus Page:</b> The wonderful plan. (Blue's friends discuss the day's events)
 329	Annie	BismuthSymbol	Blue	Kat	Red	SunSymbol	#So long, jerks!
@@ -993,7 +993,7 @@
 153	Annie	Classroom	Kat	Mort	Muut	#That sucks about the ghost with the sword. That isn't supposed to happen.
 152	Annie	BlinkerStone	Classroom	Kat	Mort	#It was a very thoughtful gift. / Aw shucks, 't weren't no big thing.
 151	Annie	Classroom	Kat	Mort	#(Annie scares Mort instead)
-150	113	AlchemyChart	BismuthSymbol	Classroom	Kat	LeadSymbol	MercurySymbol	SunSymbol	VenusSymbol	#(Mort decides to scare Kat)
+150	113	AlchemyChart	BismuthSymbol	Classroom	Kat	LeadSymbol	MercurySymbol	MetalGearSolid	SunSymbol	VenusSymbol	#(Mort decides to scare Kat)
 149	Cover	Tiki	#Icon: Mask resembling both the Moon and a Yin-Yang <hr>Chapter 9: Questions and Answers<hr>
 148	Bonus	Fairies	Ogee	Tea	#<b>Bonus Page:</b> Regional Fairies
 147	Annie	AntiGravShip	Court	Kat	#This isn’t just a school is it?
@@ -1034,16 +1034,16 @@
 112	AlchemyChart	Annie	BismuthSymbol	Bridge	Kat	Rey	Robot	ScienceLab	Shadowman	#Could he have come back?
 111	AlchemyChart	Annie	BismuthSymbol	Blush	Bridge	Kat	Rey	ScienceLab	#Are you two going to kiss now?
 110	AlchemyChart	Annie	BismuthSymbol	Kat	Rey	ScienceLab	VenusSymbol	#Kat, I’m sorry I caused a scene this morning.
-109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	#You still carry that thing, Jim?
-108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Kat	Rey	#Criminal or not, I won’t allow him to be subjected to that again.
-107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	EthericShield	EyeCrossed	Rey	#I can take anything with eyes, be they real or not.
+109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	SilverSymbol	#You still carry that thing, Jim?
+108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	Kat	Rey	SilverSymbol	#Criminal or not, I won’t allow him to be subjected to that again.
+107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeCrossed	Rey	SilverSymbol	#I can take anything with eyes, be they real or not.
 106	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeCrossed	Rey	#Damn you, girl! And I had the perfect disguise!
 105	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	Rey	#If you don’t mind; I also have something I think you should see
 104	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	#But when Anthony wants to disappear, he’ll do so.
 103	Annie	Anja	Blush	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who’s this cute guy here? That… that would be me.
 102	Annie	Anja	Brinnie	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Wow! Is this you guys when you were kids?!
-101	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	MercurySymbol	Rey	#Reynardine can’t hurt anyone any more
-100	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	#Call me Anja, and this is Donny.
+101	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	MercurySymbol	Rey	SilverSymbol	#Reynardine can’t hurt anyone any more
+100	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	SilverSymbol	#Call me Anja, and this is Donny.
 99	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	TicToc	WoodenArm	#(Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 98	Annie	BismuthSymbol	Court	Kat	LeadSymbol	TicToc	#Something is wrong.
 97	Cover	TicToc	#Icon: TicToc <hr>Chapter 7: Of New and Old<hr>
