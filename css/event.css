@@ -34,7 +34,9 @@ p.tags {
 #topscroll {
 	display:none;
 	position:fixed;
-	width:100%;
+	right:0;
+	/* width:100%; */
+	width:2em;
 	height:2em;
 	background-color:#cfc;
 	text-align:center;
