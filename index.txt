@@ -783,6 +783,13 @@
 397	Anja	Annie	CrystalBall	DonlanHouse	Donny	Kat	#Waaait… what’s going on here? Nothing! I uh… was wondering if you knew someplace I could use as a workshop. (Kat does a faaabulous entrance pose)
 396	BeckyGround	Grounds	Kat	Students	#Real slick, Donlan.
 395	Cover	Annie	BlinkerStone	Fire	#Icon: Kat’s silhouette <hr>Chapter 18: S1<hr>
+368	Annie	BismuthSymbol	Eglamore	FencingHall	Jones	Parley	Sword	#(Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
+367	Annie	Court	Jones	#I had no idea she worked here. She never mentioned it. / Oh? that was your father's influence, I suspect.
+366	Annie	Court	Jones	#He asked me to visit him in the forest.
+365	Annie	Court	Jones	#Yes... lessons in mediation sound interesting.
+364	Annie	Jones	Kat	ScienceLab	#That was Miss Jones, from the meeting with Coyote
+363	Annie	Jones	Kat	KatsHomework	ScienceLab	#Annie copies Kat's homework
+362	Annie	Kat	Lasers	ScienceLab	#Come on Annie! You don't want to miss the practical!
 361	Cover	Knight	Sword	#Icon: the Simulation of the founding of the court and the Seed Bismuth <hr>Chapter 17: The Medium Beginning<hr>
 360	Bonus	CwnAnnwn	GurtDog	Gytrash	LeanDog	ModdeyDhoo	Psychopomps	#<b>Bonus Page: </b>Dogs of the British Isles
 359	Annie	GoodHope	Grounds	Kat	Surma	SurmaWhisper	#It was something I have always kept in mind. She said… Always remember… remember I will never send you into danger.

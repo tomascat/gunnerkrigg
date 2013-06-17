@@ -113,6 +113,7 @@ EyeGunk	Etheric eye-gunk possessed by Zimmy and others affected by Zimmingham
 EyeSymbol	An eye symbol associated with Coyote and Gillitie
 Eyes	When seeing is important
 Fairies	Gillitie Wood is full of them
+FencingHall	Where sword-fighting, fencing, sparring are taught
 Fight	When two people have a disagreement, violently
 Filler	Not a mainstream story comic
 Fire	An ancient element
@@ -175,6 +176,7 @@ JonesFootprints	Ancient footprints that appear to belong to a human; how can thi
 Juliette	Employee of the court, is qualified to run the Ether station
 Kamlen	Anwyn boy about Annie’s and Kat’s age
 Kat	Katerina Donlan
+KatsHomework	A thing that Annie copies
 KatsWorkshop	Where Kat indulges her hobbies; in the West Canals; has a hidden room in the bottom
 KershawHouse	Where Aly and his parents Mr and Mrs Kershaw used to live.
 Kershaws	Aly's parents. birds.
