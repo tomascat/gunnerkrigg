@@ -36,13 +36,15 @@ p.tags {
 	position:fixed;
 	right:0;
 	/* width:100%; */
-	width:2em;
+	width:10em;
 	height:2em;
-	background-color:#cfc;
+	background-color:#390;
 	text-align:center;
 	font: 200%;
-	color: #000;
+	color: #fff;
 	padding: 0.25em;
+	-moz-border-radius-bottomleft: 1em;
+	border-bottom-left-radius: 1em;
 }
 
 .dt {
