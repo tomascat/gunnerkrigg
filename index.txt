@@ -679,20 +679,20 @@
 532	Ghosts	Mort	#WE ARE HERE TO DESTROY YOU!
 531	Annie	Classroom	Kat	Muut	#now I ask a tiny favour of you
 530	Annie	Classroom	Kat	Muut	Psychopomps	Surma	#The night Surma passed on, none of us came for her.
-529	Annie	BlinkerStone	Classroom	Etherics	Jeanne	Kat	Muut	#Lost, stranded in the aether, she needs a hand like yours to be an anchor
+529	Annie	BlinkerStone	Classroom	Etherics	Etherium	FireSpike	Jeanne	Kat	Muut	#Lost, stranded in the aether, she needs a hand like yours to be an anchor
 528	Annie	BlinkerStone	Classroom	Jeanne	Kat	Mort	Muut	#Then you have already begun to help. We knew you would. It was only a matter of time.
-527	Annie	Classroom	Kat	Muut	Psychopomps	#You should not have wasted a life in such a way
-526	Annie	Classroom	Kat	Psychopomps	#Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
+527	Annie	Classroom	Kat	Ketrak	Muut	Psychopomps	#You should not have wasted a life in such a way
+526	Annie	Classroom	Kat	Ketrak	Psychopomps	#Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
 525	Annie	Argument	BlinkerStone	Classroom	Kat	Latin	Mort	#Tom: You screwed up big time Carver.
 524	Annie	Argument	BlinkerStone	Bridge	Kat	Mort	Muut	#Yeah how would I know? I’m just a ghost. BWIP
 523	Annie	Argument	BlinkerStone	Kat	Mort	#He’s not a boy Kat, he’s just a ghost
 522	Anja	Argument	Annie	BlinkerStone	Kat	Mort	#I suppose you think this is funny?
-521	Anja	Annie	BlinkerStone	Etherics	Mort	Kat	#Blinker stones are traditionally given between couples
-520	Anja	Annie	Court	Etherics	Kat	Rey	#Some say that isn’t good enough if you can’t explain how it works.
+521	Anja	Annie	BlinkerStone	CourtSymbol	Etherics	Mort	Kat	#Blinker stones are traditionally given between couples
+520	Anja	Annie	Court	DonlanSymbol	Etherics	EthericShield	Kat	Rey	#Some say that isn’t good enough if you can’t explain how it works.
 519	Anja	Annie	BlinkerStone	Court	Donny	Eglamore	Etherics	EyeCrossed	Kat	#I tattooed them both myself. Good times, good times.
 518	Annie	AnnieCut	BlinkerStone	Etherics	Rey	#Anja forgot to mention that spying with a blinker stone is not recommended
 517	Anja	Annie	BlinkerStone	Court	Donny	Etherics	EthericShield	Kat	Rey	#Tom: Annie’s just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
-516	Anja	Annie	BismuthSymbol	Court	EthericShield	EyeCrossed	Kat	Rey	#How can a glowing… floaty… symbol be a program?
+516	Anja	Annie	BismuthSymbol	Court	DonlanSymbol	EthericShield	EyeCrossed	Kat	Rey	#How can a glowing… floaty… symbol be a program?
 515	Anja	Annie	BlinkerStone	Court	Etherics	Kat	#Others may call these methods Magic, The court, prefers to refer to them as “Etheric Sciences”
 514	Anja	Annie	BlinkerStone	Etherics	EthericShield	EyeCrossed	Kat	KatsWorkshop	Rey	#Oh… hmm… Why Don’t we go talk in the office.
 513	Anja	Annie	BlinkerStone	Etherics	Kat	KatsWorkshop	#Anja, Are you a magician of some sort?
@@ -883,8 +883,8 @@
 264	AlyShirt	Anja	Annie	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#The people of the forest are requesting a visit.
 263	AlyShirt	Anja	Annie	BlinkerStone	DonlanHouse	Eglamore	ForestSymbol	Kat	Roof	#I can only use the stone to make fire.
 262	Anja	Annie	BlinkerStone	Court	CourtSymbol	DonlanHouse	ForestSymbol	Gillitie	Roof	#It’s a signal from the forest. We have to reply.
-261	AlyShirt	Anja	Annie	DonlanHouse	ForestSymbol	Kat	Roof	SilverSymbol	#Wow! What is it?!
-260	AlyShirt	Anja	Annie	DonlanHouse	Kat	SilverSymbol	#You would of course be welcome to come with us over the summer.
+261	AlyShirt	Anja	Annie	DonlanHouse	ForestSymbol	Kat	Roof	DonlanSymbol	#Wow! What is it?!
+260	AlyShirt	Anja	Annie	DonlanHouse	Kat	DonlanSymbol	#You would of course be welcome to come with us over the summer.
 259	Annie	Court	Coyote	Gillitie	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#And the second was when a god emerged from Gillitie Wood.
 258	Cover	Annie	Court	Coyote	#Icon: Coyote in front of the Sun <hr>Chapter 14: The Fangs Of Summertime<hr>
 257	Bonus	Annie	Kat	#<b>Bonus Page: </b>A Question of Taste (Kat checks out some "hot guy" with Annie)
@@ -921,7 +921,7 @@
 226	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#Well, now that we have you back, Robot, we should do something about your body.
 225	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#It’s a wonder my fool cousin hasn’t already retaliated.
 224	Annie	Annan	Gillitie	Kat	Rey	Robot	#The people of the forest will be wanting answers!
-223	Annie	Bridge	Gillitie	Robot	Shadowman	WoodenArm	#A ShadowMan took control of my body!
+223	Annie	Bridge	Gillitie	Robot	Seeds	Shadowman	WoodenArm	#A ShadowMan took control of my body!
 222	Annie	Gillitie	Rey	Robot	ScienceLab	Ysengrin	#I remember. I crossed the bridge and the Shadow man joined his family
 221	Annie	Kat	Rey	Robot	ScienceLab	#Am… am I in heaven?! I see an Angel before me!
 220	Annie	BismuthSymbol	Kat	Robot	ScienceLab	#This docking station has a camera, speaker and microphone, so the Robot will be able to see, speak and hear.
@@ -929,7 +929,7 @@
 218	AdminBot	Annie	AntimonySymbol	Rey	Robot	RobotHQ	Robots	SecurityRobots	StarHeadband	#Oh my, how polite! And such a curious design
 217	Annie	AntimonySymbol	Rey	Robot	RobotHQ	Robots	SecurityRobots	StarHeadband	#Oh, I do so dislike alarms
 216	Annie	Lockpicks	Rey	Robot	RobotHQ	StarHeadband	#Here it is… S13
-215	Annie	AntimonySymbol	Rey	RobotHQ	StarHeadband	Symbol	#This must be a directory of all the CPUs being studied.
+215	Annie	AntimonySymbol	EtherSymbol	Rey	RobotHQ	StarHeadband	#This must be a directory of all the CPUs being studied.
 214	Annie	AntimonySymbol	Rey	RobotHQ	StarHeadband	#Fine… get on (Rey turns from a WolfToy into a proper wolf form)
 213	Annie	Rey	RobotHQ	StarHeadband	#Haha! Tired already child?!
 212	AdminBot	Annie	RobotHQ	Robots	StarHeadband	#Meanwhile as his body begins a career in paper fastening, S13’s cpu has been sent to Research
@@ -1035,16 +1035,16 @@
 112	AlchemyChart	Annie	BismuthSymbol	Bridge	Kat	Rey	Robot	ScienceLab	Shadowman	#Could he have come back?
 111	AlchemyChart	Annie	BismuthSymbol	Blush	Bridge	Kat	Rey	ScienceLab	#Are you two going to kiss now?
 110	AlchemyChart	Annie	BismuthSymbol	Kat	Rey	ScienceLab	VenusSymbol	#Kat, I’m sorry I caused a scene this morning.
-109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	SilverSymbol	#You still carry that thing, Jim?
-108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	Kat	Rey	SilverSymbol	#Criminal or not, I won’t allow him to be subjected to that again.
-107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeCrossed	Rey	SilverSymbol	#I can take anything with eyes, be they real or not.
+109	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	#You still carry that thing, Jim?
+108	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Kat	Rey	#Criminal or not, I won’t allow him to be subjected to that again.
+107	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	EthericShield	EyeCrossed	Rey	#I can take anything with eyes, be they real or not.
 106	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EthericShield	EyeCrossed	Rey	#Damn you, girl! And I had the perfect disguise!
 105	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	Rey	#If you don’t mind; I also have something I think you should see
 104	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	#But when Anthony wants to disappear, he’ll do so.
 103	Annie	Anja	Blush	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Who’s this cute guy here? That… that would be me.
 102	Annie	Anja	Brinnie	Donny	DonlanHouse	Eglamore	Kat	Photo	Tony	#Wow! Is this you guys when you were kids?!
-101	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	MercurySymbol	Rey	SilverSymbol	#Reynardine can’t hurt anyone any more
-100	Annie	Anja	Donny	DonlanHouse	Eglamore	Kat	SilverSymbol	#Call me Anja, and this is Donny.
+101	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	MercurySymbol	Rey	#Reynardine can’t hurt anyone any more
+100	Annie	Anja	Donny	DonlanHouse	Eglamore	EtherSymbol	Kat	#Call me Anja, and this is Donny.
 99	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	TicToc	WoodenArm	#(Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 98	Annie	BismuthSymbol	Court	Kat	LeadSymbol	TicToc	#Something is wrong.
 97	Cover	TicToc	#Icon: TicToc <hr>Chapter 7: Of New and Old<hr>

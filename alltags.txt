@@ -92,6 +92,7 @@ Dirty	What you become when you don't wash for a while
 Dolls	Kat probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
 DoorBot	A cranky old man robot who guards the door to the RobotHQ
 DonlanHouse	Home of the Donlan family: Anja, Donny, Kat
+DonlanSymbol	A symbol found in the Donlan house and in Anja &amp; Donny's program; resembles the alchemical symbols for silver and ether
 Donny	Donald Donlan, Kat’s father
 Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
@@ -105,6 +106,7 @@ Enigmarons	Bad guy aliens in a simulation
 Etherics	Manipulation of the Ether – “magic”
 Etherium	The world/realm of the Ether
 EthericShield	An etheric/magical shield
+EtherSymbol	A symbol for phlogiston or ether
 EugeneGould	Explorer
 EyeCrossed	A crossed out eye that is a complex warding sign
 EyeGunk	Etheric eye-gunk possessed by Zimmy and others affected by Zimmingham
@@ -261,7 +263,7 @@ S1	Original Seraph Robot made by Diego; predecessor of Robot
 Salon	Court hair salon, manned by the HairdresserBot
 ScienceLab	A school science lab where Kat does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
-Seeds	Some seeds that Ysengrin dropped in the Court, possibly on purpose.
+Seeds	Some seeds that Ysengrin uses for his terrifying skills of gardening. Used to create the WoodenArm and also dropped in the CourtHall.
 Seraph	Generic member of the Seraph model of robots. Robot was originally one
 Secret	Things that are kept hidden, unknown, mysterious…
 SecurityDevice	Small devices that supposedly warn Jack when people are coming
@@ -271,7 +273,6 @@ Shadow	The Thin Man
 Shadowman	Not the Thin Man
 Shadowmen	Creations of Coyote
 Shell	An employee (Security guard??) of the court, alongside Aata
-SilverSymbol	Alchemical Symbol for Silver
 SimRocket	A rocket/spaceship in Dr Disaster’s simulation
 Simulation	One of Dr Disaster’s holographic adventures
 SirYoung	Protector of the Court at its founding
