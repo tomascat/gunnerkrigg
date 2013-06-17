@@ -1,4 +1,4 @@
-113	A number that appears in many places in the court.
+﻿113	A number that appears in many places in the court.
 Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell
 AdminBot	A secretarial robot who sits at the Admin desk at [RobotHQ](#robothq)
 Agni	Hindu fire god; [psychopomp](#psychopomps)
@@ -112,6 +112,7 @@ EyeCrossed	A crossed out eye that is a complex warding sign
 EyeGunk	Etheric eye-gunk possessed by Zimmy and others affected by Zimmingham
 EyeSymbol	An eye symbol associated with Coyote and Gillitie
 Eyes	When seeing is important
+FacelessPeople	People without faces who Zimmy sometimes sees
 Fairies	Gillitie Wood is full of them
 FencingHall	Where sword-fighting, fencing, sparring are taught
 Fight	When two people have a disagreement, violently
@@ -195,6 +196,7 @@ LeadSymbol	The alchemical symbol for lead; associated with protectors of the cou
 LeanDog	A black dog/psychopomp for Tring, Hertfordshire; red eyes.
 Letter	A written communication
 Library	Includes robot parts (!)
+Lightning	Clouds and electricity... ZZZAAAPP!
 Lindsey	Dorm monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon
 Lockpicks	Annie has some lockpicks which she stores in the WolfToy/Rey’s body
 MakeUp	Cosmetics to define or enhance appearance, particulaly of the face, eyes and mouth
@@ -207,7 +209,7 @@ Martin	A young boy who has "lost his way" and whom young Annie needs to help
 MartinLizard	A lizard that Martin likes and shows Annie. Bites.
 MartinRoom	Martin's hospital/bed room
 Mask	A cover to hide face, appearance, emotions
-Matt	A classmate of Annie and Kat
+Matt	Student and classmate of Annie and Kat
 MetalGearSolid	A game that Kat likes.
 Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce; psychopomp
 MercurySymbol	The alchemical symbol for mercury; appears on Rey’s spirit form
@@ -318,6 +320,7 @@ TomatoWangFae	likes to wang tomatoes. friends with BlushFae
 Tony	Anthony Carver, Annie’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of Ogee.
 Tower	A tower in the court where Aly is staying
+ToyShop	A toy shop in zimmingham where Zimmy and Gamma meet up if they get seperated
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Traitor	One who betrays their allies
@@ -325,6 +328,7 @@ Treatise	Symbolic representation of the story
 TreeBody	Ysengrin’s artificial tree-like body. His true body underneath is a physically weaker, much older wolf
 TreeDog	They usually go woof, unless created by the forest
 Trees	Come as advertised (usually)
+Umbrella	Handheld cover to keep the rain off.
 Uniform	An outfit one wears when on official business
 Valknut	A Norse symbol, indicates a form of teleport/gateway
 Veles	Ancient Slav snake-like god who guards the underworld; psychopomp
@@ -337,7 +341,7 @@ Water	Ancient element; H2O; necessary for life; rivers, lakes and oceans are mad
 WaterFae	‘this girl’ – short blue spikey hair, 2 dots under right eye, had a waterfall?
 WaterSymbol	Alchemical symbol for water
 WhiteSpider	Also known as WhiteLegs, associated with Jack Hyland’s etheric form when he got stuck in Zimmingham, until Zimmy helped him get rid of it.
-Winsbury	Not a very nice boy
+Winsbury	Student with Annie and Kat, not a very nice boy
 WolfToy	A small wolf toy made by Annie’s mother
 WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
 WoodenArm	A mysterious wooden arm from Gillitie

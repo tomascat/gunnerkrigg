@@ -1,4 +1,4 @@
-1210	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
+﻿1210	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
 1209	AntimonySymbol	Court	House	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>Tom: Renard Renard Renard
 1208	AntimonySymbol	Court	House	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>Tom: Renard Renard
 1207	Lindsey	Rey	SubDorm	#Out and about today Renard (toy to white wolf transform)<br>Tom: Renard
@@ -736,6 +736,37 @@
 475	Annie	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
 474	Annie	Dirty	Dorm	Kat	Rey	Surma	Uniform	#Surma made this body?
 473	Cover	Annan	Annie	Arrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gear	Gillitie	Jeanne	LeadSymbol	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Icon: Coyote <hr>Chapter 20: Coyote Stories<hr>
+472	Bonus	Mandolin	Margo	SullivansJohn	#<b>Bonus page:</b> Time for Music
+471	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	#Yes. More questions as to what this place rally is.
+470	Annie	Chester	Gamma	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	Winsbury	Zimmy	#Say, where are Willie and Janet?
+469	Annie	Gamma	Jack	Kat	Margo	PowerStation	Rain	Roof	SullivansJohn	Zimmy	#Oh. You was there too, huh?
+468	Annie	Gamma	Jack	Kat	Margo	Rain	Roof	SullivansJohn	Zimmy	#It's only as real as you let it be.
+467	Annie	AnnieCut	Bip	FacelessPeople	Gamma	Kat	ToyShop	Zimmingham	Zimmy	#No, Kat! Don-
+466	Annie	AnnieCut	Gamma	Kat	ToyShop	Zimmingham	Zimmy	#(Annie, Zimmy and Kat find Gamma, surrounded by toys in the toyshop.)
+465	Annie	AnnieCut	Kat	ToyShop	Zimmingham	Zimmy	#This used to be a toy shop. Long time ago.
+464	Annie	AnnieCut	Kat	Zimmingham	Zimmy	#I'll die here one day
+463	Annie	AnnieCut	Crying	Kat	Tears	Zimmingham	Zimmy	#Where do we find Gamma?
+462	Annie	AnnieCut	Crying	Gamma	Tears	Zimmingham	Zimmy	#Guh-Gamma... She's the only reason I'm still alive...
+461	Annie	AnnieCut	FacelessPeople	Zimmingham	Zimmy	#You think I want to be like this?!
+460	Annie	AnnieCut	FacelessPeople	Zimmingham	Zimmy	#It can be hard to tell who's real and who ain't
+459	Annie	AnnieCut	FacelessPeople	Zimmingham	Zimmy	#Yer gonna have ta have to take Gamma's place
+458	Annie	AnnieCut	Zimmingham	Zimmy	#First. We find Kat.
+457	Annie	Etherium	Gamma	Jack	Kat	Lake	PowerStation	Rain	Umbrella	Zimmingham	Zimmy	#It... it ain't working!
+456	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Lightning	Margo	Matt	PowerStation	Rain	SullivansJohn	Umbrella	Winsbury	Zimmy	#There's probably something else I should have mentioned...
+455	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Lightning	Margo	Matt	PowerStation	SullivansJohn	Winsbury	Zimmy	#Hey look, the water in the lake is going down!
+454	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Margo	Matt	PowerStation	SullivansJohn	Winsbury	Zimmy	#We're about to get started.
+453	Annie	Gamma	Kat	Lake	Margo	PowerStation	Zimmy	#Do... do they all think I am stupid and ugly?
+452	Annie	Gamma	Janet	Lake	Margo	Matt	PowerStation	Winsbury	Zimmy	#Why are you here Zimmy?
+451	Gamma	Jack	Lake	Margo	Matt	PowerStation	SullivansJohn	Winsbury	Zimmy	#They're what?!
+450	Annie	Gamma	Jack	Janet	Kat	Lake	Margo	Matt	SullivansJohn	Winsbury	Zimmy	#I'd get in trouble too!
+449	Annie	Jack	Janet	Kat	Lake	Margo	SullivansJohn	Winsbury	#I go out exploring all the time
+448	Annie	Jack	Janet	Kat	Lake	Margo	Matt	PowerStation	#What are they doing over there?
+447	Jack	Janet	Margo	Matt	Roof	SullivansJohn	Winsbury	#Right this way.
+446	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Robots	Students	SullivansJohn	Winsbury	#(The girls take a horsebot carriage to meet the boys)
+445	Annie	Dorm	Kat	#All I do is alter the energy wavelength that sets them off.
+444	Annie	Dorm	Janet	Kat	Margo	#Then let us away.
+443	Annie	Dorm	Kat	Rey	#Let's do this!
+442	Annie	Dolls	Dorm	Kat	#Yeah but now there will be BOYS there!
 441	Cover	Etherics	PowerStation	Sky	Stars	#Icon: a HorseBot drawn cart <hr>Chapter 19: Power Station<hr>
 440	Filler	Annie	Kat	MetalGearSolid	#Man... now I really want some eggs.
 439	Filler	Annie	Kat	MetalGearSolid	#S-snaake... (Kat finishes playing Metal Gear Solid 4 and cries)
