@@ -1,4 +1,4 @@
-﻿113	A number that appears in many places in the court.
+113	A number that appears in many places in the court.
 Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell
 AdminBot	A secretarial robot who sits at the Admin desk at [RobotHQ](#robothq)
 Agni	Hindu fire god; [psychopomp](#psychopomps)
@@ -96,7 +96,7 @@ DonlanSymbol	A symbol found in the Donlan house and in Anja &amp; Donny's progra
 Donny	Donald Donlan, Kat’s father
 Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
-Eglamore	Jimmy/Jim/James/Eggers. Big fellow with sword
+Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with sword
 EglamoreKnife	A switchblade/flick knife present that Eglamore treasures
 EglamoreOffice	Where Eglamore hangs out; contains swords, armour, a Tiki and a mask among other things
 Earth	Ancient element; the planet on which we live; the great mother and life-giver
@@ -289,6 +289,7 @@ SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises d
 SmallBot	A young eye-witness model
 Smitty	Andrew Smith: usually brings order from chaos (Mighty Eyebrows Boy)
 Spankies	From Annie for when Coyote is a Bad Dog!
+Sparring	A mock or training fight; usually for learning or practising martial arts or swordfighting
 Speakeasy	A hotel-like place that the students sneak out to with a “speakeasy-like atmosphere”
 Spiders	Often white and etheric, also often real.
 StarHeadband	A headband with stars on antennae that Annie uses to pretend she is a Robot

@@ -1,4 +1,4 @@
-﻿1211	AntimonySymbol	Court	GlassFiber	Hetty	Rey	#Up to more acts of unspeakable evil today, Hetty?
+1211	AntimonySymbol	Court	GlassFiber	Hetty	Rey	#Up to more acts of unspeakable evil today, Hetty?
 1210	AntimonySymbol	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
 1209	AntimonySymbol	Court	House	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>Tom: Renard Renard Renard
 1208	AntimonySymbol	Court	House	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>Tom: Renard Renard
@@ -815,8 +815,20 @@
 397	Anja	Annie	CrystalBall	DonlanHouse	Donny	Kat	#Waaait… what’s going on here? Nothing! I uh… was wondering if you knew someplace I could use as a workshop. (Kat does a faaabulous entrance pose)
 396	BeckyGround	Grounds	Kat	Students	#Real slick, Donlan.
 395	Cover	Annie	BlinkerStone	Fire	#Icon: Kat’s silhouette <hr>Chapter 18: S1<hr>
-369	Annie	Eglamore	FencingHall	Jones	Parley	Students	Sword	#you can soon take stock of a person when you give them a blade.
-368	Annie	BismuthSymbol	Eglamore	FencingHall	Jones	Parley	Sword	#(Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
+381	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Smitty	#Grabbing a sword by the blade isn't a valid move, is it?
+380	CourtLogo	Eglamore	FencingHall	Jones	Sparring	Sword	#"The Carver girl"? Is that how you think of her? You need to watch your step, James.
+379	Eglamore	FencingHall	Jones	Sparring	Sword	#(Jones swiftly disarms Eglamore and grabs the sword)
+378	Annie	Eglamore	FencingHall	Jones	Parley	Smitty	Sparring	Sword	#(Eglamore and Jones start sparring; the sword glances off Jones's cheek)
+377	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Smitty	Sparring	Sword	#Eglamore and Jones are having a quickie!
+376	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Sword	#Doesn't Jones need a sword too? / Nah, she never uses them.
+375	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Sword	#Haha! No, because indoors, and at close range, Jones would flatten me.
+374	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	#Growing it out again, James?
+373	Annie	BismuthSymbol	Eglamore	FencingHall	Jones	Parley	Sword	#Almost as if you ally yourself with neither side. / A keen observation, Antimony. However, irrelevant.
+372	Annie	Court	Gillitie	Jones	Moon	Parley	SeedBismuth	Sparring	Sun	Sword	Trees	#But if the court has been without a medium since my mother left, why are there now suddenly three candidates?
+371	Annie	Court	Gillitie	Jones	SeedBismuth	Sword	#The court first took root in what was once the heart of Gillitie Wood
+370	Annie	BismuthSymbol	FencingHall	Jones	Parley	Sparring	Sword	#It serves as a reminder that the court was founded on a union between technological and etheric design
+369	Annie	Eglamore	FencingHall	Jones	Parley	Sparring	Students	Sword	#You can soon take stock of a person when you give them a blade.
+368	Annie	BismuthSymbol	CourtLogo	Eglamore	FencingHall	Jones	Parley	Sword	#(Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
 367	Annie	Court	Jones	#I had no idea she worked here. She never mentioned it. / Oh? that was your father's influence, I suspect.
 366	Annie	Court	Jones	#He asked me to visit him in the forest.
 365	Annie	Court	Jones	#Yes... lessons in mediation sound interesting.

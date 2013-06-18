@@ -2,14 +2,12 @@
 # -*- coding: utf-8 -*-
 
 import string
-import urllib
 import collections
-import re
-import math
 
 toWrite = []
 tagCloud = collections.Counter()
-pageDescriptions = [None]*1211
+pageDescriptions = {}
+numberOfComics = 1211
 
 with open('headingtaghelper.txt','r') as fheading:
 	for line in fheading:
@@ -20,9 +18,9 @@ with open('index.txt','r') as findex:
 		field = line.split("\t")
 		pageDescriptions[int(field[0])] = field[-1][1:]
 
-for x in xrange (1,1211):
+for x in reversed(xrange (1,numberOfComics)):
 	toWrite.append("\n\t\t<option value='"+str(x)+"'>"+str(x))
-	if (pageDescriptions[x]):
+	if (x in pageDescriptions):
 		toWrite.append(": "+pageDescriptions[x])
 	toWrite.append("</option>")
 
@@ -40,7 +38,7 @@ toWrite.append("</div><div id='cloud'>")
 
 for (key,counter) in tagCloud.most_common(30):
 	print key + str(counter)
-	toWrite.append("\n\t\t\t<span class='tagcloud "+key+"' data-size='"+str(math.trunc(8*(math.log10(counter)+1)))+"'>"+key+"("+str(counter)+") </span> ")
+	toWrite.append("\n\t\t\t<span class='tagcloud "+key+"'>"+key+"("+str(counter)+") </span> ")
 
 toWrite.append("<br />")
 
@@ -50,7 +48,7 @@ for tag in sorted(tagCloud):
 	if tag:
 		if ord(tag.upper()[0]) != startCharOld:
 			toWrite.append("<br />"+tag.upper()[0]+": ")
-		toWrite.append("\n\t\t\t<span class='tagcloud "+tag+"' data-size='"+str(math.trunc(8*(math.log10(tagCloud[tag])+1)))+"'>"+tag+"("+str(tagCloud[tag])+") </span> ")
+		toWrite.append("\n\t\t\t<span class='tagcloud "+tag+"'>"+tag+"("+str(tagCloud[tag])+") </span> ")
 		startCharOld = ord(tag.upper()[0])
 
 toWrite.append("")
