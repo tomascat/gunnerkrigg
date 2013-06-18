@@ -136,6 +136,7 @@ Gear	A toothed cog device which articulates with similar gears or with chains in
 Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are, a.k.a. The Forest
 Glass	A transparent silicon oxide substance used to make windows and the water bearing vessels also called "glasses"
+GlassFiber	Strands of glass used in insulation. Exposure causes itchiness and respiratory problems.
 God	What is god?
 Gol-shogeg	Big worm slug monster
 GolemHeart	The core that makes the robots "work", if you will. Perhaps etheric?
@@ -330,7 +331,7 @@ TreeDog	They usually go woof, unless created by the forest
 Trees	Come as advertised (usually)
 Umbrella	Handheld cover to keep the rain off.
 Uniform	An outfit one wears when on official business
-Valknut	A Norse symbol, indicates a form of teleport/gateway
+Valknut	A Norse triangular knot symbol, indicates a form of teleport/gateway
 Veles	Ancient Slav snake-like god who guards the underworld; psychopomp
 VenusSymbol	A symbol for Venus/Aphrodite; also the symbol of females/femininity
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection

@@ -1,4 +1,5 @@
-﻿1210	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
+﻿1211	AntimonySymbol	Court	GlassFiber	Hetty	Rey	#Up to more acts of unspeakable evil today, Hetty?
+1210	AntimonySymbol	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
 1209	AntimonySymbol	Court	House	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>Tom: Renard Renard Renard
 1208	AntimonySymbol	Court	House	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>Tom: Renard Renard
 1207	Lindsey	Rey	SubDorm	#Out and about today Renard (toy to white wolf transform)<br>Tom: Renard
@@ -814,6 +815,7 @@
 397	Anja	Annie	CrystalBall	DonlanHouse	Donny	Kat	#Waaait… what’s going on here? Nothing! I uh… was wondering if you knew someplace I could use as a workshop. (Kat does a faaabulous entrance pose)
 396	BeckyGround	Grounds	Kat	Students	#Real slick, Donlan.
 395	Cover	Annie	BlinkerStone	Fire	#Icon: Kat’s silhouette <hr>Chapter 18: S1<hr>
+369	Annie	Eglamore	FencingHall	Jones	Parley	Students	Sword	#you can soon take stock of a person when you give them a blade.
 368	Annie	BismuthSymbol	Eglamore	FencingHall	Jones	Parley	Sword	#(Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
 367	Annie	Court	Jones	#I had no idea she worked here. She never mentioned it. / Oh? that was your father's influence, I suspect.
 366	Annie	Court	Jones	#He asked me to visit him in the forest.

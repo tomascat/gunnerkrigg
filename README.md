@@ -19,6 +19,10 @@ For more information see the <a href="https://github.com/snipergirl/gunnerkrigg/
 - At the moment we are not tagging the cover pages however this might change
 - Treatises are obviously full of tag-material! Have a go and we'll all contribute further tags as necessary
 
+###How to use the tagging helper
+- The tagging helper will work out of the box- just open "taghelper.htm".
+- Ideally, install Python 2.x.x (current production version 2.7.5) (available at http://www.python.org/getit/); then whenever you want to update it with your latest index.txt, just run "taghelper.py".
+
 ###Starting with GitHub
 - First you need one of us (probably me) to give you access to the repo. Please send me a PM on the <a href="http://gunnerkrigg.proboards.com/">forums</a> or reply to the <a href="http://gunnerkrigg.proboards.com/thread/1883/searchable-database-comics?page=1">forum post</a> if you want access.
 - You can either edit the files directly on the website and commit changes that way or:
@@ -63,6 +67,7 @@ eg:
 2	Annie	Shadow	#Gunnerkrigg Court does not look much like a school at all
 1	Annie	Cover	#&lt;hr&gt;Chapter 1: The Shadow and The Robot&lt;hr&gt;
 </code></pre>
+
 ###Tags & descriptions - Alltags.txt
 - The tags are in alphabetical order
 - Each tag is on a separate line
