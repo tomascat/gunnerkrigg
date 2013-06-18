@@ -182,7 +182,7 @@
 1029	Annie	AntimonySymbol	Hospital	FlowerHeadband	Kat	Rey	Robot	Shadow	Zimmy	#(hospital room: quiet &amp; still)
 1028	Gamma	Zimmy	Zimmingham	#I don’t want to see her!
 1027	AnnieCut	Zimmy	Zimmingham	#Not mine!<br>Tom: Look who’s scrambling around in the trash again.
-1026	CityFace	Cover	#Icon: Kat with the pink headband and "city face" pigeon on her head <br>Chapter 38: Divine<hr>
+1026	CityFace	Cover	#Icon: Kat with the pink headband and "city face" pigeon on her head <hr>Chapter 38: Divine<hr>
 1025	Bonus	Anja	Eglamore	Jones	Kat	PlanTheta	#<b>Bonus Page:</b>What About These Guys?
 1024	Annie	Blush	Donny	Etherics	Robotics	Roof	#i’m happy my daughter has you as a friend 
 1023	Annie	Donny	Microsat5	Roof	#they flew away… that’s it? That’s it.
