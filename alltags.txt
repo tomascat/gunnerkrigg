@@ -1,4 +1,4 @@
-113	A number that appears in many places in the court.
+﻿113	A number that appears in many places in the court.
 Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq)
 Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps)
@@ -351,7 +351,7 @@ WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
 WoodenArm	A mysterious wooden arm from [Gillitie](#gillitie); initially attached to [Robot](#robot); finds its way to [Habitat](#habitat) [113](#113) and finally to [Young's Park](#youngspark)
 WorkshopKey	The key for [Kat](#kat)'s Workshop
 YellowFae	‘him’- yellow hair, kinda sideways windswept
-YoungBot	A large, bull-like [robot](#robots) made my Diego that resembles [Sir Young](#siryoung)
+YoungBot	A large, bull-like [robot](#robots) made by Diego that resembles [Sir Young](#siryoung)
 YoungsPark	A large park within the Court, looked after by [Bob](#bob) and his wife [Marcia](#marcia); named after [Sir Young](#siryoung), the original Protector of the Court
 Ysengrin	Wolf/Tree hybrid demigod of the [forest](#gillitie); [Coyote](#coyote)’s General
 ZAM	Noise of a [Valknut](#valknut) teleport

@@ -1,5 +1,4 @@
-1211	AntimonySymbol	Court	GlassFiber	Hetty	Rey	#Up to more acts of unspeakable evil today, Hetty?
-1210	AntimonySymbol	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
+﻿1210	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
 1209	AntimonySymbol	Court	House	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>Tom: Renard Renard Renard
 1208	AntimonySymbol	Court	House	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>Tom: Renard Renard
 1207	Lindsey	Rey	SubDorm	#Out and about today Renard (toy to white wolf transform)<br>Tom: Renard
@@ -45,23 +44,23 @@
 1167	Filler	Tea	#<hr>Guest Comics<hr>
 1166	Filler	Tom	#“So, how’s it been going?” open letter by Tom
 1165	Bonus	Treatise	Annie	AntimonySymbol	BlinkerStone	Court	Coyote	CreatorGlyph	Gillitie	Heart	Kat	Robot	Shadow	Treatise	WanderingEye	Ysengrin	#<b>Bonus Page:</b> Treatise Five
-1164	Annie	Kat	#It’s written to <i>you</i>.
-1163	Annie	Heart	Kat	Rey	#It’s a <i>Love Letter</i><br>Tom: Oh no
-1162	Annie	Kat	Rey	#I’m glad we’ll be sharing this room together, Kat
-1161	Annie	Kat	Robots	#How are Robot and Shadow?
-1160	Annie	Kat	Rey	#Whoa, you set your hair on fire?!
-1159	Annie	Coyote	Etherics	Fire	Rey	#Well, Fire Head Girl, what do you say?
-1158	Annie	Coyote	Eglamore	Headmaster	Jones	Parley	Smitty	Ysengrin	#You want me to work for <i>you?</i>
-1157	Annie	Coyote	Rey	Ysengrin	#An honorary citizen of the forest!
-1156	Coyote	Headmaster	Parley	Rey	Smitty	#Are you husband and wife?<br>Tom: Personal space? What’s that?
-1155	Annie	Headmaster	Jones	Parley	Rey	Smitty	Tears	#I’m sure you understand this ends your visiting privileges to the forest
-1154	Anja	Annie	Donny	Eglamore	Headmaster	LeadSymbol	Parley	#Tom: Nice to have career options
-1153	Anja	Annie	Blush	Donny	Coyote	Eglamore	Headmaster	Smitty	Tears	Ysengrin	#MURMRMR
-1152	Annie	Headmaster	Parley	Rey	Smitty	#Andrew Smith the court has decided you shall be the next medium
-1151	Annie	Coyote	Headmaster	Parley	Smitty	Ysengrin	#We do so love visiting your rabbit warren!
-1150	Annie	BismuthSymbol	Coyote	Eglamore	Jones	Ysengrin	#Nod
-1149	Anja	Blush	Annie	Donny	Parley	Rey	Smitty	#Did we miss anything?
-1148	Annie	BismuthSymbol	Rey	#I think we made it…
+1164	Annie	Dorm	Kat	#It’s written to <i>you</i>.
+1163	Annie	Dorm	Heart	Kat	Rey	#It’s a <i>Love Letter</i><br>Tom: Oh no
+1162	Annie	Dorm	Kat	Rey	#I’m glad we’ll be sharing this room together, Kat
+1161	Annie	Dorm	Kat	Robots	#How are Robot and Shadow?
+1160	Annie	Dorm	Kat	Rey	#Whoa, you set your hair on fire?!
+1159	Annie	BlinkerStone	CourtHall	Coyote	Etherics	Fire	Rey	#Well, Fire Head Girl, what do you say?
+1158	Annie	CourtHall	Coyote	Eglamore	Headmaster	Jones	Parley	Smitty	Ysengrin	#You want me to work for <i>you?</i>
+1157	Annie	CourtHall	Coyote	Rey	Stars	Ysengrin	#An honorary citizen of the forest!
+1156	CourtHall	Coyote	Headmaster	Parley	Rey	Smitty	#Are you husband and wife?<br>Tom: Personal space? What’s that?
+1155	Annie	CourtHall	Coyote	Headmaster	Jones	Parley	Rey	Smitty	Tears	#I’m sure you understand this ends your visiting privileges to the forest
+1154	Anja	Annie	CourtHall	Donny	Eglamore	Headmaster	LeadSymbol	Parley	Rey	#Tom: Nice to have career options
+1153	Anja	Annie	BismuthSymbol	Blush	CourtHall	Coyote	Donny	Eglamore	Headmaster	Jones	Smitty	SunSymbol	Tears	Ysengrin	#MURMRMR
+1152	Annie	CourtHall	Headmaster	Parley	Rey	Smitty	#Andrew Smith the court has decided you shall be the next medium
+1151	Annie	CourtHall	Coyote	Headmaster	Parley	Smitty	SunSymbol	Ysengrin	#We do so love visiting your rabbit warren!
+1150	Annie	BismuthSymbol	CourtHall	Coyote	Eglamore	Jones	Teachers	Ysengrin	#Nod
+1149	Anja	Bip	BismuthSymbol	Blush	Annie	CourtHall	Donny	Parley	Rey	Smitty	SunSymbol	#Did we miss anything?
+1148	Annie	BismuthSymbol	CourtHall	Rey	#I think we made it…
 1147	Annie	BlinkerStone	Kat	KatsWorkshop	Rey	Robots	Seraph	#Who <i>are</i> you guys?!
 1146	Annie	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#S13, you have long since predicted the coming of an angel
 1145	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
@@ -815,33 +814,33 @@
 397	Anja	Annie	CrystalBall	DonlanHouse	Donny	Kat	#Waaait… what’s going on here? Nothing! I uh… was wondering if you knew someplace I could use as a workshop. (Kat does a faaabulous entrance pose)
 396	BeckyGround	Grounds	Kat	Students	#Real slick, Donlan.
 395	Cover	Annie	BlinkerStone	Fire	#Icon: Kat’s silhouette <hr>Chapter 18: S1<hr>
-394	Bonus	CourtLogo	Sword	Tea	#<b>Bonus Page: </b>Swords (Tea explains different swords)
-393	Annie	Court	Jones	Mort	#It should only be a casual meeting anyway, and it will do you good to hear their side of the story.
-392	Annie	Court	Jones	#When you want to go into the forest let me know.
-391	Annie	Court	Jones	Mort	Parley	Smitty	#FAREWELL!! hahaha!
-390	Annie	Court	Jones	Mort	Parley	Smitty	Spiders	#Well, I scare people. It's all very important, I assure you.
-389	Annie	Court	Jones	Mort	Parley	Smitty	#GREETINGS HUMAN PERSON!
-388	Annie	Court	Jones	Mort	Parley	Smitty	#Wow, a ghost! Spectral Being! Do you mean us harm?! We wish to communicate with you!
-387	Annie	Court	Coyote	Jones	Mort	Parley	Smitty	Ysengrin	#The truth is, both sides are as bad as each other.
-386	Annie	Court	Headmaster	Jones	Parley	Smitty	#Well... the headmaster was acting very rudely. He didn't seem to care at all about the meeting.
-385	Annie	Court	Jones	Parley	Smitty	#As a prediction, Mr. Parley filled out a birth certificate for his first born child early. he got the weight, date, time and everything correct... everything except the gender.
-384	Annie	Court	EugeneGould	Jones	Parley	Smitty	Sword	#Parley senior is the only person to have "officially" completed the Eugene Gould psychic challenge.
-383	Annie	Cards	Court	Jones	Parley	Smitty	#(Smitty flings the cards over his shoulder) And look! They're all in order too! Haha! It's like his super power is to make everything boring! / It would be more diplomatic to say Andrew can subconciously create order where there was none.
-382	Annie	Cards	Court	Jones	Parley	Smitty	#And that makes any one of us better suited to mediation than other students?
-381	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Smitty	#Grabbing a sword by the blade isn't a valid move, is it?
-380	CourtLogo	Eglamore	FencingHall	Jones	Sparring	Sword	#"The Carver girl"? Is that how you think of her? You need to watch your step, James.
-379	Eglamore	FencingHall	Jones	Sparring	Sword	#(Jones swiftly disarms Eglamore and grabs the sword)
-378	Annie	Eglamore	FencingHall	Jones	Parley	Smitty	Sparring	Sword	#(Eglamore and Jones start sparring; the sword glances off Jones's cheek)
-377	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Smitty	Sparring	Sword	#Eglamore and Jones are having a quickie!
-376	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Sword	#Doesn't Jones need a sword too? / Nah, she never uses them.
-375	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Sword	#Haha! No, because indoors, and at close range, Jones would flatten me.
-374	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	#Growing it out again, James?
-373	Annie	BismuthSymbol	Eglamore	FencingHall	Jones	Parley	Sword	#Almost as if you ally yourself with neither side. / A keen observation, Antimony. However, irrelevant.
-372	Annie	Court	Gillitie	Jones	Moon	Parley	SeedBismuth	Sparring	Sun	Sword	Trees	#But if the court has been without a medium since my mother left, why are there now suddenly three candidates?
-371	Annie	Court	Gillitie	Jones	SeedBismuth	Sword	#The court first took root in what was once the heart of Gillitie Wood
-370	Annie	BismuthSymbol	FencingHall	Jones	Parley	Sparring	Sword	#It serves as a reminder that the court was founded on a union between technological and etheric design
-369	Annie	Eglamore	FencingHall	Jones	Parley	Sparring	Students	Sword	#You can soon take stock of a person when you give them a blade.
-368	Annie	BismuthSymbol	CourtLogo	Eglamore	FencingHall	Jones	Parley	Sword	#(Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
+394
+393
+392
+391
+390
+389
+388
+387
+386
+385
+384
+383
+382
+381
+380
+379
+378
+377
+376
+375
+374
+373
+372
+371
+370
+369
+368	Annie	BismuthSymbol	Eglamore	FencingHall	Jones	Parley	Sword	#(Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
 367	Annie	Court	Jones	#I had no idea she worked here. She never mentioned it. / Oh? that was your father's influence, I suspect.
 366	Annie	Court	Jones	#He asked me to visit him in the forest.
 365	Annie	Court	Jones	#Yes... lessons in mediation sound interesting.
