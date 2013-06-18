@@ -815,6 +815,19 @@
 397	Anja	Annie	CrystalBall	DonlanHouse	Donny	Kat	#Waaait… what’s going on here? Nothing! I uh… was wondering if you knew someplace I could use as a workshop. (Kat does a faaabulous entrance pose)
 396	BeckyGround	Grounds	Kat	Students	#Real slick, Donlan.
 395	Cover	Annie	BlinkerStone	Fire	#Icon: Kat’s silhouette <hr>Chapter 18: S1<hr>
+394	Bonus	CourtLogo	Sword	Tea	#<b>Bonus Page: </b>Swords (Tea explains different swords)
+393	Annie	Court	Jones	Mort	#It should only be a casual meeting anyway, and it will do you good to hear their side of the story.
+392	Annie	Court	Jones	#When you want to go into the forest let me know.
+391	Annie	Court	Jones	Mort	Parley	Smitty	#FAREWELL!! hahaha!
+390	Annie	Court	Jones	Mort	Parley	Smitty	Spiders	#Well, I scare people. It's all very important, I assure you.
+389	Annie	Court	Jones	Mort	Parley	Smitty	#GREETINGS HUMAN PERSON!
+388	Annie	Court	Jones	Mort	Parley	Smitty	#Wow, a ghost! Spectral Being! Do you mean us harm?! We wish to communicate with you!
+387	Annie	Court	Coyote	Jones	Mort	Parley	Smitty	Ysengrin	#The truth is, both sides are as bad as each other.
+386	Annie	Court	Headmaster	Jones	Parley	Smitty	#Well... the headmaster was acting very rudely. He didn't seem to care at all about the meeting.
+385	Annie	Court	Jones	Parley	Smitty	#As a prediction, Mr. Parley filled out a birth certificate for his first born child early. he got the weight, date, time and everything correct... everything except the gender.
+384	Annie	Court	EugeneGould	Jones	Parley	Smitty	Sword	#Parley senior is the only person to have "officially" completed the Eugene Gould psychic challenge.
+383	Annie	Cards	Court	Jones	Parley	Smitty	#(Smitty flings the cards over his shoulder) And look! They're all in order too! Haha! It's like his super power is to make everything boring! / It would be more diplomatic to say Andrew can subconciously create order where there was none.
+382	Annie	Cards	Court	Jones	Parley	Smitty	#And that makes any one of us better suited to mediation than other students?
 381	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Smitty	#Grabbing a sword by the blade isn't a valid move, is it?
 380	CourtLogo	Eglamore	FencingHall	Jones	Sparring	Sword	#"The Carver girl"? Is that how you think of her? You need to watch your step, James.
 379	Eglamore	FencingHall	Jones	Sparring	Sword	#(Jones swiftly disarms Eglamore and grabs the sword)
