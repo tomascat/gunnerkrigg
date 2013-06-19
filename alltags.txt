@@ -1,4 +1,4 @@
-﻿113	A number that appears in many places in the court.
+113	A number that appears in many places in the court.
 Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq)
 Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps)
@@ -15,7 +15,7 @@ Annie	Antimony Carver, our protagonist ([fire](#fire) Head Girl)
 AnnieCut	The cut on [Annie](#annie)’s ethereal face from [Jeanne](#jeanne)’s [sword](#sword)
 AnnieJumper	[Annie](#annie)’s original school jumper
 AntiGravGenerator	An anti-gravity generator that [Kat](#kat) made for the science fair
-AntiGravShip	An anti-gravity ship that [Kat](#kat) made out of the [anti-gravity generator][#antigravgenerator]
+AntiGravShip	An anti-gravity ship that [Kat](#kat) made out of the [anti-gravity generator](#antigravgenerator)
 AntimonySymbol	The alchemical symbol for antimony; associated with [Annie](#annie) and [Surma](#surma)
 AntlerFae	‘that guy’ – big nose, sandy brown hair, can haz antlers
 Anwyn	could be described as tree elves but they don’t call themselves that
@@ -40,7 +40,7 @@ BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotk
 BlinkerStone	[Etheric](#etherics) lens device
 Blood	Circulatory fluid, supposed to be internal
 Blue	A crazy fairy obsessed with hair; friends with [Red](#red)
-Blush	Happy/embarrassed
+Blush	Happy/embarrassed/emotional
 BlushFae	‘her too’ – dark pink hair, two rosy cheeks (likes to wang tomatoes?)
 Boat	A vehicle for crossing [water](#water)
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of [Young’s Park](#youngspark) with his wife, [Marcia](#marcia)
@@ -309,14 +309,14 @@ Sweets	Tasty and sugary
 Symbol	Unidentified symbol (please help!)
 Sword	A long weapon with a blade held in one or two hands. Sometimes magical. Wielded by [Eglamore](#eglamore), [Parley](#parley), [Jeanne](#jeanne) among others
 Tea	Explains things in-between chapters
-Tears	In the eyes, visibly crying, <i>etc</i>
+Tears	In the eyes, visibly crying, _etc_
 Teacher	A miscellaneous teacher
 Telescope	Good for seeing celestial bodies, satellites and other things that are far away
 Tents	For sleeping inside, outside
-Terrible	[BoxBot](#boxbot) (<i>q.v.</i>)
+Terrible	[BoxBot](#boxbot)
 Thief	A robber, burglar, stealer.
 Thornhill	One of the other school Houses
-TicToc	Birdlike robotic watchers
+TicToc	Birdlike robotic watchers: the "Thousand Eyes"; [Zimmy](#zimmy) can feel its stare
 Tiki	A Polynesian totem
 TimeStop	When time is stopped from passing; [Coyote](#coyote) can do this.
 Tom	Tom Siddell, author of Gunnerkrigg Court
@@ -350,7 +350,7 @@ WolfToy	A small wolf toy made by [Annie](#annie)’s mother
 WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
 WoodenArm	A mysterious wooden arm from [Gillitie](#gillitie); initially attached to [Robot](#robot); finds its way to [Habitat](#habitat) [113](#113) and finally to [Young's Park](#youngspark)
 WorkshopKey	The key for [Kat](#kat)'s Workshop
-YellowFae	‘him’- yellow hair, kinda sideways windswept
+YellowFae	‘him’ - yellow hair, kinda sideways windswept
 YoungBot	A large, bull-like [robot](#robots) made by Diego that resembles [Sir Young](#siryoung)
 YoungsPark	A large park within the Court, looked after by [Bob](#bob) and his wife [Marcia](#marcia); named after [Sir Young](#siryoung), the original Protector of the Court
 Ysengrin	Wolf/Tree hybrid demigod of the [forest](#gillitie); [Coyote](#coyote)’s General
