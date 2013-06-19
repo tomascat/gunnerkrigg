@@ -133,7 +133,7 @@ Flying	Moving through the air, like superman
 Foley	One of the other school Houses
 ForestSymbol	The symbol [Gillitie](#gillitie) uses to message; has an “eye” within it
 Founding	The founding of the court.
-Gamma	[Gamma](#gamma) Czarnecki, a quiet girl from Poland who only speaks Polish; friends with [Zimmy](#zimmy) who she met in Birmingham; a Greek letter equivalent to our letter "G"
+Gamma	Gamma Czarnecki, a quiet girl from Poland who only speaks Polish; friends with [Zimmy](#zimmy) who she met in Birmingham; a Greek letter &Gamma;/&gamma; equivalent to our letter "G"
 Gear	A toothed cog device which articulates with similar gears or with chains in order to transmit mechanical energy; symbol of mechanical object or machine
 Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are, a.k.a. The Forest
@@ -150,7 +150,7 @@ GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
 GurtDog	A black dog/[psychopomp](#psychopomps) of Somerset; protects children and travellers
 Gym	School gymnasium
-Gytrash	A black dog/[psychopomp](#psychopomps) of Northern England; mentioned in Jane Eyre by Charlotte Bronte
+Gytrash	A black dog/[psychopomp](#psychopomps) of Northern England; mentioned in _Jane Eyre_ by Charlotte Bronte
 Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 HairdresserBot	a [robot](#robots) that cuts hair; lots of arms
@@ -238,7 +238,7 @@ Ocean	A whole bunch of [water](#water)
 Octopus	A flying / floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called [BobEyes](#bobeyes). Sister of [Torus](#torus)
 Ooze	What Martin, the lost boy's lizard turns into when it hits the floor
-Orb	The <i>Globus cruciger</i>, a Christian symbol of power, wielded by monarchs and Christ
+Orb	The _Globus cruciger_, a Christian symbol of power, wielded by monarchs and Christ
 Parley	George [Parley](#parley): Swordswoman, candidate for Court medium (Big Nose Girl); interested in [Smitty](#smitty)
 PartyHat	A Party hat, hats are fun!
 Paz	Paz Cadena-Blanco, Spanish, good with animals and can talk to them; is raising [CityFace](#cityface) with [Bobby](#bobby)
@@ -324,7 +324,7 @@ TomatoWangFae	likes to wang tomatoes. friends with BlushFae
 Tony	Anthony Carver, [Annie](#annie)’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of [Ogee](#ogee).
 Tower	A tower in the court where [Aly](#aly) is staying
-ToyShop	A toy shop in [Zimmingham](#zimmingham) where [Zimmy](#zimmy) and [Gamma](#gamma) meet up if they get seperated
+ToyShop	A toy shop in [Zimmingham](#zimmingham) where [Zimmy](#zimmy) and [Gamma](#gamma) meet up if they get separated
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Traitor	One who betrays their allies
@@ -332,7 +332,7 @@ Treatise	Symbolic representation of the story
 TreeBody	[Ysengrin](#ysengrin)’s artificial tree-like body. His true body underneath is a physically weaker, much older wolf
 TreeDog	They usually go woof, unless created by the [forest](#gillitie)
 Trees	Come as advertised (usually)
-Umbrella	Handheld cover to keep the rain off.
+Umbrella	Hand-held cover to keep the [rain](#rain) off.
 Uniform	An outfit one wears when on official business
 Valknut	A Norse triangular knot symbol, indicates a form of teleport/gateway such as that used by [Brinnie](#brinnie) or the [beacon](#beacon) that [Eglamore](#eglamore) gave to [Annie](#annie)
 Veles	Ancient Slav snake-like god who guards the underworld; [psychopomp](#psychopomps)
@@ -355,6 +355,6 @@ YoungBot	A large, bull-like [robot](#robots) made by Diego that resembles [Sir Y
 YoungsPark	A large park within the Court, looked after by [Bob](#bob) and his wife [Marcia](#marcia); named after [Sir Young](#siryoung), the original Protector of the Court
 Ysengrin	Wolf/Tree hybrid demigod of the [forest](#gillitie); [Coyote](#coyote)’s General
 ZAM	Noise of a [Valknut](#valknut) teleport
-Zeta	A Greek letter corresponding to our "Z"; [Zimmy](#zimmy)'s real name
+Zeta	A Greek letter &Zeta;/&zeta; corresponding to our "Z"; [Zimmy](#zimmy)'s real name
 Zimmingham	[Zimmy](#zimmy)'s nightmarish version of Birmingham
 Zimmy	aka Zeta, a strange girl who is friends with [Gamma](#gamma); from Birmingham originally
