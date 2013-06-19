@@ -311,25 +311,25 @@
 901	Annie	Buzzer	Jack	Janet	Kat	Margo	Paz	Robots	#well, we found out the court can track all our movements.
 900	Cover	Buzzer	#Icon: Students entering the Speakeasy <hr>Chapter 34: Faraway Morning (and three short tales)<hr>
 899	Bonus	Boxbot	Robots	Robox	Terrible	#<b>Bonus Page:</b>Helping Hand
-898	Angel	Robot	Robots	RobotTomb	Shadow	DiegoBot	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
-897	Annie	Kat	Heart	Robots	SeedBismuth	RobotTomb	DiegoBot	#CRACK (broken heart)
-896	Annie	Kat	Robot	Robots	RobotTomb	DiegoBot	#We belong here. A tribute to our father, and to a time passed
-895	Annie	Kat	Robot	Robots	RobotTomb	DiegoBot	#so I… I brought you back f-from the dead?
-894	Kat	Robots	RobotTomb	DiegoBot	#We left this world to our children and chose to end our lives
-893	Annie	Kat	Robots	RobotTomb	DiegoBot	#to be still is death, because if we are not useful then we are nothing
-892	Annie	Kat	Robot	Robots	RobotTomb	DiegoBot	#but then… this is your tomb
-891	Annie	Kat	Robot	Robots	Shadow	DiegoBot	#I apologise miss, I was startled
-890	Annie	Kat	KatsWorkshop	Robot	Robots	DiegoBot	#s-stop him!
-889	Annie	BlinkerStone	Kat	KatsWorkshop	Robot	Robots	DiegoBot	#SKANG!
-888	Annie	Kat	KatsWorkshop	Robot	Robots	DiegoBot	#I think I can make a bypass for it…
+898	Angel	DiegoBot	Robot	Robots	RobotTomb	Shadow	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
+897	Annie	DiegoBot	Kat	Heart	Robots	SeedBismuth	RobotTomb	#CRACK (broken heart)
+896	Annie	DiegoBot	Kat	Robot	Robots	RobotTomb	#We belong here. A tribute to our father, and to a time passed
+895	Annie	DiegoBot	Kat	Robot	Robots	RobotTomb	#so I… I brought you back f-from the dead?
+894	DiegoBot	Kat	Robots	RobotTomb	#We left this world to our children and chose to end our lives
+893	Annie	DiegoBot	Kat	Robots	RobotTomb	#to be still is death, because if we are not useful then we are nothing
+892	Annie	DiegoBot	Kat	Robot	Robots	RobotTomb	#but then… this is your tomb
+891	Annie	DiegoBot	Kat	Robot	Robots	Shadow	#I apologise miss, I was startled
+890	Annie	DiegoBot	Kat	KatsWorkshop	Robot	Robots	#s-stop him!
+889	Annie	BlinkerStone	DiegoBot	Kat	KatsWorkshop	Robot	Robots	#SKANG!
+888	Annie	DiegoBot	Kat	KatsWorkshop	Robot	Robots	#I think I can make a bypass for it…
 887	Annie	Kat	KatsWorkshop	Robot	Robots	Robotics	#I know how to get the old robots started up again
 886	Annie	Kat	KatsWorkshop	Robots	Robotics	#you… can read it?
 885	Annie	Kat	KatsWorkshop	Robot	Robots	Robotics	#Oh my god! This is incredible!
 884	Annie	BlinkerStone	Kat	KatsWorkshop	Robots	Robotics	#about that operating code you asked us to print…
-883	Annie	Kat	KatsWorkshop	Robots	DiegoBot	#but… this would mean Diego was a… magician, not a scientist
-882	Annie	Etherics	Kat	KatsWorkshop	Robots	Robotics	DiegoBot	#What if these are not really robots in the modern sense, but golems?
-881	Annie	Kat	Robots	KatsWorkshop	DiegoBot	#how come you guys picked a creepy looking robot
-880	Annie	DiegoStudy	Heart	Kat	Robotics	#the bad news is that all his work is written in gibberish
+883	Annie	DiegoBot	Kat	KatsWorkshop	Robots	#but… this would mean Diego was a… magician, not a scientist
+882	Annie	DiegoBot	Etherics	Kat	KatsWorkshop	Robots	Robotics	#What if these are not really robots in the modern sense, but golems?
+881	Annie	DiegoBot	Kat	Robots	KatsWorkshop	#how come you guys picked a creepy looking robot
+880	Annie	DiegoStudy	GolemHeart	Heart	Kat	Robotics	#the bad news is that all his work is written in gibberish
 879	Annie	Diego	DiegoStudy	Kat	Robots	#He somehow made machines that could move despite not having internal mechanisms like modern robots
 878	Robot	Roof	Shadow	Creeper	#should you really be following her around like this?
 877	Annie	Kat	Robot	Roof	SeedBismuth	#I wonder how the court was built
@@ -625,12 +625,12 @@
 587	Annie	Flowers	Jones	Smitty	Rey	#Don’t you think that was a little cruel?
 586	Annie	Dorm	Flowers	Jones	Parley	Smitty	Rey	#GET OUT! GET OUT! GET OUT!<br>LEAVE THE CHOCOLATES!
 585	Annie	Dorm	Flowers	Jones	Parley	Smitty	Sword	Rey	#Interesting. It may be that Parley possesses the power to distort space. A rare power.
-584	Annie	Flowers	Jones	Parley	Smitty	Steadman	Rey	#Ha! A flower? Y-you sap…
-583	Annie	Court	Diego	DiegoBot	Flowers	Gillitie	Jeanne	Jones	Robots	Rey	SirYoung	#Was there a woman among the humans by the name of Jeanne?
-582	Annie	Court	Flowers	Gillitie	Jones	Parley	Smitty	Rey	#Coyote Ysengrin and I didn’t arrive until… Later
-581	Annie	Court	Diego	Flowers	Gillitie	Jones	Parley	SeedBismuth	Simulation	SirYoung	Smitty	Rey	#It is known as the seed Bismuth. There is no record of exactly what it was
-580	Annie	Court	Diego	Gillitie	Jones	Parley	SeedBismuth	Simulation	SirYoung	Smitty	Rey	#This is a depiction of the beginnings of the court, before the division caused by Coyote
-579	Annie	Etherics	Jones	Parley	Simulation	Smitty	Rey	#Ok, please begin, Randy
+584	Annie	Flowers	Founding	Jones	Parley	Smitty	Steadman	Rey	#Ha! A flower? Y-you sap…
+583	Annie	Court	Diego	DiegoBot	Flowers	Founding	Gillitie	Jeanne	Jones	Robots	Rey	SirYoung	#Was there a woman among the humans by the name of Jeanne?
+582	Annie	Court	Flowers	Founding	Gillitie	Jones	Parley	Smitty	Rey	#Coyote Ysengrin and I didn’t arrive until… Later
+581	Annie	Court	Diego	Flowers	Founding	Gillitie	Jones	Parley	SeedBismuth	Simulation	SirYoung	Smitty	Rey	#It is known as the seed Bismuth. There is no record of exactly what it was
+580	Annie	Court	Diego	Founding	Gillitie	Jones	Parley	SeedBismuth	Simulation	SirYoung	Smitty	Rey	#This is a depiction of the beginnings of the court, before the division caused by Coyote
+579	Annie	Etherics	Founding	Jones	Parley	Simulation	Smitty	Rey	#Ok, please begin, Randy
 578	Annie	Flowers	Jones	Parley	Simulation	Smitty	Rey	#It’s obvious Carver is gonna be picked as the next medium
 577	Annie	Parley	Smitty	Rey	#I wager when she leaves the changing room her hands will soon find your body!
 576	Annie	Smitty	Rey	#Andrew, why do you let Parley talk to you like she does?
@@ -837,11 +837,11 @@
 375	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	Sword	#Haha! No, because indoors, and at close range, Jones would flatten me.
 374	Annie	CourtLogo	Eglamore	FencingHall	Jones	Parley	#Growing it out again, James?
 373	Annie	BismuthSymbol	Eglamore	FencingHall	Jones	Parley	Sword	#Almost as if you ally yourself with neither side. / A keen observation, Antimony. However, irrelevant.
-372	Annie	Court	Gillitie	Jones	Moon	Parley	SeedBismuth	Sparring	Sun	Sword	Trees	#But if the court has been without a medium since my mother left, why are there now suddenly three candidates?
-371	Annie	Court	Gillitie	Jones	SeedBismuth	Sword	#The court first took root in what was once the heart of Gillitie Wood
+372	Annie	Court	Founding	Gillitie	Jones	Moon	Parley	SeedBismuth	Sparring	Sun	Sword	Trees	#But if the court has been without a medium since my mother left, why are there now suddenly three candidates?
+371	Annie	Court	Founding	Gillitie	Jones	SeedBismuth	Sword	#The court first took root in what was once the heart of Gillitie Wood
 370	Annie	BismuthSymbol	FencingHall	Jones	Parley	Sparring	Sword	#It serves as a reminder that the court was founded on a union between technological and etheric design
 369	Annie	Eglamore	FencingHall	Jones	Parley	Sparring	Students	Sword	#You can soon take stock of a person when you give them a blade.
-368	Annie	BismuthSymbol	Eglamore	FencingHall	Jones	Parley	Sword	#(Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
+368	Annie	BismuthSymbol	CourtLogo	Eglamore	FencingHall	Jones	Parley	Sword	#(Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
 367	Annie	Court	Jones	#I had no idea she worked here. She never mentioned it. / Oh? that was your father's influence, I suspect.
 366	Annie	Court	Jones	#He asked me to visit him in the forest.
 365	Annie	Court	Jones	#Yes... lessons in mediation sound interesting.
