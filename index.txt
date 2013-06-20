@@ -953,7 +953,7 @@
 259	Annie	Court	Coyote	Gillitie	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#And the second was when a god emerged from Gillitie Wood.
 258	Cover	Annie	Court	Coyote	#Icon: Coyote in front of the Sun <hr>Chapter 14: The Fangs Of Summertime<hr>
 257	Bonus	Annie	Kat	#<b>Bonus Page: </b>A Question of Taste (Kat checks out some "hot guy" with Annie)
-256	Annie	Kat	Tower	#Kat... You don't have to hid your tears. / How could I cry after a week like that?
+256	Annie	Court	Gillitie	Kat	Tower	#Kat... You don't have to hid your tears. / How could I cry after a week like that?
 255	Aly	Kat	Kershaws	Kiss	Tower	#And she never saw him again
 254	Aly	Kat	Tower	#Ugh! It-it's happening a lot faster now... I th-think... I... (Aly transforms)
 253	Aly	Blush	Kat	Kershaws	Tower	#Um... you can have my stuff if you want.
@@ -962,34 +962,34 @@
 250	Aly	Kat	Tower	#I didn't want you to see me like this
 249	Aly	Annie	Kat	Tower	#I-I think that's him, all wrapped up.
 248	Annie	Classroom	Court	Kat	#You will see Alistair before he leaves.
-247	Aly	Annie	Court	Kat	#I'm really sorry Kat. It-it was good to meet you.
+247	Aly	Annie	Court	Kat	#Friday: I'm really sorry Kat. It-it was good to meet you.
 246	Aly	Blush	Kat	Library	#I'll miss you too! I w-wish yiou could have stayed longer.
 245	Aly	Annie	Blush	Kat	Library	#Well then! If you will excuse me. I have to... find... a... book.
 244	Aly	Annie	Classroom	Dorm	Kat	#So what's first today, guys?
 243	Annie	Blush	Dorm	Kat	#Even I can see Alistair likes you as you are.
 242	Annie	Crying	Dorm	Kat	MakeUp	#Much better, yes?
-241	Annie	Crying	Dorm	Kat	MakeUp	#(Kat has done very horrible makeup on herself and is crying)
+241	Annie	Crying	Dorm	Kat	MakeUp	#Thursday: (Kat has done very horrible makeup on herself and is crying)
 240	Aly	Annie	Blush	Kat	Gym	#He's very light, that must be how he can jump so... What?! What's wrong with you?!
 239	Aly	Annie	Kat	Gym	#(Annie picks Aly up and moves him around)
 238	Aly	Annie	Eglamore	Gym	#Don't want to get yourself hurt two days before your parents get here.
 237	Aly	Annie	Gym	Kat	Winsbury	#(Aly steals the basketball from Winsbury and does a SLAM DUNKIN)
-236	Aly	Annie	Gym	Kat	Winsbury	#And what are you wearing a scarf and gloves inside for man?
-235	Aly	Annie	BismuthSymbol	Kat	#Are you going to a new school?
+236	Aly	Annie	Gym	Kat	SkullCrossBones	Winsbury	#Wednesday: And what are you wearing a scarf and gloves inside for man?
+235	Aly	Annie	BismuthSymbol	Kat	#Tuesday: Are you going to a new school?
 234	Annie	Dorm	Kat	#He thinks the Prodigy's Fat of the Land is better than Music for the Jilted Generation / I have no idea what you just said
-233	Aly	AlyShirt	Annie	Grounds	Kat	#(Aly and Kat talk about popular culture while Annie looks a bit left out)
+233	Aly	AlyShirt	Annie	Grounds	Kat	#(Aly and Kat talk about popular culture while Annie looks increasingly left out)
 232	Aly	AlyShirt	Annie	Court	Kat	#Sorry about Winsbury by the way, he can be a real jerk
 231	Aly	AlyShirt	Anja	Annie	Classroom	Kat	Winsbury	#Before we start: Alistair here will be joining you for classes this week.
-230	Aly	AlyShirt	Anja	Annie	Classroom	Kat	Winsbury	#I didn't realise this was some sort of fashion advice seminar.
-229	Aly	AlyShirt	Annie	BeckyGround	Classroom	Kat	Students	Winsbury	#I wonder who that boy is.
+230	Aly	AlyShirt	Anja	Annie	Blush	Classroom	Kat	Winsbury	#I didn't realise this was some sort of fashion advice seminar.
+229	Aly	AlyShirt	Annie	BeckyGround	Classroom	Kat	Students	Winsbury	#Monday: I wonder who that boy is.
 228	Cover	Kat	#Icon: Tower <hr>Chapter 13: A Week For Kat<hr>
-227	Bonus	Annie	Dorm	Rey	#<b>Bonus Page:</b> Adonis in Stitches (Rey tries to excite Annie by generating a muscly human body)
-226	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#Well, now that we have you back, Robot, we should do something about your body.
-225	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#It’s a wonder my fool cousin hasn’t already retaliated.
+227	Bonus	Annie	Dorm	Rey	#**Bonus Page:** Adonis in Stitches (Rey tries to excite Annie by generating a muscly human body)
+226	Annie	Kat	Rey	Robot	ScienceLab	Shadow	WolfToy	#Well, now that we have you back, Robot, we should do something about your body.
+225	Annie	Kat	Rey	Robot	ScienceLab	Shadow	WolfToy	#It’s a wonder my fool cousin hasn’t already retaliated.
 224	Annie	Annan	Gillitie	Kat	Rey	Robot	#The people of the forest will be wanting answers!
 223	Annie	Bridge	Gillitie	Robot	Seeds	Shadowman	WoodenArm	#A ShadowMan took control of my body!
 222	Annie	Gillitie	Rey	Robot	ScienceLab	Ysengrin	#I remember. I crossed the bridge and the Shadow man joined his family
-221	Annie	Kat	Rey	Robot	ScienceLab	#Am… am I in heaven?! I see an Angel before me!
-220	Annie	BismuthSymbol	Kat	Robot	ScienceLab	#This docking station has a camera, speaker and microphone, so the Robot will be able to see, speak and hear.
+221	Angel	Annie	Kat	Rey	Robot	ScienceLab	Tears	#Am… am I in heaven?! I see an Angel before me!
+220	Annie	BismuthSymbol	Kat	Robot	ScienceLab	Tears	#This docking station has a camera, speaker and microphone, so the Robot will be able to see, speak and hear.
 219	Annie	AntimonySymbol	DoorBot	Rey	Robot	RobotHQ	Robots	SecurityRobots	StarHeadband	#Open the door, please, Mister Door Robot!
 218	AdminBot	Annie	AntimonySymbol	Rey	Robot	RobotHQ	Robots	SecurityRobots	StarHeadband	#Oh my, how polite! And such a curious design
 217	Annie	AntimonySymbol	Rey	Robot	RobotHQ	Robots	SecurityRobots	StarHeadband	#Oh, I do so dislike alarms
