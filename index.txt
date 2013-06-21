@@ -729,13 +729,13 @@
 483	Annie	Gillitie	Shadowmen	Trees	Ysengrin	#(Annie and Ysengrin walk through the forest, watched by Shadowmen, until they reach a glade)
 482	Annie	Eglamore	Gillitie	Moon	Stars	Sword	Trees	Uniform	Ysengrin	#You will take me to Coyote now
 481	Annie	Eglamore	Gillitie	Moon	Stars	Sword	Trees	Uniform	Ysengrin	#Eglamore stays here. He is not welcome.
-480	Annie	Beacon	Bridge	Eglamore	LeadSymbol	Sword	Uniform	#At the first sign of trouble, snap this beacon
-479	Annie	Bridge	Eglamore	LeadSymbol	Sword	Uniform	#Do you really need all those swords?
+480	Annie	Beacon	Bridge	CourtLogo	Eglamore	LeadSymbol	Sword	Uniform	#At the first sign of trouble, snap this beacon
+479	Annie	Bridge	CourtLogo	Eglamore	LeadSymbol	Sword	Uniform	#Do you really need all those swords?
 478	Annie	Bridge	CourtSymbol	Eglamore	ForestSymbol	Jones	LeadSymbol	Sword	Uniform	#Well, no need to keep them waiting.
-477	Annie	Armoury	Eglamore	Jones	Uniform	#Is the forest really so dangerous?
-476	Annie	Armoury	Eglamore	Jones	Uniform	#Try not to undress the female students James.
-475	Annie	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
-474	Annie	Dirty	Dorm	Kat	Rey	Surma	Uniform	#Surma made this body?
+477	Annie	Armoury	Eglamore	Jones	Sword	Uniform	#Is the forest really so dangerous?
+476	Annie	Armoury	Eglamore	Jones	Sword	Uniform	#Try not to undress the female students James.
+475	Annie	CourtLogo	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
+474	Annie	CourtLogo	Dirty	Dorm	Kat	Rey	Surma	Uniform	#Surma made this body?
 473	Cover	Annan	Annie	Arrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gear	Gillitie	Jeanne	LeadSymbol	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Icon: Coyote <hr>Chapter 20: Coyote Stories<hr>
 472	Bonus	Mandolin	Margo	SullivansJohn	#<b>Bonus page:</b> Time for Music
 471	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	#Yes. More questions as to what this place rally is.
