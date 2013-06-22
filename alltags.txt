@@ -14,8 +14,7 @@ Annan	Annan Waters, a wide river in a deep gorge
 Annie	Antimony Carver, our protagonist ([fire](#fire) Head Girl)
 AnnieCut	The cut on [Annie](#annie)’s ethereal face from [Jeanne](#jeanne)’s [sword](#sword)
 AnnieJumper	[Annie](#annie)’s original school jumper
-AntiGravGenerator	An anti-gravity generator that [Kat](#kat) made for the science fair
-AntiGravShip	An anti-gravity ship that [Kat](#kat) made out of the [anti-gravity generator](#antigravgenerator)
+AntiGrav	An anti-gravity generator that [Kat](#kat) makes for a science fair, and converts to a "ship" (flier) later
 AntimonySymbol	The alchemical symbol for antimony; associated with [Annie](#annie) and [Surma](#surma)
 AntlerFae	‘that guy’ – big nose, sandy brown hair, can haz antlers
 Anwyn	could be described as tree elves but they don’t call themselves that
@@ -123,10 +122,10 @@ FireElemental	A personification of [fire](#fire), represented with a [FireSpike]
 FireHose	A hose to put out a [fire](#fire)
 FireSpike	A spiky [fire](#fire) crown associated with [Fire Elementals](#fireelemental)
 FireSymbol	The alchemical symbol for [fire](#fire)
-FishFae	‘a fish guy?’ — concentrating on making himself handsome, former fish
+FishFae	‘a fish guy?’ -- concentrating on making himself handsome, former fish
 Fish	Aquatic animal, fish live in [water](#water) and breathe through gills
 Flashback	Things that happened in the past
-FlowerFae	‘this one’ – purple hair, green bar under left eye
+FlowerFae	‘this one’ -- purple hair, green bar under left eye
 FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
 Flowers	Colourful plants that grow from the ground. Often given as gifts.
 Flying	Moving through the air, like superman
@@ -144,7 +143,7 @@ Gol-shogeg	Big worm slug monster
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
 GoodHope	Good Hope Hospital is where [Surma](#surma) was before she died
 GreenArrow	Green arrow with horseshoe tip. Created by Diego, shot by steadman, hit Jeanne's Lover in the [Annan](#annan)
-GreenFae	‘this other one’ - long straight green hair
+GreenFae	‘this other one’ -- long straight green hair
 Grounds	The grounds/gardens of Gunnerkrigg Court
 GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
@@ -346,7 +345,7 @@ WaterFae	‘this girl’ – short blue spikey hair, 2 dots under right eye, had
 WaterSymbol	Alchemical symbol for [water](#water)
 WhiteSpider	Also known as WhiteLegs, associated with [Jack](#jack) Hyland’s [etheric](#etherics) form when he got stuck in [Zimmingham](#zimmingham), until [Zimmy](#zimmy) helped him get rid of it.
 Winsbury	William (Willie) Winsbury; student with [Annie](#annie) and [Kat](#kat), not a very nice boy; dating [Janet](#janet)
-WolfToy	A small wolf toy made by [Annie](#annie)’s mother
+WolfToy	A small wolf toy made by [Annie](#annie)’s mother (tagged when _not_ animated by [Reynardine](#rey))
 WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
 WoodenArm	A mysterious wooden arm from [Gillitie](#gillitie); initially attached to [Robot](#robot); finds its way to [Habitat](#habitat) [113](#113) and finally to [Young's Park](#youngspark)
 WorkshopKey	The key for [Kat](#kat)'s Workshop
