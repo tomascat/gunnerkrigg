@@ -1,8 +1,13 @@
 $("document").ready(function(){
+	
+	// Initialise "things to copy" array, "comic number" and the zeroclipboard thingo
 	var thingstocopy = []
 	var comicnumber
+	var comicComment = ""
+	var recentTags = []
 	var clip = new ZeroClipboard($(".copyit"))
 	
+	// Function that moves cursor to end of text field when clicked on
 	function moveCaretToEnd(el) {
 		if (typeof el.selectionStart == "number") {
 			el.selectionStart = el.selectionEnd = el.value.length;
@@ -14,27 +19,28 @@ $("document").ready(function(){
 		}
 	}
 	
+	// Attach function that moves cursor to end of text input field
 	$("#tocopy").on("focus",function(){
 		moveCaretToEnd(this);
 		
 		// Work around Chrome's little problem
-		textarea.onmouseup = function() {
+		$(this).onmouseup = function() {
 			// Prevent further mouseup intervention
 			moveCaretToEnd(this);
-			textarea.onmouseup = null;
+			$(this).onmouseup = null;
 			return false;
 		};
 	})
 	
-	$(".tagcloud").css('font-size',function(){
-		String($(this).data("size"))+"px"
-	})
+	// Load the comic selected in the dropdown field
 	$(".title").on("change",function(){
 		$(".tag").addClass('hidden')
 		$(".comic").addClass('hidden')
 		
 		var classComicNumber = '.'+$(this).val()
-		
+		comicComment = ""
+		var comicCommentSplit = $(this).find('option[value*="'+$(this).val()+'"]').html().split(": ")
+		comicComment = comicCommentSplit.slice(1).join(": ")
 		var comicurl = "http://gunnerkrigg.com/?p="+String($(this).val())
 		var comicframe = "<div class='comic "+$(this).val()+"'><iframe src='" + comicurl + "' width=800 height=800 /></div>"
 		$(".comic").replaceWith(comicframe)
@@ -50,9 +56,10 @@ $("document").ready(function(){
 			thingstocopy.push(tagname)
 		})
 		comicnumber=String($(this).val())
-		$("#tocopy").val(comicnumber+thingstocopy.sort().join("\t")+"\t")
+		$("#tocopy").val(comicnumber+thingstocopy.sort().join("\t")+"\t#"+comicComment)
 	})
 	
+	// "next" and "previous" buttons - load the next or previous page by triggering a change in the dropdown menu
 	$(".previous").on("click",function(){
 		var classComicNumber = $(this).closest("#comics").find(".comic").attr("class").split(" ")[1]
 		$(".title").val(parseInt(classComicNumber)-1)
@@ -65,7 +72,8 @@ $("document").ready(function(){
 		$(".title").trigger("change")
 	})
 	
-	$(".tagcloud").on("click",function(){
+	// Put clicked tags into the "to copy" text field; remove them if that tag is already selected; add tags to the "recent" div
+	$("#cloud").on("click",".tagcloud",function(){
 		$(this).toggleClass("highlighted")
 		var classname = $(this).attr("class").split(" ")[1]
 		var indexof = thingstocopy.indexOf(classname)
@@ -76,10 +84,24 @@ $("document").ready(function(){
 			thingstocopy.splice(indexof,1)
 		}
 		if (comicnumber) {
-			$("#tocopy").val(comicnumber+thingstocopy.sort().join("\t")+"\t")
+			$("#tocopy").val(comicnumber+thingstocopy.sort().join("\t")+"\t#"+comicComment)
 		}
 		else {
-			$("#tocopy").val(thingstocopy.sort().join("\t")+"\t")
+			$("#tocopy").val(thingstocopy.sort().join("\t")+"\t#"+comicComment)
 		}
+		if (recentTags.indexOf(classname) == -1) {
+			recentTags.push(classname)
+			var appendRecent = "Recent Tags: "
+			for (i=0;i<recentTags.length;i++){
+				var currentTag = recentTags.sort()[i]
+				appendRecent+='<span class="tagcloud '+currentTag
+				if ($("."+currentTag).hasClass("highlighted")) {
+					appendRecent+=' highlighted'
+				}
+				appendRecent+='">'+recentTags.sort()[i]+'</span> '
+			}
+		}
+
+		$(".recent").html(appendRecent)
 	})
 })

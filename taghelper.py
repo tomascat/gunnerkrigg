@@ -51,7 +51,7 @@ with open('index.txt','r') as findex:
 			toWrite.append(">"+field[i]+"</span>")
 
 #end the 'current comic tags' and start the tag list section, starting with the recent tags section
-toWrite.append("\n\t\t</div>\n\t\t<div id='cloud'>\n\t\t\t<div class='recent'></div>")
+toWrite.append("\n\t\t</div>\n\t\t<div id='cloud'>\n\t\t\t<div class='recent'>Recent Tags: </div>")
 
 #output the 30 most common tags
 for (key,counter) in tagCloud.most_common(30):

@@ -1,3 +1,5 @@
+1215	Anja	Court	DanielRSchiff	Donny	Eglamore	Etherics	EyeCrossed	Flashback	Hetty	Rey	Sivo	Surma	#Danny? / No, it's me... Reynardine! / SIGH.
+1214	AntimonySymbol	Coyote	DanielRSchiff	Flashback	Gillitie	Sky	Stars	#but if I take his body... he could die!
 1213	AntimonySymbol	Court	GraveYard	DanielRSchiff	Hetty	Rey	#(A field of the dead. Hetty the doll watches white wolf Reynard contemplate Daniel R Schiff's headstone)
 1212	Adam	Court	Hetty	Rey	#So you persist in tormenting him?
 1211	Adam	AntimonySymbol	Court	GlassFiber	Hetty	Rey	#Up to more acts of unspeakable evil today, Hetty? (Adam 1st reference)
@@ -344,29 +346,29 @@
 870	Cover	GolemHeart	RobotDesigns	#Icon: RobotDesigns <hr>Chapter 33: Give and Take<hr>
 869	Annie	Filler	Kat	PrincessMononoke	Rey	#Moro
 868	Annie	Filler	Kat	PrincessMononoke	Rey	#Bah! It’s some manner of animated picture?
-867	Bonus	Bud	Dorm	Habitat	Lindsey	#<b>Bonus Page:</b> Welcome to Year 9!
-866	Annie	Boots	Dorm	Etherics	Kat	Rey	#It is with love that I must inform you that you really gotta take a shower
-865	Annie	Dorm	Kat	Rey	PrincessMononoke	#I just want to go back to being friends
-864	Annie	Dorm	Kat	Lindsey	#traumatized Kat<br>Tom: Next: A rhino beetle that enjoys Sudoku.
-863	Annie	Dorm	Kat	Lindsey	Rey	#Girls, this is Lindsey
-862	Annie	Dorm	Kat	Lindsey	Rey	BlinkerStone	#Okay that is quite enough thank you
-861	Annie	Dorm	Kat	Lindsey	#Ahhh! I touched it! With my hand!
-860	Annie	Dorm	Kat	Lindsey	#What is this thing? It’s seriously creeping me out, haha
-859	Kat	Dorm	Lindsey	#Haha! Okay Annie. Now I’m impressed
-858	Annie	Dorm	Kat	#Enough already!<br>Tom: Not even sure how she’s doing that in panel 2.
-857	Annie	Basil	Kat	Red	#Hey, fats mcgee! Be friends with lady tubsalot again!
-856	Annie	Kat	Mort	Shadow	#I’m supposed to tell you she’s been kidnapped by evil dino-demons
-855	Annie	Kat	Robot	#All right guys, have fun
-854	Annie	BlinkerStone	Kat	Robot	#Kat! Robot has gone mad!
-853	Kat	Robot	#Must. Cause. Inconvenience.
-852	Annie	Dorm	Kat	#Sometimes… you kinda make it hard to be your friend
-851	Annie	Dorm	Kat	#I’m so sorry about the summer holiday
-850	Annie	Boots	Dorm	Kat	Rey	#Kat, I made these for you!
-849	Annie	Dorm	Rey	#I have no idea what this thing does
-848	Annie	Dorm	Rey	#I wish I hadn’t been so cruel to you Reynard
-847	Annie	Anwyn	Bind	CoyoteTooth	Dorm	Homework	Khepi	Rey	#I’m so sorry for what I said
-846	Annie	Rey	Gillitie	Dorm	#Oh! You smell like the forest!
-845	Dorm	Rey	#Waiting Reynardine
+867	Bonus	Bud	Dorm	Habitat	Lindsey	SubDorm	#<b>Bonus Page:</b> Welcome to Year 9!
+866	Annie	Boots	Dirty	Dorm	Etherics	Kat	Rey	SubDorm	#It is with love that I must inform you that you really gotta take a shower
+865	Annie	AntimonySymbol	Dorm	Kat	PrincessMononoke	Rey	SubDorm	#I just want to go back to being friends
+864	Annie	Dirty	Dorm	Kat	Lindsey	SubDorm	#(traumatized Kat) <br>Tom: Next: A rhino beetle that enjoys Sudoku.
+863	Annie	Dorm	Kat	Lindsey	LindseyComputer	Rey	SubDorm	#Girls, this is Lindsey
+862	Annie	AntimonySymbol	BlinkerStone	Dorm	Kat	Lindsey	LindseyComputer	Rey	SubDorm	#Okay that is quite enough thank you
+861	Annie	Dorm	Kat	Lindsey	SubDorm	#Ahhh! I touched it! With my hand!
+860	Annie	Dorm	Kat	Lindsey	SubDorm	#What is this thing? It’s seriously creeping me out, haha
+859	Dorm	Kat	SubDorm	#Haha! Okay Annie. Now I’m impressed
+858	Annie	Dirty	Dorm	Kat	Lindsey	SubDorm	#Enough already! <br>Tom: Not even sure how she’s doing that in panel 2.
+857	Annie	Basil	Kat	Red	SubDorm	#Hey, fats mcgee! Be friends with lady tubsalot again!
+856	Annie	Kat	Mort	Shadow	SubDorm	#I’m supposed to tell you she’s been kidnapped by evil dino-demons
+855	Annie	BlinkerStone	Dirty	Kat	Robot	SubDorm	#All right guys, have fun
+854	Annie	BlinkerStone	Dirty	Kat	Robot	SubDorm	#Kat! Robot has gone mad!
+853	Kat	Robot	SubDorm	#Must. Cause. Inconvenience.
+852	Annie	Dirty	Dorm	Kat	Lindsey	SubDorm	#Sometimes… you kinda make it hard to be your friend
+851	Annie	Dirty	Dorm	Jones	Kat	SubDorm	#I’m so sorry about the summer holiday
+850	Annie	AntimonySymbol	Boots	Dirty	Dorm	Kat	Rey	SubDorm	#Kat, I made these for you!
+849	Annie	AntimonySymbol	Dirty	Dorm	LindseyComputer	Rey	SubDorm	#I have no idea what this thing does
+848	Annie	AntimonySymbol	Dirty	Dorm	Rey	SubDorm	#I wish I hadn’t been so cruel to you Reynard
+847	Annie	AntimonySymbol	Anwyn	Bind	CoyoteTooth	Dirty	Dorm	Homework	Khepi	Rey	SubDorm	#I’m so sorry for what I said
+846	Annie	AntimonySymbol	Dirty	Dorm	Gillitie	Rey	SubDorm	#Oh! You smell like the forest!
+845	AntimonySymbol	Dorm	Rey	SubDorm	#(Reynardine is waiting, looking outside, sadly, in the Submarine dorm)
 844	Cover	Flowers	#Icon: SubDorm <hr>**Year 9**<hr>Chapter 32: From the Forest She Came<hr>
 843	Filler	BobEyes	CityFace	Ogee	Torus	#Crow: Stop it. Stop all this nonsense
 842	Filler	BobEyes	CityFace	Ogee	Torus	#I think they are horrible liars

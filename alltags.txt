@@ -200,6 +200,7 @@ Letter	A written communication
 Library	Includes [robot](#robots) parts (!)
 Lightning	Clouds and electricity... ZZZAAAPP!
 Lindsey	[dorm](#subdorm) monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon; wife of [Bud](#bud)
+LindseyComputer	[Lindsey](#lindsey)'s computer translates for her
 Lockpicks	[Annie](#annie) has some lockpicks which she stores in the WolfToy/[Rey](#rey)’s body
 MakeUp	Cosmetics to define or enhance appearance, particulaly of the face, eyes and mouth
 Mallt-y-nos	Matilda of the Night, Night Malt; Welsh [psychopomp](#psychopomps)/crone/witch; rides with the [Cŵn Annwn](#cwnannwn) (hounds of the underworld)
