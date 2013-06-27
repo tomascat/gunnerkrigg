@@ -1157,8 +1157,8 @@
 59	Cover	Annie	Court	#Icon: Annie in the Court <hr>Chapter 4: Not Very Scary<hr>
 58	Bonus	EugeneGould	HardwickLittleBestiary	RogatOrjak	#**Bonus Page:** Rogat Orjak (Hardwick and Little’s Bestiary)
 57	AnimalCells	Annie	Dorm	Eglamore	Kat	Rey	#I never got a chance to ask about my mother
-56	AnimalCells	Annie	Eglamore	EyeCrossed	LeadSymbol	SivoBody	Rey	#When he leaves a body, it dies.
-55	AnimalCells	Annie	Eglamore	EyeCrossed	LeadSymbol	SivoBody	#The body originally belonged to a Rogat Orjak named Sivo
+56	AnimalCells	Annie	Eglamore	EyeCrossed	LeadSymbol	Sivo	Rey	#When he leaves a body, it dies.
+55	AnimalCells	Annie	Eglamore	EyeCrossed	LeadSymbol	Sivo	#The body originally belonged to a Rogat Orjak named Sivo
 54	AnimalCells	Annie	AntimonySymbol	Eglamore	EyeCrossed	Lockpicks	Rey	MercurySymbol	WolfToy	#(Rey’s spirit enters the Wolf Toy instead)
 53	AnimalCells	Annie	Eglamore	LeadSymbol	Rey	MercurySymbol	WolfToy	#(Rey leaves his body as a spirit and hovers over Annie. Eglamore knocks Annie out of the way)
 52	AnimalCells	Annie	Rey	MercurySymbol	WolfToy	#In fact what I need is… your body!

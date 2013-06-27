@@ -283,7 +283,7 @@ Shell	An employee (Security guard??) of the court, alongside Aata
 SimRocket	A rocket/spaceship in [Dr. Disaster](#drdisaster)’s [simulation](#simulation)
 Simulation	One of [Dr. Disaster](#drdisaster)’s holographic adventures
 SirYoung	Protector of the Court at its [founding](#founding)
-SivoBody	A deceased [Rogat Orjak](#rogatorjak)
+Sivo	A [Rogat Orjak](#rogatorjak) who was close friends with [Eglamore](#eglamore)
 Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data
 Skull	The bone surrounding the brain
