@@ -1,3 +1,4 @@
+1216	AntimonySymbol	GraveYard	Hetty	Rey	#How long are you going to feel sorry for yourself over this man?
 1215	Anja	Court	DanielRSchiff	Donny	Eglamore	Etherics	EyeCrossed	Flashback	Hetty	Rey	Sivo	Surma	#Danny? / No, it's me... Reynardine! / SIGH.
 1214	AntimonySymbol	Coyote	DanielRSchiff	Flashback	Gillitie	Sky	Stars	#but if I take his body... he could die!
 1213	AntimonySymbol	Court	GraveYard	DanielRSchiff	Hetty	Rey	#(A field of the dead. Hetty the doll watches white wolf Reynard contemplate Daniel R Schiff's headstone)
