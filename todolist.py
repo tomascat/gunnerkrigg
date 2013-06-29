@@ -30,5 +30,5 @@ with codecs.open('index.txt',"r","utf-8-sig") as f:
 
 s = ''.join(toWrite)
 
-with open('todo.txt',"w") as ftodo:
+with codecs.open('todo.txt',"w","utf-8") as ftodo:
 	ftodo.write(s)

@@ -1,23 +1,23 @@
 #! python
 # -*- coding: utf-8 -*-
 
-import string
 import collections
+import codecs
 
 #initialise variables
 toWrite = []
 tagCloud = collections.Counter()
 pageDescriptions = {}
 tagDescriptions = {}
-numberOfComics = 1211
+numberOfComics = 1216
 
 #add the heading html
-with open('headingtaghelper.txt','r') as fheading:
+with codecs.open('headingtaghelper.txt','r', "utf-8-sig") as fheading:
 	for line in fheading:
 		toWrite.append(line)
 
 #populate the comic page descriptions from the last entry in index.txt
-with open('index.txt','r') as findex:
+with codecs.open('index.txt','r', "utf-8-sig") as findex:
 	for line in findex:
 		field = line.split("\t")
 		pageDescriptions[int(field[0])] = field[-1][1:-1]
@@ -30,16 +30,20 @@ for x in reversed(xrange (1,numberOfComics)):
 	toWrite.append("</option>")
 
 #create the text input and 'copy to clipboard' button, the prev/next buttons, the comic div and the start of the tag section
-toWrite.append("</select><br /><br />\n\t\t\t Description: <input type='text' id='tocopy'><input type='submit' class='copyit' value='Copy To Clipboard' data-clipboard-target='tocopy'>\n\t\t</div>\n\t\t<div id='comics'>\n\t\t\t<span class='previous'><< Previous</span> <span class='next'>Next >></span>\n\t\t\t<div class='comic'></div>\n\t\t</div>\n\t\t<div id='tags'>\n\t\t\t<div id='current'>")
+toWrite.append("</select><br /><br />" +
+	"\n\t\t\t Description: <input type='text' id='tocopy'><input type='submit' class='copyit' value='Copy To Clipboard' data-clipboard-target='tocopy'>" +
+	"\n\t\t</div>\n\t\t<div id='comics'>" +
+	"\n\t\t\t<span class='previous'><< Previous</span> <span class='next'>Next >></span>" +
+	"\n\t\t\t<div class='comic'></div>\n\t\t</div>\n\t\t<div id='tags'>\n\t\t\t<div id='current'>")
 
 #populate the tag dictionary
-with open("alltags.txt","r") as ftags:
+with codecs.open("alltags.txt","r", "utf-8-sig") as ftags:
 	for line in ftags:
 		field = line.split("\t")
 		tagDescriptions[field[0]]=field[1]
 
 #populate the tagcloud counter and output the 'current comic tags' section
-with open('index.txt','r') as findex:
+with codecs.open('index.txt','r', "utf-8-sig") as findex:
 	for line in findex:
 		field = line.split("\t")
 		tagCloud.update(field[1:-1])
@@ -75,11 +79,11 @@ for tag in sorted(tagCloud):
 		startCharOld = ord(tag.upper()[0])
 
 #add the ending html
-with open('endingtaghelper.txt','r') as fending:
+with codecs.open('endingtaghelper.txt','r', "utf-8-sig") as fending:
 	for line in fending:
 		toWrite.append(line)
 
 #convert the toWrite array to a string and write that string to taghelper.htm
 s = ''.join(toWrite)
-with open("taghelper.htm","w") as ftagged:
+with codecs.open("taghelper.htm","w", "utf-8") as ftagged:
 	ftagged.write(s)

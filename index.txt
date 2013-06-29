@@ -317,33 +317,33 @@
 900	Cover	Buzzer	#Icon: Students entering the Speakeasy <hr>Chapter 34: Faraway Morning (and three short tales)<hr>
 899	Bonus	Boxbot	Robots	Robox	Terrible	#<b>Bonus Page:</b>Helping Hand
 898	Angel	DiegoBot	Robot	Robots	RobotTomb	Shadow	#Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
-897	Annie	DiegoBot	Kat	Heart	Robots	SeedBismuth	RobotTomb	#CRACK (broken heart)
+897	Annie	DiegoBot	GolemHeart	Heart	Kat	RobotTomb	Robots	SeedBismuth	#CRACK (broken heart)
 896	Annie	DiegoBot	Kat	Robot	Robots	RobotTomb	#We belong here. A tribute to our father, and to a time passed
-895	Annie	DiegoBot	Kat	Robot	Robots	RobotTomb	#so I… I brought you back f-from the dead?
+895	Annie	DiegoBot	Flashback	Kat	Robot	RobotTomb	Robots	#so I… I brought you back f-from the dead?
 894	DiegoBot	Kat	Robots	RobotTomb	#We left this world to our children and chose to end our lives
 893	Annie	DiegoBot	Kat	Robots	RobotTomb	#to be still is death, because if we are not useful then we are nothing
-892	Annie	DiegoBot	Kat	Robot	Robots	RobotTomb	#but then… this is your tomb
+892	Annie	DiegoBot	Flashback	Kat	Robot	RobotTomb	Robots	#but then… this is your tomb
 891	Annie	DiegoBot	Kat	Robot	Robots	Shadow	#I apologise miss, I was startled
 890	Annie	DiegoBot	Kat	KatsWorkshop	Robot	Robots	#s-stop him!
 889	Annie	BlinkerStone	DiegoBot	Kat	KatsWorkshop	Robot	Robots	#SKANG!
-888	Annie	DiegoBot	Kat	KatsWorkshop	Robot	Robots	#I think I can make a bypass for it…
-887	Annie	Kat	KatsWorkshop	Robot	Robots	Robotics	#I know how to get the old robots started up again
-886	Annie	Kat	KatsWorkshop	Robots	Robotics	#you… can read it?
-885	Annie	Kat	KatsWorkshop	Robot	Robots	Robotics	#Oh my god! This is incredible!
-884	Annie	BlinkerStone	Kat	KatsWorkshop	Robots	Robotics	#about that operating code you asked us to print…
-883	Annie	DiegoBot	Kat	KatsWorkshop	Robots	#but… this would mean Diego was a… magician, not a scientist
-882	Annie	DiegoBot	Etherics	Kat	KatsWorkshop	Robots	Robotics	#What if these are not really robots in the modern sense, but golems?
+888	Annie	DiegoBot	GolemHeart	Kat	KatsWorkshop	Moon	Robot	Robots	Sky	Sun	#I think I can make a bypass for it…
+887	Annie	Kat	KatsWorkshop	Robot	RobotCode	RobotDesigns	Robots	Robotics	#I know how to get the old robots started up again
+886	Annie	Kat	KatsWorkshop	RobotCode	RobotDesigns	RobotParts	Robotics	Robots	#you… can read it?
+885	Annie	Kat	KatsWorkshop	Robot	RobotCode	RobotDesigns	Robotics	Robots	#Oh my god! This is incredible!
+884	Annie	BlinkerStone	Fire	Kat	KatsWorkshop	RobotDesigns	Robotics	Robots	#about that operating code you asked us to print…
+883	Annie	DiegoBot	GolemHeart	Kat	KatsWorkshop	RobotParts	Robots	#but… this would mean Diego was a… magician, not a scientist
+882	Annie	DiegoBot	Etherics	GolemHeart	Kat	KatsWorkshop	RobotDesigns	RobotParts	Robotics	Robots	#What if these are not really robots in the modern sense, but golems?
 881	Annie	DiegoBot	Kat	Robots	KatsWorkshop	#how come you guys picked a creepy looking robot
 880	Annie	DiegoStudy	GolemHeart	Heart	Kat	Robotics	#the bad news is that all his work is written in gibberish
 879	Annie	Diego	DiegoStudy	Kat	Robots	#He somehow made machines that could move despite not having internal mechanisms like modern robots
-878	Robot	Roof	Shadow	Creeper	#should you really be following her around like this?
-877	Annie	Kat	Robot	Roof	SeedBismuth	#I wonder how the court was built
-876	Annie	Kat	Robotics	Roof	#I guess clearing my mind was harder than I thought
-875	Annie	Etherics	Kat	Roof	#Clear your mind and listen
-874	Annie	Kat	Roof	#I brought you up here because I wanted to show you something
-873	Annie	Kat	Roof	Ysengrin	#didn’t he try to kill you at one point?
-872	Annie	Anwyn	Kamlen	Khepi	Roof	#if you like green skin and pointy ears
-871	Annie	Kat	Roof	Landscape	#So… you’re descended from a fire spirit?
+878	Court	Creeper	Robot	Roof	Shadow	#should you really be following her around like this?
+877	Annie	Court	Founding	Kat	Robot	Roof	SeedBismuth	#I wonder how the court was built
+876	Annie	Court	Kat	RobotDesigns	RobotParts	Robotics	Roof	#I guess clearing my mind was harder than I thought
+875	Annie	Court	Etherics	Kat	Roof	#Clear your mind and listen
+874	Annie	Court	Kat	Roof	#I brought you up here because I wanted to show you something
+873	Annie	Court	Kat	Roof	Ysengrin	#didn’t he try to kill you at one point?
+872	Annie	Anwyn	Court	Gillitie	Kamlen	Khepi	Roof	Symbol	#if you like green skin and pointy ears
+871	Annie	Court	Kat	Landscape	Roof	#So… you’re descended from a fire spirit?
 870	Cover	GolemHeart	RobotDesigns	#Icon: RobotDesigns <hr>Chapter 33: Give and Take<hr>
 869	Annie	Filler	Kat	PrincessMononoke	Rey	#Moro
 868	Annie	Filler	Kat	PrincessMononoke	Rey	#Bah! It’s some manner of animated picture?

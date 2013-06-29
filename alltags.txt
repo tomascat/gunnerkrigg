@@ -98,7 +98,7 @@ Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
 Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword)
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
-EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword), armour, a Tiki and a mask among other things
+EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword), [armour](#armour), a [Tiki](#tiki) and a [mask](#mask) among other things
 Earth	Ancient element; the planet on which we live; the great mother and life-giver
 Employees	Miscellaneous Court employees
 EnigmaronLair	Where the [Enigmarons](#enigmarons) from a [Dr. Disaster](#drdisaster) [simulation](#simulation) hang out
@@ -142,7 +142,7 @@ God	What is god?
 Gol-shogeg	Big worm slug monster
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
 GoodHope	Good Hope Hospital is where [Surma](#surma) was before she died
-GraveYard  a field of the dead
+GraveYard	a field of the dead
 GreenArrow	Green arrow with horseshoe tip. Created by Diego, shot by steadman, hit Jeanne's Lover in the [Annan](#annan)
 GreenFae	‘this other one’ -- long straight green hair
 Grounds	The grounds/gardens of Gunnerkrigg Court
@@ -256,6 +256,7 @@ Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
 Robot	A Messianic S-13
+RobotCode	A cube with the [Robots]'(#robots) instruction code transcribed onto it
 RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
 RobotHQ	Where the [robot](#robots) hang out
 RobotKing	A [robot](#robots) with a crown, blank face, and a pen
