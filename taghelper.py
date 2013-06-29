@@ -3,18 +3,22 @@
 
 import collections
 import codecs
+import urllib
+import re
 
 #initialise variables
 toWrite = []
 tagCloud = collections.Counter()
 pageDescriptions = {}
 tagDescriptions = {}
-numberOfComics = 1216
+
+#get how many comics exist from the newest page
+result = re.search("/comics/([0-9]*).jpg", urllib.urlopen("http://gunnerkrigg.com").read())
+numberOfComics = int(result.group(1))
 
 #add the heading html
 with codecs.open('headingtaghelper.txt','r', "utf-8-sig") as fheading:
-	for line in fheading:
-		toWrite.append(line)
+	toWrite.append(fheading.read())
 
 #populate the comic page descriptions from the last entry in index.txt
 with codecs.open('index.txt','r', "utf-8-sig") as findex:
@@ -80,8 +84,7 @@ for tag in sorted(tagCloud):
 
 #add the ending html
 with codecs.open('endingtaghelper.txt','r', "utf-8-sig") as fending:
-	for line in fending:
-		toWrite.append(line)
+	toWrite.append(fending.read())
 
 #convert the toWrite array to a string and write that string to taghelper.htm
 s = ''.join(toWrite)
