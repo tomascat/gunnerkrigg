@@ -1,3 +1,6 @@
+1219	Hetty	HettySymbol	Rey	#And then, when I have had my fun...
+1218	Hetty	Rey	#Oh! You should kill her!
+1217	GraveYard	Hetty	HettySymbol	MercurySymbol	Rey	#A mere slave
 1216	AntimonySymbol	GraveYard	Hetty	Rey	#How long are you going to feel sorry for yourself over this man?
 1215	Anja	Court	DanielRSchiff	Donny	Eglamore	Etherics	EyeCrossed	Flashback	Hetty	Rey	Sivo	Surma	#Danny? / No, it's me... Reynardine! / SIGH.
 1214	AntimonySymbol	Coyote	DanielRSchiff	Flashback	Gillitie	Sky	Stars	#but if I take his body... he could die!
