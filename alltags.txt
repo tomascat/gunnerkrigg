@@ -161,7 +161,8 @@ HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, [Janet](#janet)’s father; surprisingly grey, apathetic man, with bad posture
 Heart	A heart, or heart sign, symbol, glyph or character; either the body's blood pump, the core of a mechanism or a symbol of love
 HedgehogFae	‘and him’ – dreads, former hedgehog
-Hetty	a small animate doll
+Hetty	a small animate devil doll
+HettySymbol	sometimes visible on [Hetty](#hetty)'s forehead
 Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol; the Jewish Kingdom (Star of David)
 Homework	School work done outside class hours
 Horsebot	H model [Robot](#robots) in a horse frame, as motive power for carriages, carts etc
