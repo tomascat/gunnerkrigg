@@ -22,15 +22,13 @@ Archery	Fun with bows and arrows!
 Argument	Somewhere between a disagreement and a fight
 Armour	protective plates and other such wearable items
 Armoury	Place where lots of weapons are stored
-Arrow	A slender, straight projectile often show from a bow.
 Axe	Often used to chop wood
 BadgerFae	‘him too’- white hair, two black stripes, former badger
 Basil	Minotaur
 Beacon	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated much like [Brinnie](#brinnie)'s teleport
 BeckyGround	A student
 Bind	[Etheric](#etherics) binding, hold or constraint hoodoo
-BirdClaw	The claw of a bird. Or TicToc. Or Chickcharney.
-Birds	Birds have wings and feathers, [Kat](#kat) and Paz are both fond of them
+Birds	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
 Bip	[Parley](#parley)’s teleportation. May be accompanied by BARGE.
 Birmingham	What [Zimmingham](#zimmingham) is based on and where [Gamma](#gamma) and [Zimmy](#zimmy) are from. Slightly less nightmarish than [Zimmingham](#zimmingham).
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
@@ -69,7 +67,6 @@ Clowns	Creepy, no-one likes them
 Computer	You're using one right now. The court keeps student records, and many other things on computers.
 Cookie	Cookie Monster(?), enthusiastic friend of [Parley](#parley)
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
-CourtAgents	Some mysterious dudes who take [Gamma](#gamma) and [Zimmy](#zimmy) from [Birmingham](#birmingham) to the Court
 CourtHall	A large important hall for meetings
 CourtLogo	Gunnerkrigg Court logo (for the school); Appears on detention slips and official school letters
 CourtSymbol	The symbol [Annie](#annie)’s [Blinker Stone](#blinkerstone) makes; has a [Bismuth Symbol](#bismuthsymbol) within it
@@ -100,7 +97,7 @@ Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#swo
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
 EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword), [armour](#armour), a [Tiki](#tiki) and a [mask](#mask) among other things
 Earth	Ancient element; the planet on which we live; the great mother and life-giver
-Employees	Miscellaneous Court employees
+Employees	Miscellaneous Court employees; includes security staff, gardeners, scientists, [power station](#powerstation) operators and even mysterious dudes who take [Gamma](#gamma) and [Zimmy](#zimmy) from [Birmingham](#birmingham) to the Court
 EnigmaronLair	Where the [Enigmarons](#enigmarons) from a [Dr. Disaster](#drdisaster) [simulation](#simulation) hang out
 Enigmarons	Bad guy aliens in a [Dr. Disaster](#drdisaster) [simulation](#simulation)
 Etherics	Manipulation of the Ether – “magic”

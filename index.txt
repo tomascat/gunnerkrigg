@@ -39,7 +39,7 @@
 1181	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#But I suggest running!
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
-1178	Cover	BirdClaw	Chickcharney	#Icon: a marble lying on the ground of Gillitie <hr>Chapter 42: Catalyst<hr>
+1178	Cover	Chickcharney	#Icon: a marble lying on the ground of Gillitie <hr>Chapter 42: Catalyst<hr>
 1177	CityFace	Filler	#City Face guest comic by City Face
 1176	CityFace	Filler	LaundryList	Tom	#City Face guest comic by Tom
 1175	Blue	CityFace	Filler	Red	#City Face guest comic 8 by Red and “Blue”
@@ -744,7 +744,7 @@
 476	Annie	Armoury	Eglamore	Jones	Sword	Uniform	#Try not to undress the female students James.
 475	Annie	CourtLogo	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
 474	Annie	CourtLogo	Dirty	Dorm	Kat	Rey	Surma	Uniform	#Surma made this body?
-473	Cover	Annan	Annie	Arrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gear	Gillitie	Jeanne	LeadSymbol	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Icon: Coyote <hr>Chapter 20: Coyote Stories<hr>
+473	Cover	Annan	Annie	GreenArrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gear	Gillitie	Jeanne	LeadSymbol	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Icon: Coyote <hr>Chapter 20: Coyote Stories<hr>
 472	Bonus	Mandolin	Margo	SullivansJohn	#<b>Bonus page:</b> Time for Music
 471	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	#Yes. More questions as to what this place rally is.
 470	Annie	Chester	Gamma	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	Winsbury	Zimmy	#Say, where are Willie and Janet?
@@ -1026,7 +1026,7 @@
 194	Annie	AnnieCut	Courtyard	Gamma	Kiss	TicToc	#That bird is the thousand eyes. Zimmy cannot stand it looking at her. She can feel its stare.
 193	Annie	AnnieCut	Courtyard	Gamma	Kiss	TicToc	#(The guys go to the courtyard)
 192	Annie	Gamma	Library	Zimmingham	Zimmy	#The storm is about to break. We must go outside
-191	Birmingham	CourtAgents	Flashback	Gamma	Library	Zimmingham	Zimmy	#This is unlike the other schools you have attended.
+191	Birmingham	Employees	Flashback	Gamma	Library	Zimmingham	Zimmy	#This is unlike the other schools you have attended.
 190	Flashback	Gamma	Monster	Zimmingham	Zimmy	#How do you do that? I don't know.
 189	Annie	AnnieCut	Library	Zimmy	#It's like... tuning in a radio. All she has to do is b e near me an' the static gets pushed out.
 188	Flashback	Gamma	Monster	Zimmingham	Zimmy	#Come on! Wake uuup!
