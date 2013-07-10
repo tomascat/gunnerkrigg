@@ -615,7 +615,7 @@
 605	Annie	BismuthSymbol	Bob	Eglamore	Kat	Monument	Nevihta	RogatOrjak	SirYoung	Trees	YoungsPark	#It’s a monument to that guy you learned about
 604	Annie	Gillitie	Jack	Kat	LaserCow	Robots	YoungsPark	#This place is kinda boring
 603	Annie	Eglamore	Jack	Kat	LaserCow	Robots	Students	Tents	Trees	YoungsPark	#Pick your tents and drop your stuff off
-602	Bob	LaserCow	Lasers	Marcia	Paz	Robots	YoungsPark	#Auditory response: Moo
+602	113	Bob	LaserCow	Lasers	Marcia	Paz	Robots	YoungsPark	#Auditory response: Moo
 601	Axe	Eglamore	LaserCow	Paz	Robots	Students	Teacher	Tents	YoungsPark	#Cows!
 600	Annie	Bob	Eglamore	Kat	Marcia	Students	Teacher	YoungsPark	#Maybe this won’t be so bad after all!
 599	BismuthSymbol	Bob	Marcia	Paz	Students	Teacher	Train	TrainStation	Trees	YoungsPark	#Walking is Nature’s quadbikes!
@@ -1026,7 +1026,7 @@
 194	Annie	AnnieCut	Courtyard	Gamma	Kiss	TicToc	#That bird is the thousand eyes. Zimmy cannot stand it looking at her. She can feel its stare.
 193	Annie	AnnieCut	Courtyard	Gamma	Kiss	TicToc	#(The guys go to the courtyard)
 192	Annie	Gamma	Library	Zimmingham	Zimmy	#The storm is about to break. We must go outside
-191	Birmingham	Employees	Flashback	Gamma	Library	Zimmingham	Zimmy	#This is unlike the other schools you have attended.
+191	Zimmingham	Employees	Flashback	Gamma	Library	Zimmingham	Zimmy	#This is unlike the other schools you have attended.
 190	Flashback	Gamma	Monster	Zimmingham	Zimmy	#How do you do that? I don't know.
 189	Annie	AnnieCut	Library	Zimmy	#It's like... tuning in a radio. All she has to do is b e near me an' the static gets pushed out.
 188	Flashback	Gamma	Monster	Zimmingham	Zimmy	#Come on! Wake uuup!

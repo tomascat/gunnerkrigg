@@ -30,7 +30,7 @@ BeckyGround	A student
 Bind	[Etheric](#etherics) binding, hold or constraint hoodoo
 Birds	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
 Bip	[Parley](#parley)’s teleportation. May be accompanied by BARGE.
-Birmingham	What [Zimmingham](#zimmingham) is based on and where [Gamma](#gamma) and [Zimmy](#zimmy) are from. Slightly less nightmarish than [Zimmingham](#zimmingham).
+Birmingham	See [Zimmingham](#zimmingham)
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
 Blackboard	Classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
 BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotking)
@@ -173,9 +173,9 @@ Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a f
 JeannesLover	Jeanne's green [forest](#gillitie) lover, name as yet unknown.
 Jokes	Ha ha.
 JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
-Jones	A name of [Wandering Eye](#wanderingeye)
-JonesFootprints	Ancient footprints that appear to belong to a human; how can this be?
-Juliette	Employee of the court, is qualified to run the Ether station
+Jones	A mysterious court lady; name of [Wandering Eye](#wanderingeye)
+JonesFootprints	Ancient footprints that appear to belong to [a human](#jones); how can this be?
+Juliette	Employee of the court, is qualified to run the [Ether station](#powerstation)
 Kamlen	[Anwyn](#anwyn) boy about [Annie](#annie)’s and [Kat](#kat)’s age
 Kat	Katerina Donlan
 KatsHomework	A thing that [Annie](#annie) copies
@@ -189,7 +189,7 @@ Knight	A traditional warrior and military leader who is part of the landed gentr
 Labyrinth	Not quite a maze
 Lake	A large, still body of [water](#water); where the [power station](#powerstation) is.
 Landscape	A view of a wide expanse of land
-LaserCow	A [robotic](#robots) cow that mows the lawns with its laser eyes. Also, awesome
+LaserCow	A [robotic](#robots) cow that mows the lawns with its laser eyes. Also, awesome. All go by the name Elsie
 Lasers	Zap! Awesome!
 Latin	A dead language, some things are written in it
 LaundryList	A seagull
@@ -356,5 +356,5 @@ YoungsPark	A large park within the Court, looked after by [Bob](#bob) and his wi
 Ysengrin	Wolf/Tree hybrid demigod of the [forest](#gillitie); [Coyote](#coyote)’s General
 ZAM	Noise of a [Valknut](#valknut) teleport
 Zeta	A Greek letter &Zeta;/&zeta; corresponding to our "Z"; [Zimmy](#zimmy)'s real name
-Zimmingham	[Zimmy](#zimmy)'s nightmarish version of Birmingham
+Zimmingham	[Zimmy](#zimmy)'s nightmarish version of Birmingham, which is where she and [Gamma](#gamma) are originally from
 Zimmy	aka Zeta, a strange girl who is friends with [Gamma](#gamma); from Birmingham originally
