@@ -1,5 +1,7 @@
+; a comment!
 113	A number that appears in many places in the court.
 Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell
+Adam	A boy with rashes, victim (?) of [Hetty](#hetty)
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq)
 Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps)
 AlchemyChart	An alchemical chart
@@ -158,13 +160,13 @@ HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, [Janet](#janet)’s father; surprisingly grey, apathetic man, with bad posture
 Heart	A heart, or heart sign, symbol, glyph or character; either the body's blood pump, the core of a mechanism or a symbol of love
 HedgehogFae	‘and him’ – dreads, former hedgehog
-Hetty	a small animate devil doll
+Hetty	a small animate devil doll, victimising [Adam](#adam)
 HettySymbol	sometimes visible on [Hetty](#hetty)'s forehead
 Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol; the Jewish Kingdom (Star of David)
 Homework	School work done outside class hours
 Horsebot	H model [Robot](#robots) in a horse frame, as motive power for carriages, carts etc
 Hospital	The hospital/infirmary within the court
-House	An unknown person's house (please help!)
+;House	An unknown person's house (please help!)
 Hyland	[Jack](#jack)’s father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma).
 Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat)
 Jan	January, curt friend of [Parley](#parley)
@@ -297,6 +299,7 @@ Spiders	Often white and [etheric](#etherics), also often real.
 StarHeadband	A headband with stars on antennae that [Annie](#annie) uses to pretend she is a [robot](#robots)
 Stars	Celestial bodies
 Steadman	An archer, present at the [founding](#founding) of the court
+StepsHouse	An unknown person's house (please help!)
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
 Students	Miscellaneous students
 SubDorm	Year 9’s dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors.
