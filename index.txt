@@ -1,3 +1,7 @@
+; reminder: this is comment - in case you need to flag changes, etc...
+1222	Adam	AntimonySymbol	Hetty	Rey	SchoolYard	#I'm sure you'd cut a handsome figure if you just _try!_<br>tom: The monster, revealed!
+1221	AntimonySymbol	Hetty	Rey	StepsHouse	#It's just so shameful, showing your mark so brazenly
+1220	AntimonySymbol	Hetty	Rey	#Pins are always useful! / Matches are of course essential
 1219	Hetty	HettySymbol	Rey	#And then, when I have had my fun...
 1218	Hetty	Rey	#Oh! You should kill her!
 1217	GraveYard	Hetty	HettySymbol	MercurySymbol	Rey	#A mere slave
@@ -9,12 +13,13 @@
 1211	Adam	AntimonySymbol	Court	GlassFiber	Hetty	Rey	#Up to more acts of unspeakable evil today, Hetty? (Adam 1st reference)
 1210	AntimonySymbol	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
 1209	AntimonySymbol	Court	House	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>Tom: Renard Renard Renard
-1208	AntimonySymbol	Court	House	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>Tom: Renard Renard
+; House tag renamed StepsHouse - louisxiv 2013-07-14
+1208	AntimonySymbol	Court	StepsHouse	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>Tom: Renard Renard
 1207	Lindsey	Rey	SubDorm	#Out and about today Renard (toy to white wolf transform)<br>Tom: Renard
 1206	Annie	Blush	Kat	Paz	Rey	SubDorm	#Tom: Annie does not know yet
 1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we’re heading off to class now
 1204	Cover	Chemicals	ScienceLab	SkullCrossbones	#Icon: a packet of sewing needles <hr>Chapter 43: Quicksilver<hr>
-1203	Bonus	Gillitie	Ocean	Octopus	#<b>Bonus Page:</b> Traveller (Floating Octopus goes to the ocean)
+1203	Bonus	Gillitie	Ocean	Octopus	#**Bonus Page:** Traveller (Floating Octopus goes to the ocean)
 1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
 1201	AnimalLab	Blush	Kat	Paz	#I decide to stop worrying and see what would happen
 1200	AnimalLab	Blush	Kat	Paz	#The letter was from me
