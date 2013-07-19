@@ -23,6 +23,8 @@ with codecs.open('headingtaghelper.txt','r', "utf-8-sig") as fheading:
 #populate the comic page descriptions from the last entry in index.txt
 with codecs.open('index.txt','r', "utf-8-sig") as findex:
 	for line in findex:
+		if line.startswith(";"):
+			continue;
 		field = line.split("\t")
 		pageDescriptions[int(field[0])] = field[-1][1:-1]
 
@@ -43,12 +45,16 @@ toWrite.append("</select><br /><br />" +
 #populate the tag dictionary
 with codecs.open("alltags.txt","r", "utf-8-sig") as ftags:
 	for line in ftags:
+		if line.startswith(";"):
+			continue;
 		field = line.split("\t")
 		tagDescriptions[field[0]]=field[1]
 
 #populate the tagcloud counter and output the 'current comic tags' section
 with codecs.open('index.txt','r', "utf-8-sig") as findex:
 	for line in findex:
+		if line.startswith(";"):
+			continue;
 		field = line.split("\t")
 		tagCloud.update(field[1:-1])
 		for i in range(1,len(field)-1):

@@ -24,6 +24,7 @@ Archery	Fun with bows and arrows!
 Argument	Somewhere between a disagreement and a fight
 Armour	protective plates and other such wearable items
 Armoury	Place where lots of weapons are stored
+Arsenic	A highly poisonous metalloid
 Axe	Often used to chop wood
 BadgerFae	‘him too’- white hair, two black stripes, former badger
 Basil	Minotaur

@@ -1,4 +1,7 @@
 ; reminder: this is comment - in case you need to flag changes, etc...
+1225	Annie	Court	Hetty	HettySymbol	Moon	Rey	Sivo	Sky	WolfToy	#And that's where I met Antimony.
+1224	Arsenic	Court	Hetty	HettySymbol	Rey	#I have recently learned the location of a substance called arsenic...
+1223	Adam	AntimonySymbol	Court	GlassFiber	Hetty	HettySymbol	MercurySymbol	Rey	#This is your terrible Adam?
 1222	Adam	AntimonySymbol	Hetty	Rey	SchoolYard	#I'm sure you'd cut a handsome figure if you just _try!_<br>tom: The monster, revealed!
 1221	AntimonySymbol	Hetty	Rey	StepsHouse	#It's just so shameful, showing your mark so brazenly
 1220	AntimonySymbol	Hetty	Rey	#Pins are always useful! / Matches are of course essential
