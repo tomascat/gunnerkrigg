@@ -27,6 +27,7 @@ Armoury	Place where lots of weapons are stored
 Arsenic	A highly poisonous metalloid
 Axe	Often used to chop wood
 BadgerFae	‘him too’- white hair, two black stripes, former badger
+BakingDistraction	Otherwise known as [Plan Theta](#plantheta); Cunningly devised to distract others while sneaking around
 Basil	Minotaur
 Beacon	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated much like [Brinnie](#brinnie)'s teleport
 BeckyGround	A student
@@ -132,8 +133,7 @@ Flying	Moving through the air, like superman
 Foley	One of the other school Houses
 ForestSymbol	The symbol [Gillitie](#gillitie) uses to message; has an “eye” within it
 Founding	The founding of the court.
-Gamma	Gamma Czarnecki, a quiet girl from Poland who only speaks Polish; friends with [Zimmy](#zimmy) who she met in Birmingham; a Greek letter &Gamma;/&gamma; equivalent to our letter "G"
-Gear	A toothed cog device which articulates with similar gears or with chains in order to transmit mechanical energy; symbol of mechanical object or machine
+Gamma	Gamma Czarnecki, a quiet girl from Poland who only speaks Polish; friends with [Zimmy](#zimmy) who she met in [Birmingham](#zimmingham); a Greek letter &Gamma;/&gamma; equivalent to our letter "G"
 Ghosts	sometimes haunt mandolins
 Gillitie	Gillitie Wood where the wild things are, a.k.a. The Forest
 Glass	A transparent silicon oxide substance used to make windows and the water bearing vessels also called "glasses"
@@ -143,7 +143,7 @@ Gol-shogeg	Big worm slug monster
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
 GoodHope	Good Hope Hospital is where [Surma](#surma) was before she died
 GraveYard	a field of the dead
-GreenArrow	Green arrow with horseshoe tip. Created by Diego, shot by steadman, hit Jeanne's Lover in the [Annan](#annan)
+GreenArrow	Green arrow with horseshoe tip. Created by [Diego](#diego), shot by [Steadman](#steadman), hit Jeanne's Lover in the [Annan](#annan)
 GreenFae	‘this other one’ -- long straight green hair
 Grounds	The grounds/gardens of Gunnerkrigg Court
 GroundSymbol	The electronic symbol for ground
@@ -178,9 +178,10 @@ Jokes	Ha ha.
 JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
 Jones	A mysterious court lady; name of [Wandering Eye](#wanderingeye)
 JonesFootprints	Ancient footprints that appear to belong to [a human](#jones); how can this be?
-Juliette	Employee of the court, is qualified to run the [Ether station](#powerstation)
+Juliette	[Employee](#employees) of the court, is qualified to run the [Ether station](#powerstation)
+JupiterMoonMartians	Friendly aliens in one of [Dr Disaster](#drdisaster)'s [simulations](#simulation)
 Kamlen	[Anwyn](#anwyn) boy about [Annie](#annie)’s and [Kat](#kat)’s age
-Kat	Katerina Donlan
+Kat	Katerina Donlan, the scientifically inclined best friend of [Annie](#annie), and [Anja](#anja) & [Donny](#donny) Donlan's daughter
 KatsHomework	A thing that [Annie](#annie) copies
 KatsWorkshop	Where [Kat](#kat) indulges her hobbies; in the West Canals; has a hidden room in the bottom
 KershawHouse	Where [Aly](#aly) and his parents Mr and Mrs [Kershaw](#kershaws) used to live.
@@ -204,9 +205,11 @@ Lightning	Clouds and electricity... ZZZAAAPP!
 Lindsey	[dorm](#subdorm) monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon; wife of [Bud](#bud)
 LindseyComputer	[Lindsey](#lindsey)'s computer translates for her
 Lockpicks	[Annie](#annie) has some lockpicks which she stores in the WolfToy/[Rey](#rey)’s body
+LoveLetter	A written expression of love; may be anonymous
 MakeUp	Cosmetics to define or enhance appearance, particulaly of the face, eyes and mouth
 Mallt-y-nos	Matilda of the Night, Night Malt; Welsh [psychopomp](#psychopomps)/crone/witch; rides with the [Cŵn Annwn](#cwnannwn) (hounds of the underworld)
 Mandolin	sometimes they’re haunted
+Marble	A shining sphere of unmelting ice; trapped inside were brilliant colours from the rarest flowers.
 Marcia	Marcia Sutton, a [dryad](#dryad) and keeper of [Young’s Park](#youngspark) with her husband, [Bob](#bob)
 Margo	A student who enjoys singing. Friends with [Sullivan's John](#sullivansjohn)
 MarineFae	‘and her’- aquamarine hair, vertical green bar on forehead
@@ -245,7 +248,7 @@ Parley	George [Parley](#parley): Swordswoman, candidate for Court medium (Big No
 PartyHat	A Party hat, hats are fun!
 Paz	Paz Cadena-Blanco, Spanish, good with animals and can talk to them; is raising [CityFace](#cityface) with [Bobby](#bobby)
 Photo	A photograph of [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore), [Surma](#surma), [Tony](#tony) and [Brinnie](#brinnie) from their school days
-PlanTheta	Baking Distraction
+PlanTheta	[Baking Distraction](#bakingdistraction) for when others are sneaking around
 Pliers	Used for manipulating wire; may include wire-strippers or wire-cutters
 PowerStation	A Court system to extract energy from the [Etherium](#etherium) on an industrial scale
 PrincessMononoke	Animated movie by Hayao Miyazaki
@@ -289,7 +292,6 @@ SirYoung	Protector of the Court at its [founding](#founding)
 Sivo	A [Rogat Orjak](#rogatorjak) who was close friends with [Eglamore](#eglamore)
 Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data
-Skull	The bone surrounding the brain
 SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises death; associated with pirates
 SmallBot	A young eye-witness model [robot](#robots)
 Smitty	Andrew Smith; usually brings order from chaos (Mighty Eyebrows Boy); interested in [Parley](#parley); candidate for Court medium

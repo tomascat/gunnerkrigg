@@ -23,31 +23,31 @@
 1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we’re heading off to class now
 1204	Cover	Chemicals	ScienceLab	SkullCrossbones	#Icon: a packet of sewing needles <hr>Chapter 43: Quicksilver<hr>
 1203	Bonus	Gillitie	Ocean	Octopus	#**Bonus Page:** Traveller (Floating Octopus goes to the ocean)
-1202	AnimalLab	Blush	Kat	Paz	#Yeah… okay.
-1201	AnimalLab	Blush	Kat	Paz	#I decide to stop worrying and see what would happen
-1200	AnimalLab	Blush	Kat	Paz	#The letter was from me
-1199	AnimalLab	Bobby	Kat	Paz	#The only time I get a love letter and it is from a robot
-1198	AnimalLab	Bobby	Kat	#Did you write this letter to me?
-1197	AnimalLab	Bobby	Kat	Paz	#Kat! You have not been here in a while…
-1196	AnimalLab	Annie	Kat	Parley	Paz	Smitty	#Say, where is Kat anyway
+1202	AnimalLab	Blush	Kat	LoveLetter	Paz	#Yeah… okay.
+1201	AnimalLab	Blush	Kat	LoveLetter	Paz	#I decide to stop worrying and see what would happen
+1200	AnimalLab	Blush	Kat	LoveLetter	Paz	#The letter was from me
+1199	AnimalLab	Bobby	Kat	LoveLetter	Paz	#The only time I get a love letter and it is from a robot
+1198	AnimalLab	Bobby	Kat	LoveLetter	#Did you write this letter to me?
+1197	AnimalLab	Bobby	Kat	LoveLetter	Paz	#Kat! You have not been here in a while…
+1196	AnimalLab	Annie	Kat	LoveLetter	Parley	Paz	Smitty	#Say, where is Kat anyway
 1195	Annie	Jeanne	Parley	Smitty	#I think it’s exactly what I need to face Jeanne
 1194	Annie	Parley	Smitty	#Annie was laughing her head off but you looked so shocked, babe!
 1193	Eglamore	Gillitie	Parley	Smitty	#Stampede!
 1192	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#(cobra)
 1191	Annie	Chickcharney	Fairies	Gillitie	Octopus	Smitty	#(gnome)(bear)(horse) So that’s what I’ve been doing wrong
 1190	Annie	Chickcharney	Fairies	Gillitie	Smitty	#(gnome) Look! I brought more friends in need!
-1189	Annie	Chickcharney	Gillitie	Smitty	#(marble) (doe) She wishes to know when spring will come
-1188	Annie	Chickcharney	Gillitie	Smitty	#(marble) (doe) Hello! It’s me again
-1187	Annie	Chickcharney	Gillitie	Smitty	#It’s called a marble. I had one in my pocket
-1186	Annie	Chickcharney	Gillitie	Smitty	#(marble) Hardwick &amp; Little’s Bestiary, p65
+1189	Annie	Chickcharney	Gillitie	Marble	Smitty	#(marble) (doe) She wishes to know when spring will come
+1188	Annie	Chickcharney	Gillitie	Marble	Smitty	#(marble) (doe) Hello! It’s me again
+1187	Annie	Chickcharney	Gillitie	Marble	Smitty	#It’s called a marble. I had one in my pocket
+1186	Annie	Chickcharney	Gillitie	Marble	HardwickLittleBestiary	Smitty	#(marble) Hardwick &amp; Little’s Bestiary, p65
 1185	Annie	Chickcharney	Gillitie	Smitty	#I’ve never seen a real forest before
 1184	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#Have you forgotten what happened with Ysengrin
-1183	Annie	Kat	#(dining hall) I have a good idea who it is from
-1182	Annie	Kat	#(dining hall) It’s very eloquently written…
+1183	Annie	Kat	LoveLetter	#(dining hall) I have a good idea who it is from
+1182	Annie	Kat	LoveLetter	#(dining hall) It’s very eloquently written…
 1181	Annie	Bridge	Eglamore	Gillitie	Parley	Smitty	#But I suggest running!
 1180	Annie	Eglamore	Gillitie	Parley	Smitty	#That didn’t exactly go to plan!
 1179	Annie	Gillitie	Smitty	#(Running: Annie cackling wildly; Smitty concerned)
-1178	Cover	Chickcharney	#Icon: a marble lying on the ground of Gillitie <hr>Chapter 42: Catalyst<hr>
+1178	Cover	Chickcharney	Marble	#Icon: a marble lying on the ground of Gillitie <hr>Chapter 42: Catalyst<hr>
 1177	CityFace	Filler	#City Face guest comic by City Face
 1176	CityFace	Filler	LaundryList	Tom	#City Face guest comic by Tom
 1175	Blue	CityFace	Filler	Red	#City Face guest comic 8 by Red and “Blue”
@@ -61,8 +61,8 @@
 1167	Filler	Tea	#<hr>Guest Comics<hr>
 1166	Filler	Tom	#“So, how’s it been going?” open letter by Tom
 1165	Bonus	Treatise	Annie	AntimonySymbol	BlinkerStone	Court	Coyote	CreatorGlyph	Gillitie	Heart	Kat	Robot	Shadow	Treatise	WanderingEye	Ysengrin	#<b>Bonus Page:</b> Treatise Five
-1164	Annie	Dorm	Kat	#It’s written to <i>you</i>.
-1163	Annie	Dorm	Heart	Kat	Rey	#It’s a <i>Love Letter</i><br>Tom: Oh no
+1164	Annie	Dorm	Kat	LoveLetter	#It’s written to <i>you</i>.
+1163	Annie	Dorm	Heart	Kat	LoveLetter	Rey	#It’s a <i>Love Letter</i><br>Tom: Oh no
 1162	Annie	Dorm	Kat	Rey	#I’m glad we’ll be sharing this room together, Kat
 1161	Annie	Dorm	Kat	Robots	#How are Robot and Shadow?
 1160	Annie	Dorm	Kat	Rey	#Whoa, you set your hair on fire?!
@@ -200,23 +200,23 @@
 1028	Gamma	Zimmy	Zimmingham	#I don’t want to see her!
 1027	AnnieCut	Zimmy	Zimmingham	#Not mine!<br>Tom: Look who’s scrambling around in the trash again.
 1026	CityFace	Cover	#Icon: Kat with the pink headband and "city face" pigeon on her head <hr>Chapter 38: Divine<hr>
-1025	Bonus	Anja	Eglamore	Jones	Kat	PlanTheta	#<b>Bonus Page:</b>What About These Guys?
-1024	Annie	Blush	Donny	Etherics	Robotics	Roof	#I'm happy my daughter has you as a friend
-1023	Annie	Donny	Microsat5	Roof	#they flew away… that’s it? That’s it.
-1022	Annie	Donny	Etherics	Microsat5	Robotics	Roof	#what kind of rocket was that?!
-1021	Annie	Donny	Etherics	Microsat5	Robotics	Roof	#here we go… three, two, one, now
-1020	Annie	Donny	Eglamore	Microsat5	Roof	#oh! It’s time!
-1019	Annie	Flashback	Tony	#Tom: She doesn’t remember much else from that day
-1018	Annie	Flashback	Tony	#Tom: Martial arts experts, please calm down. Their belts are grey because they are no specific colour
-1017	Annie	Anja	Donny	Etherics	Robotics	Roof	#haha! Just a function of my wife’s amazing computer
-1016	Annie	Donny	Etherics	Microsat5	Robotics	Roof	Tony	#so this satellite will help us get these supplies to my father?
+1025	Bonus	Anja	BakingDistraction	Eglamore	Jones	Kat	PlanTheta	#<b>Bonus Page:</b>What About These Guys?
+1024	Annie	Blush	Donny	Etherics	Robotics	Roof	Telescope	#I'm happy my daughter has you as a friend
+1023	Annie	Donny	Microsat5	Rocket	Roof	Telescope	#they flew away… that’s it? That’s it.
+1022	Annie	Donny	Etherics	Microsat5	Robotics	Rocket	Roof	Telescope	#what kind of rocket was that?!
+1021	Annie	Donny	Etherics	Microsat5	Robotics	Rocket	Roof	#here we go… three, two, one, now
+1020	Annie	Donny	Eglamore	Microsat5	Rocket	Roof	#oh! It’s time!
+1019	Annie	Flashback	Sparring	Tony	#Tom: She doesn’t remember much else from that day
+1018	Annie	Flashback	Sparring	Tony	#Tom: Martial arts experts, please calm down. Their belts are grey because they are no specific colour
+1017	Annie	Anja	Donny	Etherics	Robotics	Rocket	Roof	#haha! Just a function of my wife’s amazing computer
+1016	Annie	Donny	Etherics	Microsat5	Robotics	Rocket	Roof	Tony	#so this satellite will help us get these supplies to my father?
 1015	Annie	Donny	Etherics	Robotics	Tony	#Tony. How strange, it almost makes him sound like… like… a person
 1014	Annie	Anja	Donny	Eglamore	Flashback	Horsebot	Surma	Tony	#The point is, with Tony, the smallest thing can carry the greatest weight
 1013	Anja	Brinnie	Donny	Eglamore	Flashback	Surma	Tony	#all he had to do was ask brinnie if she wanted to go too<br>Tom: Donny watches a friend shoot himself down. What more can he do?
 1012	Annie	Anja	Brinnie	Donny	Flashback	Surma	Tony	#i’d never seen him in a mess before, and over a girl!
 1011	Brinnie	Donny	Flashback	Tony	#you either like her or you don’t, tony!
 1010	Annie	Brinnie	Donny	Flashback	Tony	#Antimony… how well do you know your father?
-1009	Annie	Donny	Tony	Microsat5	#well now, this is no good
+1009	Annie	Donny	Microsat5	Tony	#well now, this is no good
 1008	Annie	Donny	Tony	#so… you think it’s some kind of message?
 1007	Annie	Donny	Etherics	Robotics	#it’s my portable door
 1006	Annie	Donny	Etherics	Robotics	#anyway, about the call, did it seem strange to you? <br>Tom: Whatever you do, don’t say the message out loud
@@ -412,7 +412,7 @@
 816	Annie	Coyote	Gillitie	Jones	Rey	Surma	WanderingEye	Ysengrin	#You know I can take her if I wish
 815	Annie	Coyote	Gillitie	Jones	WanderingEye	Ysengrin	#Wandering Eye? So many visitors today!
 814	Annie	Coyote	Gillitie	Surma	Tears	#Don't look into my dreams Coyote
-813	Annie	Flashback	GoodHope	Skull	Surma	Tears	Tony	#He still loves you very much
+813	Annie	Bones	Flashback	GoodHope	Surma	Tears	Tony	#He still loves you very much
 812	Annie	Flashback	GoodHope	Surma	Tears	Tony	#(Young Annie walks in on her father crying over her mother in hospital)
 811	Annie	Gillitie	Shadowmen	Ysengrin	#I would never hurt them
 810	Annie	Gillitie	Tears	Ysengrin	#You are here because you are weak
@@ -653,9 +653,9 @@
 575	Annie	Flowers	Jones	Parley	Smitty	Rey	#I think you detect a hint of shut your face
 574	Annie	DrDisaster	Flowers	Jones	Parley	Smitty	Rey	#I don’t know what happened! A glitch in the simulator
 573	Annie	Jones	Parley	Smitty	Rey	#Smitface ruined the sim!
-572	Annie	Moon	Parley	Simulation	Smitty	#After all these years! our ancient artefact returned to us!
-571	Annie	Moon	Parley	Simulation	Smitty	#They receive a strange request from the king of the Jupiter moon Martians himself!
-570	Cover	Annie	Bones	Castle	Moon	Parley	Sky	Smitty	Stars	#Icon: The castle in the simulation <hr>Chapter 23: Terror castle of the Jupiter moon Martians! A spacemonauts adventure!<hr>
+572	Annie	JupiterMoonMartians	Moon	Parley	Simulation	Smitty	#After all these years! our ancient artefact returned to us!
+571	Annie	JupiterMoonMartians	Moon	Parley	Simulation	Smitty	#They receive a strange request from the king of the Jupiter moon Martians himself!
+570	Cover	Annie	Bones	JupiterMoonMartians	Moon	Parley	Sky	Smitty	Stars	#Icon: The castle in the simulation <hr>Chapter 23: Terror castle of the Jupiter moon Martians! A spacemonauts adventure!<hr>
 569	Filler	CityFace	Fairies	#Bye, pigeon face! I knew you could do it!
 568	Filler	CityFace	Fairies	#Is she looking?? Oh my gosh I think she is!
 567	Filler	CityFace	Fairies	#It’s because of Humans!
@@ -752,7 +752,7 @@
 476	Annie	Armoury	Eglamore	Jones	Sword	Uniform	#Try not to undress the female students James.
 475	Annie	CourtLogo	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
 474	Annie	CourtLogo	Dirty	Dorm	Kat	Rey	Surma	Uniform	#Surma made this body?
-473	Cover	Annan	Annie	GreenArrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gear	Gillitie	Jeanne	LeadSymbol	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Icon: Coyote <hr>Chapter 20: Coyote Stories<hr>
+473	Cover	Annan	Annie	GreenArrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gillitie	Jeanne	LeadSymbol	Robotics	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Icon: Coyote <hr>Chapter 20: Coyote Stories<hr>
 472	Bonus	Mandolin	Margo	SullivansJohn	#<b>Bonus page:</b> Time for Music
 471	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	#Yes. More questions as to what this place rally is.
 470	Annie	Chester	Gamma	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	Winsbury	Zimmy	#Say, where are Willie and Janet?
