@@ -1,10 +1,14 @@
 ; reminder: this is comment - in case you need to flag changes, etc...
+1229	Fire	Hetty	HettySymbol	Matches	Rey	#_Flick_
+1228	Hetty	HettySymbol	LighterFuel	Matches	Rey	#Reynardine! You've dropped all my things!
+1227	AntimonySymbol	Annie	Armour	Eglamore	Hetty	Rey	WolfToy	#You were stupid to let the opportunity slip by!
+1226	AnimalCell	Annie	AntimonySymbol	EyeCrossed	Sivo	Rey	#But then I knew Surma had passed away
 1225	Annie	Court	Hetty	HettySymbol	Moon	Rey	Sivo	Sky	WolfToy	#And that's where I met Antimony.
 1224	Arsenic	Court	Hetty	HettySymbol	Rey	#I have recently learned the location of a substance called arsenic...
 1223	Adam	AntimonySymbol	Court	GlassFiber	Hetty	HettySymbol	MercurySymbol	Rey	#This is your terrible Adam?
 1222	Adam	AntimonySymbol	Hetty	Rey	SchoolYard	#I'm sure you'd cut a handsome figure if you just _try!_<br>tom: The monster, revealed!
 1221	AntimonySymbol	Hetty	Rey	StepsHouse	#It's just so shameful, showing your mark so brazenly
-1220	AntimonySymbol	Hetty	Rey	#Pins are always useful! / Matches are of course essential
+1220	AntimonySymbol	Hetty	LighterFuel	Matches	Rey	#Pins are always useful! / Matches are of course essential
 1219	Hetty	HettySymbol	Rey	#And then, when I have had my fun...
 1218	Hetty	Rey	#Oh! You should kill her!
 1217	GraveYard	Hetty	HettySymbol	MercurySymbol	Rey	#A mere slave
@@ -15,8 +19,8 @@
 1212	Adam	Court	Hetty	Rey	#So you persist in tormenting him?
 1211	Adam	AntimonySymbol	Court	GlassFiber	Hetty	Rey	#Up to more acts of unspeakable evil today, Hetty? (Adam 1st reference)
 1210	AntimonySymbol	Court	Hetty	Rey	#Oh Reynardine!<br>Tom: Renard Renard Renard Hetty
-1209	AntimonySymbol	Court	House	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>Tom: Renard Renard Renard
-; House tag renamed StepsHouse - louisxiv 2013-07-14
+1209	AntimonySymbol	Court	StepsHouse	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>Tom: Renard Renard Renard
+; House tag renamed StepsHouse - louisxiv 2013-07-29
 1208	AntimonySymbol	Court	StepsHouse	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>Tom: Renard Renard
 1207	Lindsey	Rey	SubDorm	#Out and about today Renard (toy to white wolf transform)<br>Tom: Renard
 1206	Annie	Blush	Kat	Paz	Rey	SubDorm	#Tom: Annie does not know yet
