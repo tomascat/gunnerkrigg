@@ -302,7 +302,7 @@ Spiders	Often white and [etheric](#etherics), also often real.
 StarHeadband	A headband with stars on antennae that [Annie](#annie) uses to pretend she is a [robot](#robots)
 Stars	Celestial bodies
 Steadman	An archer, present at the [founding](#founding) of the court
-StepsHouse	An unknown person's house (please help!)
+StepsHouse	[Eglamore](#eglamore) lives here
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
 Students	Miscellaneous students
 SubDorm	Year 9’s dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors.
