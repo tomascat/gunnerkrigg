@@ -1,4 +1,14 @@
 ; reminder: this is comment - in case you need to flag changes, etc...
+1241	Annie	Gillitie	Monster	OldCourt	Ysengrin	#These are the last remnants of human buildings from before the divide
+1240	Annie	Gillitie	OldCourt	Ysengrin	#And since Coyote has seen fit to give you my job, you must become stronger.
+1239	Annie	Gillitie	GreatSecret	Ysengrin	#I... do not remember that.
+1238	Annie	Coyote	Gillitie	Ysengrin	#Ysengrin, will you tell me what happened when I last saw you here?
+1237	Annie	Bridge	Court	Eglamore	Gillitie	Parley	Ysengrin	#I suppose it's for the best if Andrew sat this one out while I get a better handle on things …
+1236	Annie	Kat	Paz	#Oh, aren't you going to come by and see Mr. Eglamore before we head out?
+1235	Annie	Kat	Paz	#Are you sure about going there on your own?<br>Tom: A shared love of rhythm games.
+1234	Cover	#Icon: plants, flower, growing though a broken wall<hr>Chapter 44: Crash Course<hr>
+1233	Bonus	Hetty	#**Bonus page:** Helpful Hetty always get the job _done!_
+1232	AntimonySymbol	Eglamore	Rey	StepsHouse	#I was out earlier, had to cover for some classes at the last minute
 1231	Fire	Hetty	Rey	StepsHouse	#Tom: Bye, Hetty
 1230	AntimonySymbol	Fire	Hetty	Rey	#**CRUNCH**
 1229	Fire	Hetty	HettySymbol	Matches	Rey	#_Flick_
@@ -141,40 +151,40 @@
 1092	Cover	Landscape	#Icon: Jones's eye <hr>Chapter 40: The Stone<hr>
 1091	Bonus	Mort	#<b>Bonus Page :</b>Mort Fun Time
 1090	Coyote	Gillitie	TreeBody	Ysengrin	#Stand back up and pull yourself together
-1089	Coyote	Etherium	Gillitie	Ysengrin	#Now why don’t I just remove this nasty little memory?
-1088	Coyote	Gillitie	TreeBody	Ysengrin	#What… what… I- I tried to attack… the girl…
-1087	Annie	Eglamore	Gillitie	#I’m sorry
-1086	Annie	Armour	Blush	Eglamore	Gillitie	#They are not your pets
-1085	Annie	Armour	BlinkerStone	Eglamore	Gillitie	Sword	Ysengrin	#He’s still coming!
-1084	Annie	Armour	Eglamore	Etherics	Gillitie	Sword	Ysengrin	#Tree/Wolf stretch
-1083	Annie	Armour	Eglamore	Gillitie	Sword	Valknut	Ysengrin	ZAM	#ZAM [‘ZAM’ is a more ostentatious ‘Bip’][Should we tag Eglamore-esque Jumps, btw?]
-1082	Annie	Beacon	Eglamore	Flashback	Gillitie	Ysengrin	#On the first sign of trouble, snap this beacon
-1081	Annie	Beacon	Gillitie	Ysengrin	#You’re not like this!
-1080	Annie	Gillitie	Ysengrin	#creak … snap … GRUUH!<br>Tom: Ysengrin seems to disagree
-1079	Annie	Gillitie	Ysengrin	#You think you are better than me because you are human?
-1078	Annie	Gillitie	Ysengrin	#Well I feel real enough
-1077	Annie	Gillitie	Ysengrin	#Coyote is not the only powerful one
-1076	Annie	Gillitie	Ysengrin	#Why does Coyote’s theory upset you so much
-1075	Annie	Coyote	Gillitie	#I really wish you weren’t so rude to Ysengrin
-1074	Annie	Coyote	Gillitie	#I noticed something wrong with your theory, Coyote
-1073	Annie	Coyote	Flashback	Gillitie	Surma	#So… the Guides…
-1072	Annie	Coyote	Etherium	Flashback	ModdeyDhoo	#It is because they are absorbed into the Ether
-1071	Annie	Coyote	Etherium	God	#The curse causes Man to stumble through this world forever asking Questions
-1070	Annie	Coyote	Etherium	God	#He does not see an animal looking for a meal, he sees the power of a god
-1069	Annie	Coyote	Gillitie	#… Can I go home now? [and: a coyote]
-1068	Bones	Coyote	Etherium	Gillitie	Sun	#I. Do Not. Exist!<br>Tom: Also: kind of a jerk.
-1067	Annie	Coyote	Gillitie	Ysengrin	#and so, Fire Head Girl told Coyote lovely stories about how amazing he is<br>Tom: Try not to look at the camera, Coyote
-1066	Annie	Coyote	Gillitie	Ysengrin	#Your great secret?<br>Tom: Coyote gets his way
-1065	Annie	Coyote	Gillitie	Ysengrin	#Coyote! Hove some dignity!<br>Tom: A new range of expressions for Ysengrin
-1064	Annie	Coyote	Gillitie	#Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!<br>Tom: The Greate Coyote
+1089	Bones	Coyote	Etherium	Gillitie	Ysengrin	#Now why don’t I just remove this nasty little memory?
+1088	Annie	Coyote	Gillitie	TreeBody	Ysengrin	#What… what… I- I tried to attack… the girl…
+1087	Annie	Eglamore	Jones	Gillitie	Ysengrin	#I’m sorry
+1086	Annie	Armour	Eglamore	Gillitie	#They are not your pets
+1085	Annie	Armour	BlinkerStone	Eglamore	Gillitie	Sword	TreeBody	Ysengrin	#He’s still coming!
+1084	Annie	Armour	Eglamore	Etherics	Gillitie	Sword	TreeBody	Ysengrin	#Tree/Wolf stretch
+1083	Annie	Armour	Eglamore	Gillitie	Sword	TreeBody	Valknut	Ysengrin	ZAM	#ZAM [‘ZAM’ is a more ostentatious ‘Bip’][Should we tag Eglamore-esque Jumps, btw?]
+1082	Annie	Beacon	Eglamore	Flashback	Gillitie	TreeBody	Ysengrin	#On the first sign of trouble, snap this beacon
+1081	Annie	Beacon	Gillitie	TreeBody	Ysengrin	#You’re not like this!
+1080	Annie	Gillitie	TreeBody	Ysengrin	#creak … snap … GRUUH!<br>Tom: Ysengrin seems to disagree
+1079	Annie	Gillitie	GreatSecret	TreeBody	Ysengrin	#You think you are better than me because you are human?
+1078	Annie	Gillitie	GreatSecret	Ysengrin	#Well I feel real enough
+1077	Annie	Gillitie	GreatSecret	TreeBody	Ysengrin	#Coyote is not the only powerful one
+1076	Annie	Gillitie	God	GreatSecret	Ysengrin	#Why does Coyote’s theory upset you so much
+1075	Annie	Coyote	Gillitie	Ysengrin	#I really wish you weren’t so rude to Ysengrin
+1074	Annie	Coyote	Gillitie	GreatSecret	Jones	Sky	Stars	WanderingEye	Ysengrin	#I noticed something wrong with your theory, Coyote
+1073	Annie	Bones	Coyote	Etherium	Flashback	Gillitie	GreatSecret	Psychopomps	Surma	Ysengrin	#So… the Guides…
+1072	Annie	Coyote	Etherium	Flashback	GreatSecret	ModdeyDhoo	Psychopomps	#It is because they are absorbed into the Ether
+1071	Annie	Coyote	Etherium	God	GreatSecret	#The curse causes Man to stumble through this world forever asking Questions
+1070	Annie	Bones	Coyote	Desert	Etherium	GreatSecret	God	Moon	#He does not see an animal looking for a meal, he sees the power of a god
+1069	Annie	Coyote	Desert	Gillitie	GreatSecret	#… Can I go home now? [and: a coyote]
+1068	Bones	Coyote	Etherium	Gillitie	GreatSecret	Sun	SunSymbol	#I. Do Not. Exist!<br>Tom: Also: kind of a jerk.
+1067	Annie	Coyote	Gillitie	GreatSecret	Sun	Ysengrin	#and so, Fire Head Girl told Coyote lovely stories about how amazing he is<br>Tom: Try not to look at the camera, Coyote
+1066	Annie	Coyote	Gillitie	GreatSecret	Ysengrin	#Your great secret?<br>Tom: Coyote gets his way
+1065	Annie	Coyote	Gillitie	GreatSecret	Ysengrin	#Coyote! Hove some dignity!<br>Tom: A new range of expressions for Ysengrin
+1064	Annie	Bones	Coyote	Gillitie	#Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!<br>Tom: The Great Coyote
 1063	Annie	Coyote	Gillitie	Ysengrin	#Who said you had any choice in the matter, Fire Head Girl?<br>Tom: Flick
 1062	Annie	Coyote	Gillitie	#You will tell me stories<br>Tom: Told you he was a jerk
-1061	Annie	Coyote	Gillitie	#Boo!<br>Tom: This jerk again
-1060	Annie	Etherium	Ysengrin	#Tom: Walkin’ along
-1059	Annie	Bridge	Eglamore	Gillitie	Ysengrin	#Tom: Been a while
-1058	Annie	Armour	Bridge	Gillitie	Eglamore	Sword	Ysengrin	#Considering what’s happened these part few weeks
+1061	Annie	Coyote	Gillitie	Ysengrin	#Boo!Tom: This jerk again
+1060	Annie	AnnieCut	Etherium	Gillitie	Ysengrin	#Tom: Walkin’ along
+1059	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	TreeBody	Ysengrin	#Tom: Been a while
+1058	Annie	Armour	Bridge	Coyote	Eglamore	Gillitie	Sword	Ysengrin	#Considering what’s happened these part few weeks
 1057	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	#You know , you don’t have to wear that outfit every time we go across the bridge
-1056	Cover	Bones	Coyote	#Icon: the Moon? <hr>Chapter 39: The Great Secret<hr>
+1056	Cover	Bones	Coyote	GreatSecret	#Icon: the Moon? <hr>Chapter 39: The Great Secret<hr>
 1055	Bonus	Filler	Tea	#<b>Bonus Page:</b> heart rate monitors
 1054	FlowerHeadband	Gamma	Hospital	Zimmy	#Are you sure you don’t want them to know you helped?
 1053	Annie	Gamma	Hospital	Kat	MakeUp	Zimmy	#I brought these for you
@@ -729,34 +739,34 @@
 504	Annie	Kat	KatsWorkshop	Rey	Robots	#Set it down over there, boys
 503	Cover	BlinkerStone	#Icon: Anja and Donny in front of the EyeCrossed Rey binding program?<hr>Chapter 21: Blinking<hr>
 502	Bonus	Coyote	CoyoteStories	Eyes	Moon	Thief	#<b>Bonus Page:</b> (Coyote tells a story about the moon. And himself, obviously)
-501	Annie	Kat	Moon	MoonPrint	Observatory	#That… That can’t be right!
-500	Annie	Dirty	Kat	Moon	MoonPrint	Observatory	Rey	#Everything’s the same as it always is
-499	Annie	Bridge	Eglamore	Gillitie	Sword	Ysengrin	#(Ysengrin escorts Annie to Eglamore, who then escorts her out of the forest)
-498	Annie	Coyote	Gillitie	Secret	Ysengrin	#That is all for tonight, I think!
-497	Annie	Court	Coyote	CoyoteStories	Gillitie	God	Ysengrin	#Why… It is man’s endevour to become God!
-496	Annie	Coyote	CoyoteStories	Eyes	Gillitie	Rey	WoodenArm	Ysengrin	#Ysengrin loves me very much
-495	Annie	AntimonySymbol	Bridge	Coyote	CoyoteStories	Etherics	Eyes	Gillitie	MercurySymbol	Moon	Rey	#We heard he was captured. Tricked!
-494	Annie	Coyote	CoyoteStories	Gillitie	Flowers	Rey	Surma	Ysengrin	#Renard Loooves humans
-493	Annie	Coyote	CoyoteStories	Gillitie	Rey	#Why, he killed that young man of course.
-492	Aly	Annie	Court	Coyote	CoyoteStories	Gillitie	Traitor	Ysengrin	#Is this the test I’ve heard about?
-491	Annan	Annie	Bridge	Court	Coyote	CoyoteStories	Gillitie	Moon	#When they shun their humanity, we welcome them here
-490	Annie	Coyote	CoyoteStories	Gillitie	Moon	MoonPrint	#Watch as I pluck the moon from the very sky
-489	Annan	Annie	BismuthSymbol	Court	CourtSymbol	Coyote	CoyoteStories	ForestSymbol	Gillitie	Rey	Sun	Ysengrin	#You made the Annan waters and the ravine?
-488	Annie	Coyote	CoyoteStories	Gillitie	Moon	Stars	Sun	Rey	Ysengrin	#Together we came to this grand forest
-487	Annie	Coyote	CoyoteStories	Gillitie	Eyes	Stars	Surma	#And we hope the friendship can be born anew
-486	Annie	Coyote	CoyoteStories	Etherics	Eyes	Gillitie	Stars	#She told me how you placed the stars in the sky
-485	Annie	Coyote	Gillitie	Surma	Ysengrin	#FIRE HEAD GIRL! Welcome to my forest
-484	Coyote	CoyoteTooth	Gillitie	Moon	Trees	Sun	#(Coyote, talking about himself. Really that could describe any page with him in…)
-483	Annie	Gillitie	Shadowmen	Trees	Ysengrin	#(Annie and Ysengrin walk through the forest, watched by Shadowmen, until they reach a glade)
-482	Annie	Eglamore	Gillitie	Moon	Stars	Sword	Trees	Uniform	Ysengrin	#You will take me to Coyote now
-481	Annie	Eglamore	Gillitie	Moon	Stars	Sword	Trees	Uniform	Ysengrin	#Eglamore stays here. He is not welcome.
-480	Annie	Beacon	Bridge	CourtLogo	Eglamore	LeadSymbol	Sword	Uniform	#At the first sign of trouble, snap this beacon
-479	Annie	Bridge	CourtLogo	Eglamore	LeadSymbol	Sword	Uniform	#Do you really need all those swords?
-478	Annie	Bridge	CourtSymbol	Eglamore	ForestSymbol	Jones	LeadSymbol	Sword	Uniform	#Well, no need to keep them waiting.
+501	Annie	Kat	Moon	MoonPrint	Observatory	Telescope	#That… That can’t be right!
+500	Annie	Dirty	Kat	Moon	MoonPrint	Observatory	Rey	Telescope	#Everything’s the same as it always is
+499	Annie	Armour	Bridge	Eglamore	EglamoreKnife	Gillitie	Sword	Ysengrin	#(Ysengrin escorts Annie to Eglamore, who then escorts her out of the forest)
+498	Annie	Coyote	Gillitie	GreatSecret	Star	Uniform	Ysengrin	#That is all for tonight, I think!
+497	Annie	Court	Coyote	CoyoteStories	Etherium	Gillitie	God	Moon	Stars	SunSymbol	Uniform	Ysengrin	#Why… It is man’s endevour to become God!
+496	Annie	Coyote	CoyoteStories	Eyes	Gillitie	MercurySymbol	Rey	TreeBody	Uniform	WoodenArm	Ysengrin	#Ysengrin loves me very much
+495	Annie	AntimonySymbol	Bridge	Coyote	CoyoteStories	DanielRSchiff	Etherics	Eyes	Gillitie	MercurySymbol	Moon	Rey	#We heard he was captured. Tricked!
+494	Annie	Coyote	CoyoteStories	Flowers	Gillitie	Rey	Surma	Uniform	Ysengrin	#Renard Loooves humans
+493	Annan	Annie	Coyote	CoyoteStories	DanielRSchiff	Etherium	Gillitie	Rey	River	Uniform	#Why, he killed that young man of course.
+492	Aly	Annan	Annie	Court	Coyote	CoyoteStories	Gillitie	River	Traitor	Ysengrin	#Is this the test I’ve heard about?
+491	Annan	Annie	Bridge	Court	Coyote	CoyoteStories	Divide	Gillitie	Moon	Sky	Uniform	#When they shun their humanity, we welcome them here
+490	Annie	Coyote	CoyoteStories	Gillitie	Moon	MoonPrint	Sky	Uniform	#Watch as I pluck the moon from the very sky
+489	Annan	Annie	BismuthSymbol	Court	CourtSymbol	Coyote	CoyoteStories	Diego	Etherium	ForestSymbol	Gillitie	Rey	SirYoung	Steadman	Sun	Uniform	Ysengrin	#You made the Annan waters and the ravine?
+488	Annie	Coyote	CoyoteStories	Divide	Earth	Etherium	Gillitie	Moon	Ocean	Rey	Sky	Stars	Sun	Ysengrin	#Together we came to this grand forest
+487	Annie	Coyote	CoyoteStories	Gillitie	Eyes	Stars	Surma	Uniform	#And we hope the friendship can be born anew
+486	Annan	Annie	Coyote	CoyoteStories	Etherics	EyeSymbol	Eyes	Gillitie	River	Sky	Stars	Uniform	#She told me how you placed the stars in the sky
+485	Annan	Annie	Coyote	Gillitie	River	Surma	Uniform	Ysengrin	#FIRE HEAD GIRL! Welcome to my forest
+484	Annan	Coyote	Gillitie	Moon	River	Sun	Trees	#(Coyote, talking about himself. Really that could describe any page with him in…)
+483	Annan	Annie	Gillitie	River	Shadowmen	Trees	Uniform	Uniform	Ysengrin	#(Annie and Ysengrin walk through the forest, watched by Shadowmen, until they reach a glade)
+482	Annie	Armour	Eglamore	Gillitie	Moon	Stars	Sword	Trees	Uniform	Ysengrin	#You will take me to Coyote now
+481	Annie	Armour	Eglamore	Gillitie	Moon	Stars	Sword	Trees	Uniform	Ysengrin	#Eglamore stays here. He is not welcome.
+480	Annie	Armour	Beacon	Bridge	CourtLogo	Eglamore	LeadSymbol	Sword	Uniform	#At the first sign of trouble, snap this beacon
+479	Annie	Armour	Bridge	CourtLogo	Eglamore	LeadSymbol	Sword	Uniform	#Do you really need all those swords?
+478	Annie	Armour	Bridge	CourtSymbol	Eglamore	ForestSymbol	Jones	LeadSymbol	Sword	Uniform	#Well, no need to keep them waiting.
 477	Annie	Armoury	Eglamore	Jones	Sword	Uniform	#Is the forest really so dangerous?
-476	Annie	Armoury	Eglamore	Jones	Sword	Uniform	#Try not to undress the female students James.
+476	Annie	Armour	Armoury	Eglamore	Jones	Sword	Uniform	#Try not to undress the female students James.
 475	Annie	CourtLogo	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
-474	Annie	CourtLogo	Dirty	Dorm	Kat	Rey	Surma	Uniform	#Surma made this body?
+474	Annie	CourtLogo	Dirty	Dorm	Kat	Rey	Surma	Uniform	WolfToy	#Surma made this body?
 473	Cover	Annan	Annie	GreenArrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gillitie	Jeanne	LeadSymbol	Robotics	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Icon: Coyote <hr>Chapter 20: Coyote Stories<hr>
 472	Bonus	Mandolin	Margo	SullivansJohn	#<b>Bonus page:</b> Time for Music
 471	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	#Yes. More questions as to what this place rally is.

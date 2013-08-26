@@ -85,11 +85,12 @@ Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, 
 CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
 CurlyFae	‘this girl too’ – short curly blue hair, red dot below right eye
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[psychopomps](#psychopomps) of Wales; red ears
-Dryad	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one.
+Desert	No rain in here. Where [Coyotes](#coyote) live, sometimes.
 Diego	Former creepy robotics expert; creator of the original [robot](#robots) (but not the TicTocs); referred to as "creator" by the [robot](#robots)
 DiegoBot	One of the original [robot](#robots) created by Diego many years ago
 DiegoStudy	Home of all things ancient [robot](#robots)
 Dirty	What you become when you don't wash for a while
+Divide	The division between the Court and the [Forest](#gillitie) caused by [Coyote](#coyote)
 Dolls	[Kat](#kat) probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
 DoorBot	A cranky old man [robot](#robots) who guards the door to the [RobotHQ](#robothq)
 DonlanHouse	Home of the Donlan family: [Anja](#anja), [Donny](#donny), [Kat](#kat)
@@ -97,6 +98,7 @@ DonlanSymbol	A symbol found in the Donlan house and in [Anja](#anja) &amp; [Donn
 Donny	Donald Donlan, [Kat](#kat)’s father
 Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
+Dryad	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one.
 Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword)
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
 EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword), [armour](#armour), a [Tiki](#tiki) and a [mask](#mask) among other things
@@ -143,6 +145,7 @@ Gol-shogeg	Big worm slug monster
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
 GoodHope	Good Hope Hospital is where [Surma](#surma) was before she died
 GraveYard	a field of the dead
+GreatSecret	[Coyote's](#coyote) Great Secret.
 GreenArrow	Green arrow with horseshoe tip. Created by [Diego](#diego), shot by [Steadman](#steadman), hit Jeanne's Lover in the [Annan](#annan)
 GreenFae	‘this other one’ -- long straight green hair
 Grounds	The grounds/gardens of Gunnerkrigg Court
@@ -167,7 +170,6 @@ Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol;
 Homework	School work done outside class hours
 Horsebot	H model [Robot](#robots) in a horse frame, as motive power for carriages, carts etc
 Hospital	The hospital/infirmary within the court
-;House	An unknown person's house (please help!)
 Hyland	[Jack](#jack)’s father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma).
 Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat)
 Jan	January, curt friend of [Parley](#parley)
@@ -242,6 +244,7 @@ Observatory	A massive telescope
 Ocean	A whole bunch of [water](#water)
 Octopus	A flying / floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called [BobEyes](#bobeyes). Sister of [Torus](#torus)
+OldCourt	Parts of Gunnerkrigg Court that used to be in [Gillitie Forest](#gillitie) before the division by [Coyote](#coyote).
 Ooze	What Martin, the lost boy's lizard turns into when it hits the floor
 Orb	The _Globus cruciger_, a Christian symbol of power, wielded by monarchs and Christ
 Parley	George [Parley](#parley): Swordswoman, candidate for Court medium (Big Nose Girl); interested in [Smitty](#smitty)
@@ -252,7 +255,7 @@ PlanTheta	[Baking Distraction](#bakingdistraction) for when others are sneaking 
 Pliers	Used for manipulating wire; may include wire-strippers or wire-cutters
 PowerStation	A Court system to extract energy from the [Etherium](#etherium) on an industrial scale
 PrincessMononoke	Animated movie by Hayao Miyazaki
-Psychopomps	Escort the dead to the afterlife / Ether
+Psychopomps	Escort the dead to the afterlife/[Ether](#etherium)
 Queslett	[Annie](#annie) &amp; [Kat](#kat)’s school House
 Rain	[water](#water), falling from the sky
 Red	A crazy and abrasive fairy
@@ -278,7 +281,6 @@ ScienceLab	A school science lab where [Kat](#kat) does her initial experiments a
 Scissors	A simple device for cutting things, especially paper, hair
 Seeds	Some seeds that [Ysengrin](#ysengrin) uses for his terrifying skills of gardening. Used to create the WoodenArm and also dropped in the CourtHall.
 Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robot) was originally one
-Secret	Things that are kept hidden, unknown, mysterious…
 SecurityDevice	Small devices that supposedly warn [Jack](#jack) when people are coming
 SecurityRobots	They ensure security, as [robot](#robots)
 SeedBismuth	It’s a mystery; involved in the [founding](#founding) of the court
@@ -302,7 +304,7 @@ Spiders	Often white and [etheric](#etherics), also often real.
 StarHeadband	A headband with stars on antennae that [Annie](#annie) uses to pretend she is a [robot](#robots)
 Stars	Celestial bodies
 Steadman	An archer, present at the [founding](#founding) of the court
-StepsHouse	An unknown person's house (please help!)
+StepsHouse	[Eglamore](#eglamore) lives here
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
 Students	Miscellaneous students
 SubDorm	Year 9’s dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors.
