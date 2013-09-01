@@ -1,4 +1,6 @@
 ; reminder: this is comment - in case you need to flag changes, etc...
+1243	Annie	Gillitie	Monster	OldCourt	Ysengrin	#She is here because she is the new medium of the forest
+1242	Annie	Gillitie	Monster	OldCourt	Ysengrin	#Ysengrin / been a while / thought you'd forgotten about us<br>Tom: Ysengrin's army
 1241	Annie	Gillitie	Monster	OldCourt	Ysengrin	#These are the last remnants of human buildings from before the divide
 1240	Annie	Gillitie	OldCourt	Ysengrin	#And since Coyote has seen fit to give you my job, you must become stronger.
 1239	Annie	Gillitie	GreatSecret	Ysengrin	#I... do not remember that.
