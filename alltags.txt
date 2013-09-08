@@ -32,8 +32,8 @@ Basil	Minotaur
 Beacon	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated much like [Brinnie](#brinnie)'s teleport
 BeckyGround	A student
 Bind	[Etheric](#etherics) binding, hold or constraint hoodoo
-Birds	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
 Bip	[Parley](#parley)’s teleportation. May be accompanied by BARGE.
+Birds	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
 Birmingham	See [Zimmingham](#zimmingham)
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
 Blackboard	Classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
@@ -77,14 +77,15 @@ CourtSymbol	The symbol [Annie](#annie)’s [Blinker Stone](#blinkerstone) makes;
 Courtyard	A courtyard near the [library](#library)
 Cover	A chapter cover
 Coyote	Trickster; the creator of all; he does not exist, he says
-CoyoteTooth	It’s a tooth, or is it?
 CoyoteStories	Stories told about or by [Coyote](#coyote)
+CoyoteTooth	It’s a tooth, or is it?
 CreatorGlyph	Mark of the [robot](#robots)’ creator: now associated with [Kat](#kat)
 Creeper	Someone who is creeping
 Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
 CurlyFae	‘this girl too’ – short curly blue hair, red dot below right eye
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[psychopomps](#psychopomps) of Wales; red ears
+DanielRSchiff	A victim
 Desert	No rain in here. Where [Coyotes](#coyote) live, sometimes.
 Diego	Former creepy robotics expert; creator of the original [robot](#robots) (but not the TicTocs); referred to as "creator" by the [robot](#robots)
 DiegoBot	One of the original [robot](#robots) created by Diego many years ago
@@ -92,29 +93,29 @@ DiegoStudy	Home of all things ancient [robot](#robots)
 Dirty	What you become when you don't wash for a while
 Divide	The division between the Court and the [Forest](#gillitie) caused by [Coyote](#coyote)
 Dolls	[Kat](#kat) probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
-DoorBot	A cranky old man [robot](#robots) who guards the door to the [RobotHQ](#robothq)
 DonlanHouse	Home of the Donlan family: [Anja](#anja), [Donny](#donny), [Kat](#kat)
 DonlanSymbol	A symbol found in the Donlan house and in [Anja](#anja) &amp; [Donny](#donny)'s program; resembles the alchemical symbols for silver and ether
 Donny	Donald Donlan, [Kat](#kat)’s father
+DoorBot	A cranky old man [robot](#robots) who guards the door to the [RobotHQ](#robothq)
 Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
 Dryad	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one.
+Earth	Ancient element; the planet on which we live; the great mother and life-giver
 Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword)
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
 EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword), [armour](#armour), a [Tiki](#tiki) and a [mask](#mask) among other things
-Earth	Ancient element; the planet on which we live; the great mother and life-giver
 Employees	Miscellaneous Court employees; includes security staff, gardeners, scientists, [power station](#powerstation) operators and even mysterious dudes who take [Gamma](#gamma) and [Zimmy](#zimmy) from [Birmingham](#birmingham) to the Court
 EnigmaronLair	Where the [Enigmarons](#enigmarons) from a [Dr. Disaster](#drdisaster) [simulation](#simulation) hang out
 Enigmarons	Bad guy aliens in a [Dr. Disaster](#drdisaster) [simulation](#simulation)
 Etherics	Manipulation of the Ether – “magic”
-Etherium	The world/realm of the Ether
 EthericShield	An [Etheric](#etherics)/magical shield
+Etherium	The world/realm of the Ether
 EtherSymbol	A symbol for phlogiston or ether
 EugeneGould	Explorer
 EyeCrossed	A crossed out eye that is a complex warding sign, made by [Anja](#anja) and [Donny](#donny) to bind [Rey](#rey)
 EyeGunk	[Etheric](#etherics) eye-gunk possessed by [Zimmy](#zimmy) and others affected by [Zimmingham](#zimmingham)
-EyeSymbol	An eye symbol associated with [Coyote](#coyote) and [Gillitie](#gillitie)
 Eyes	When seeing is important
+EyeSymbol	An eye symbol associated with [Coyote](#coyote) and [Gillitie](#gillitie)
 FacelessPeople	People without faces who [Zimmy](#zimmy) sometimes sees
 Fairies	[Gillitie](#gillitie) Wood is full of them
 FencingHall	Where [sword](#sword)-fighting, fencing, sparring are taught
@@ -125,8 +126,8 @@ FireElemental	A personification of [fire](#fire), represented with a [FireSpike]
 FireHose	A hose to put out a [fire](#fire)
 FireSpike	A spiky [fire](#fire) crown associated with [Fire Elementals](#fireelemental)
 FireSymbol	The alchemical symbol for [fire](#fire)
-FishFae	‘a fish guy?’ -- concentrating on making himself handsome, former fish
 Fish	Aquatic animal, fish live in [water](#water) and breathe through gills
+FishFae	‘a fish guy?’ -- concentrating on making himself handsome, former fish
 Flashback	Things that happened in the past
 FlowerFae	‘this one’ -- purple hair, green bar under left eye
 FlowerHeadband	AKA het-band. pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
@@ -220,9 +221,9 @@ MartinLizard	A lizard that [Martin](#martin) likes and shows [Annie](#annie). Bi
 MartinRoom	[Martin](#martin)'s hospital/bed room
 Mask	A cover to hide face, appearance, emotions
 Matt	Student and classmate of [Annie](#annie) and [Kat](#kat)
-MetalGearSolid	A game that [Kat](#kat) likes.
 Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce; [psychopomp](#psychopomps)
 MercurySymbol	The alchemical symbol for [mercury](#mercury); appears on [Rey](#rey)’s spirit form
+MetalGearSolid	A game that [Kat](#kat) likes.
 Mice	Small rodents, common pests, and also in labs.
 Microsat5	[Tony](#tony)’s payload delivery satellite
 ModdeyDhoo	One of the Black Dogs, a [psychopomp](#psychopomps) from the Isle of Man
@@ -266,8 +267,8 @@ Robot	A Messianic S-13
 RobotCode	A cube with the [Robots]'(#robots) instruction code transcribed onto it
 RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
 RobotHQ	Where the [robot](#robots) hang out
-RobotKing	A [robot](#robots) with a crown, blank face, and a pen
 Robotics	Like [Etherics](#etherics) but with metal
+RobotKing	A [robot](#robots) with a crown, blank face, and a pen
 RobotParts	Bits of [robot](#robots) currently not attached
 Robots	A collective noun
 RobotTomb	Tomb/theatre full of [robot](#robots)
@@ -279,11 +280,11 @@ S1	Original [Seraph](#seraph) [robot](#robots) made by Diego; predecessor of [Ro
 Salon	Court hair salon, manned by the HairdresserBot
 ScienceLab	A school science lab where [Kat](#kat) does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
+SeedBismuth	It’s a mystery; involved in the [founding](#founding) of the court
 Seeds	Some seeds that [Ysengrin](#ysengrin) uses for his terrifying skills of gardening. Used to create the WoodenArm and also dropped in the CourtHall.
 Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robot) was originally one
 SecurityDevice	Small devices that supposedly warn [Jack](#jack) when people are coming
 SecurityRobots	They ensure security, as [robot](#robots)
-SeedBismuth	It’s a mystery; involved in the [founding](#founding) of the court
 Shadow	The Thin Man, a [shadowman](#shadowmen)
 Shadowman	Not the Thin Man, but one of the [shadowmen](#shadowmen)
 Shadowmen	The glass-eyed men; creations of [Coyote](#coyote)
@@ -292,9 +293,9 @@ SimRocket	A rocket/spaceship in [Dr. Disaster](#drdisaster)’s [simulation](#si
 Simulation	One of [Dr. Disaster](#drdisaster)’s holographic adventures
 SirYoung	Protector of the Court at its [founding](#founding)
 Sivo	A [Rogat Orjak](#rogatorjak) who was close friends with [Eglamore](#eglamore)
+SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises death; associated with pirates
 Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data
-SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises death; associated with pirates
 SmallBot	A young eye-witness model [robot](#robots)
 Smitty	Andrew Smith; usually brings order from chaos (Mighty Eyebrows Boy); interested in [Parley](#parley); candidate for Court medium
 Spankies	From [Annie](#annie) for when [Coyote](#coyote) is a Bad Dog!
@@ -314,11 +315,11 @@ SunSymbol	Alchemical symbol for the Sun, doubles as the symbol for gold
 Surma	Surma Stibnite, [Annie](#annie)’s mother
 SurmaWhisper	[Surma](#surma) whispers something in the past to [Annie](#annie)
 Sweets	Tasty and sugary
-Symbol	Unidentified symbol (please help!)
 Sword	A long weapon with a blade held in one or two hands. Sometimes magical. Wielded by [Eglamore](#eglamore), [Parley](#parley), [Jeanne](#jeanne) among others
+Symbol	Unidentified symbol (please help!)
 Tea	Explains things in-between chapters
-Tears	In the eyes, visibly crying, _etc_
 Teacher	A miscellaneous teacher
+Tears	In the eyes, visibly crying, _etc_
 Telescope	Good for seeing celestial bodies, satellites and other things that are far away
 Tents	For sleeping inside, outside
 Terrible	[BoxBot](#boxbot)
@@ -352,10 +353,10 @@ Warehouse113	Warehouse [113](#113) is Not a secret base at Long Acre
 Water	Ancient element; H2O; necessary for life; rivers, lakes and oceans are made of this
 WaterFae	‘this girl’ – short blue spikey hair, 2 dots under right eye, had a waterfall?
 WaterSymbol	Alchemical symbol for [water](#water)
+WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
 WhiteSpider	Also known as WhiteLegs, associated with [Jack](#jack) Hyland’s [etheric](#etherics) form when he got stuck in [Zimmingham](#zimmingham), until [Zimmy](#zimmy) helped him get rid of it.
 Winsbury	William (Willie) Winsbury; student with [Annie](#annie) and [Kat](#kat), not a very nice boy; dating [Janet](#janet)
 WolfToy	A small wolf toy made by [Annie](#annie)’s mother (tagged when _not_ animated by [Reynardine](#rey))
-WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
 WoodenArm	A mysterious wooden arm from [Gillitie](#gillitie); initially attached to [Robot](#robot); finds its way to [Habitat](#habitat) [113](#113) and finally to [Young's Park](#youngspark)
 WorkshopKey	The key for [Kat](#kat)'s Workshop
 YellowFae	‘him’ - yellow hair, kinda sideways windswept
