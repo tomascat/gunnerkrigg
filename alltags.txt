@@ -280,11 +280,11 @@ S1	Original [Seraph](#seraph) [robot](#robots) made by Diego; predecessor of [Ro
 Salon	Court hair salon, manned by the HairdresserBot
 ScienceLab	A school science lab where [Kat](#kat) does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
+SecurityDevice	Small devices that supposedly warn [Jack](#jack) when people are coming
+SecurityRobots	They ensure security, as [robot](#robots)
 SeedBismuth	It’s a mystery; involved in the [founding](#founding) of the court
 Seeds	Some seeds that [Ysengrin](#ysengrin) uses for his terrifying skills of gardening. Used to create the WoodenArm and also dropped in the CourtHall.
 Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robot) was originally one
-SecurityDevice	Small devices that supposedly warn [Jack](#jack) when people are coming
-SecurityRobots	They ensure security, as [robot](#robots)
 Shadow	The Thin Man, a [shadowman](#shadowmen)
 Shadowman	Not the Thin Man, but one of the [shadowmen](#shadowmen)
 Shadowmen	The glass-eyed men; creations of [Coyote](#coyote)
@@ -354,8 +354,9 @@ Water	Ancient element; H2O; necessary for life; rivers, lakes and oceans are mad
 WaterFae	‘this girl’ – short blue spikey hair, 2 dots under right eye, had a waterfall?
 WaterSymbol	Alchemical symbol for [water](#water)
 WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
-WhiteSpider	Also known as WhiteLegs, associated with [Jack](#jack) Hyland’s [etheric](#etherics) form when he got stuck in [Zimmingham](#zimmingham), until [Zimmy](#zimmy) helped him get rid of it.
+WhiteSpider	Also known as WhiteLegs, associated with [Jack](#jack) Hyland’s [etheric](#etherics) form when he got stuck in [Zimmingham](#zimmingham), until [Zimmy](#zimmy) helped him get rid of it
 Winsbury	William (Willie) Winsbury; student with [Annie](#annie) and [Kat](#kat), not a very nice boy; dating [Janet](#janet)
+Wisp	a misleading monster of [Gillitie Wood](#gillitie) (_see_ [Will-o'-the-Wisp](https://en.wikipedia.org/wiki/Will-o%27-the-wisp))
 WolfToy	A small wolf toy made by [Annie](#annie)’s mother (tagged when _not_ animated by [Reynardine](#rey))
 WoodenArm	A mysterious wooden arm from [Gillitie](#gillitie); initially attached to [Robot](#robot); finds its way to [Habitat](#habitat) [113](#113) and finally to [Young's Park](#youngspark)
 WorkshopKey	The key for [Kat](#kat)'s Workshop
