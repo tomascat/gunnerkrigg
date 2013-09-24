@@ -4,10 +4,14 @@
 ; _italic_
 ; [internal link text](#sometag)
 ; [external link text](www.gunnerkrigg.com)
-1249	Annie	Coyote	Gillitie	OldCourt	SeedBismuth	#and the fighting began
-1248	Annie	Gillitie	OldCourt	SeedBismuth	#You… made these buildings?
-1247	Annie	Gillitie	OldCourt	SeedBismuth	#I am the spirit of these ruins
-1246	Annie	Fight	Gillitie	Monster	OldCourt	Ysengrin	#Pssst… This way! Quickly!
+1253	Annie	Coyote	Gillitie	Wisp	#Their legs get stuck in my teeth
+1252	Annie	Coyote	FireSpike	Gillitie	OldCourt	Wisp	#Don't mind me, I'm just out hunting
+1251	Annie	AnnieCut	Coyote	Etherium	Gillitie	SeedBismuth	Wisp	#You're lying!
+1250	Annie	AnnieCut	Coyote	Etherium	Gillitie	OldCourt	SeedBismuth	Wisp	#If you could take me back to my brethren…
+1249	Annie	AnnieCut	Coyote	Etherium	Gillitie	OldCourt	SeedBismuth	Wisp	#And the fighting began
+1248	Annie	Gillitie	OldCourt	SeedBismuth	Wisp	#You… made these buildings?
+1247	Annie	Gillitie	OldCourt	SeedBismuth	Wisp	#I am the spirit of these ruins
+1246	Annie	Fight	Gillitie	Monster	OldCourt	Ysengrin	Wisp	#Pssst… This way! Quickly!
 1245	Annie	Fight	Gillitie	Monster	OldCourt	Ysengrin	#Looks like you all need to learn some discipline
 1244	Annie	Fight	Gillitie	Monster	OldCourt	Ysengrin	#You would not speak this way if [Coyote](#coyote) was here
 1243	Annie	Gillitie	Monster	OldCourt	Ysengrin	#She is here because she is the new medium of the forest
