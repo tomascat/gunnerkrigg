@@ -4,7 +4,10 @@
 ; _italic_
 ; [internal link text](#sometag)
 ; [external link text](www.gunnerkrigg.com)
-1258	Annie	Fight	Fire	Gillitie	Monster	OldCourt	Ysengrin	#_Tom: Set yourself on fire_
+1261	Annie	Gillitie	Ysengrin	#In truth, Ysengrin, I was scared back there
+1260	Annie	Gillitie	Ysengrin	#To see you standing tall, with your back straight, looking down on them
+1259	Annie	Fire	FireSpike	Gillitie	Monster	OldCourt	#This is not how I wanted to do things
+1258	Annie	Fight	Fire	FireSpike	Gillitie	Monster	OldCourt	Ysengrin	#_Tom: Set yourself on fire_
 1257	Annie	Fight	Fire	Gillitie	Monster	OldCourt	Ysengrin	#_Tom: Create a fire around yourself_
 1256	Annie	Fight	Fire	Gillitie	Monster	OldCourt	Ysengrin	#The human! Get the human!
 1255	Annie	Fight	Fire	Gillitie	Monster	OldCourt	Ysengrin	#_(Speaking their language)_
@@ -28,7 +31,7 @@
 1237	Annie	Bridge	Court	Eglamore	Gillitie	Parley	Ysengrin	#I suppose it's for the best if [Andrew](#smitty) sat this one out while I get a better handle on things …
 1236	Annie	Kat	Paz	#Oh, aren't you going to come by and see [Mr. Eglamore](#eglamore) before we head out?
 1235	Annie	Kat	Paz	#Are you sure about going there on your own?<br>_Tom: A shared love of rhythm games_
-1234	Cover	#<br>Chapter 44:<br><br>**Crash Course**<br><br>_Icon: plants, flower, growing though a broken wall_
+1234	Cover	#Chapter 44:<br><br>**Crash Course**<br><br>_Icon: plants, flower, growing though a broken wall_
 1233	Bonus	Hetty	#Bonus page: Helpful Hetty always get the job _done!_
 1232	AntimonySymbol	Eglamore	Rey	StepsHouse	#I was out earlier, had to cover for some classes at the last minute
 1231	Fire	Hetty	Rey	StepsHouse	#_Tom: Bye, Hetty_
@@ -53,9 +56,9 @@
 1212	Adam	Court	Hetty	Rey	#So you persist in tormenting him?
 1211	Adam	AntimonySymbol	Court	GlassFiber	Hetty	Rey	#Up to more acts of unspeakable evil today, Hetty? _(Adam 1st reference)_
 1210	AntimonySymbol	Court	Hetty	Rey	#Oh Reynardine!<br>_Tom: Renard Renard Renard Hetty_
-1209	AntimonySymbol	Court	StepsHouse	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>Tom: Renard Renard Renard
-1208	AntimonySymbol	Court	StepsHouse	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>Tom: Renard Renard
-1207	Lindsey	Rey	SubDorm	#Out and about today Renard (toy to white wolf transform)<br>Tom: Renard
+1209	AntimonySymbol	Court	StepsHouse	Rey	#(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>_Tom: Renard Renard Renard_
+1208	AntimonySymbol	Court	StepsHouse	Rey	#(Rey walks down the street in the outer parts of the court and sees a house)<br>_Tom: Renard Renard_
+1207	Lindsey	Rey	SubDorm	#Out and about today Renard (toy to white wolf transform)<br>_Tom: Renard_
 1206	Annie	Blush	Kat	Paz	Rey	SubDorm	#_Tom: Annie does not know yet_
 1205	Annie	AntimonySymbol	Dorm	ReyComic	Rey	#Renard, we’re heading off to class now
 1204	Cover	Chemicals	ScienceLab	SkullCrossbones	#Chapter 43:<br><br>**Quicksilver**<br><br>_Icon: a packet of sewing needles_
@@ -95,20 +98,20 @@
 1170	CityFace	Filler	Rey	ReyComic	#City Face guest comic by Renard
 1169	CityFace	Filler	Kat	#City Face guest comic by Kat
 1168	Annie	CityFace	Filler	#City Face guest comic by Annie
-1167	Cover	Filler	Tea	#Intermission:<br><br>**City Face II**<br><br>_Guest Comics by Members of the Cast_
+1167	Cover	Filler	Tea	#<br>Intermission:<br><br>**City Face II**<br><br>_Guest Comics by Members of the Cast_
 1166	Filler	Tom	#“So, how’s it been going?” open letter by Tom
 1165	Bonus	Treatise	Annie	AntimonySymbol	BlinkerStone	Court	Coyote	CreatorGlyph	Gillitie	Heart	Kat	Robot	Shadow	Treatise	WanderingEye	Ysengrin	#Bonus Page: Treatise Five
 1164	Annie	Dorm	Kat	LoveLetter	#It’s written to _you_.
-1163	Annie	Dorm	Heart	Kat	LoveLetter	Rey	#It’s a _Love Letter_<br>Tom: Oh no
+1163	Annie	Dorm	Heart	Kat	LoveLetter	Rey	#It’s a _Love Letter_<br>_Tom: Oh no_
 1162	Annie	Dorm	Kat	Rey	#I’m glad we’ll be sharing this room together, Kat
 1161	Annie	Dorm	Kat	Robots	#How are Robot and Shadow?
 1160	Annie	Dorm	Kat	Rey	#Whoa, you set your hair on fire?!
 1159	Annie	BlinkerStone	CourtHall	Coyote	Etherics	Fire	Rey	#Well, Fire Head Girl, what do you say?
 1158	Annie	CourtHall	Coyote	Eglamore	Headmaster	Jones	Parley	Smitty	Ysengrin	#You want me to work for _you?_
 1157	Annie	CourtHall	Coyote	Rey	Stars	Ysengrin	#An honorary citizen of the forest!
-1156	CourtHall	Coyote	Headmaster	Parley	Rey	Smitty	#Are you husband and wife?<br>Tom: Personal space? What’s that?
+1156	CourtHall	Coyote	Headmaster	Parley	Rey	Smitty	#Are you husband and wife?<br>_Tom: Personal space? What’s that?_
 1155	Annie	CourtHall	Coyote	Headmaster	Jones	Parley	Rey	Smitty	Tears	#I’m sure you understand this ends your visiting privileges to the forest
-1154	Anja	Annie	CourtHall	Donny	Eglamore	Headmaster	LeadSymbol	Parley	Rey	#Tom: Nice to have career options
+1154	Anja	Annie	CourtHall	Donny	Eglamore	Headmaster	LeadSymbol	Parley	Rey	#_Tom: Nice to have career options_
 1153	Anja	Annie	BismuthSymbol	Blush	CourtHall	Coyote	Donny	Eglamore	Headmaster	Jones	Smitty	SunSymbol	Tears	Ysengrin	#MURMRMR
 1152	Annie	CourtHall	Headmaster	Parley	Rey	Smitty	#Andrew Smith the court has decided you shall be the next medium
 1151	Annie	CourtHall	Coyote	Headmaster	Parley	Smitty	SunSymbol	Ysengrin	#We do so love visiting your rabbit warren!
@@ -162,8 +165,8 @@
 1103	Jones	#The previous century: (C18?) You will find him a most agreeable child, Elizabeth. (young Samuel Langdon)
 1102	Jones	#The previous century: (Early C19?) Will you not keep the name Elizabeth? (old Samuel Langdon)(Elizabeth Langdon)
 1101	Jones	#Many Decades ago: (Mid C19) It is clear to see why the Lady Elizabeth remains hidden from sight
-1100	Blood	Jones	#Several decades ago: (WWII?) (Mr Jones)<br>Tom: Emma becomes Jones
-1099	Eglamore	Jones	#Decades ago: (Late 50s/early 60s?) Wave to your parents James (Eglamore is 9, see p1118)<br>Tom: Mr Eglamore whistles, “Do all their teachers look like that?” and Mrs Eglamore playfully slaps him. There are tears in her eyes.
+1100	Blood	Jones	#Several decades ago: (WWII?) (Mr Jones)<br>_Tom: Emma becomes Jones_
+1099	Eglamore	Jones	#Decades ago: (Late 50s/early 60s?) Wave to your parents James (Eglamore is 9, see p1118)<br>_Tom: Mr Eglamore whistles, “Do all their teachers look like that?” and Mrs Eglamore playfully slaps him. There are tears in her eyes._
 1098	Donny	Eglamore	Jones	#Many years ago: Donald has come to us from outside the court
 1097	Eglamore	Jones	#Several years ago: What could Surma possibly see in someone like Tony?
 1096	Eglamore	Jones	RogatOrjak	#Years ago
@@ -182,7 +185,7 @@
 1083	Annie	Armour	Eglamore	Gillitie	Sword	TreeBody	Valknut	Ysengrin	ZAM	#ZAM [‘ZAM’ is a more ostentatious ‘Bip’]
 1082	Annie	Beacon	Eglamore	Flashback	Gillitie	TreeBody	Ysengrin	#On the first sign of trouble, snap this beacon
 1081	Annie	Beacon	Gillitie	TreeBody	Ysengrin	#You’re not like this!
-1080	Annie	Gillitie	TreeBody	Ysengrin	#creak … snap … GRUUH!<br>Tom: Ysengrin seems to disagree
+1080	Annie	Gillitie	TreeBody	Ysengrin	#creak … snap … GRUUH!<br>_Tom: Ysengrin seems to disagree_
 1079	Annie	Gillitie	GreatSecret	TreeBody	Ysengrin	#You think you are better than me because you are human?
 1078	Annie	Gillitie	GreatSecret	Ysengrin	#Well I feel real enough
 1077	Annie	Gillitie	GreatSecret	TreeBody	Ysengrin	#Coyote is not the only powerful one
@@ -194,16 +197,16 @@
 1071	Annie	Coyote	Etherium	God	GreatSecret	#The curse causes Man to stumble through this world forever asking Questions
 1070	Annie	Bones	Coyote	Desert	Etherium	GreatSecret	God	Moon	#He does not see an animal looking for a meal, he sees the power of a god
 1069	Annie	Coyote	Desert	Gillitie	GreatSecret	#… Can I go home now? [and: a coyote]
-1068	Bones	Coyote	Etherium	Gillitie	GreatSecret	Sun	SunSymbol	#I. Do Not. Exist!<br>Tom: Also: kind of a jerk.
-1067	Annie	Coyote	Gillitie	GreatSecret	Sun	Ysengrin	#and so, Fire Head Girl told Coyote lovely stories about how amazing he is<br>Tom: Try not to look at the camera, Coyote
-1066	Annie	Coyote	Gillitie	GreatSecret	Ysengrin	#Your great secret?<br>Tom: Coyote gets his way
-1065	Annie	Coyote	Gillitie	GreatSecret	Ysengrin	#Coyote! Hove some dignity!<br>Tom: A new range of expressions for Ysengrin
-1064	Annie	Bones	Coyote	Gillitie	#Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!<br>Tom: The Great Coyote
-1063	Annie	Coyote	Gillitie	Ysengrin	#Who said you had any choice in the matter, Fire Head Girl?<br>Tom: Flick
-1062	Annie	Coyote	Gillitie	#You will tell me stories<br>Tom: Told you he was a jerk
-1061	Annie	Coyote	Gillitie	Ysengrin	#Boo!<br>Tom: This jerk again
-1060	Annie	AnnieCut	Etherium	Gillitie	Ysengrin	#Tom: Walkin’ along
-1059	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	TreeBody	Ysengrin	#Tom: Been a while
+1068	Bones	Coyote	Etherium	Gillitie	GreatSecret	Sun	SunSymbol	#I. Do Not. Exist!<br>_Tom: Also: kind of a jerk._
+1067	Annie	Coyote	Gillitie	GreatSecret	Sun	Ysengrin	#and so, Fire Head Girl told Coyote lovely stories about how amazing he is<br>_Tom: Try not to look at the camera, Coyote_
+1066	Annie	Coyote	Gillitie	GreatSecret	Ysengrin	#Your great secret?<br>_Tom: Coyote gets his way_
+1065	Annie	Coyote	Gillitie	GreatSecret	Ysengrin	#Coyote! Hove some dignity!<br>_Tom: A new range of expressions for Ysengrin_
+1064	Annie	Bones	Coyote	Gillitie	#Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!<br>_Tom: The Great Coyote_
+1063	Annie	Coyote	Gillitie	Spankies	Ysengrin	#Who said you had any choice in the matter, Fire Head Girl?<br>_Tom: Flick_
+1062	Annie	Coyote	Gillitie	#You will tell me stories<br>_Tom: Told you he was a jerk_
+1061	Annie	Coyote	Gillitie	Ysengrin	#Boo!<br>_Tom: This jerk again_
+1060	Annie	AnnieCut	Etherium	Gillitie	Ysengrin	#_Tom: Walkin’ along_
+1059	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	TreeBody	Ysengrin	#_Tom: Been a while_
 1058	Annie	Armour	Bridge	Coyote	Eglamore	Gillitie	Sword	Ysengrin	#Considering what’s happened these part few weeks
 1057	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	#You know, you don’t have to wear that outfit every time we go across the bridge
 1056	Cover	Bones	Coyote	GreatSecret	#Chapter 39:<br><br>**The Great Secret**<br><br>_Icon: the Moon?_
@@ -235,7 +238,7 @@
 1030	Annie	FlowerHeadband	Gamma	Hospital	Kat	Rey	Zimmy	#Z-Zimmy, Gamma… I didn’t hear you come in
 1029	Annie	AntimonySymbol	Hospital	FlowerHeadband	Kat	Rey	Robot	Shadow	Zimmy	#(hospital room: quiet &amp; still)
 1028	Gamma	Zimmy	Zimmingham	#I don’t want to see her!
-1027	AnnieCut	Zimmy	Zimmingham	#Not mine!<br>Tom: Look who’s scrambling around in the trash again.
+1027	AnnieCut	Zimmy	Zimmingham	#Not mine!<br>_Tom: Look who’s scrambling around in the trash again._
 1026	CityFace	Cover	#Chapter 38:<br><br>**Divine**<br><br>_Icon: Kat with the pink headband and "city face" pigeon on her head_
 1025	Bonus	Anja	BakingDistraction	Eglamore	Jones	Kat	PlanTheta	#Bonus Page: What About These Guys?
 1024	Annie	Blush	Donny	Etherics	Robotics	Roof	Telescope	#I'm happy my daughter has you as a friend
@@ -243,20 +246,20 @@
 1022	Annie	Donny	Etherics	Microsat5	Robotics	Rocket	Roof	Telescope	#what kind of rocket was that?!
 1021	Annie	Donny	Etherics	Microsat5	Robotics	Rocket	Roof	#here we go… three, two, one, now
 1020	Annie	Donny	Eglamore	Microsat5	Rocket	Roof	#oh! It’s time!
-1019	Annie	Flashback	Sparring	Tony	#Tom: She doesn’t remember much else from that day
-1018	Annie	Flashback	Sparring	Tony	#Tom: Martial arts experts, please calm down. Their belts are grey because they are no specific colour
+1019	Annie	Flashback	Sparring	Tony	#_Tom: She doesn’t remember much else from that day_
+1018	Annie	Flashback	Sparring	Tony	#_Tom: Martial arts experts, please calm down. Their belts are grey because they are no specific colour_
 1017	Annie	Anja	Donny	Etherics	Robotics	Rocket	Roof	#haha! Just a function of my wife’s amazing computer
 1016	Annie	Donny	Etherics	Microsat5	Robotics	Rocket	Roof	Tony	#so this satellite will help us get these supplies to my father?
 1015	Annie	Donny	Etherics	Robotics	Tony	#Tony. How strange, it almost makes him sound like… like… a person
 1014	Annie	Anja	Donny	Eglamore	Flashback	Horsebot	Surma	Tony	#The point is, with Tony, the smallest thing can carry the greatest weight
-1013	Anja	Brinnie	Donny	Eglamore	Flashback	Surma	Tony	Valknut	#All he had to do was ask [Brinnie](#brinnie) if she wanted to go too<br>Tom: Donny watches a friend shoot himself down. What more can he do?
+1013	Anja	Brinnie	Donny	Eglamore	Flashback	Surma	Tony	Valknut	#All he had to do was ask [Brinnie](#brinnie) if she wanted to go too<br>_Tom: Donny watches a friend shoot himself down. What more can he do?_
 1012	Annie	Anja	Brinnie	Donny	Flashback	Surma	Tony	#I’d never seen him in a mess before, and over a girl!
 1011	Brinnie	Donny	Flashback	Tony	#You either like her or you don’t, Tony!
 1010	Annie	Brinnie	Donny	Flashback	Tony	#Antimony… how well do you know your father?
 1009	Annie	Donny	Microsat5	Tony	#well now, this is no good
 1008	Annie	Donny	Tony	#so… you think it’s some kind of message?
 1007	Annie	Donny	Etherics	Robotics	#it’s my portable door
-1006	Annie	Donny	Etherics	Robotics	#anyway, about the call, did it seem strange to you? <br>Tom: Whatever you do, don’t say the message out loud
+1006	Annie	Donny	Etherics	Robotics	#anyway, about the call, did it seem strange to you? <br>_Tom: Whatever you do, don’t say the message out loud_
 1005	Annie	Crying	Donny	#W-what’s happening? I’m a mess!
 1004	Annie	Anja	Donny	Eglamore	Kat	#here, give your hands  a rest, eh?
 1003	Annie	Anja	Donny	Eglamore	Kat	Tony	#my father called me.
@@ -267,7 +270,7 @@
 998	Annie	Blue	Foley	Jones	Red	Shadow	#did you have a good time?
 997	Annie	AnnieCut	AntlerFae	CurlyFae	FlowerFae	Foley	MarineFae	YellowFae	#can you give me a name too?!
 996	BadgerFae	Blue	BlushFae	Bugsy	Foley	Red	WaterFae	YellowFae	#ooh! fight! fight!
-995	Annie	AnnieCut	AntlerFae	BadgerFae	Blue	FlowerFae	Foley	GreenFae	HedgehogFae	MarineFae	Red	#Tom: Here it is. The best page of Gunnerkrigg Court.
+995	Annie	AnnieCut	AntlerFae	BadgerFae	Blue	FlowerFae	Foley	GreenFae	HedgehogFae	MarineFae	Red	#_Tom: Here it is. The best page of Gunnerkrigg Court._
 994	Annie	AnnieCut	Blue	BlushFae	Bugsy	Foley	GreenFae	HedgehogFae	Red	YellowFae	#you didn’t guess at all! You just named her!
 993	Annie	AnnieCut	BadgerFae	Blue	BlushFae	Bugsy	Etherics	FlowerFae	Foley	Red	WaterFae	#What?! What did you call me?!
 992	Annie	AnnieCut	BadgerFae	Blue	Etherics	FlowerFae	Foley	Gol-shogeg	GreenFae	HedgehogFae	MarineFae	Red	#Red, How can you be so cruel?!
@@ -297,7 +300,7 @@
 968	Bip	Kat	FlowerHeadband	Parley	Robot	Smitty	#let’s get you fixed up!
 967	Annie	Bip	FlowerHeadband	Kat	Parley	Robot	Shadow	Smitty	#i’m okay, I just feel… really weird…
 966	Annie	Kat	Parley	Rey	Robot	Shadow	Smitty	#urghh… i… don’t feel so… good…
-965	CoyoteTooth	Parley	Robot	Shadow	#Tom: sharp enough to cut a shadow from the floor
+965	CoyoteTooth	Parley	Robot	Shadow	#_Tom: sharp enough to cut a shadow from the floor_
 964	Annie	CoyoteTooth	FlowerHeadband	Kat	Parley	Robot	#well how sharp can it-
 963	Annie	CoyoteTooth	Parley	#it’s one of coyote’s teeth
 962	Annie	DiegoBot	CoyoteTooth	Parley	Rey	Robot	Seraph	Shadow	#Parley, I have something you may be able to use
@@ -398,13 +401,13 @@
 867	Bonus	Bud	Dorm	Habitat	Lindsey	SubDorm	#Bonus Page:  Welcome to Year 9!
 866	Annie	Boots	Dirty	Dorm	Etherics	Kat	Rey	SubDorm	#It is with love that I must inform you that you really gotta take a shower
 865	Annie	AntimonySymbol	Dorm	Kat	PrincessMononoke	Rey	SubDorm	#I just want to go back to being friends
-864	Annie	Dirty	Dorm	Kat	Lindsey	SubDorm	#(traumatized Kat) <br>Tom: Next: A rhino beetle that enjoys Sudoku.
+864	Annie	Dirty	Dorm	Kat	Lindsey	SubDorm	#(traumatized Kat) <br>_Tom: Next: A rhino beetle that enjoys Sudoku._
 863	Annie	Dorm	Kat	Lindsey	LindseyComputer	Rey	SubDorm	#Girls, this is Lindsey
 862	Annie	AntimonySymbol	BlinkerStone	Dorm	Kat	Lindsey	LindseyComputer	Rey	SubDorm	#Okay that is quite enough thank you
 861	Annie	Dorm	Kat	Lindsey	SubDorm	#Ahhh! I touched it! With my hand!
 860	Annie	Dorm	Kat	Lindsey	SubDorm	#What is this thing? It’s seriously creeping me out, haha
 859	Dorm	Kat	SubDorm	#Haha! Okay Annie. Now I’m impressed
-858	Annie	Dirty	Dorm	Kat	Lindsey	SubDorm	#Enough already! <br>Tom: Not even sure how she’s doing that in panel 2.
+858	Annie	Dirty	Dorm	Kat	Lindsey	SubDorm	#Enough already! <br>_Tom: Not even sure how she’s doing that in panel 2_
 857	Annie	Basil	Kat	Red	SubDorm	#Hey, fats mcgee! Be friends with lady tubsalot again!
 856	Annie	Kat	Mort	Shadow	SubDorm	#I’m supposed to tell you she’s been kidnapped by evil dino-demons
 855	Annie	BlinkerStone	Dirty	Kat	Robot	SubDorm	#All right guys, have fun
@@ -429,7 +432,7 @@
 836	Filler	BobEyes	CityFace	Ogee	#Anything that eats a Bagel becomes... A Human Businessman!
 835	Filler	BobEyes	CityFace	#OGEE! That was Mine! You! What! Why?! OGEE!
 834	Filler	BobEyes	CityFace	#Oh no angry magpie!
-833	Cover	Filler	Tea	#Intermission:<br><br>**City Face**<br><br>_Tea announcing a ten page short story_
+833	Cover	Filler	Tea	#<br>Intermission:<br><br>**City Face**<br><br>_Tea announcing a ten page short story_
 832	Bonus	Treatise	Annie	Coyote	Kat	Robot	Birds	Spiders	WhiteSpider	Rey	Ysengrin	Robots	Jeanne	Sword	AntimonySymbol	MercurySymbol	BismuthSymbol	SunSymbol	GreenArrow	Sun	Moon	Sword	CreatorGlyph	Heart	#**Bonus Page:** Fourth Treatise, end of the third book
 831	Annie	Gillitie	Ysengrin	#(Annie enters the clearing with the forest people)
 830	Annie	Gillitie	Ysengrin	#Show them that you are not afraid
@@ -703,7 +706,7 @@
 562	Filler	CityFace	Fairies	#I will always rule the fairy dancing circle!
 561	Filler	CityFace	#And now I am feeling ultra bummed.
 560	Filler	CityFace	#I am trying my best to woo that female pigeon but she does not notice me!
-559	Cover	Filler	Tea	#Intermission:<br><br>**City Face**<br><br>_Tea announces a short story, from aboard the_ Mary Celeste
+559	Cover	Filler	Tea	#<br>Intermission:<br><br>**City Face**<br><br>_Tea announces a short story, from aboard the_ Mary Celeste
 558	Bonus	Treatise	Annie	Bridge	Court	Coyote	Etherics	Fire	Gillitie	Kat	Latin	MercurySymbol	Moon	Rey	Shadowman	Sun	Sword	Ysengrin	#Bonus Page:  Treatise Three. The end of the Second book.
 557	Anja	TreeDog	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	#You guys aren’t going to believe this… But that guy is our games teacher!
 556	TreeDog	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	#Don’t forget, double cross country tomorrow James
@@ -737,7 +740,7 @@
 528	Annie	BlinkerStone	Classroom	Jeanne	Kat	Mort	Muut	#Then you have already begun to help. We knew you would. It was only a matter of time.
 527	Annie	Classroom	Kat	Ketrak	Muut	Psychopomps	#You should not have wasted a life in such a way
 526	Annie	Classroom	Kat	Ketrak	Psychopomps	#Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
-525	Annie	Argument	BlinkerStone	Classroom	Kat	Latin	Mort	#Tom: You screwed up big time Carver.
+525	Annie	Argument	BlinkerStone	Classroom	Kat	Latin	Mort	#_Tom: You screwed up big time Carver_
 524	Annie	Argument	BlinkerStone	Bridge	Kat	Mort	Muut	#Yeah how would I know? I’m just a ghost. BWIP
 523	Annie	Argument	BlinkerStone	Kat	Mort	#He’s not a boy Kat, he’s just a ghost
 522	Anja	Argument	Annie	BlinkerStone	Kat	Mort	#I suppose you think this is funny?
@@ -745,7 +748,7 @@
 520	Anja	Annie	Court	DonlanSymbol	Etherics	EthericShield	Kat	Rey	#Some say that isn’t good enough if you can’t explain how it works.
 519	Anja	Annie	BlinkerStone	Court	Donny	Eglamore	Etherics	EyeCrossed	Kat	#I tattooed them both myself. Good times, good times.
 518	Annie	AnnieCut	BlinkerStone	Etherics	Rey	#Anja forgot to mention that spying with a blinker stone is not recommended
-517	Anja	Annie	BlinkerStone	Court	Donny	Etherics	EthericShield	Kat	Rey	#Tom: Annie’s just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
+517	Anja	Annie	BlinkerStone	Court	Donny	Etherics	EthericShield	Kat	Rey	#_Tom: Annie’s just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds._
 516	Anja	Annie	BismuthSymbol	Court	DonlanSymbol	EthericShield	EyeCrossed	Kat	Rey	#How can a glowing… floaty… symbol be a program?
 515	Anja	Annie	BlinkerStone	Court	Etherics	Kat	#Others may call these methods Magic, The court, prefers to refer to them as “Etheric Sciences”
 514	Anja	Annie	BlinkerStone	Etherics	EthericShield	EyeCrossed	Kat	KatsWorkshop	Rey	#Oh… hmm… Why Don’t we go talk in the office.
@@ -957,7 +960,7 @@
 308	Annie	Dorm	Kat	Rey	Shadow	#A true friend.
 307	Annie	Dorm	Shadow	#But even then it did not take me long to get settled
 306	Annie	Court	Shadow	#I could imagine I was at home
-305	Cover	Scissors	#Chapter 15:<br><br>**Red Returns**<br><br>_Icon: Red_<br>(Year 8)
+305	Cover	Scissors	#<br>Chapter 15:<br><br>**Red Returns**<br><br>_Icon: Red_<br>(Year 8)
 304	Filler	Annie	Kat	Mort	Jokes	#Annie, Kat and Mort write joke comics with bad puns
 303	Filler	#Strange photos from Tom?
 302	Filler	Kat	Letter	#Letter from Kat in Italy to Annie
@@ -968,7 +971,7 @@
 297	Filler	Dorm	GuestComic	Kat	Mort	#Guest Strip: Dan Hassan of danhassan.com
 296	Filler	Kat	Letter	#Letter from Kat in Scotland to Annie
 295	Filler	Annie	BeckyGround	Classroom	Court	GuestComic	HarryPotter	Winsbury	#Guest Strip: Ali Graham of Afterstrife
-294	Cover	Filler	Court	Roof	Sky	Tea	Telescope	Tom	#Intermission:<br><br>**A Selection of Guest Comics and Other Surprises**<br><br>_Tea, and some dude with a telescope_
+294	Cover	Filler	Court	Roof	Sky	Tea	Telescope	Tom	#<br>Intermission:<br><br>**A Selection of Guest Comics and Other Surprises**<br><br>_Tea, and some dude with a telescope_
 293	Bonus	Treatise	Aly	Annie	AntimonySymbol	BismuthSymbol	CreatorGlyph	Court	Coyote	FireSymbol	Gillitie	Hammer	Jeanne	Kat	MercurySymbol	Orb	Rey	Rocket	Shadowmen	Sun	SunSymbol	Sword	WaterSymbol	Ysengrin	#Bonus Page:  Treatise 2 End of Book One
 292	Annie	AntimonySymbol	Dorm	Photo	Rey	#And so did I wait for word from my father. Unaware that I would not hear from him for over two years.
 291	Anja	Annie	AntimonySymbol	BismuthSymbol	Brinnie	Donny	Dorm	Eglamore	Photo	Rey	Surma	#You stole that from the parents of your closest friend?
@@ -1059,7 +1062,7 @@
 206	Annie	Kat	Rey	Robot	ScienceLab	Shadow	#I should at least find out what happened to him.
 205	Annie	DoorBot	Court	Robots	RobotHQ	Seraph	#(Boring Door) There was no handle on the door through which they escaped.
 204	Annie	Court	Montgomery	Robots	Seraph	#I wanted to ask them about him, but they ran away when they saw me.
-203	Annie	Boxbot	Kat	Robot	Robots	ScienceLab	Shadow	Terrible	#On my way over I saw… Robots! (helloooo!)<br>Tom: nobody likes boxbot
+203	Annie	Boxbot	Kat	Robot	Robots	ScienceLab	Shadow	Terrible	#On my way over I saw… Robots! (helloooo!)<br>_Tom: nobody likes boxbot_
 202	Annie	Kat	ScienceLab	Shadow	#Kat, that’s wonderful! He even sounds like you!
 201	Annie	Kat	ScienceLab	Shadow	#He isn’t really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
 200	Cover	AdminBot	RobotParts	#Chapter 12:<br><br>**Mainly Involves Robots**<br><br>_Icon: Reynardine (Rey, Renard) with the AntimonySymbol on his forehead_
