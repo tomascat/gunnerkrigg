@@ -1,18 +1,18 @@
 ; a comment!
 113	A number that appears in many places in the court.
 Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell
-Adam	A boy with rashes, victim (?) of [Hetty](#hetty)
+Adam	A boy with rashes; owner, and victim, of [Hetty](#hetty)
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq)
 Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps)
 AlchemyChart	An alchemical chart
 Aly	Alistair [Kershaw](#kershaws); went to the [Forest](#gillitie)
 AlyShirt	A shirt belonging to [Aly](#aly), which [Kat](#kat) now owns
-Angel	What [robot](#robots) call [Kat](#kat)
+Angel	What [robots](#robots) call [Kat](#kat)
 AnimalCells	the Court’s large animal holding cells
 AnimalLab	a Court research lab
 Anja	Anja Donlan, [Kat](#kat)’s mother; Roma origin but lived mostly in Spain.
 Ankou	Breton grim reaper; [psychopomp](#psychopomps)
-Annan	Annan Waters, a wide river in a deep gorge
+Annan	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forrest'.
 Annie	Antimony Carver, our protagonist ([fire](#fire) Head Girl)
 AnnieCut	The cut on [Annie](#annie)’s ethereal face from [Jeanne](#jeanne)’s [sword](#sword)
 AnnieJumper	[Annie](#annie)’s original school jumper
@@ -26,16 +26,16 @@ Armour	protective plates and other such wearable items
 Armoury	Place where lots of weapons are stored
 Arsenic	A highly poisonous metalloid
 Axe	Often used to chop wood
-BadgerFae	‘him too’- white hair, two black stripes, former badger
+BadgerFae	‘him too’ – white hair, two black stripes, former badger
 BakingDistraction	Otherwise known as [Plan Theta](#plantheta); Cunningly devised to distract others while sneaking around
 Basil	Minotaur
-Beacon	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated much like [Brinnie](#brinnie)'s teleport
+Beacon	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated, much like [Brinnie](#brinnie)'s teleport
 BeckyGround	A student
 Bind	[Etheric](#etherics) binding, hold or constraint hoodoo
 Bip	[Parley](#parley)’s teleportation. May be accompanied by BARGE.
 Birds	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
 Birmingham	See [Zimmingham](#zimmingham)
-BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
+BismuthSymbol	The alchemical symbol for bismuth; associated with the Court and its founding via the [Seed Bismuth](#seedbismuth)
 Blackboard	Classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
 BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotking)
 BlinkerStone	[Etheric](#etherics) lens device
@@ -51,7 +51,7 @@ Bones	Calcified weight bearing structures in the body of vertebrates forming an 
 Bonus	Extra pages at the end of the chapter
 Boots	Made for walking
 Boxbot	[A robot](#robots). [Terrible](#terrible) (<i>q.v.</i>). Not as good as [Robox](#robox).
-Bridge	Across the [Annan](#annan) Water to [Gillitie](#gillitie) Wood
+Bridge	from Gunnerkrigg Court across the [Annan Water](#annan) to [Gillitie Wood](#gillitie)
 Brinnie	Sultry childhood friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) &amp; co. Probably Brynhildr, the valkrie
 Bud	Husband of [Lindsey](#lindsey), boys’ [dorm](#subdorm) monitor
 Bugsy	Teacher Lady, or Teach. [Foley](#foley) teacher, rather be sleeping
@@ -83,7 +83,7 @@ CreatorGlyph	Mark of the [robot](#robots)’ creator: now associated with [Kat](
 Creeper	Someone who is creeping
 Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
-CurlyFae	‘this girl too’ – short curly blue hair, red dot below right eye
+CurlyFae	‘this girl too’ -- short curly blue hair, red dot below right eye
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[psychopomps](#psychopomps) of Wales; red ears
 DanielRSchiff	A victim
 Desert	No rain in here. Where [Coyotes](#coyote) live, sometimes.
@@ -138,7 +138,7 @@ ForestSymbol	The symbol [Gillitie](#gillitie) uses to message; has an “eye” 
 Founding	The founding of the court.
 Gamma	Gamma Czarnecki, a quiet girl from Poland who only speaks Polish; friends with [Zimmy](#zimmy) who she met in [Birmingham](#zimmingham); a Greek letter &Gamma;/&gamma; equivalent to our letter "G"
 Ghosts	sometimes haunt [mandolins](#mandolin)
-Gillitie	Gillitie Wood where the wild things are, a.k.a. The Forest
+Gillitie	Gillitie Wood, where the wild things are, _a.k.a._ The Forest
 Glass	A transparent silicon oxide substance used to make windows and the water bearing vessels also called "glasses"
 GlassFiber	Strands of glass used in insulation. Exposure causes itchiness and respiratory problems.
 God	What is god?
@@ -164,7 +164,7 @@ HardwickLittleBestiary	Reference on mystical creatures
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, [Janet](#janet)’s father; surprisingly grey, apathetic man, with bad posture
 Heart	A heart, or heart sign, symbol, glyph or character; either the body's blood pump, the core of a mechanism or a symbol of love
-HedgehogFae	‘and him’ – dreads, former hedgehog
+HedgehogFae	‘and him’ -- dreads, former hedgehog
 Hetty	a small animate devil doll, victimising [Adam](#adam)
 HettySymbol	sometimes visible on [Hetty](#hetty)'s forehead
 Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol; the Jewish Kingdom (Star of David)
@@ -177,6 +177,7 @@ Jan	January, curt friend of [Parley](#parley)
 Janet	Janet Llanwellyn; Fierce daughter of the [Headmaster](#headmaster); dating [Winsbury](#winsbury)
 Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a fencer belonging to the court. _"She died and we did nothing"_
 JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name as yet unknown.
+John	John Sullivan [[ref](http://gunnerkrigg.proboards.com/thread/361/tom-2?page=30&scrollTo=18295)] _a.k.a._ [Sullivan's John](www.gunnerkrigg.com/art/john.jpg). A musical student, plays strings _e.g._ guitar, [mandolin](#mandolin). Dating [Margo](#margo)
 Jokes	Ha ha.
 JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
 Jones	A mysterious court lady; name of [Wandering Eye](#wanderingeye)
@@ -215,13 +216,13 @@ Mallt-y-nos	Matilda of the Night, Night Malt; Welsh [psychopomp](#psychopomps)/c
 Mandolin	stringed musical instrument; sometimes they’re haunted
 Marble	A shining sphere of unmelting ice; trapped inside were brilliant colours from the rarest flowers.
 Marcia	Marcia Sutton, a [dryad](#dryad) and keeper of [Young’s Park](#youngspark) with her husband, [Bob](#bob)
-Margo	A student who enjoys singing. Friends with [Sullivan's John](#sullivansjohn)
+Margo	A student who enjoys singing. Artist. Dating [John](#john)
 MarineFae	‘and her’ -- aquamarine hair, vertical green bar on forehead
 Martin	A young boy who has "lost his way" and whom young [Annie](#annie) needs to help
 MartinLizard	A lizard that [Martin](#martin) likes and shows [Annie](#annie). Bites.
 MartinRoom	[Martin](#martin)'s hospital/bed room
 Mask	A cover to hide face, appearance, emotions
-Matches	playing with matches can start files
+Matches	playing with matches can start fires
 Matt	Student and classmate of [Annie](#annie) and [Kat](#kat)
 Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce; [psychopomp](#psychopomps)
 MercurySymbol	The alchemical symbol for [mercury](#mercury); appears on [Rey](#rey)’s spirit form
@@ -233,7 +234,7 @@ Monster	A scary creature
 Montgomery	A [Seraph](#seraph) [robot](#robots)
 Monument	A physical tribute to a well respected person
 Moon	Our most ancient satellite!
-MoonGirl	Chang’e, a deity or personification of the Moon
+MoonGirl	Chang’e ([ref](www.gunnerkrigg.com/?p=920)), a deity or personification of the Moon
 MoonPrint	Thumbprint on the moon
 Mort	A [ghost](#ghosts) who haunts part of the school
 MrThorn	Mr Thorn, Court protector and games teacher to [Annie](#annie) and [Kat](#kat)’s parents
@@ -248,9 +249,9 @@ Ocean	A whole bunch of [water](#water)
 Octopus	A flying / floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called [BobEyes](#bobeyes). Sister of [Torus](#torus)
 OldCourt	Parts of Gunnerkrigg Court that used to be in [Gillitie Forest](#gillitie) before the division by [Coyote](#coyote).
-Ooze	What Martin, the lost boy's lizard turns into when it hits the floor
+Ooze	What [Martin](#martin)'s, lizard turns into when it hits the floor
 Orb	The _Globus cruciger_, a Christian symbol of power, wielded by monarchs and Christ
-Parley	George [Parley](#parley): Swordswoman, candidate for Court medium (Big Nose Girl); interested in [Smitty](#smitty)
+Parley	George Parley: three years older than Antimony, swordswoman, teleports, candidate for Court medium ('Big Nose Girl'), interested in [Smitty](#smitty)
 PartyHat	A Party hat, hats are fun!
 Paz	Paz Cadena-Blanco, Spanish, good with animals and can talk to them; is raising [CityFace](#cityface) with [Bobby](#bobby); becomes close to [Kat](#kat).
 Photo	A photograph of [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore), [Surma](#surma), [Tony](#tony) and [Brinnie](#brinnie) from their school days
@@ -262,13 +263,13 @@ Psychopomps	Escort the dead to the afterlife/[Ether](#etherium)
 Queslett	[Annie](#annie) &amp; [Kat](#kat)’s school House
 Rain	[water](#water), falling from the sky
 Red	A crazy and abrasive fairy
-Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon
+Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie)
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
-Robot	A Messianic S-13
+Robot	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots)
 RobotCode	A cube with the [Robots](#robots)' instruction code transcribed onto it
 RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
-RobotHQ	Where the [robot](#robots) hang out
+RobotHQ	Where the [robots](#robots) hang out
 Robotics	Like [Etherics](#etherics) but with metal
 RobotKing	A [robot](#robots) with a crown, blank face, and a pen
 RobotParts	Bits of [robot](#robots) currently not attached
@@ -279,18 +280,18 @@ Rocket	A cylindrical projectile that can be propelled to a great height or dista
 RogatOrjak	Dragon-like giant
 Roof	The top of the court
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robot)
-Salon	Court hair salon, manned by the HairdresserBot
+Salon	Court hair salon, staffed by the HairdresserBot
 ScienceLab	A school science lab where [Kat](#kat) does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
 SecurityDevice	Small devices that supposedly warn [Jack](#jack) when people are coming
 SecurityRobots	They ensure security, as [robot](#robots)
 SeedBismuth	It’s a mystery; involved in the [founding](#founding) of the court
 Seeds	Some seeds that [Ysengrin](#ysengrin) uses for his terrifying skills of gardening. Used to create the [WoodenArm](#woodenarm) and also dropped in the [Court Hall](#courthall).
-Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robot) was originally one
+Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robot) was one originally
 Shadow	The Thin Man, a [shadowman](#shadowmen)
 Shadowman	Not the Thin Man, but one of the [shadowmen](#shadowmen)
 Shadowmen	The glass-eyed men; creations of [Coyote](#coyote)
-Shell	An employee (Security guard??) of the court, alongside Aata
+Shell	An employee (Security guard??) of the court, alongside [Aata](#aata)
 SimRocket	A rocket/spaceship in [Dr. Disaster](#drdisaster)’s [simulation](#simulation)
 Simulation	One of [Dr. Disaster](#drdisaster)’s holographic adventures
 SirYoung	Protector of the Court at its [founding](#founding)
@@ -299,7 +300,7 @@ SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises d
 Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data
 SmallBot	A young eye-witness model [robot](#robots)
-Smitty	Andrew Smith; usually brings order from chaos (Mighty Eyebrows Boy); interested in [Parley](#parley); candidate for Court medium
+Smitty	Andrew Smith ('Mighty Eyebrows Boy'), a student two years above Annie; brings order from chaos; interested in [Parley](#parley); becomes Court medium
 Spankies	From [Annie](#annie) for when [Coyote](#coyote) is a Bad Dog!
 Sparring	A mock or training fight; usually for learning or practising martial arts or swordfighting
 Speakeasy	A hotel-like place that the students sneak out to with a “speakeasy-like atmosphere”
@@ -311,14 +312,14 @@ StepsHouse	[Eglamore](#eglamore) lives here
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
 Students	Miscellaneous students
 SubDorm	Year 9’s dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors.
-SullivansJohn	Sullivan’s John. A student who likes to play the mandolin; dating [Margo](#margo)
+SullivansJohn	see [John](#john)
 Sun	Our closest [star](#stars)!
 SunSymbol	Alchemical symbol for the Sun, doubles as the symbol for gold
 Surma	Surma Stibnite, [Annie](#annie)’s mother
 SurmaWhisper	[Surma](#surma) whispers something in the past to [Annie](#annie)
 Sweets	Tasty and sugary
 Sword	A long weapon with a blade held in one or two hands. Sometimes magical. Wielded by [Eglamore](#eglamore), [Parley](#parley), [Jeanne](#jeanne) among others
-Symbol	Unidentified symbol (please help!)
+Symbol	some unidentified symbol (please help identify!)
 Tea	Explains things in-between chapters
 Teacher	A miscellaneous teacher
 Tears	In the eyes, visibly crying, _etc_
@@ -334,7 +335,7 @@ Tom	Tom Siddell, author of Gunnerkrigg Court
 TomatoWangFae	likes to wang tomatoes. friends with BlushFae
 Tony	Anthony Carver, [Annie](#annie)’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of [Ogee](#ogee).
-Tower	A tower in the court where [Aly](#aly) is staying
+Tower	A tower in the Court where [Aly](#aly) stays, while transitioning
 ToyShop	A toy shop in [Zimmingham](#zimmingham) where [Zimmy](#zimmy) and [Gamma](#gamma) meet up if they get separated
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
