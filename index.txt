@@ -4,7 +4,11 @@
 ; _italic_
 ; [internal link text](#sometag)
 ; [external link text](www.gunnerkrigg.com)
-1264	Cover	#Chapter 45:<br><br>**Thread**<br><br>_Icon: Kat &amp; Paz: face silhouettes_
+1268	Kat	KatsWorkshop	Paz	Robots	Seraph	#State your name and the name of your hairdresser!
+1267	Blush	Kat	KatsWorkshop	Paz	Robots	Seraph	#No! I like to see it! You are so clever, Kat!<br>_Tom: Paz and Kat and robots_
+1266	CreatorGlyph	Kat	KatsWorkshop	Paz	#What is this room?<br>_Tom: Pat and Kaz_
+1265	Kat	KatsWorkshop	Paz	#So this is where you spend all your time!<br>_Tom: Kat and Paz_
+1264	Cover	#Chapter 45:<br><br>**Thread**<br><br>_Icon: Kat &amp; Paz face silhouettes_
 1263	Annie	Blood	Kat	Paz	#It's not my blood
 1262	Annie	Blood	Gillitie	TreeBody	Ysengrin	#When you come to visit me from now on, I can teach you about creatures like these
 1261	Annie	Blood	Gillitie	TreeBody	Ysengrin	#In truth, Ysengrin, I was scared back there
@@ -321,20 +325,20 @@
 950	Annie	Bip	BismuthSymbol	Cookie	FlowerHeadband	Jan	Kat	Parley	Smitty	#aw, look, parley, it’s your kiddy club!
 949	Annie	Bip	FlowerHeadband	Kat	Parley	Rey	Smitty	#is she not here yet? Ahem… bam. BIP
 948	Cover	Flowers	#Chapter 35:<br><br>**Parley and Smitty Are In This One**<br><br>_Icon: a flower_
-947	Bonus	Janet	Kat	Margo	SullivansJohn	Winsbury	#Bonus Page: Backfired
+947	Bonus	Janet	Kat	Margo	John	Winsbury	#Bonus Page: Backfired
 946	Annie	AnnieCut	Bud	Etherics	Lindsey	Speakeasy	#hey Linds, gimmie a kiss
 945	Annie	Bud	Creeper	Etherics	Speakeasy	#They’re a good bunch of kids just having some fun
 944	Annie	Kat	Speakeasy	#Scoot, scoot, dearest
 943	Annie	Jack	Kat	Paz	Speakeasy	Creeper	#Kat creepin’
 942	Annie	Jack	Speakeasy	#well I-
-941	Annie	Buzzer	Jack	Kat	Margo	Paz	Speakeasy	SullivansJohn	#The sun’s coming up
+941	Annie	Buzzer	Jack	Kat	Margo	Paz	Speakeasy	John	#The sun’s coming up
 940	Annie	Jack	Speakeasy	Ysengrin	#So really… Zimmy?
-939	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#huh, looks like they don’t believe us!
+939	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	John	Winsbury	#huh, looks like they don’t believe us!
 938	Janet	Speakeasy	Winsbury	#right, right. So you were driving your tricked out horse
 937	Janet	Speakeasy	Winsbury	#no no, William, you misremember
 936	Janet	Speakeasy	Winsbury	#it all started in year 7 when I was an undercover cop
-935	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#I’d say you get along pretty well now
-934	Bud	Janet	Kat	Mandolin	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#no! sing the boys part!
+935	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	John	Winsbury	#I’d say you get along pretty well now
+934	Bud	Janet	Kat	Mandolin	Margo	Matt	Paz	Speakeasy	John	Winsbury	#no! sing the boys part!
 933	Annie	Jack	Speakeasy	#I just don’t know what I’m doing…
 932	Annie	Jack	Roof	Speakeasy	#I really am sorry, Jack
 931	Annie	Jack	Roof	Speakeasy	#this wasn’t some “flash of anger” thing
@@ -347,7 +351,7 @@
 924	Blush	Kat	Paz	Speakeasy	#I wasn’t hitting on you!
 923	Kat	Paz	Speakeasy	#I-I like you but… I-I’m not… like that…
 922	Kat	Paz	Speakeasy	#oh Kat, I’m so embarrassed!
-921	Blush	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#was that necessary, William?
+921	Blush	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	John	Winsbury	#was that necessary, William?
 920	Matt	MoonGirl	Speakeasy	WhiteRabbit	#but I can’t stop thinking about her. Oh, and I think she took my mp3 player.
 919	Matt	MoonGirl	MoonPrint	Speakeasy	#she was really really obsessed with the moon
 918	Matt	MoonGirl	Speakeasy	WhiteRabbit	#so I was walking back from my extended trig class and there was a rabbit.
@@ -355,14 +359,14 @@
 916	Annie	Blush	Bud	Jack	Janet	Kat	Margo	Matt	Paz	Speakeasy	Winsbury	#Give to me your hand!
 915	Annie	BlinkerStone	Etherics	Jack	Speakeasy	#can I try it?
 914	Annie	BlinkerStone	Bud	Etherics	Jack	Kat	Speakeasy	#he’s actually a very powerful psychic
-913	Annie	Jack	Janet	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#so romantic! Don’t you think so, matt?
-912	Ghosts	Mandolin	Margo	Speakeasy	SullivansJohn	#so we went back and we finished it
-911	Ghosts	Margo	Speakeasy	SullivansJohn	#even when we left the mandolin behind, they wouldn’t leave us alone
-910	Mandolin	Margo	Speakeasy	SullivansJohn	#it sounded great when I played it, but as soon as Margo started singing…
-909	Annie	Bud	Jack	Janet	Kat	Mandolin	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#hey Margo, look what I brought! Oh nooo! That’s not the haunted one, is it?
+913	Annie	Jack	Janet	Margo	Matt	Paz	Speakeasy	John	Winsbury	#so romantic! Don’t you think so, matt?
+912	Ghosts	Mandolin	Margo	Speakeasy	John	#so we went back and we finished it
+911	Ghosts	Margo	Speakeasy	John	#even when we left the mandolin behind, they wouldn’t leave us alone
+910	Mandolin	Margo	Speakeasy	John	#it sounded great when I played it, but as soon as Margo started singing…
+909	Annie	Bud	Jack	Janet	Kat	Mandolin	Margo	Matt	Paz	Speakeasy	John	Winsbury	#hey Margo, look what I brought! Oh nooo! That’s not the haunted one, is it?
 908	Annie	Buzzer	Jack	Speakeasy	#we haven’t really talked since before the summer
 907	Annie	Bud	Jack	Kat	Speakeasy	#what the wife doesn’t know can’t hurt her, right?
-906	Annie	Bud	Jack	Janet	Kat	Margo	Matt	Paz	Speakeasy	SullivansJohn	Winsbury	#so… no trouble?
+906	Annie	Bud	Jack	Janet	Kat	Margo	Matt	Paz	Speakeasy	John	Winsbury	#so… no trouble?
 905	Annie	Dorm	Janet	Kat	Landscape	Lindsey	Moon	MoonPrint	Paz	Robots	Speakeasy	#girls sneaking out
 904	Annie	Buzzer	Dorm	Janet	Kat	Margo	Paz	Rey	Robots	#thanks for your help, robots!
 903	Annie	Janet	Kat	KatsWorkshop	Margo	Paz	Robots	#so… we’ll be out all night?
@@ -647,9 +651,9 @@
 624	Annie	AnnieCut	BlinkerStone	Etherics	Janet	Kat	Paz	Students	Trees	YoungsPark	#Kat, this is what you need to do
 623	BlinkerStone	Dryad	Ghosts	Kat	Monster	Trees	YoungsPark	#I hope nothing happens to me now that I’m here all alone!
 622	Annie	BlinkerStone	Eglamore	Ghosts	Kat	Matt	Paz	Students	Tents	YoungsPark	#Six people missing overnight?
-621	Annie	BlinkerStone	Fire	Ghosts	Kat	Margo	Matt	Paz	Students	SullivansJohn	Tents	Winsbury	YoungsPark	#(Paz goes to grab some chocolate from her tent, but gets grabbed by the ghost?)
-620	Annie	BlinkerStone	Etherics	Fire	Kat	Students	SullivansJohn	Tents	YoungsPark	#I think I make people nervous
-619	Annie	BlinkerStone	Etherics	Fire	Kat	SullivansJohn	Tents	YoungsPark	#You shouldn’t be lonely because of me, Kat
+621	Annie	BlinkerStone	Fire	Ghosts	Kat	Margo	Matt	Paz	Students	John	Tents	Winsbury	YoungsPark	#(Paz goes to grab some chocolate from her tent, but gets grabbed by the ghost?)
+620	Annie	BlinkerStone	Etherics	Fire	Kat	Students	John	Tents	YoungsPark	#I think I make people nervous
+619	Annie	BlinkerStone	Etherics	Fire	Kat	John	Tents	YoungsPark	#You shouldn’t be lonely because of me, Kat
 618	Annie	BlinkerStone	Jack	Kat	LaserCow	Robots	YoungsPark	#And you think I’m the creep
 617	Annie	Jack	Kat	LaserCow	Robots	YoungsPark	#Get away from there, you creep!
 616	Ghosts	Janet	Kat	Students	Winsbury	YoungsPark	#Janet should have been back by now
@@ -796,10 +800,10 @@
 475	Annie	CourtLogo	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
 474	Annie	CourtLogo	Dirty	Dorm	Kat	Rey	Surma	Uniform	WolfToy	#Surma made this body?
 473	Cover	Annan	Annie	GreenArrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gillitie	Jeanne	LeadSymbol	Robotics	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Chapter 20:<br><br>**Coyote Stories**<br><br>_Icon: Coyote_
-472	Bonus	Mandolin	Margo	SullivansJohn	#Bonus Page:  Time for Music
-471	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	#Yes. More questions as to what this place rally is.
-470	Annie	Chester	Gamma	Jack	Janet	Kat	Margo	Matt	Rain	Roof	SullivansJohn	Winsbury	Zimmy	#Say, where are Willie and Janet?
-469	Annie	Gamma	Jack	Kat	Margo	PowerStation	Rain	Roof	SullivansJohn	Zimmy	#Oh. You was there too, huh?
+472	Bonus	Mandolin	Margo	John	#Bonus Page:  Time for Music
+471	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Rain	Roof	John	#Yes. More questions as to what this place rally is.
+470	Annie	Chester	Gamma	Jack	Janet	Kat	Margo	Matt	Rain	Roof	John	Winsbury	Zimmy	#Say, where are Willie and Janet?
+469	Annie	Gamma	Jack	Kat	Margo	PowerStation	Rain	Roof	John	Zimmy	#Oh. You was there too, huh?
 468	Annie	Gamma	Jack	Kat	Margo	Rain	Roof	SullivansJohn	Zimmy	#It's only as real as you let it be.
 467	Annie	AnnieCut	Bip	FacelessPeople	Gamma	Kat	ToyShop	Zimmingham	Zimmy	#No, Kat! Don—
 466	Annie	AnnieCut	Gamma	Kat	ToyShop	Zimmingham	Zimmy	#(Annie, Zimmy and Kat find Gamma, surrounded by toys in the toyshop.)
@@ -812,17 +816,17 @@
 459	Annie	AnnieCut	FacelessPeople	Zimmingham	Zimmy	#Yer gonna have ta have to take Gamma's place
 458	Annie	AnnieCut	Zimmingham	Zimmy	#First. We find Kat.
 457	Annie	Etherium	Gamma	Jack	Kat	Lake	PowerStation	Rain	Umbrella	Zimmingham	Zimmy	#It... it ain't working!
-456	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Lightning	Margo	Matt	PowerStation	Rain	SullivansJohn	Umbrella	Winsbury	Zimmy	#There's probably something else I should have mentioned...
-455	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Lightning	Margo	Matt	PowerStation	SullivansJohn	Winsbury	Zimmy	#Hey look, the water in the lake is going down!
-454	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Margo	Matt	PowerStation	SullivansJohn	Winsbury	Zimmy	#We're about to get started.
+456	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Lightning	Margo	Matt	PowerStation	Rain	John	Umbrella	Winsbury	Zimmy	#There's probably something else I should have mentioned...
+455	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Lightning	Margo	Matt	PowerStation	John	Winsbury	Zimmy	#Hey look, the water in the lake is going down!
+454	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Margo	Matt	PowerStation	John	Winsbury	Zimmy	#We're about to get started.
 453	Annie	Gamma	Kat	Lake	Margo	PowerStation	Zimmy	#Do... do they all think I am stupid and ugly?
 452	Annie	Gamma	Janet	Lake	Margo	Matt	PowerStation	Winsbury	Zimmy	#Why are you here Zimmy?
-451	Gamma	Jack	Lake	Margo	Matt	PowerStation	SullivansJohn	Winsbury	Zimmy	#They're what?!
-450	Annie	Gamma	Jack	Janet	Kat	Lake	Margo	Matt	SullivansJohn	Winsbury	Zimmy	#I'd get in trouble too!
+451	Gamma	Jack	Lake	Margo	Matt	PowerStation	John	Winsbury	Zimmy	#They're what?!
+450	Annie	Gamma	Jack	Janet	Kat	Lake	Margo	Matt	John	Winsbury	Zimmy	#I'd get in trouble too!
 449	Annie	Jack	Janet	Kat	Lake	Margo	SullivansJohn	Winsbury	#I go out exploring all the time
 448	Annie	Jack	Janet	Kat	Lake	Margo	Matt	PowerStation	#What are they doing over there?
-447	Jack	Janet	Margo	Matt	Roof	SullivansJohn	Winsbury	#Right this way.
-446	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Robots	Students	SullivansJohn	Winsbury	#(The girls take a horsebot carriage to meet the boys)
+447	Jack	Janet	Margo	Matt	Roof	John	Winsbury	#Right this way.
+446	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Robots	Students	John	Winsbury	#(The girls take a horsebot carriage to meet the boys)
 445	Annie	Dorm	Kat	#All I do is alter the energy wavelength that sets them off.
 444	Annie	Dorm	Janet	Kat	Margo	#Then let us away.
 443	Annie	Dorm	Kat	Rey	#Let's do this!
@@ -1009,7 +1013,7 @@
 262	Anja	Annie	BlinkerStone	Court	CourtSymbol	DonlanHouse	ForestSymbol	Gillitie	Roof	#It’s a signal from the forest. We have to reply.
 261	AlyShirt	Anja	Annie	DonlanHouse	ForestSymbol	Kat	Roof	DonlanSymbol	#Wow! What is it?!
 260	AlyShirt	Anja	Annie	DonlanHouse	Kat	DonlanSymbol	#You would of course be welcome to come with us over the summer.
-259	Annie	Court	Coyote	Gillitie	Janet	Kat	Margo	Matt	Paz	SullivansJohn	Winsbury	#And the second was when a god emerged from Gillitie Wood.
+259	Annie	Court	Coyote	Gillitie	Janet	Kat	Margo	Matt	Paz	John	Winsbury	#And the second was when a god emerged from Gillitie Wood.
 258	Cover	Annie	Court	Coyote	#Chapter 14:<br><br>**The Fangs Of Summertime**<br><br>_Icon: Coyote in front of the Sun_
 257	Bonus	Annie	Kat	#Bonus Page: A Question of Taste (Kat checks out some "hot guy" with Annie)
 256	Annie	Court	Gillitie	Kat	Tower	#Kat... You don't have to hid your tears. / How could I cry after a week like that?
@@ -1089,7 +1093,7 @@
 182	Annie	Courtyard	Gamma	TicToc	Zimmy	#(Zimmy is standing in the courtyard with Annie and Gamma)
 181	Cover	Gamma	Moon	Sky	Stars	#Chapter 11:<br><br>**Dobranoc, Gamma**<br><br>_Icon: Gamma and Zimmy in Zimmingham_
 180	Annie	Classroom	Kat	#Bonus Page:  Pressing Matters (Kat dreams about Mulder in class)
-179	Annie	Court	DrDisaster	Janet	Moon	Paz	SimRocket	SullivansJohn	Winsbury	#I suppose some things are better learned away from a text book.
+179	Annie	Court	DrDisaster	Janet	Moon	Paz	SimRocket	John	Winsbury	#I suppose some things are better learned away from a text book.
 178	Annie	EnigmaronLair	Janet	Kat	Moon	Winsbury	#I hope you like your… smashed… death ray!
 177	Annie	BeckyGround	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#Oh well, here I go.
 176	Annie	DrDisaster	EnigmaronLair	Enigmarons	Kat	Moon	Winsbury	#You’ll never get away with this!
@@ -1102,7 +1106,7 @@
 169	Annie	Court	Kat	SimRocket	Simulation	#But that’s not the point. You’re supposed to enjoy it!
 168	Annie	Court	DrDisaster	Kat	#I must admit I question the educational value of Dr. Disaster’s classes.
 167	Classroom	DrDisaster	Janet	Matt	Students	Teacher	Winsbury	#Well, that clears my next 40 minutes
-166	Annie	Classroom	DrDisaster	Janet	Kat	SullivansJohn	Teacher	Winsbury	#Spacemonauts! The earth is in peril!
+166	Annie	Classroom	DrDisaster	Janet	Kat	John	Teacher	Winsbury	#Spacemonauts! The earth is in peril!
 165	Cover	Annie	DrDisaster	EnigmaronLair	Kat	Moon	SimRocket	Simulation	Sky	Stars	#Chapter 10:<br><br>**Doctor Disaster Versus the Creepy Space Aliens from Outer Space**<br><br>_Icon: Enigmaron_
 164	Bonus	Annie	Classroom	Rey	#Bonus Page: Detention (Annie and Rey in detention)
 163	113	Eglamore	Habitat	HabitatSymbol	WoodenArm	#It's been taken care of.
@@ -1184,7 +1188,7 @@
 87	Annie	Court	Habitat	Kat	#I wanted to show you something
 86	Annie	BismuthSymbol	Blush	Court	HabitatSymbol	Kat	#Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
 85	Cover	CherryTree	Habitat	#Chapter 6:<br><br>**A Handful of Dirt**<br><br>_Icon: the Cherry Tree in the Habitat_
-84	Bonus	Margo	Janet	SullivansJohn	Winsbury	#Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love) (room tscd504)
+84	Bonus	Margo	Janet	John	Winsbury	#Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love) (room tscd504)
 83	Annie	BismuthSymbol	Dorm	Gamma	Hall	Kat	Rey	Zimmy	#Bah! This is the thanks I get!
 82	Annie	Gamma	Hall	Kat	Rey	Zimmy	#I don’t know what you are but you’re so cute! (Dwr Budr T-shirt)
 81	Annie	AntimonySymbol	Gamma	Hall	Kat	Rey	Zimmy	#I hoped I could win your favour if I helped your gypsy friend win this blasted spectacle.
@@ -1237,9 +1241,9 @@
 34	Annie	Gym	Kat	Winsbury	#So what are you gonna do about it?
 33	Cover	Annie	AntimonySymbol	Court	LeadSymbol	MercurySymbol	Sky	Roof	#Chapter 3:<br><br>**Reynardine**<br><br>_Icon: Crossed out eye symbol (EyeCrossed)_
 32	Bonus	Dorm	Queslett	Shadow	Tea	#Bonus Page:  Year 7 Dormitories
-31	Annie	Basil	Classroom	Janet	Kat	SullivansJohn	#I hope all our homework is this interesting.
+31	Annie	Basil	Classroom	Janet	Kat	John	#I hope all our homework is this interesting.
 30	Annie	Basil	Classroom	#And now of course, I turn out to be the bad guy.
-29	Annie	Basil	Classroom	Janet	Kat	Paz	SullivansJohn	Winsbury	#I have a time share on the labyrinth you found me in
+29	Annie	Basil	Classroom	Janet	Kat	Paz	John	Winsbury	#I have a time share on the labyrinth you found me in
 28	Annie	Basil	Kat	Labyrinth	#Phew, you girls gave me a fright, sneaking around like that.
 27	Annie	Basil	Kat	Labyrinth	#BLAAAAAAAAAAAAH!
 26	Annie	GoodHope	Kat	Labyrinth	Surma	Tony	#It was her wish that I continue my education here
@@ -1249,7 +1253,7 @@
 22	Annie	Kat	Library	#Is this all there is?
 21	Annie	Classroom	Kat	#I was thinking of covering the minotaur
 20	Annie	Classroom	Janet	Kat	Winsbury	Teacher	#Find as much information as you can on a mythical figure of your choice
-19	Anja	Annie	Classroom	Kat	Winsbury	SullivansJohn	#Wait for me!
+19	Anja	Annie	Classroom	Kat	Winsbury	John	#Wait for me!
 18	Anja	Annie	Classroom	Winsbury	#How have you found your first two weeks at our school?
 17	Cover	Annie	Kat	Labyrinth	#Chapter 2:<br><br>**Schoolyard Myths**<br><br>_Icon: Minotaur (Basil)_
 16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#Bonus Page:  Houses at Gunnerkrigg Court
