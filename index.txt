@@ -4,6 +4,8 @@
 ; _italic_
 ; [internal link text](#sometag)
 ; [external link text](www.gunnerkrigg.com)
+1270	Kat	KatsWorkshop	Paz	#A few minutes of hasty planning later
+1269	Kat	KatsWorkshop	Paz	Robots	Seraph	#I... I have to be sure!
 1268	Kat	KatsWorkshop	Paz	Robots	Seraph	#State your name and the name of your hairdresser!
 1267	Blush	Kat	KatsWorkshop	Paz	Robots	Seraph	#No! I like to see it! You are so clever, Kat!<br>_Tom: Paz and Kat and robots_
 1266	CreatorGlyph	Kat	KatsWorkshop	Paz	#What is this room?<br>_Tom: Pat and Kaz_
@@ -796,17 +798,17 @@
 479	Annie	Armour	Bridge	CourtLogo	Eglamore	LeadSymbol	Sword	Uniform	#Do you really need all those swords?
 478	Annie	Armour	Bridge	CourtSymbol	Eglamore	ForestSymbol	Jones	LeadSymbol	Sword	Uniform	#Well, no need to keep them waiting.
 477	Annie	Armoury	Eglamore	Jones	Sword	Uniform	#Is the forest really so dangerous?
-476	Annie	Armour	Armoury	Eglamore	Jones	Sword	Uniform	#Try not to undress the female students James.
+476	Annie	Armour	Armoury	Eglamore	Jones	Sword	Uniform	#Try not to undress the female students James
 475	Annie	CourtLogo	Coyote	Dirty	Dorm	Kat	Rey	Uniform	#Today I am going to visit Coyote
 474	Annie	CourtLogo	Dirty	Dorm	Kat	Rey	Surma	Uniform	WolfToy	#Surma made this body?
 473	Cover	Annan	Annie	GreenArrow	BismuthSymbol	Bridge	Coyote	Eglamore	EyeSymbol	Gillitie	Jeanne	LeadSymbol	Robotics	Shadowmen	Sun	Sword	TreeBody	Trees	Ysengrin	#Chapter 20:<br><br>**Coyote Stories**<br><br>_Icon: Coyote_
 472	Bonus	Mandolin	Margo	John	#Bonus Page:  Time for Music
-471	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Rain	Roof	John	#Yes. More questions as to what this place rally is.
+471	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Rain	Roof	John	#Yes. More questions as to what this place really is
 470	Annie	Chester	Gamma	Jack	Janet	Kat	Margo	Matt	Rain	Roof	John	Winsbury	Zimmy	#Say, where are Willie and Janet?
 469	Annie	Gamma	Jack	Kat	Margo	PowerStation	Rain	Roof	John	Zimmy	#Oh. You was there too, huh?
-468	Annie	Gamma	Jack	Kat	Margo	Rain	Roof	SullivansJohn	Zimmy	#It's only as real as you let it be.
+468	Annie	Gamma	Jack	Kat	Margo	Rain	Roof	John	Zimmy	#It's only as real as you let it be
 467	Annie	AnnieCut	Bip	FacelessPeople	Gamma	Kat	ToyShop	Zimmingham	Zimmy	#No, Kat! Don—
-466	Annie	AnnieCut	Gamma	Kat	ToyShop	Zimmingham	Zimmy	#(Annie, Zimmy and Kat find Gamma, surrounded by toys in the toyshop.)
+466	Annie	AnnieCut	Gamma	Kat	ToyShop	Zimmingham	Zimmy	#(Annie, Zimmy and Kat find Gamma, surrounded by toys in the toyshop)
 465	Annie	AnnieCut	Kat	ToyShop	Zimmingham	Zimmy	#This used to be a toy shop. Long time ago.
 464	Annie	AnnieCut	Kat	Zimmingham	Zimmy	#I'll die here one day
 463	Annie	AnnieCut	Crying	Kat	Tears	Zimmingham	Zimmy	#Where do we find Gamma?
@@ -818,17 +820,17 @@
 457	Annie	Etherium	Gamma	Jack	Kat	Lake	PowerStation	Rain	Umbrella	Zimmingham	Zimmy	#It... it ain't working!
 456	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Lightning	Margo	Matt	PowerStation	Rain	John	Umbrella	Winsbury	Zimmy	#There's probably something else I should have mentioned...
 455	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Lightning	Margo	Matt	PowerStation	John	Winsbury	Zimmy	#Hey look, the water in the lake is going down!
-454	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Margo	Matt	PowerStation	John	Winsbury	Zimmy	#We're about to get started.
+454	Annie	Etherium	Gamma	Jack	Janet	Kat	Lake	Margo	Matt	PowerStation	John	Winsbury	Zimmy	#We're about to get started
 453	Annie	Gamma	Kat	Lake	Margo	PowerStation	Zimmy	#Do... do they all think I am stupid and ugly?
 452	Annie	Gamma	Janet	Lake	Margo	Matt	PowerStation	Winsbury	Zimmy	#Why are you here Zimmy?
 451	Gamma	Jack	Lake	Margo	Matt	PowerStation	John	Winsbury	Zimmy	#They're what?!
 450	Annie	Gamma	Jack	Janet	Kat	Lake	Margo	Matt	John	Winsbury	Zimmy	#I'd get in trouble too!
-449	Annie	Jack	Janet	Kat	Lake	Margo	SullivansJohn	Winsbury	#I go out exploring all the time
+449	Annie	Jack	Janet	Kat	Lake	Margo	John	Winsbury	#I go out exploring all the time
 448	Annie	Jack	Janet	Kat	Lake	Margo	Matt	PowerStation	#What are they doing over there?
-447	Jack	Janet	Margo	Matt	Roof	John	Winsbury	#Right this way.
+447	Jack	Janet	Margo	Matt	Roof	John	Winsbury	#Right this way
 446	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Robots	Students	John	Winsbury	#(The girls take a horsebot carriage to meet the boys)
-445	Annie	Dorm	Kat	#All I do is alter the energy wavelength that sets them off.
-444	Annie	Dorm	Janet	Kat	Margo	#Then let us away.
+445	Annie	Dorm	Kat	#All I do is alter the energy wavelength that sets them off
+444	Annie	Dorm	Janet	Kat	Margo	#Then let us away
 443	Annie	Dorm	Kat	Rey	#Let's do this!
 442	Annie	Dolls	Dorm	Kat	#Yeah but now there will be BOYS there!
 441	Cover	Etherics	PowerStation	Sky	Stars	#Chapter 19:<br><br>**Power Station**<br><br>_Icon: a HorseBot drawn cart_
