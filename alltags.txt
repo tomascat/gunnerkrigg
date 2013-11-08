@@ -121,7 +121,7 @@ Fairies	[Gillitie](#gillitie) Wood is full of them
 FencingHall	Where [sword](#sword)-fighting, fencing, sparring are taught
 Fight	When two people have a disagreement, violently
 Filler	Not a mainstream story comic
-Fire	An ancient element
+Fire	An ancient element; may cause [smoke](#smoke)
 FireElemental	A personification of [fire](#fire), represented with a [FireSpike](#firespike) on their head
 FireHose	A hose to put out a [fire](#fire)
 FireSpike	A spiky [fire](#fire) crown associated with [Fire Elementals](#fireelemental)
@@ -301,6 +301,7 @@ Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data
 SmallBot	A young eye-witness model [robot](#robots)
 Smitty	Andrew Smith ('Mighty Eyebrows Boy'), a student two years above Annie; brings order from chaos; interested in [Parley](#parley); becomes Court medium
+Smoke	Where it is, there is often [fire](#fire)
 Spankies	From [Annie](#annie) for when [Coyote](#coyote) is a Bad Dog!
 Sparring	A mock or training fight; usually for learning or practising martial arts or swordfighting
 Speakeasy	A hotel-like place that the students sneak out to with a “speakeasy-like atmosphere”

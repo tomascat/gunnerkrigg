@@ -4,9 +4,12 @@
 ; _italic_
 ; [internal link text](#sometag)
 ; [external link text](www.gunnerkrigg.com)
-1270	Kat	KatsWorkshop	Paz	#A few minutes of hasty planning later
-1269	Kat	KatsWorkshop	Paz	Robots	Seraph	#I... I have to be sure!
-1268	Kat	KatsWorkshop	Paz	Robots	Seraph	#State your name and the name of your hairdresser!
+1273	Kat	KatsWorkshop	Paz	Smoke	#You do not have to show off for me, Kat <br>_Tom: Results Guaranteed_
+1272	Creeper	Kat	KatsWorkshop	Paz	RobotParts	Smoke	#Oh I think we can manage... just the two of us... <br>_Tom: Make Vomit Noises_
+1271	Creeper	Kat	KatsWorkshop	Paz	RobotParts	#I could do with your... assistance. <br>_Tom: Rapidly bring face towards subject._
+1270	Creeper	Fire	Kat	KatsWorkshop	Paz	RobotParts	#A few minutes of hasty planning later <br>_Tom: When trying to impress, keep eyes closed._
+1269	Kat	KatsWorkshop	Paz	Robots	Seraph	#I... I have to be sure! <br>_Tom: Never ask, only guess._
+1268	Kat	KatsWorkshop	Paz	Robots	Seraph	#State your name and the name of your hairdresser!<br>_Tom: Top security._
 1267	Blush	Kat	KatsWorkshop	Paz	Robots	Seraph	#No! I like to see it! You are so clever, Kat!<br>_Tom: Paz and Kat and robots_
 1266	CreatorGlyph	Kat	KatsWorkshop	Paz	#What is this room?<br>_Tom: Pat and Kaz_
 1265	Kat	KatsWorkshop	Paz	#So this is where you spend all your time!<br>_Tom: Kat and Paz_

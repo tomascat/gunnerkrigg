@@ -14,7 +14,7 @@ tagDescriptions = {}
 
 #get how many comics exist from the newest page
 result = re.search("/comics/([0-9]*).jpg", urllib.urlopen("http://gunnerkrigg.com").read())
-numberOfComics = int(result.group(1))
+numberOfComics = int(result.group(1)) + 1
 
 #add the heading html
 with codecs.open('headingtaghelper.txt','r', "utf-8-sig") as fheading:
