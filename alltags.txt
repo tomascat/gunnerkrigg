@@ -1,5 +1,10 @@
-; a comment!
-113	A number that appears in many places in the court.
+; reminder: this is comment - in case you need to flag changes, etc...
+; internal formatting is a mix of Markdown plus html (for <br> etc)
+; **bold**
+; _italic_
+; [internal link text](#sometag)
+; [external link text](http://www.gunnerkrigg.com)
+113	A number that appears in many places in the court
 Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell
 Adam	A boy with rashes; owner, and victim, of [Hetty](#hetty)
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq)
@@ -10,9 +15,9 @@ AlyShirt	A shirt belonging to [Aly](#aly), which [Kat](#kat) now owns
 Angel	What [robots](#robots) call [Kat](#kat)
 AnimalCells	the Court’s large animal holding cells
 AnimalLab	a Court research lab
-Anja	Anja Donlan, [Kat](#kat)’s mother; Roma origin but lived mostly in Spain.
+Anja	Anja Donlan, [Kat](#kat)’s mother; Roma origin but lived mostly in Spain
 Ankou	Breton grim reaper; [psychopomp](#psychopomps)
-Annan	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forrest'.
+Annan	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forrest'
 Annie	Antimony Carver, our protagonist ([fire](#fire) Head Girl)
 AnnieCut	The cut on [Annie](#annie)’s ethereal face from [Jeanne](#jeanne)’s [sword](#sword)
 AnnieJumper	[Annie](#annie)’s original school jumper
@@ -32,17 +37,17 @@ Basil	Minotaur
 Beacon	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated, much like [Brinnie](#brinnie)'s teleport
 BeckyGround	A student
 Bind	[Etheric](#etherics) binding, hold or constraint hoodoo
-Bip	[Parley](#parley)’s teleportation. May be accompanied by BARGE.
+Bip	[Parley](#parley)’s teleportation. May be accompanied by BARGE
 Birds	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
 Birmingham	See [Zimmingham](#zimmingham)
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court and its founding via the [Seed Bismuth](#seedbismuth)
-Blackboard	Classroom surface for writing on with chalk sticks a.k.a. chalkboard if not black
+Blackboard	Classroom surface for writing on with chalk sticks, _a.k.a._ chalkboard if not black
 BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotking)
 BlinkerStone	[Etheric](#etherics) lens device
 Blood	Circulatory fluid, supposed to be internal
 Blue	A crazy fairy obsessed with hair; friends with [Red](#red)
 Blush	Happy/embarrassed/emotional
-BlushFae	‘her too’ – dark pink hair, two rosy cheeks (likes to wang tomatoes?)
+BlushFae	‘her too’ – dark pink hair, two rosy cheeks (likes to "wang tomatoes?")
 Boat	A vehicle for crossing [water](#water)
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of [Young’s Park](#youngspark) with his wife, [Marcia](#marcia)
 Bobby	A [robot](#robots) at the AnimalLab
@@ -50,16 +55,16 @@ BobEyes	A Magpie who competes with [CityFace](#cityface) for a bagel!
 Bones	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death
 Bonus	Extra pages at the end of the chapter
 Boots	Made for walking
-Boxbot	[A robot](#robots). [Terrible](#terrible) (<i>q.v.</i>). Not as good as [Robox](#robox).
+Boxbot	[A robot](#robots). [Terrible](#terrible) (<i>q.v.</i>). Not as good as [Robox](#robox)
 Bridge	from Gunnerkrigg Court across the [Annan Water](#annan) to [Gillitie Wood](#gillitie)
-Brinnie	Sultry childhood friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) &amp; co. Probably Brynhildr, the valkrie
+Brinnie	Sultry childhood friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) _&amp; co._ Probably Brynhildr, the valkrie
 Bud	Husband of [Lindsey](#lindsey), boys’ [dorm](#subdorm) monitor
 Bugsy	Teacher Lady, or Teach. [Foley](#foley) teacher, rather be sleeping
 Buzz	The buzzing in [Zimmy](#zimmy)'s head when the stimuli get too much
 Buzzer	Bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes/[Mercury](#mercury), symbol of commerce
 Cards	A pack of playing cards
-Castle	Where royalty live. Even space alien royalty.
+Castle	Where royalty live. Even space alien royalty
 Chemicals	May be used to perform terrifying skills of Chemistry or Alchemy
 CherryTree	Comes as advertised; lives in a [Habitat](#habitat)
 Chester	One of the other school Houses
@@ -68,7 +73,7 @@ Circus	Creepy and filled with clowns
 CityFace	A pigeon
 Classroom	Where they have classes
 Clowns	Creepy, no-one likes them
-Computer	You're using one right now. The court keeps student records, and many other things on computers.
+Computer	You're using one right now. The court keeps student records, and many other things on computers
 Cookie	Cookie Monster(?), enthusiastic friend of [Parley](#parley)
 Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school
 CourtHall	A large important hall for meetings
@@ -86,27 +91,27 @@ CrystalBall	A crystal ball is traditionally used for scrying, future-telling or 
 CurlyFae	‘this girl too’ -- short curly blue hair, red dot below right eye
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[psychopomps](#psychopomps) of Wales; red ears
 DanielRSchiff	A victim
-Desert	No rain in here. Where [Coyotes](#coyote) live, sometimes.
+Desert	No rain in here. Where [Coyotes](#coyote) live, sometimes
 Diego	creepy robotics expert of the Court's early days; creator of the original [robot](#robots) (but not the TicTocs); and referred to as "creator" by them. Implicated in the [Jeanne](#jeanne) affair
 DiegoBot	One of the original [robot](#robots) created by Diego many years ago
 DiegoStudy	Home of all things ancient [robot](#robots)
 Dirty	What you become when you don't wash for a while
 Divide	The division between the Court and the [Forest](#gillitie) caused by [Coyote](#coyote)
-Dolls	[Kat](#kat) probably only has action figures she thinks are hot: <i>i.e.</i> David Duchovny (Mulder), Batman and Hellboy
+Dolls	[Kat](#kat) probably only has action figures she thinks are hot: _i.e._ David Duchovny (Mulder), Batman and Hellboy
 DonlanHouse	Home of the Donlan family: [Anja](#anja), [Donny](#donny), [Kat](#kat)
 DonlanSymbol	A symbol found in the Donlan house and in [Anja](#anja) &amp; [Donny](#donny)'s program; resembles the alchemical symbols for silver and ether
 Donny	Donald Donlan, [Kat](#kat)’s father
 DoorBot	A cranky old man [robot](#robots) who guards the door to the [RobotHQ](#robothq)
 Dorm	Living quarters at school
 DrDisaster	Sends the students on hologram simulation adventures!
-Dryad	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one.
+Dryad	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one
 Earth	Ancient element; the planet on which we live; the great mother and life-giver
 Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword)
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
 EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword), [armour](#armour), a [Tiki](#tiki) and a [mask](#mask) among other things
 Employees	Miscellaneous Court employees; includes security staff, gardeners, scientists, [power station](#powerstation) operators and even mysterious dudes who take [Gamma](#gamma) and [Zimmy](#zimmy) from [Birmingham](#birmingham) to the Court
 EnigmaronLair	Where the [Enigmarons](#enigmarons) from a [Dr. Disaster](#drdisaster) [simulation](#simulation) hang out
-Enigmarons	Bad guy aliens in a [Dr. Disaster](#drdisaster) [simulation](#simulation)
+Enigmarons	Bad guy aliens in a [Dr Disaster](#drdisaster) [simulation](#simulation)
 Etherics	Manipulation of the Ether – “magic”
 EthericShield	An [Etheric](#etherics)/magical shield
 Etherium	The world/realm of the Ether
