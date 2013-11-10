@@ -60,6 +60,7 @@ Bridge	The Annan Bridge leads from Gunnerkrigg Court across the [Annan Water](#a
 Brinnie	Sultry childhood friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) _&amp; co._ Probably Brynhildr, the Valkyrie _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Brinnie)_
 Bud	Husband of [Lindsey](#lindsey), boys’ [dorm](#subdorm) monitor _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Bud)_
 Bugsy	Teacher Lady, or Teach. [Foley](#foley) teacher, rather be sleeping
+Bullbot	A robot that represents [Sir Young](#siryoung) in the [Robot Tomb](#robottomb)
 Buzz	The buzzing in [Zimmy](#zimmy)'s head when the stimuli get too much
 Buzzer	Bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes/[Mercury](#mercury), symbol of commerce
@@ -159,96 +160,96 @@ GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
 GurtDog	A black dog/[psychopomp](#psychopomps) of Somerset; protects children and travellers
 Gym	School gymnasium
-Gytrash	A black dog/[psychopomp](#psychopomps) of Northern England; mentioned in _Jane Eyre_ by Charlotte Bronte
+Gytrash	A black dog/[psychopomp](#psychopomps) of Northern England; mentioned in _Jane Eyre_ by Charlotte Brontë
 Habitat	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
-HairdresserBot	a [robot](#robots) that cuts hair; lots of arms
+HairdresserBot	a [robot](#robots) that cuts hair; lots of arms _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Scissorbot)_
 Hall	Function hall [113](#113), a hall in the school
 Hammer	A tool for driving nails into things or beating things into shape
-HardwickLittleBestiary	Reference on mystical creatures
+HardwickLittleBestiary	Reference on mystical creatures _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Hardwick_and_Little's_Bestiary)_
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
-Headmaster	Jonathan Llanwellyn, [Janet](#janet)’s father; surprisingly grey, apathetic man, with bad posture
+Headmaster	Jonathan Llanwellyn, [Janet](#janet)’s father; surprisingly grey, apathetic man, with bad posture _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Headmaster)_
 Heart	A heart, or heart sign, symbol, glyph or character; either the body's blood pump, the core of a mechanism or a symbol of love
 HedgehogFae	‘and him’ -- dreads, former hedgehog
-Hetty	a small animate devil doll, victimising [Adam](#adam)
-HettySymbol	sometimes visible on [Hetty](#hetty)'s forehead
+Hetty	a small animate devil doll inhabited by a shrimp-like spirit, victimising [Adam](#adam) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Hetty)_
+HettySymbol	sometimes visible on [Hetty](#hetty)'s forehead _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Hetty#Symbol)_
 Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol; the Jewish Kingdom (Star of David)
 Homework	School work done outside class hours
-Horsebot	H model [Robot](#robots) in a horse frame, as motive power for carriages, carts etc
+Horsebot	H model [Robot](#robots) in a horse frame, as motive power for carriages, carts etc _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/H_Model)_
 Hospital	The hospital/infirmary within the court
-Hyland	[Jack](#jack)’s father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma).
-Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat)
-Jan	January, curt friend of [Parley](#parley)
-Janet	Janet Llanwellyn; Fierce daughter of the [Headmaster](#headmaster); dating [Winsbury](#winsbury)
-Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a fencer belonging to the court. _"She died and we did nothing"_
-JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name as yet unknown.
-John	John Sullivan [[ref](http://gunnerkrigg.proboards.com/thread/361/tom-2?page=30&scrollTo=18295)] _a.k.a._ [Sullivan's John](www.gunnerkrigg.com/art/john.jpg). A musical student, plays strings _e.g._ guitar, [mandolin](#mandolin). Dating [Margo](#margo)
+Hyland	[Jack](#jack)’s father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Hyland)_
+Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)_
+Jan	January, curt friend of [Parley](#parley) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/January)_
+Janet	Janet Llanwellyn; Fierce daughter of the [Headmaster](#headmaster); dating [Winsbury](#winsbury) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Janet_Llanwellyn)_
+Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a fencer belonging to the court. _"She died and we did nothing"_ _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Jeanne)_
+JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name as yet unknown. _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Anwyn#Jeanne.27s_lover)_
+John	John Sullivan [[ref](http://gunnerkrigg.proboards.com/thread/361/tom-2?page=30&scrollTo=18295)] _a.k.a._ [Sullivan's John](www.gunnerkrigg.com/art/john.jpg). A musical student, plays strings _e.g._ guitar, [mandolin](#mandolin). Dating [Margo](#margo) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Sullivan's_John)_
 Jokes	Ha ha.
 JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
-Jones	A mysterious court lady; name of [Wandering Eye](#wanderingeye)
+Jones	A mysterious court lady; name of [Wandering Eye](#wanderingeye) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Jones)_
 JonesFootprints	Ancient footprints that appear to belong to [a human](#jones); how can this be?
-Juliette	[Employee](#employees) of the court, is qualified to run the [Ether station](#powerstation)
+Juliette	[Employee](#employees) of the court, is qualified to run the [Ether station](#powerstation) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Juliette)_
 JupiterMoonMartians	Friendly aliens in one of [Dr Disaster](#drdisaster)'s [simulations](#simulation)
-Kamlen	[Anwyn](#anwyn) boy about [Annie](#annie)’s and [Kat](#kat)’s age
-Kat	Katerina Donlan, the scientifically inclined best friend of [Annie](#annie), also close to [Paz](#paz); [Anja](#anja) & [Donny](#donny) Donlan's daughter, sometimes called Katja by her mother
+Kamlen	[Anwyn](#anwyn) boy about [Annie](#annie)’s and [Kat](#kat)’s age _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Anwyn#Kamlen)_
+Kat	Katerina Donlan, the scientifically inclined best friend of [Annie](#annie), also close to [Paz](#paz); [Anja](#anja) & [Donny](#donny) Donlan's daughter, sometimes called Katja by her mother _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Katerina_Donlan)_
 KatsHomework	A thing that [Annie](#annie) copies
-KatsWorkshop	Where [Kat](#kat) indulges her hobbies; in the West Canals; has a hidden room in the bottom
+KatsWorkshop	Where [Kat](#kat) indulges her hobbies; in the West Canals; has a hidden room in the bottom _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Kat's_Storage_Room)_
 KershawHouse	Where [Aly](#aly) and his parents Mr and Mrs [Kershaw](#kershaws) used to live.
 Kershaws	[Aly](#aly)'s parents. [birds](#birds).
-Ketrak	[Psychopomp](#psychopomps) to the insects!
-Khepi	Head of an [Anwyn](#anwyn) family
+Ketrak	[Psychopomp](#psychopomps) to the insects! _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ketrak)_
+Khepi	Head of an [Anwyn](#anwyn) family _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Anwyn#Khepi)_
 Kiss	Smooshing, pashing, making out, a peck on the cheek, first base, kissing
 Knight	A traditional warrior and military leader who is part of the landed gentry class; often trained in swordsmanship; a chess piece; _e.g._ [Eglamore](#eglamore) and [Sir Young](#siryoung).
-Labyrinth	Not quite a maze
+Labyrinth	Not quite a maze. Home to [Basil the Minotaur](#basil)
 Lake	A large, still body of [water](#water); where the [power station](#powerstation) is.
 Landscape	A view of a wide expanse of land
-LaserCow	A [robotic](#robots) cow that mows the lawns with its laser eyes. Also, awesome. All go by the name Elsie
+LaserCow	A [robotic](#robots) cow that mows the lawns with its laser eyes. Also, awesome. All go by the name Elsie _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Laser_Cows)_
 Lasers	Zap! Awesome!
 Latin	A dead language, some things are written in it
-LaundryList	A seagull
-LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as [Eglamore](#eglamore)
+LaundryList	A seagull _{[wiki]}()_
+LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as [Eglamore](#eglamore) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Lead_(alchemy))_
 LeanDog	A black dog/[psychopomp](#psychopomps) for Tring, Hertfordshire; red eyes.
 Letter	A written communication
 Library	Includes [robot](#robots) parts (!)
 LighterFuel	notoriously flammable; accelerant
 Lightning	Clouds and electricity... ZZZAAAPP!
-Lindsey	[dorm](#subdorm) monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon; wife of [Bud](#bud)
+Lindsey	[dorm](#subdorm) monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon; wife of [Bud](#bud) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Lindsey)_
 LindseyComputer	[Lindsey](#lindsey)'s computer translates for her
-Lockpicks	[Annie](#annie) has some lockpicks which she stores in the WolfToy/[Rey](#rey)’s body
+Lockpicks	[Annie](#annie) has some lock-picks which she stores in the WolfToy/[Rey](#rey)’s body
 LoveLetter	A written expression of love; may be anonymous
-MakeUp	Cosmetics to define or enhance appearance, particulaly of the face, eyes and mouth
-Mallt-y-nos	Matilda of the Night, Night Malt; Welsh [psychopomp](#psychopomps)/crone/witch; rides with the [Cŵn Annwn](#cwnannwn) (hounds of the underworld)
+MakeUp	Cosmetics to define or enhance appearance, particularly of the face, eyes and mouth
+Mallt-y-nos	Matilda of the Night, Night Malt; Welsh [psychopomp](#psychopomps)/crone/witch; rides with the [Cŵn Annwn](#cwnannwn) (hounds of the underworld) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Mallt-y-nos#Mallt-y-nos)_
 Mandolin	stringed musical instrument; sometimes they’re haunted
 Marble	A shining sphere of unmelting ice; trapped inside were brilliant colours from the rarest flowers.
-Marcia	Marcia Sutton, a [dryad](#dryad) and keeper of [Young’s Park](#youngspark) with her husband, [Bob](#bob)
-Margo	A student who enjoys singing. Artist. Dating [John](#john)
+Marcia	Marcia Sutton, a [dryad](#dryad) and keeper of [Young’s Park](#youngspark) with her husband, [Bob](#bob) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Marcia_Sutton)_
+Margo	A student who enjoys singing. Artist. Dating [John](#john) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Margo)_
 MarineFae	‘and her’ -- aquamarine hair, vertical green bar on forehead
-Martin	A young boy who has "lost his way" and whom young [Annie](#annie) needs to help
+Martin	A young boy who has "lost his way" and whom young [Annie](#annie) needs to help _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Martin)_
 MartinLizard	A lizard that [Martin](#martin) likes and shows [Annie](#annie). Bites.
 MartinRoom	[Martin](#martin)'s hospital/bed room
 Mask	A cover to hide face, appearance, emotions
-Matches	playing with matches can start fires
-Matt	Student and classmate of [Annie](#annie) and [Kat](#kat)
-Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce; [psychopomp](#psychopomps)
-MercurySymbol	The alchemical symbol for [mercury](#mercury); appears on [Rey](#rey)’s spirit form
+Matches	playing with matches can start [fires](#firesymbol)
+Matt	Student and classmate of [Annie](#annie) and [Kat](#kat). Has met [Chang’e](#moongirl) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Matt)_
+Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce; [psychopomp](#psychopomps) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Psychopomps#Hermes)_
+MercurySymbol	The alchemical symbol for [mercury](#mercury); appears on [Rey](#rey)’s spirit form _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Mercury_(alchemy))_
 MetalGearSolid	A game that [Kat](#kat) likes.
-Mice	Small rodents, common pests, and also in labs.
+Mice	Small rodents, common pests, and also in [labs](#animallab).
 Microsat5	[Tony](#tony)’s payload delivery satellite
-ModdeyDhoo	One of the Black Dogs, a [psychopomp](#psychopomps) from the Isle of Man
+ModdeyDhoo	One of the Black Dogs, a [psychopomp](#psychopomps) from the Isle of Man _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Psychopomps#Moddey_Dhoo)_
 Monster	A scary creature
 Montgomery	A [Seraph](#seraph) [robot](#robots)
 Monument	A physical tribute to a well respected person
 Moon	Our most ancient satellite!
-MoonGirl	Chang’e ([ref](http://www.gunnerkrigg.com/?p=920)), a deity or personification of the Moon
+MoonGirl	Chang’e ([ref](http://www.gunnerkrigg.com/?p=920)), a deity or personification of the Moon _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Chang'e)_
 MoonPrint	Thumbprint on the moon
-Mort	A [ghost](#ghosts) who haunts part of the school
-MrThorn	Mr Thorn, Court protector and games teacher to [Annie](#annie) and [Kat](#kat)’s parents
+Mort	A [ghost](#ghosts) who haunts part of the school _{[wiki]}()_
+MrThorn	Mr Thorn, Court protector and games teacher to [Annie](#annie) and [Kat](#kat)’s parents _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Mr._Thorn)_
 Music	Everyone loves music!
-Muut	Egyptian [psychopomp](#psychopomps) (escorts the dead to the afterlife)
+Muut	Egyptian [psychopomp](#psychopomps) (escorts the dead to the afterlife) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Psychopomps#Muut)_
 NancyDrew	A series of books featuring a teenage girl solving mysteries
 NapoleonHat	A fitting hat for [Reynardine](#rey) the Great!
-Neith	Egyptian goddess of war; [psychopomp](#psychopomps)
-Nevihta	Rogat Orjak to [Sir Young](#siryoung), first protector of the court
+Neith	Egyptian goddess of war; [psychopomp](#psychopomps) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Psychopomps#Neith)_
+Nevihta	Rogat Orjak to [Sir Young](#siryoung), first protector of the court _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Rogat_Orjak#Nevihta)_
 Observatory	A massive telescope
 Ocean	A whole bunch of [water](#water)
 Octopus	A flying / floating octopus
@@ -256,54 +257,54 @@ Ogee	A city fairy with the power of rusting, who hangs out with a magpie called 
 OldCourt	Parts of Gunnerkrigg Court that used to be in [Gillitie Forest](#gillitie) before the division by [Coyote](#coyote).
 Ooze	What [Martin](#martin)'s, lizard turns into when it hits the floor
 Orb	The _Globus cruciger_, a Christian symbol of power, wielded by monarchs and Christ
-Parley	George Parley: three years older than Antimony, swordswoman, teleports, candidate for Court medium ('Big Nose Girl'), interested in [Smitty](#smitty)
+Parley	George Parley: three years older than Antimony, swordswoman, teleports, candidate for Court medium ('Big Nose Girl'), interested in [Smitty](#smitty) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Parley)_
 PartyHat	A Party hat, hats are fun!
-Paz	Paz Cadena-Blanco, Spanish, good with animals and can talk to them; is raising [CityFace](#cityface) with [Bobby](#bobby); becomes close to [Kat](#kat).
-Photo	A photograph of [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore), [Surma](#surma), [Tony](#tony) and [Brinnie](#brinnie) from their school days
+Paz	Paz Cadena-Blanco, Spanish, good with animals and can talk to them; is raising [CityFace](#cityface) with [Bobby](#bobby); becomes close to [Kat](#kat). _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Paz)_
+Photo	A photograph of [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore), [Surma](#surma), [Tony](#tony) and [Brinnie](#brinnie) from their school days _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/That_Photo)_
 PlanTheta	[Baking Distraction](#bakingdistraction) for when others are sneaking around
 Pliers	Used for manipulating wire; may include wire-strippers or wire-cutters
-PowerStation	A Court system to extract energy from the [Etherium](#etherium) on an industrial scale
+PowerStation	A Court system to extract energy from the [Etherium](#etherium) on an industrial scale _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/The_Power_Station)_
 PrincessMononoke	Animated movie by Hayao Miyazaki
-Psychopomps	Escort the dead to the afterlife/[Ether](#etherium)
-Queslett	[Annie](#annie) &amp; [Kat](#kat)’s school House
+Psychopomps	Escort the dead to the afterlife/[Ether](#etherium) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Psychopomps)_
+Queslett	[Annie](#annie) &amp; [Kat](#kat)’s school House _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Queslett)_
 Rain	[water](#water), falling from the sky
-Red	A crazy and abrasive fairy
-Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie)
+Red	A crazy and abrasive fairy _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Red)_
+Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Reynardine)_
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
-Robot	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots)
+Robot	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Robot)_
 RobotCode	A cube with the [Robots](#robots)' instruction code transcribed onto it
 RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
-RobotHQ	Where the [robots](#robots) hang out
+RobotHQ	Where the [robots](#robots) hang out _{[wiki]}()_
 Robotics	Like [Etherics](#etherics) but with metal
-RobotKing	A [robot](#robots) with a crown, blank face, and a pen
+RobotKing	A [robot](#robots) with a crown, blank face, and a pen _{[wiki]}()_
 RobotParts	Bits of [robot](#robots) currently not attached
-Robots	A collective noun
+Robots	A collective noun _{[wiki]}()_
 RobotTomb	Tomb/theatre full of [robot](#robots) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/The_Tomb)_
-Robox	Has no hands; awesome; everybody loves Robox. The opposite of [terrible](#terrible)
+Robox	Has no hands; awesome; everybody loves Robox. The opposite of [terrible](#terrible) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Robox)_
 Rocket	A cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents.
-RogatOrjak	Dragon-like giant
+RogatOrjak	Dragon-like giant _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Rogat_Orjak)_
 Roof	The top of the court
-S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robot)
+S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robot) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/S1)_
 Salon	Court hair salon, staffed by the HairdresserBot
 ScienceLab	A school science lab where [Kat](#kat) does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
 SecurityDevice	Small devices that supposedly warn [Jack](#jack) when people are coming
-SecurityRobots	They ensure security, as [robot](#robots)
-SeedBismuth	It’s a mystery; involved in the [founding](#founding) of the court
+SecurityRobots	They ensure security, as [robot](#robots) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Guard_Bots)_
+SeedBismuth	It’s a mystery; involved in the [founding](#founding) of the court _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Seed_Bismuth)_
 Seeds	Some seeds that [Ysengrin](#ysengrin) uses for his terrifying skills of gardening. Used to create the [WoodenArm](#woodenarm) and also dropped in the [Court Hall](#courthall).
-Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robot) was one originally
-Shadow	The Thin Man, a [shadowman](#shadowmen)
-Shadowman	Not the Thin Man, but one of the [shadowmen](#shadowmen)
-Shadowmen	The glass-eyed men; creations of [Coyote](#coyote)
-Shell	An employee (Security guard??) of the court, alongside [Aata](#aata)
+Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robot) was one originally _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/S_Models)_
+Shadow	The Thin Man, a [shadowman](#shadowmen) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Shadow_2)_
+Shadowman	Not the Thin Man, but one of the [shadowmen](#shadowmen) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Shadow_3)_
+Shadowmen	The glass-eyed men; creations of [Coyote](#coyote) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Shadow_People)_
+Shell	An employee (Security guard??) of the court, who works under [Aata](#aata) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Shell)_
 SimRocket	A rocket/spaceship in [Dr. Disaster](#drdisaster)’s [simulation](#simulation)
 Simulation	One of [Dr. Disaster](#drdisaster)’s holographic adventures
-SirYoung	Protector of the Court at its [founding](#founding)
-Sivo	A [Rogat Orjak](#rogatorjak) who was close friends with [Eglamore](#eglamore)
+SirYoung	Protector of the Court at its [founding](#founding); has a park dedicated to him, associated with [Nevihta](#nevihta), also see [Bullbot](#bullbot) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Sir_Young)_
+Sivo	A [Rogat Orjak](#rogatorjak) who was close friends with [Eglamore](#eglamore) _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Sivo)_
 SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises death; associated with pirates
 Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
-SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data
+SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data _{[wiki]}(http://gunnerkrigg.wikia.com/wiki/Sky_Watcher)_
 SmallBot	A young eye-witness model [robot](#robots)
 Smitty	Andrew Smith ('Mighty Eyebrows Boy'), a student two years above Annie; brings order from chaos; interested in [Parley](#parley); becomes Court medium
 Smoke	Where it is, there is often [fire](#fire)
