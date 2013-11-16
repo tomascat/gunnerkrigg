@@ -1,10 +1,13 @@
+; --- INDEX ---
 ; reminder: this is comment - in case you need to flag changes, etc...
 ; internal formatting is a mix of Markdown plus html (for <br> etc)
 ; **bold**
 ; _italic_
 ; [internal link text](#sometag)
 ; [external link text](http://www.gunnerkrigg.com)
-1274	ch45	Kat	KatsWorkshop	Kiss	Paz	#Waaaaaait, wait, wait
+1276	ch45	Birds	Kat	KatsWorkshop	Robots	#Annie!
+1275	ch45	Annie	Kat	KatsWorkshop	Kiss	Paz	Robots	#I better deal with that…<br>_Tom: Tough to focus_
+1274	ch45	Kat	KatsWorkshop	Kiss	Paz	#Waaaaaait, wait, wait<br>_Tom: Results continue to be guaranteed_
 1273	ch45	Kat	KatsWorkshop	Kiss	Paz	Smoke	#You do not have to show off for me, Kat<br>_Tom: Results Guaranteed_
 1272	ch45	Creeper	Kat	KatsWorkshop	Paz	RobotParts	Smoke	#Oh I think we can manage... just the two of us... <br>_Tom: Make Vomit Noises_
 1271	ch45	Creeper	Kat	KatsWorkshop	Paz	RobotParts	#I could do with your... assistance<br>_Tom: Rapidly bring face towards subject_
@@ -132,17 +135,17 @@
 1149	ch41	Anja	Bip	BismuthSymbol	Blush	Annie	CourtHall	Donny	Parley	Rey	Smitty	SunSymbol	#Did we miss anything?
 1148	ch41	Annie	BismuthSymbol	CourtHall	Rey	#I think we made it…
 1147	ch41	Annie	BlinkerStone	Kat	KatsWorkshop	Rey	Robots	Seraph	#Who _are_ you guys?!
-1146	ch41	Annie	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#S13, you have long since predicted the coming of an angel
-1145	ch41	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
+1146	ch41	Annie	AntimonySymbol	Kat	KatsWorkshop	Lasers	CreatorGlyph	Robot	Robots	Shadow	#S13, you have long since predicted the coming of an angel
+1145	ch41	Annie	AntimonySymbol	Kat	KatsWorkshop	Rey	Robot	Robots	Shadow	#You have found a way to interface this technology with ours?
 1144	ch41	Annie	Kat	KatsWorkshop	Rey	Robot	Robots	#Are you sure about this, Robot?
 1143	ch41	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#S13 is being held for the spreading of disinformation and rumour
-1142	ch41	Annie	Etherics	Kat	Rey	Robot	Robots	Seraph	Warehouse113	#Just because she is beautiful and angelic in appearance
+1142	ch41	Annie	AntimonySymbol	Etherics	Kat	Rey	Robot	Robots	Seraph	Warehouse113	#Just because she is beautiful and angelic in appearance
 1141	ch41	Annie	Kat	Robots	Seraph	Warehouse113	#A simple electro-disruptor. Use of this illegal device has been noted
-1140	ch41	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#Shadow! You should not have come here!
+1140	ch41	Annie	AntimonySymbol	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#Shadow! You should not have come here!
 1139	ch41	113	Annie	Kat	Rey	Robot	Robots	Seraph	Shadow	Warehouse113	#NOT a secret base
 1138	ch41	Annie	Kat	Rey	Roof	Robot	Robots	Seraph	Shadow	SmallBot	#Good day to you, young eye-witness model
-1137	ch41	Annie	Kat	Rey	Robots	Roof	Seraph	Shadow	SmallBot	#I’m going to take a look at your video log, okay?
-1136	ch41	Annie	Kat	Rey	Robots	Roof	Shadow	SmallBot	#I sawed it all!
+1137	ch41	Annie	AntimonySymbol	Kat	Rey	Robots	Roof	Seraph	Shadow	SmallBot	#I’m going to take a look at your video log, okay?
+1136	ch41	113	Annie	AntimonySymbol	Kat	Rey	Robots	Roof	Shadow	SmallBot	#I sawed it all!
 1135	ch41	Annie	Dorm	Kat	Shadow	Robots	Roof	Seraph	#Shadow! What are you doing here?
 1134	ch41	Annie	Dorm	Kat	Rey	SubDorm	#I’m in your room all the time anyway
 1133	ch41	Annie	Dorm	Kat	Lindsey	Paz	Rey	SubDorm	#Would you like to share a room?
@@ -223,7 +226,7 @@
 1058	ch39	Annie	Armour	Bridge	Coyote	Eglamore	Gillitie	Sword	Ysengrin	#Considering what’s happened these part few weeks
 1057	ch39	Annie	Armour	Bridge	Eglamore	Gillitie	Sword	#You know, you don’t have to wear that outfit every time we go across the bridge
 1056	ch39	Cover	Bones	Coyote	GreatSecret	#Chapter 39:<br><br>**The Great Secret**<br><br>_Icon: the Moon?_
-1055	ch38	Bonus	Filler	Tea	#Bonus Page: Heart rate monitors
+1055	ch38	113	Bonus	Filler	Tea	#Bonus Page: Heart rate monitors
 1054	ch38	FlowerHeadband	Gamma	Hospital	Zimmy	#Are you sure you don’t want them to know you helped?
 1053	ch38	Annie	Gamma	Hospital	Kat	MakeUp	Zimmy	#I brought these for you
 1052	ch38	Annie	Hospital	Kat	#So I just collapsed in the hall?
@@ -328,7 +331,7 @@
 953	ch35	Annie	FlowerHeadband	Kat	Rey	Robot	Smitty	#Reynard is the resident ladies expert
 952	ch35	Annie	Bip	FlowerHeadband	Kat	Parley	Rey	Smitty	#sorry about that. It happens sometimes
 951	ch35	Cookie	Jan	Parley	Smitty	#byee, little lovelies!
-950	ch35	Annie	Bip	BismuthSymbol	Cookie	FlowerHeadband	Jan	Kat	Parley	Smitty	#aw, look, parley, it’s your kiddy club!
+950	ch35	113	Annie	Bip	BismuthSymbol	Cookie	FlowerHeadband	Jan	Kat	Parley	Smitty	#aw, look, parley, it’s your kiddy club!
 949	ch35	Annie	Bip	FlowerHeadband	Kat	Parley	Rey	Smitty	#is she not here yet? Ahem… bam. BIP
 948	ch35	Cover	Flowers	#Chapter 35:<br><br>**Parley and Smitty Are In This One**<br><br>_Icon: a flower_
 947	ch34	Bonus	Janet	Kat	Margo	John	Winsbury	#Bonus Page: Backfired
@@ -342,15 +345,15 @@
 939	ch34	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	John	Winsbury	#huh, looks like they don’t believe us!
 938	ch34	Janet	Speakeasy	Winsbury	#right, right. So you were driving your tricked out horse
 937	ch34	Janet	Speakeasy	Winsbury	#no no, William, you misremember
-936	ch34	Janet	Speakeasy	Winsbury	#it all started in year 7 when I was an undercover cop
+936	ch34	113	Janet	Speakeasy	Winsbury	#it all started in year 7 when I was an undercover cop
 935	ch34	Bud	Janet	Kat	Margo	Matt	Paz	Speakeasy	John	Winsbury	#I’d say you get along pretty well now
 934	ch34	Bud	Janet	Kat	Mandolin	Margo	Matt	Paz	Speakeasy	John	Winsbury	#no! sing the boys part!
-933	ch34	Annie	Jack	Speakeasy	#I just don’t know what I’m doing…
+933	ch34	113	Annie	Jack	Speakeasy	#I just don’t know what I’m doing…
 932	ch34	Annie	Jack	Roof	Speakeasy	#I really am sorry, Jack
 931	ch34	Annie	Jack	Roof	Speakeasy	#this wasn’t some “flash of anger” thing
 930	ch34	Annie	Jack	Roof	Speakeasy	#man, talk about baggage!
 929	ch34	Annie	Jack	Roof	Speakeasy	#You’ve got some strange ideas about revenge, Carver
-928	ch34	Annie	Jack	Roof	Speakeasy	Spiders	Zimmy	#I-I’m fairly certain she and Gamma are… an item.
+928	ch34	Annie	Jack	Roof	Speakeasy	Spiders	Zimmy	#I- I’m fairly certain she and Gamma are… an item.
 927	ch34	Annie	Jack	Roof	Speakeasy	Zimmy	#I’m in love with Zimmy!
 926	ch34	Annie	Jack	Roof	Speakeasy	#Jack… I don’t think I like you very much
 925	ch34	Annie	Bud	Jack	Roof	Speakeasy	#no, bud can still see us
@@ -368,7 +371,7 @@
 913	ch34	Annie	Jack	Janet	Margo	Matt	Paz	Speakeasy	John	Winsbury	#so romantic! Don’t you think so, matt?
 912	ch34	Ghosts	Mandolin	Margo	Speakeasy	John	#so we went back and we finished it
 911	ch34	Ghosts	Margo	Speakeasy	John	#even when we left the mandolin behind, they wouldn’t leave us alone
-910	ch34	Mandolin	Margo	Speakeasy	John	#it sounded great when I played it, but as soon as Margo started singing…
+910	ch34	113	Mandolin	Margo	Speakeasy	John	#it sounded great when I played it, but as soon as Margo started singing…
 909	ch34	Annie	Bud	Jack	Janet	Kat	Mandolin	Margo	Matt	Paz	Speakeasy	John	Winsbury	#hey Margo, look what I brought! Oh nooo! That’s not the haunted one, is it?
 908	ch34	Annie	Buzzer	Jack	Speakeasy	#we haven’t really talked since before the summer
 907	ch34	Annie	Bud	Jack	Kat	Speakeasy	#what the wife doesn’t know can’t hurt her, right?
@@ -526,7 +529,7 @@
 755	ch29	AnimalLab	Birds	Bobby	CityFace	CreatorGlyph	Kat	Paz	Robot	RobotDesigns	RobotParts	Robots	#(Kat gets insperation from a bird's wing!)
 754	ch29	AnimalLab	Birds	Bobby	CityFace	Kat	Paz	Robots	#I ask to help, to change things and make them better.
 753	ch29	AnimalLab	Bobby	Court	Kat	Mice	Paz	Robots	#Self-regulated?! That just means they can do what they want!
-752	ch29	AnimalLab	Birds	Bobby	CityFace	Kat	Mice	Paz	Robots	#Are these, like, pets or something?
+752	ch29	113	AnimalLab	Birds	Bobby	CityFace	Kat	Mice	Paz	Robots	#Are these, like, pets or something?
 751	ch29	AnimalLab	Birds	Bobby	CityFace	Kat	Paz	Robots	#The bird appears to be unharmed, Paz
 750	ch29	AnimalLab	Birds	Bobby	CityFace	Kat	Paz	Robots	#Ooh! A baby pigeon!
 749	ch29	Birds	CityFace	Kat	Train	#How can you be so tiny and fragine?
@@ -563,7 +566,7 @@
 718	ch28	Annie	Bind	Employees	Rey	Robots	Shell	#Please! You have to help my friend!
 717	ch28	Cover	PowerStation	#Chapter 28:<br><br>**Spring Heeled Part 2**<br><br>_Icon: The head and upper body of?_
 716	ch27	Bonus	Dorm	Kat	#Bonus Page: Meanwhile... (Who you kiddin', Kat?)
-715	ch27	Aata	Annie	AntimonySymbol	Bind	Employees	EyeCrossed	Flying	Jack	MercurySymbol	PowerStation	Rey	Robots	SecurityDevice	Shell	#What's going on here!
+715	ch27	113	Aata	Annie	AntimonySymbol	Bind	Employees	EyeCrossed	Flying	Jack	MercurySymbol	PowerStation	Rey	Robots	SecurityDevice	Shell	#What's going on here!
 714	ch27	Annie	Bind	EyeCrossed	Flying	Jack	PowerStation	Rey	SecurityDevice	#I don't care! He's my friend!
 713	ch27	Annie	AntimonySymbol	Bind	Computer	EyeCrossed	Jack	MercurySymbol	PowerStation	Rey	SecurityDevice	#I'm doing you a favour! Forget about him!
 712	ch27	Annie	AntimonySymbol	Bind	Etherics	EyeCrossed	Jack	MercurySymbol	PowerStation	Rey	SecurityDevice	#Almost forgot!
@@ -617,7 +620,7 @@
 664	ch26	Annie	CourtSymbol	Eglamore	Gillitie	JollyElfsberry	Uniform	#Symbol’s a little wonky Carver.
 663	ch26	Cover	Coyote	Stars	#Chapter 26:<br><br>**The Old Dog’s Tricks**<br><br>_Icon: Coyote_
 662	ch25	Filler	Gamma	Zimmy	#Another year…
-661	ch25	Bonus	Flowers	Robots	Students	#Bonus page: Robot Handling. Section H: miscellaneous. Robots may sometimes become attracted to you
+661	ch25	113	Bonus	Flowers	Robots	Students	#Bonus page: Robot Handling. Section H: miscellaneous. Robots may sometimes become attracted to you
 660	ch25	Angel	Diego	Robot	Robots	Roof	SkyWatcher	#The number of angels I have seen is One.
 659	ch25	Angel	Crying	Diego	LaserCow	Robot	RobotHQ	Robots	SkyWatcher	#“Love makes you act in strange ways”
 658	ch25	Angel	BlackPen	Crying	DiegoBot	DiegoStudy	Jeanne	Robot	RobotKing	Robots	SkyWatcher	#Please, dearest angel, help us understand…
@@ -641,7 +644,7 @@
 640	ch25	Annie	GroundSymbol	Kat	KatsWorkshop	Robot	Robots	RobotTomb	SkyWatcher	#What would make two people deny their love?
 639	ch25	Eyes	Jeanne	Robots	RobotTomb	SkyWatcher	Sword	#(Sky Watcher enters and sees Jeanne’s painting)
 638	ch25	DiegoBot	GroundSymbol	Robot	Robots	RobotTomb	SkyWatcher	#You must do this part on your own
-637	ch25	Angel	Kat	KatsWorkshop	Robot	Robots	SkyWatcher	#I told you she was an angel
+637	ch25	113	Angel	Kat	KatsWorkshop	Robot	Robots	SkyWatcher	#I told you she was an angel
 636	ch25	Kat	KatsWorkshop	Robot	Robots	Shadow	SkyWatcher	#Hmm, let me guess what your primary function is…
 635	ch25	Angel	Jeanne	Kat	KatsWorkshop	Robot	Robots	Roof	Shadow	SkyWatcher	#Who else would be chosen to guard Jeanne’s tomb?
 634	ch25	Angel	Robot	Robots	Roof	Shadow	SkyWatcher	#Robot, should you really be calling Kat an angel?
@@ -813,7 +816,7 @@
 468	ch19	Annie	Gamma	Jack	Kat	Margo	Rain	Roof	John	Zimmy	#It's only as real as you let it be
 467	ch19	Annie	AnnieCut	Bip	FacelessPeople	Gamma	Kat	ToyShop	Zimmingham	Zimmy	#No, Kat! Don—
 466	ch19	Annie	AnnieCut	Gamma	Kat	ToyShop	Zimmingham	Zimmy	#(Annie, Zimmy and Kat find Gamma, surrounded by toys in the toyshop)
-465	ch19	Annie	AnnieCut	Kat	ToyShop	Zimmingham	Zimmy	#This used to be a toy shop. Long time ago.
+465	ch19	113	Annie	AnnieCut	Kat	ToyShop	Zimmingham	Zimmy	#This used to be a toy shop. Long time ago.
 464	ch19	Annie	AnnieCut	Kat	Zimmingham	Zimmy	#I'll die here one day
 463	ch19	Annie	AnnieCut	Crying	Kat	Tears	Zimmingham	Zimmy	#Where do we find Gamma?
 462	ch19	Annie	AnnieCut	Crying	Gamma	Tears	Zimmingham	Zimmy	#Guh-Gamma... She's the only reason I'm still alive...
@@ -834,7 +837,7 @@
 447	ch19	Jack	Janet	Margo	Matt	Roof	John	Winsbury	#Right this way
 446	ch19	Annie	Horsebot	Jack	Janet	Kat	Margo	Matt	Robots	Students	John	Winsbury	#(The girls take a horsebot carriage to meet the boys)
 445	ch19	Annie	Dorm	Kat	#All I do is alter the energy wavelength that sets them off
-444	ch19	Annie	Dorm	Janet	Kat	Margo	#Then let us away
+444	ch19	113	Annie	Dorm	Janet	Kat	Margo	#Then let us away
 443	ch19	Annie	Dorm	Kat	Rey	#Let's do this!
 442	ch19	Annie	Dolls	Dorm	Kat	#Yeah but now there will be BOYS there!
 441	ch19	Cover	Etherics	PowerStation	Sky	Stars	#Chapter 19:<br><br>**Power Station**<br><br>_Icon: a HorseBot drawn cart_
@@ -1031,7 +1034,7 @@
 250	ch13	Aly	Kat	Tower	#I didn't want you to see me like this
 249	ch13	Aly	Annie	Kat	Tower	#I-I think that's him, all wrapped up.
 248	ch13	Annie	Classroom	Court	Kat	#You will see Alistair before he leaves.
-247	ch13	Aly	Annie	Court	Kat	#Friday: I'm really sorry Kat. It-it was good to meet you.
+247	ch13	113	Aly	Annie	Court	Kat	#Friday: I'm really sorry Kat. It-it was good to meet you.
 246	ch13	Aly	Blush	Kat	Library	#I'll miss you too! I w-wish yiou could have stayed longer.
 245	ch13	Aly	Annie	Blush	Kat	Library	#Well then! If you will excuse me. I have to... find... a... book.
 244	ch13	Aly	Annie	Classroom	Dorm	Kat	#So what's first today, guys?
@@ -1206,7 +1209,7 @@
 75	ch05	113	Anja	Annie	AntiGrav	BismuthSymbol	Blush	Eglamore	Hall	Kat	#Quite a chip off the ol’ block, eh Anja?
 74	ch05	Annie	Blush	Gamma	Kat	Library	Zimmy	#I’ll see you and bignose and ’er crappy invention tomorrow!
 73	ch05	Annie	Blush	Gamma	Kat	Library	Zimmy	#Zimmy and Gamma from Chester South, that’s us!
-72	ch05	Annie	Gamma	Kat	Library	Zimmy	#What you lookin’ at? you got a problem?
+72	ch05	113	Annie	Gamma	Kat	Library	Zimmy	#What you lookin’ at? you got a problem?
 71	ch05	Annie	BismuthSymbol	Classroom	Kat	#Do you want to help? I’d like that very much!
 70	ch05	AntiGrav	Classroom	Kat	Teacher	#Class 7qn’s entrant in the year 7 science fair will be Katerina’s zero gravity generator!
 69	ch05	Cover	Annie	BismuthSymbol	Gamma	Library	Zeta	#Chapter 5:<br><br>**Two Strange girls**<br><br>_Icon: Kat in the Library_
@@ -1242,7 +1245,7 @@
 39	ch03	Anja	BeckyGround	Dorm	Janet	Paz	#Quickly, girls. We need to evacuate the room!
 38	ch03	Annie	Dorm	Kat	Roof	WolfToy	#(Roof collapse)
 37	ch03	Annie	AntimonySymbol	Dorm	Eglamore	Kat	#That’s the alchemist’s symbol for Antimony
-36	ch03	Annie	Eglamore	Gym	Kat	#Well, just let me know the next time Winsbury gives you grief
+36	ch03	Annie	Blush	Eglamore	Gym	Kat	#Well, just let me know the next time Winsbury gives you grief
 35	ch03	Annie	Eglamore	Gym	Kat	Winsbury	#Carver! Donlan! Get over here!
 34	ch03	Annie	Gym	Kat	Winsbury	#So what are you gonna do about it?
 33	ch03	Cover	Annie	AntimonySymbol	Court	LeadSymbol	MercurySymbol	Sky	Roof	#Chapter 3:<br><br>**Reynardine**<br><br>_Icon: Crossed out eye symbol (EyeCrossed)_
@@ -1262,7 +1265,7 @@
 19	ch02	Anja	Annie	Classroom	Kat	Winsbury	John	#Wait for me!
 18	ch02	Anja	Annie	Classroom	Winsbury	#How have you found your first two weeks at our school?
 17	ch02	Cover	Annie	Kat	Labyrinth	#Chapter 2:<br><br>**Schoolyard Myths**<br><br>_Icon: Minotaur (Basil)_
-16	ch01	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#Bonus Page:  Houses at Gunnerkrigg Court
+16	ch01	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#Bonus Page:  Houses at Gunnerkrigg Court<br>_Tom: Year 7 is the first year of [UK] secondary school, and is the equivalent of 6th grade in the US. Children in Year 7 are 11-12 years old._
 15	ch01	Annie	Bridge	Gillitie	Teacher	#Sorry sir. I got lost.
 14	ch01	Bridge	Gillitie	Robot	Shadow	Shadowmen	#Here you go little buddie!
 13	ch01	Bridge	Robot	Shadow	TicToc	#Oh look! A birdie!
@@ -1278,3 +1281,4 @@
 3	ch01	Annie	Shadow	#At times I would see this creature jump from shadow to shadow
 2	ch01	Annie	Shadow	#Gunnerkrigg Court does not look much like a school at all
 1	ch01	Cover	Annie	Court	Sky	#Chapter 1:<br><br>**The Shadow and The Robot**<br><br>_Icon: Gunnerkrigg Court_
+; --- INDEX EOF ---
