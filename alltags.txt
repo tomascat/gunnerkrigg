@@ -1,3 +1,4 @@
+; --- TAGS ---
 ; reminder: this is comment - in case you need to flag changes, etc...
 ; internal formatting is a mix of Markdown plus html (for <br> etc)
 ; **bold**
@@ -206,15 +207,15 @@ Landscape	A view of a wide expanse of land
 LaserCow	A [robotic](#robots) cow that mows the lawns with its laser eyes. Also, awesome. All go by the name Elsie _{[wiki](http://gunnerkrigg.wikia.com/wiki/Laser_Cows)}_
 Lasers	Zap! Awesome!
 Latin	A dead language, some things are written in it
-LaundryList	A seagull _{[wiki]()}_
+LaundryList	A seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as [Eglamore](#eglamore) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Lead_(alchemy))}_
 LeanDog	A black dog/[psychopomp](#psychopomps) for Tring, Hertfordshire; red eyes.
 Letter	A written communication
-Library	Includes [robot](#robots) parts (!)
+Library	full of shelves of books for reference. Also includes [robot](#robots) parts
 LighterFuel	notoriously flammable; accelerant
 Lightning	Clouds and electricity... ZZZAAAPP!
 Lindsey	[dorm](#subdorm) monitor, PhD Structural Engineering, accredited couples therapist, Merostomatozon; wife of [Bud](#bud) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Lindsey)}_
-LindseyComputer	[Lindsey](#lindsey)'s computer translates for her
+LindseyComputer	[Lindsey](#lindsey)’s computer translates for her
 Lockpicks	[Annie](#annie) has some lock-picks which she stores in the WolfToy/[Rey](#rey)’s body
 LoveLetter	A written expression of love; may be anonymous
 MakeUp	Cosmetics to define or enhance appearance, particularly of the face, eyes and mouth
@@ -242,7 +243,7 @@ Monument	A physical tribute to a well respected person
 Moon	Our most ancient satellite!
 MoonGirl	Chang’e ([ref](http://www.gunnerkrigg.com/?p=920)), a deity or personification of the Moon _{[wiki](http://gunnerkrigg.wikia.com/wiki/Chang'e)}_
 MoonPrint	Thumbprint on the moon
-Mort	A [ghost](#ghosts) who haunts part of the school _{[wiki]()}_
+Mort	A [ghost](#ghosts) who haunts part of the school
 MrThorn	Mr Thorn, Court protector and games teacher to [Annie](#annie) and [Kat](#kat)’s parents _{[wiki](http://gunnerkrigg.wikia.com/wiki/Mr._Thorn)}_
 Music	Everyone loves music!
 Muut	Egyptian [psychopomp](#psychopomps) (escorts the dead to the afterlife) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Muut)}_
@@ -275,11 +276,11 @@ River	Comes as advertised
 Robot	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Robot)}_
 RobotCode	A cube with the [Robots](#robots)' instruction code transcribed onto it
 RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
-RobotHQ	Where the [robots](#robots) hang out _{[wiki]()}_
+RobotHQ	Where the [robots](#robots) hang out
 Robotics	Like [Etherics](#etherics) but with metal
-RobotKing	A [robot](#robots) with a crown, blank face, and a pen _{[wiki]()}_
+RobotKing	A [robot](#robots) with a crown, blank face, and a pen
 RobotParts	Bits of [robot](#robots) currently not attached
-Robots	A collective noun _{[wiki]()}_
+Robots	A collective noun
 RobotTomb	Tomb/theatre full of [robot](#robots) _{[wiki](http://gunnerkrigg.wikia.com/wiki/The_Tomb)}_
 Robox	Has no hands; awesome; everybody loves Robox. The opposite of [terrible](#terrible) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Robox)}_
 Rocket	A cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents.
@@ -378,3 +379,4 @@ ZAM	Noise of a [Valknut](#valknut) teleport
 Zeta	A Greek letter &Zeta;/&zeta; corresponding to our "Z"; [Zimmy](#zimmy)'s real name
 Zimmingham	[Zimmy](#zimmy)'s nightmarish version of Birmingham, which is where she and [Gamma](#gamma) are originally from
 Zimmy	aka Zeta, a strange girl who is friends with [Gamma](#gamma); from Birmingham originally
+; ---TAGS EOF ---
