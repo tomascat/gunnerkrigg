@@ -11,7 +11,7 @@ Adam	A boy with rashes; owner, and victim, of [Hetty](#hetty)
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Administrator_Robot)}_
 Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Agni)}_
 AlchemyChart	An alchemical chart
-Aly	Alistair [Kershaw](#kershaws); went to the [Forest](#gillitie) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Alistair_Kershaw)}_
+Aly	Alistair [Kershaw](#kershaws); became a bird and went to the [Forest](#gillitie) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Alistair_Kershaw)}_
 AlyShirt	A shirt belonging to [Aly](#aly), which [Kat](#kat) now owns
 Angel	What [robots](#robots) call [Kat](#kat)
 AnimalCells	the Court’s large animal holding cells
@@ -190,11 +190,12 @@ JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
 Jones	A mysterious court lady; name of [Wandering Eye](#wanderingeye) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Jones)}_
 JonesFootprints	Ancient footprints that appear to belong to [a human](#jones); how can this be?
 Juliette	[Employee](#employees) of the court, is qualified to run the [Ether station](#powerstation) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Juliette)}_
+JumpersPool	waterfall into a small lake in an open part of Gillitie
 JupiterMoonMartians	Friendly aliens in one of [Dr Disaster](#drdisaster)'s [simulations](#simulation)
 Kamlen	[Anwyn](#anwyn) boy about [Annie](#annie)’s and [Kat](#kat)’s age _{[wiki](http://gunnerkrigg.wikia.com/wiki/Anwyn#Kamlen)}_
 Kat	Katerina Donlan, the scientifically inclined best friend of [Annie](#annie), also close to [Paz](#paz); [Anja](#anja) & [Donny](#donny) Donlan's daughter, sometimes called Katja by her mother _{[wiki](http://gunnerkrigg.wikia.com/wiki/Katerina_Donlan)}_
 KatsHomework	A thing that [Annie](#annie) copies
-KatsWorkshop	Where [Kat](#kat) indulges her hobbies; in the West Canals; has a hidden room in the bottom _{[wiki](http://gunnerkrigg.wikia.com/wiki/Kat's_Storage_Room)}_
+KatsWorkshop	Where [Kat](#kat) indulges her hobbies; by the West Canals; has a hidden room in the bottom _{[wiki](http://gunnerkrigg.wikia.com/wiki/Kat's_Storage_Room)}_
 KershawHouse	Where [Aly](#aly) and his parents Mr and Mrs [Kershaw](#kershaws) used to live.
 Kershaws	[Aly](#aly)'s parents. [birds](#birds).
 Ketrak	[Psychopomp](#psychopomps) to the insects! _{[wiki](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ketrak)}_
@@ -379,4 +380,55 @@ ZAM	Noise of a [Valknut](#valknut) teleport
 Zeta	A Greek letter &Zeta;/&zeta; corresponding to our "Z"; [Zimmy](#zimmy)'s real name
 Zimmingham	[Zimmy](#zimmy)'s nightmarish version of Birmingham, which is where she and [Gamma](#gamma) are originally from
 Zimmy	aka Zeta, a strange girl who is friends with [Gamma](#gamma); from Birmingham originally
+; Chapter TAGS
+ch-01	The Shadow and The Robot
+ch-02	Schoolyard Myths
+ch-03	Reynardine
+ch-04	Not Very Scary
+ch-05	Two Strange girls
+ch-06	A Handful of Dirt
+ch-07	Of New and Old
+ch-08	Broken Glass and Other Things
+ch-09	Questions and Answers
+ch-10	Doctor Disaster versus the Creepy Space Aliens from Outer Space
+ch-11	Dobranoc, Gamma
+ch-12	Mainly Involves Robots
+ch-13	A Week For Kat
+ch-14	The Fangs Of Summertime
+ch-14a	Intermission: A Selection of Guest Comics and Other Surprises
+ch-15	Red Returns
+ch-16	A Ghost Story
+ch-17	The Medium Beginning
+ch-18	S1
+ch-19	Power Station
+ch-20	Coyote Stories
+ch-21	Blinking
+ch-22	Ties
+ch-22a	Intermission: City Face
+ch-23	Terror Castle of the Jupiter Moon Martians! A spacemonauts adventure!
+ch-24	Residential
+ch-25	Sky Watcher And The Angel
+ch-26	The Old Dog’s Tricks
+ch-27	Spring Heeled
+ch-28	Spring Heeled Part 2
+ch-29	A Bad Start
+ch-30	The Coward Heart
+ch-31	Fire Spike
+ch-31a	Intermission: City Face 2
+ch-31b	Annie in the Forest, part 1
+ch-32	From the Forest She Came
+ch-33	Give and Take
+ch-34	Faraway Morning (and three short tales)
+ch-35	Parley and Smitty Are In This One
+ch-36	Red Gets a Name
+ch-37	Microsat 5
+ch-38	Divine
+ch-39	The Great Secret
+ch-40	The Stone
+ch-41	Changes
+ch-41a	Intermission: City Face guest comics
+ch-42	Catalyst
+ch-43	Quicksilver
+ch-44	Crash Course
+ch-45	Thread
 ; ---TAGS EOF ---
