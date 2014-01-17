@@ -6,6 +6,12 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+1302	ch-46	Annie	Kat	Mort	#It's like a department that deals with people who died but didn't get taken into the ether
+1301	ch-46	Annie	Kat	Mort	#I was allowed to stay because of _Special Circumstances!_
+1300	ch-46	Annie	GreenArrow	Kat	Parley	Smitty	#A forgotten prisoner from a forgotten time
+1299	ch-46	Annie	GreenArrow	Kat	Parley	Smitty	#But she didn't destroy my blinker stone when we used it before
+1298	ch-46	Annie	Jeanne	Kat	Parley	Robot	Smitty	#There she is
+1297	ch-46	Camera	Sword	#(camera -- blade -- camera halves)
 1296	ch-46	Cover	Bones	#Chapter 46:<br><br>**The Realm of the Dead**<br><br>_Icon: Skull face_
 1295	ch-45	AnimalLab	Bonus	Paz	WhiteMouse	#Bonus page: Squeak<br>I'm a mouse!<br>_Tom: They like to talk, but don't really have a lot to say_
 1294	ch-45	KatsWorkshop	Robot	Robots	#It was worth it<br>_Tom: Thanks for reading this chapter about girls being friends_
