@@ -272,7 +272,7 @@ PrincessMononoke	Animated movie by Hayao Miyazaki
 Psychopomps	Escort the dead to the afterlife/[Ether](#etherium) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Psychopomps)}_
 Queslett	[Annie](#annie) &amp; [Kat](#kat)’s school House _{[wiki](http://gunnerkrigg.wikia.com/wiki/Queslett)}_
 Rain	[water](#water), falling from the sky
-RealmOfTheDead	In charge of dead people and ghosts. They also like to be known as RotD. [Mort](#mort) was sent on a special mission by them.
+ROTD	In charge of dead people and ghosts. They also like to be known as RotD. [Mort](#mort) was sent on a special mission by them.
 Red	A crazy and abrasive fairy _{[wiki](http://gunnerkrigg.wikia.com/wiki/Red)}_
 Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Reynardine)}_
 ReyComic	A comic page authored by [Reynardine](#rey)
@@ -346,7 +346,7 @@ Tiki	A Polynesian totem
 TimeStop	When time is stopped from passing; [Coyote](#coyote) can do this.
 Tom	Tom Siddell, author of Gunnerkrigg Court
 Tombstone	The marker for a grave.
-TomatoWangFae	likes to wang tomatoes. friends with BlushFae
+TomatoWangFae	likes to wang tomatoes. Friends with BlushFae
 Tony	Anthony Carver, [Annie](#annie)’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of [Ogee](#ogee).
 Tower	A tower in the Court where [Aly](#aly) stays, while transitioning
