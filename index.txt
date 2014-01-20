@@ -6,6 +6,7 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+1304	ch-46	Annie	Bats	Bones	Cobwebs	JackOLantern	Kat	Mort	RealmOfTheDead	Skeleton	Spiders	Tombstone	#Oh, Mort, it's incredible!
 1303	ch-46 Annie	Court	Kat	Mort	RealmOfTheDead	#You can use any door as long as you know the password
 1302	ch-46	Annie	Court	Kat	Mort	RealmOfTheDead	#It's like a department that deals with people who died but didn't get taken into the ether
 1301	ch-46	Annie	Court	Kat	Mort	RealmOfTheDead	#I was allowed to stay because of _Special Circumstances!_
