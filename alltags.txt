@@ -35,6 +35,7 @@ Axe	Often used to chop wood
 BadgerFae	‘him too’ – white hair, two black stripes, former badger
 BakingDistraction	Otherwise known as [Plan Theta](#plantheta); Cunningly devised to distract others while sneaking around
 Basil	Minotaur _{[wiki](http://gunnerkrigg.wikia.com/wiki/Basil)}_
+Bats	The animal kind.
 Beacon	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated, much like [Brinnie](#brinnie)'s teleport _{[wiki](http://gunnerkrigg.wikia.com/wiki/Safety_beacon)}_
 BeckyGround	A student _{[wiki](http://gunnerkrigg.wikia.com/wiki/Becky_Ground)}_
 Bind	[Etheric](#etherics) binding, hold or constraint hoodoo
@@ -53,7 +54,7 @@ Boat	A vehicle for crossing [water](#water)
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of [Young’s Park](#youngspark) with his wife, [Marcia](#marcia) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bob)}_
 Bobby	A [robot](#robots) who works with [Paz](#paz) at the [Animal Lab]{#animallab} _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bobby)}_
 Bobeyes	A Magpie who competes with [CityFace](#cityface) for a bagel! _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bobeyes)}_
-Bones	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death
+Bones	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death; includes skulls
 Bonus	Extra pages at the end of the chapter _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bonus_pages)}_
 Boots	Made for walking
 Boxbot	[A robot](#robots). [Terrible](#terrible) (<i>q.v.</i>). Not as good as [Robox](#robox) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Boxbot)}_
@@ -180,6 +181,7 @@ Horsebot	H model [Robot](#robots) in a horse frame, as motive power for carriage
 Hospital	The hospital/infirmary within the court
 Hyland	[Jack](#jack)’s father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). _{[wiki](http://gunnerkrigg.wikia.com/wiki/Hyland)}_
 Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)}_
+JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
 Jan	January, curt friend of [Parley](#parley) _{[wiki](http://gunnerkrigg.wikia.com/wiki/January)}_
 Janet	Janet Llanwellyn; Fierce daughter of the [Headmaster](#headmaster); dating [Winsbury](#winsbury) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Janet_Llanwellyn)}_
 Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a fencer belonging to the court. _"She died and we did nothing"_ _{[wiki](http://gunnerkrigg.wikia.com/wiki/Jeanne)}_
@@ -270,7 +272,7 @@ PrincessMononoke	Animated movie by Hayao Miyazaki
 Psychopomps	Escort the dead to the afterlife/[Ether](#etherium) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Psychopomps)}_
 Queslett	[Annie](#annie) &amp; [Kat](#kat)’s school House _{[wiki](http://gunnerkrigg.wikia.com/wiki/Queslett)}_
 Rain	[water](#water), falling from the sky
-RealmOfTheDead	In charge of dead people and ghosts. They also like to be known as "RotD". [Mort](#mort) was sent on a special mission by them.
+RealmOfTheDead	In charge of dead people and ghosts. They also like to be known as RotD. [Mort](#mort) was sent on a special mission by them.
 Red	A crazy and abrasive fairy _{[wiki](http://gunnerkrigg.wikia.com/wiki/Red)}_
 Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Reynardine)}_
 ReyComic	A comic page authored by [Reynardine](#rey)
@@ -305,6 +307,7 @@ SimRocket	A rocket/spaceship in [Dr. Disaster](#drdisaster)’s [simulation](#si
 Simulation	One of [Dr. Disaster](#drdisaster)’s holographic adventures
 SirYoung	Protector of the Court at its [founding](#founding); has a park dedicated to him, associated with [Nevihta](#nevihta), also see [Bullbot](#bullbot) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Sir_Young)}_
 Sivo	A [Rogat Orjak](#rogatorjak) who was close friends with [Eglamore](#eglamore) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Sivo)}_
+Skeleton	The bones of a once living thing, or the representation thereof
 SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises death; associated with pirates
 Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data _{[wiki](http://gunnerkrigg.wikia.com/wiki/Sky_Watcher)}_
@@ -342,6 +345,7 @@ TicToc	Birdlike robotic watchers: the "Thousand Eyes"; [Zimmy](#zimmy) can feel 
 Tiki	A Polynesian totem
 TimeStop	When time is stopped from passing; [Coyote](#coyote) can do this.
 Tom	Tom Siddell, author of Gunnerkrigg Court
+Tombstone	The marker for a grave.
 TomatoWangFae	likes to wang tomatoes. friends with BlushFae
 Tony	Anthony Carver, [Annie](#annie)’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of [Ogee](#ogee).
