@@ -6,8 +6,9 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
-1304	ch-46	Annie	Bats	Bones	Cobwebs	JackOLantern	Kat	Mort	ROTD	Skeleton	Spiders	Tombstone	#Oh, Mort, it's incredible!
-1303	ch-46 Annie	Kat	Mort	ROTD	#You can use any door as long as you know the password
+1305	ch-46	Annie	AntimonySymbol	Bats	Cobwebs	CourtSymbol	CreatorGlyph	DeathsHead	FireSpike	ForestSymbol	Kat	Mort	JackOLantern	ROTD	Spiders	Tombstone	#Oh, Uh... Mort and... two guests?
+1304	ch-46	Annie	Bats	DeathsHead	Bones	Cobwebs	JackOLantern	Kat	Mort	ROTD	Skeleton	Spiders	Tombstone	#Oh, Mort, it's incredible!
+1303	ch-46	Annie	Kat	Mort	ROTD	#You can use any door as long as you know the password
 1302	ch-46	Annie	Kat	Mort	#It's like a department that deals with people who died but didn't get taken into the ether
 1301	ch-46	Annie	Kat	Mort	ROTD	#I was allowed to stay because of _Special Circumstances!_
 1300	ch-46	Annie	GreenArrow	Kat	Parley	Smitty	#A forgotten prisoner from a forgotten time
@@ -93,11 +94,11 @@
 1220	ch-43	AntimonySymbol	Hetty	LighterFuel	Matches	Rey	#Pins are always useful! / Matches are of course essential
 1219	ch-43	Hetty	HettySymbol	Rey	#And then, when I have had my fun...
 1218	ch-43	Hetty	Rey	#Oh! You should kill her!
-1217	ch-43	GraveYard	Hetty	HettySymbol	MercurySymbol	Rey	#A mere slave
-1216	ch-43	AntimonySymbol	GraveYard	Hetty	Rey	#How long are you going to feel sorry for yourself over this man?
+1217	ch-43	GraveYard	Hetty	HettySymbol	MercurySymbol	Rey	Tombstone	#A mere slave
+1216	ch-43	AntimonySymbol	GraveYard	Hetty	Rey	Tombstone	#How long are you going to feel sorry for yourself over this man?
 1215	ch-43	Anja	Court	DanielRSchiff	Donny	Eglamore	Etherics	EyeCrossed	Flashback	Hetty	Rey	Sivo	Surma	#Danny? / No, it's me... Reynardine! / SIGH.
 1214	ch-43	AntimonySymbol	Coyote	DanielRSchiff	Flashback	Gillitie	Sky	Stars	#but if I take his body... he could die!
-1213	ch-43	AntimonySymbol	Court	GraveYard	DanielRSchiff	Hetty	Rey	#(A field of the dead. Hetty the doll watches white wolf Reynard contemplate Daniel R Schiff's headstone)
+1213	ch-43	AntimonySymbol	Court	GraveYard	DanielRSchiff	Hetty	Rey	Tombstone	#(A field of the dead. Hetty the doll watches white wolf Reynard contemplate Daniel R Schiff's headstone)
 1212	ch-43	Adam	Court	Hetty	Rey	#So you persist in tormenting him?
 1211	ch-43	Adam	AntimonySymbol	Court	GlassFiber	Hetty	Rey	#Up to more acts of unspeakable evil today, Hetty? _(Adam 1st reference)_
 1210	ch-43	AntimonySymbol	Court	Hetty	Rey	#Oh Reynardine!<br>_Tom: Renard Renard Renard Hetty_
