@@ -6,6 +6,7 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+1306	ch-46	Annie	Bats	DeathsHead	Kat	ROTD	#Here. Touch the bat for verification
 1305	ch-46	Annie	AntimonySymbol	Bats	Cobwebs	CourtSymbol	CreatorGlyph	DeathsHead	FireSpike	ForestSymbol	Kat	Mort	JackOLantern	ROTD	Spiders	Tombstone	#Oh, Uh... Mort and... two guests?
 1304	ch-46	Annie	Bats	DeathsHead	Bones	Cobwebs	JackOLantern	Kat	Mort	ROTD	Skeleton	Spiders	Tombstone	#Oh, Mort, it's incredible!
 1303	ch-46	Annie	Kat	Mort	ROTD	#You can use any door as long as you know the password
