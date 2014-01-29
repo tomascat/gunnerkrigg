@@ -6,6 +6,8 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+1308	ch-46	Annie	Bats	Kat	Librarian	Mort	Zombie	#_This_ is the library?<br>_Tom: The ROTD is pretty proud of its library_
+1307	ch-46	Annie	Bats	Cells	Kat	Moon	Mort	JackOLantern	ROTD	Spider	Tombstone	Zombie	#I think they have a library around here somewhere<br>_Tom: This labyrinth of madness_
 1306	ch-46	Annie	Bats	DeathsHead	Kat	ROTD	#Here. Touch the bat for verification
 1305	ch-46	Annie	AntimonySymbol	Bats	Cobwebs	CourtSymbol	CreatorGlyph	DeathsHead	FireSpike	ForestSymbol	Kat	Mort	JackOLantern	ROTD	Spiders	Tombstone	#Oh, Uh... Mort and... two guests?
 1304	ch-46	Annie	Bats	DeathsHead	Bones	Cobwebs	JackOLantern	Kat	Mort	ROTD	Skeleton	Spiders	Tombstone	#Oh, Mort, it's incredible!
@@ -470,8 +472,8 @@
 845	ch-32	AntimonySymbol	Dorm	Rey	SubDorm	#(Reynardine is waiting, looking outside, sadly, in the Submarine dorm)
 844	ch-32	Cover	Flowers	#Chapter 32:<br><br>**From the Forest She Came**<br><br>_Icon: SubDorm_
 ;
-fake32	ch-31b	Annie	Gillitie	Irial	JumpersPool	Kamlen	#Page [30](http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=30) Annie, this here is my love, Irial
-fake31	ch-31b	Annie	Gillitie	JumpersPool	Kamlen	#Page [30](http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=30) Annie!
+fake32	ch-31b	Annie	Gillitie	Irial	JumpersPool	Kamlen	#Page [32](http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=32) Annie, this here is my love, Irial
+fake31	ch-31b	Annie	Gillitie	JumpersPool	Kamlen	#Page [31](http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=31) Annie!
 fake30	ch-31b	Annie	Blush	Gillitie	Kamlen	Ysengrin	#Page [30](http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=30) Is there nothing here you like?
 fake29	ch-31b	Annie	Gillitie	Ysengrin	#Page [29](http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=29) You will have to deal with your own problems
 fake28	ch-31b	Annie	Gillitie	Ysengrin	#Page [28](http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=28) Are you adjusting to life here?
