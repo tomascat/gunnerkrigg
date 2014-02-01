@@ -6,6 +6,7 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+1309	ch-46	Annie	Kat	Librarian	Mort	Tombstone	Spider	#We're trying to find out stuff about a ghost called Jeanne
 1308	ch-46	Annie	Bats	Kat	Librarian	Mort	Zombie	#_This_ is the library?<br>_Tom: The ROTD is pretty proud of its library_
 1307	ch-46	Annie	Bats	Cells	Kat	Moon	Mort	JackOLantern	ROTD	Spider	Tombstone	Zombie	#I think they have a library around here somewhere<br>_Tom: This labyrinth of madness_
 1306	ch-46	Annie	Bats	DeathsHead	Kat	ROTD	#Here. Touch the bat for verification
