@@ -52,15 +52,15 @@ Blush	Happy/embarrassed/emotional
 BlushFae	‘her too’ – dark pink hair, two rosy cheeks (likes to "wang tomatoes?") _{[wiki](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)}_
 Boat	A vehicle for crossing [water](#water)
 Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of [Young’s Park](#youngspark) with his wife, [Marcia](#marcia) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bob)}_
-Bobby	A [robot](#robots) who works with [Paz](#paz) at the [Animal Lab]{#animallab} _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bobby)}_
+Bobby	A [robot](#robots) who works with [Paz](#paz) at the [Animal Lab](#animallab) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bobby)}_
 Bobeyes	A Magpie who competes with [CityFace](#cityface) for a bagel! _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bobeyes)}_
 Bones	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death; includes skulls
 Bonus	Extra pages at the end of the chapter _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bonus_pages)}_
 Boots	Made for walking
-Boxbot	[A robot](#robots). [Terrible](#terrible) (<i>q.v.</i>). Not as good as [Robox](#robox) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Boxbot)}_
+Boxbot	[A robot](#robots). [Terrible](#terrible). Not as good as [Robox](#robox) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Boxbot)}_
 Bridge	The Annan Bridge leads from Gunnerkrigg Court across the [Annan Water](#annan) to [Gillitie Wood](#gillitie) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Annan_Bridge)}_
 Brinnie	Sultry childhood friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) _&amp; co._ Probably Brynhildr, the Valkyrie _{[wiki](http://gunnerkrigg.wikia.com/wiki/Brinnie)}_
-Bud	Husband of [Lindsey](#lindsey), boys’ [dorm](#subdorm) monitor _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bud)}_
+Bud	Husband of [Lindsey](#lindsey); boys’ [dorm](#subdorm) monitor _{[wiki](http://gunnerkrigg.wikia.com/wiki/Bud)}_
 Bugsy	Teacher Lady, or Teach. [Foley](#foley) teacher, rather be sleeping
 Bullbot	A robot that represents [Sir Young](#siryoung) in the [Robot Tomb](#robottomb)
 Buzz	The buzzing in [Zimmy](#zimmy)'s head when the stimuli get too much
@@ -93,7 +93,7 @@ Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, 
 CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
 CurlyFae	‘this girl too’ -- short curly blue hair, red dot below right eye _{[wiki](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)}_
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[psychopomps](#psychopomps) of Wales; red ears
-DanielRSchiff	[Rey](#rey)'s victim _{[wiki](http://gunnerkrigg.wikia.com/wiki/Daniel_R_Schiff)}_
+DanielRSchiff	[Rey](#rey)’s victim _{[wiki](http://gunnerkrigg.wikia.com/wiki/Daniel_R_Schiff)}_
 DeathsHead	admissions clerk to the [Realm of the Dead](#rotd), a 2 dimensional skull
 Desert	No rain in here. Where [Coyotes](#coyote) live, sometimes
 Diego	creepy robotics expert of the Court's early days; creator of the original [robot](#robots) (but not the TicTocs); and referred to as "creator" by them. Implicated in the [Jeanne](#jeanne) affair _{[wiki](http://gunnerkrigg.wikia.com/wiki/Diego)}_
@@ -130,6 +130,7 @@ Fairies	[Gillitie](#gillitie) Wood is full of them _{[wiki](http://gunnerkrigg.w
 FencingHall	Where [sword](#sword)-fighting, fencing, sparring are taught
 Fight	When two people have a disagreement, violently
 Filler	Not a mainstream story comic
+FinalRecords	A part of the [Realm of the Dead](#ROTD)
 Fire	An ancient element; may cause [smoke](#smoke) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Fire)}_
 FireElemental	A personification of [fire](#fire), represented with a [FireSpike](#firespike) on their head
 FireHose	A hose to put out a [fire](#fire)
@@ -206,7 +207,8 @@ Khepi	Head of an [Anwyn](#anwyn) family _{[wiki](http://gunnerkrigg.wikia.com/wi
 Kiss	Smooshing, pashing, making out, a peck on the cheek, first base, kissing
 Knight	A traditional warrior and military leader who is part of the landed gentry class; often trained in swordsmanship; a chess piece; _e.g._ [Eglamore](#eglamore) and [Sir Young](#siryoung).
 Labyrinth	Not quite a maze. Home to [Basil the Minotaur](#basil)
-Lake	A large, still body of [water](#water); where the [power station](#powerstation) is.
+Lake	A large, still body of [water](#water); where the [power station](#powerstation) is
+Lamet	a former [psychopomp](#psychopomps)
 Landscape	A view of a wide expanse of land
 LaserCow	A [robotic](#robots) cow that mows the lawns with its laser eyes. Also, awesome. All go by the name Elsie _{[wiki](http://gunnerkrigg.wikia.com/wiki/Laser_Cows)}_
 Lasers	Zap! Awesome!
@@ -215,6 +217,7 @@ LaundryList	A seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as [Eglamore](#eglamore) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Lead_(alchemy))}_
 LeanDog	A black dog/[psychopomp](#psychopomps) for Tring, Hertfordshire; red eyes.
 Letter	A written communication
+Librarian	guardian of the library of the [Realm of the Dead](#ROTD)
 Library	full of shelves of books for reference. Also includes [robot](#robots) parts
 LighterFuel	notoriously flammable; accelerant
 Lightning	Clouds and electricity... ZZZAAAPP!
@@ -290,6 +293,7 @@ RobotTomb	Tomb/theatre full of [robot](#robots) _{[wiki](http://gunnerkrigg.wiki
 Robox	Has no hands; awesome; everybody loves Robox. The opposite of [terrible](#terrible) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Robox)}_
 Rocket	A cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents.
 RogatOrjak	Dragon-like giant _{[wiki](http://gunnerkrigg.wikia.com/wiki/Rogat_Orjak)}_
+Rolodex	the scryer, for incantations pertaining to names
 Roof	The top of the court
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robot) _{[wiki](http://gunnerkrigg.wikia.com/wiki/S1)}_
 Salon	Court hair salon, staffed by the HairdresserBot
@@ -318,6 +322,8 @@ Smoke	Where it is, there is often [fire](#fire)
 Spankies	From [Annie](#annie) for when [Coyote](#coyote) is a Bad Dog!
 Sparring	A mock or training fight; usually for learning or practising martial arts or swordfighting
 Speakeasy	A hotel-like place that the students sneak out to with a “speakeasy-like atmosphere”
+SpecialCases	A part of the [Realm of the Dead](#ROTD)
+SpecialCircumstances	"beyond those metaphysical event-horizons, there exist ... special circumstances"
 Spiders	Often white and [etheric](#etherics), also often real.
 StarHeadband	A headband with stars on antennae that [Annie](#annie) uses to pretend she is a [robot](#robots)
 Stars	Celestial bodies
@@ -364,6 +370,7 @@ Uniform	An outfit one wears when on official business
 Valknut	A Norse triangular knot symbol, indicates a form of teleport/gateway such as that used by [Brinnie](#brinnie) or the [beacon](#beacon) that [Eglamore](#eglamore) gave to [Annie](#annie)
 Veles	Ancient Slav snake-like god who guards the underworld; [psychopomp](#psychopomps)
 VenusSymbol	A symbol for Venus/Aphrodite; also the symbol of females/femininity
+VHStape	also: the Vault of Memory
 VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 VincentPrice	A famous actor
 WanderingEye	Symbol of that which calls itself [Jones](#jones), currently

@@ -6,18 +6,21 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
-1312	ch-46	Annie	Kat	Librarian	Mort	#Well, at least they have a book now
-1311	ch-46	Annie	Kat	Librarian	Mort	#Y'know ... final records is restricted...
-1310	ch-46	Annie	Kat	Librarian	Mort	#You won't find anything here. You need **Final Records**
-1309	ch-46	Annie	Kat	Librarian	Mort	Tombstone	Spider	#We're trying to find out stuff about a ghost called Jeanne
-1308	ch-46	Annie	Bats	Kat	Librarian	Mort	Zombie	#_This_ is the library?<br>_Tom: The ROTD is pretty proud of its library_
-1307	ch-46	Annie	Bats	Cells	Kat	Moon	Mort	JackOLantern	ROTD	Spider	Tombstone	Zombie	#I think they have a library around here somewhere<br>_Tom: This labyrinth of madness_
+1315	ch-46	Annie	Kat	Librarian	Lamet	Mort	Psychopomps	VHStape	VideoPlayer	#Lamet? Jeanne killed a psychopomp?!
+1314	ch-46	Annie	Kat	Librarian	Mort	VHStape	VideoPlayer	#Okay... so how do we **summon** the memories?
+1313	ch-46	Annie	FinalRecords	Kat	Librarian	Mort	Rolodex	VHStape#These are the final recorded moments of those being taken into the ether
+1312	ch-46	Annie	FinalRecords	Kat	Librarian	Mort	#Well, at least they have a book now
+1311	ch-46	Annie	Cobwebs	Kat	Librarian	Mort	#Y'know ... final records is restricted...
+1310	ch-46	Annie	Cobwebs	Kat	Librarian	Mort	Rolodex	SpecialCases	#You won't find anything here. You need **Final Records**
+1309	ch-46	Annie	Cobwebs	Kat	Librarian	Mort	Tombstone	#We're trying to find out stuff about a ghost called Jeanne
+1308	ch-46	Annie	Bats	Kat	Librarian	Mort	Rolodex	Zombie	#_This_ is the library?<br>_Tom: The ROTD is pretty proud of its library_
+1307	ch-46	Annie	Bats	Cells	Cobwebs	Kat	Moon	Mort	JackOLantern	ROTD	Spider	Tombstone	Zombie	#I think they have a library around here somewhere<br>_Tom: This labyrinth of madness_
 1306	ch-46	Annie	Bats	DeathsHead	Kat	ROTD	#Here. Touch the bat for verification
 1305	ch-46	Annie	AntimonySymbol	Bats	Cobwebs	CourtSymbol	CreatorGlyph	DeathsHead	FireSpike	ForestSymbol	Kat	Mort	JackOLantern	ROTD	Spiders	Tombstone	#Oh, Uh... Mort and... two guests?
-1304	ch-46	Annie	Bats	DeathsHead	Bones	Cobwebs	JackOLantern	Kat	Mort	ROTD	Skeleton	Spiders	Tombstone	#Oh, Mort, it's incredible!
+1304	ch-46	Annie	Bats	Bones	Cobwebs	DeathsHead	JackOLantern	Kat	Mort	ROTD	Skeleton	Spiders	Tombstone	#Oh, Mort, it's incredible!
 1303	ch-46	Annie	Kat	Mort	ROTD	#You can use any door as long as you know the password
 1302	ch-46	Annie	Kat	Mort	#It's like a department that deals with people who died but didn't get taken into the ether
-1301	ch-46	Annie	Kat	Mort	ROTD	#I was allowed to stay because of _Special Circumstances!_
+1301	ch-46	Annie	Kat	Mort	ROTD	SpecialCircumstances	#I was allowed to stay because of _Special Circumstances!_
 1300	ch-46	Annie	GreenArrow	Kat	Parley	Smitty	#A forgotten prisoner from a forgotten time
 1299	ch-46	Annie	GreenArrow	Kat	Parley	Smitty	#But she didn't destroy my blinker stone when we used it before
 1298	ch-46	Annie	Jeanne	Kat	Parley	Robot	Smitty	#There she is
