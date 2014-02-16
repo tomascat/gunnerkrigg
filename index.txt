@@ -7,17 +7,17 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
 1315	ch-46	Annie	Kat	Librarian	Lamet	Mort	Psychopomps	VHStape	VideoPlayer	#Lamet? Jeanne killed a psychopomp?!
-1314	ch-46	Annie	Kat	Librarian	Mort	VHStape	VideoPlayer	#Okay... so how do we **summon** the memories?
-1313	ch-46	Annie	FinalRecords	Kat	Librarian	Mort	Rolodex	VHStape#These are the final recorded moments of those being taken into the ether
+1314	ch-46	Annie	Kat	Librarian	Mort	VHStape	VideoPlayer	#Okay... so how do we _summon_ the memories?
+1313	ch-46	Annie	FinalRecords	Kat	Librarian	Mort	Rolodex	VHStape	#These are the final recorded moments of those being taken into the ether
 1312	ch-46	Annie	FinalRecords	Kat	Librarian	Mort	#Well, at least they have a book now
 1311	ch-46	Annie	Cobwebs	Kat	Librarian	Mort	#Y'know ... final records is restricted...
-1310	ch-46	Annie	Cobwebs	Kat	Librarian	Mort	Rolodex	SpecialCases	#You won't find anything here. You need **Final Records**
+1310	ch-46	Annie	Cobwebs	Kat	Librarian	Mort	Rolodex	SpecialCases	#You won't find anything here. You need _Final Records_
 1309	ch-46	Annie	Cobwebs	Kat	Librarian	Mort	Tombstone	#We're trying to find out stuff about a ghost called Jeanne
 1308	ch-46	Annie	Bats	Kat	Librarian	Mort	Rolodex	Zombie	#_This_ is the library?<br>_Tom: The ROTD is pretty proud of its library_
 1307	ch-46	Annie	Bats	Cells	Cobwebs	Kat	Moon	Mort	JackOLantern	ROTD	Spider	Tombstone	Zombie	#I think they have a library around here somewhere<br>_Tom: This labyrinth of madness_
 1306	ch-46	Annie	Bats	DeathsHead	Kat	ROTD	#Here. Touch the bat for verification
-1305	ch-46	Annie	AntimonySymbol	Bats	Cobwebs	CourtSymbol	CreatorGlyph	DeathsHead	FireSpike	ForestSymbol	Kat	Mort	JackOLantern	ROTD	Spiders	Tombstone	#Oh, Uh... Mort and... two guests?
-1304	ch-46	Annie	Bats	Bones	Cobwebs	DeathsHead	JackOLantern	Kat	Mort	ROTD	Skeleton	Spiders	Tombstone	#Oh, Mort, it's incredible!
+1305	ch-46	Annie	AntimonySymbol	Bats	Cobwebs	CourtSymbol	CreatorGlyph	DeathsHead	FireSpike	ForestSymbol	Kat	Mort	JackOLantern	ROTD	Spider	Tombstone	#Oh, Uh... Mort and... two guests?
+1304	ch-46	Annie	Bats	Bones	Cobwebs	DeathsHead	JackOLantern	Kat	Mort	ROTD	Skeleton	Spider	Tombstone	#Oh, Mort, it's incredible!
 1303	ch-46	Annie	Kat	Mort	ROTD	#You can use any door as long as you know the password
 1302	ch-46	Annie	Kat	Mort	#It's like a department that deals with people who died but didn't get taken into the ether
 1301	ch-46	Annie	Kat	Mort	ROTD	SpecialCircumstances	#I was allowed to stay because of _Special Circumstances!_
@@ -171,7 +171,7 @@
 1153	ch-41	Anja	Annie	BismuthSymbol	Blush	CourtHall	Coyote	Donny	Eglamore	Headmaster	Jones	Smitty	SunSymbol	Tears	Ysengrin	#MURMRMR
 1152	ch-41	Annie	CourtHall	Headmaster	Parley	Rey	Smitty	#Andrew Smith the court has decided you shall be the next medium
 1151	ch-41	Annie	CourtHall	Coyote	Headmaster	Parley	Smitty	SunSymbol	Ysengrin	#We do so love visiting your rabbit warren!
-1150	ch-41	Annie	BismuthSymbol	CourtHall	Coyote	Eglamore	Jones	Teachers	Ysengrin	#Nod
+1150	ch-41	Annie	BismuthSymbol	CourtHall	Coyote	Eglamore	Jones	Ysengrin	#Nod
 1149	ch-41	Anja	Bip	BismuthSymbol	Blush	Annie	CourtHall	Donny	Parley	Rey	Smitty	SunSymbol	#Did we miss anything?
 1148	ch-41	Annie	BismuthSymbol	CourtHall	Rey	#I think we made it…
 1147	ch-41	Annie	BlinkerStone	Kat	KatsWorkshop	Rey	Robots	Seraph	#Who _are_ you guys?!
@@ -283,10 +283,10 @@
 1041	ch-38	Annie	Bones	CityFace	Etherium	Fire	FireElemental	Hospital	Kat	Mask	Zimmy	#No wonder you’re like this, Carver
 1040	ch-38	Annie	Bones	Etherium	Fire	FireElemental	FireSpike	Mask	#Pretty hot in here
 1039	ch-38	Annie	CherryTree	Etherium	Fight	Kat	Mask	Zimmy	#You got no fight in you, Carver
-1038	ch-38	Annie	CherryTree	CityFace	Homework	Kat	Mask	Spiders	Zimmy	#Well. Things seem okay up here.
+1038	ch-38	Annie	CherryTree	CityFace	Homework	Kat	Mask	Spider	Zimmy	#Well. Things seem okay up here.
 1037	ch-38	Annie	CherryTree	CityFace	Gillitie	Kat	Mask	Tears	Zimmy	#Don’t tell me you are looking into her dreams…
 1036	ch-38	Annie	AntimonySymbol	Anwyn	CityFace	Gillitie	Hospital	Kamlen	Kat	Jones	Mask	Rey	Robot	Shadow	Zimmy	#Woah! Haha! Did she get a green boyfriend or sumthin’?
-1035	ch-38	Annie	Bind	CoyoteTooth	Gillitie	Kamlen	Spiders	Zimmy	#Oh yeah, she went into the forest, huh?
+1035	ch-38	Annie	Bind	CoyoteTooth	Gillitie	Kamlen	Spider	Zimmy	#Oh yeah, she went into the forest, huh?
 1034	ch-38	Annie	CityFace	Etherium	Gillitie	Hospital	FlowerHeadband	Kat	Zimmy	#
 1033	ch-38	Annie	Blush	CityFace	Gamma	Hospital	FlowerHeadband	Kat	Rey	Zimmy	#You… You can help?
 1032	ch-38	Annie	CityFace	Gamma	Hospital	FlowerHeadband	Kat	Rey	Robot	Shadow	Zimmy	#D-Did Paz say something?!
@@ -393,7 +393,7 @@
 931	ch-34	Annie	Jack	Roof	Speakeasy	#this wasn’t some “flash of anger” thing
 930	ch-34	Annie	Jack	Roof	Speakeasy	#man, talk about baggage!
 929	ch-34	Annie	Jack	Roof	Speakeasy	#You’ve got some strange ideas about revenge, Carver
-928	ch-34	Annie	Jack	Roof	Speakeasy	Spiders	Zimmy	#I- I’m fairly certain she and Gamma are… an item.
+928	ch-34	Annie	Jack	Roof	Speakeasy	Spider	Zimmy	#I- I’m fairly certain she and Gamma are… an item.
 927	ch-34	Annie	Jack	Roof	Speakeasy	Zimmy	#I’m in love with Zimmy!
 926	ch-34	Annie	Jack	Roof	Speakeasy	#Jack… I don’t think I like you very much
 925	ch-34	Annie	Bud	Jack	Roof	Speakeasy	#no, bud can still see us
@@ -523,7 +523,7 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 835	ch-31a	Filler	Bobeyes	CityFace	#OGEE! That was Mine! You! What! Why?! OGEE!
 834	ch-31a	Filler	Bobeyes	CityFace	#Oh no angry magpie!
 833	ch-31a	Cover	Filler	Tea	#Intermission:<br><br>**City Face 2**<br><br>_Tea announcing a ten page short story_
-832	Bonus	Treatise	Annie	Coyote	Kat	Robot	Birds	Spiders	WhiteSpider	Rey	Ysengrin	Robots	Jeanne	Sword	AntimonySymbol	MercurySymbol	BismuthSymbol	SunSymbol	GreenArrow	Sun	Moon	Sword	CreatorGlyph	Heart	#Bonus Page: Fourth Treatise, end of the third book
+832	Bonus	Treatise	Annie	Coyote	Kat	Robot	Birds	Spider	WhiteSpider	Rey	Ysengrin	Robots	Jeanne	Sword	AntimonySymbol	MercurySymbol	BismuthSymbol	SunSymbol	GreenArrow	Sun	Moon	Sword	CreatorGlyph	Heart	#Bonus Page: Fourth Treatise, end of the third book
 831	ch-31	Annie	Gillitie	Ysengrin	#(Annie enters the clearing with the forest people)
 830	ch-31	Annie	Gillitie	Ysengrin	#Show them that you are not afraid
 829	ch-31	Annie	Gillitie	Ysengrin	#You are stronger than you were this morning
@@ -620,11 +620,11 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 738	ch-28	Annie	Eyes	Gamma	Jack	Lake	Zimmy	#Tell him... I'm sorry. For not helpin' him sooner.
 737	ch-28	Eyes	Jack	Lake	PowerStation	Rain	WhiteSpider	Zimmy	#Splat
 736	ch-28	Annie	Buzz	Eyes	Gamma	Jack	Lake	Rain	PowerStation	Rain	WhiteSpider	Zimmy	#(Rain washes Zimmingham away, revealing Zimmy and Annie...)
-735	ch-28	Annie	Buzz	Eyes	Gamma	Jack	Rain	Spiders	WhiteSpider	Zimmingham	Zimmy	#She's mine! She's my friend!
-734	ch-28	Annie	Buzz	Gamma	Jack	Spiders	WhiteSpider	Zimmingham	Zimmy	#You're the last one we need!
-733	ch-28	Annie	Buzz	Gamma	Jack	Spiders	WhiteSpider	Zimmingham	Zimmy	#I don't want to go in there! It's the spider's nest!
-732	ch-28	Annie	Buzz	Gamma	Jack	Spiders	WhiteSpider	Zimmingham	Zimmy	#Oh no... We're all inside one of Zimmy's illusions!
-731	ch-28	Annie	Buzz	Gamma	Jack	Spiders	WhiteSpider	Zimmingham	Zimmy	#Why go back now?
+735	ch-28	Annie	Buzz	Eyes	Gamma	Jack	Rain	Spider	WhiteSpider	Zimmingham	Zimmy	#She's mine! She's my friend!
+734	ch-28	Annie	Buzz	Gamma	Jack	Spider	WhiteSpider	Zimmingham	Zimmy	#You're the last one we need!
+733	ch-28	Annie	Buzz	Gamma	Jack	Spider	WhiteSpider	Zimmingham	Zimmy	#I don't want to go in there! It's the spider's nest!
+732	ch-28	Annie	Buzz	Gamma	Jack	Spider	WhiteSpider	Zimmingham	Zimmy	#Oh no... We're all inside one of Zimmy's illusions!
+731	ch-28	Annie	Buzz	Gamma	Jack	Spider	WhiteSpider	Zimmingham	Zimmy	#Why go back now?
 730	ch-28	Annie	Buzz	Gamma	Jack	Zimmingham	Zimmy	#He's not a real person. Just a memory of someone.
 729	ch-28	Annie	Buzz	Gamma	Zimmingham	Zimmy	#I do it because I love you Zimmy
 728	ch-28	Annie	Gamma	Jack	Zimmingham	Zimmy	#No, Gamma, it's me, A-Annie
@@ -653,7 +653,7 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 705	ch-27	Annie	Jack	PowerStation	Rey	SecurityDevice	#Anyone comes this way, I'll know about it
 704	ch-27	Annie	Jack	PowerStation	Rey	Robots	SecurityRobots	#Oh, what did you do?! He's dead!
 703	ch-27	Annie	Boat	Jack	Lake	Moon	PowerStation	Rey	Robots	SecurityRobots	#(Annie, Jack and Rey arrive at the Power Station and come across a patrolling security robot)
-702	ch-27	Annie	AnnieCut	Boat	Etherics	Lake	Jack	PowerStation	Rey	Spiders	WhiteSpider	#Jeez, rowing is harder than I thought
+702	ch-27	Annie	AnnieCut	Boat	Etherics	Lake	Jack	PowerStation	Rey	Spider	WhiteSpider	#Jeez, rowing is harder than I thought
 701	ch-27	Annie	Boat	Court	Jack	Lake	PowerStation	Rey	#I know how to stay hidden!
 700	ch-27	Annie	Boat	Computer	Court	Jack	Lake	Paz	PowerStation	Rey	#They got basic stuff on the school network, information on all the students.
 699	ch-27	Annie	Boat	Computer	Court	Jack	Lake	PowerStation	Rey	Zimmy	#I read it on the computer
@@ -797,7 +797,7 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 561	ch-22a	Filler	CityFace	#And now I am feeling ultra bummed.
 560	ch-22a	Filler	CityFace	#I am trying my best to woo that female pigeon but she does not notice me!
 559	ch-22a	Cover	Filler	Tea	#Intermission:<br><br>**City Face**<br><br>_Tea announces a short story, from aboard the_ Mary Celeste
-558	Bonus	Treatise	Annie	Bridge	Court	Coyote	Etherics	Fire	Gillitie	Kat	Latin	MercurySymbol	Moon	Rey	Shadowman	Sun	Sword	Ysengrin	#Bonus Page:  Treatise Three. The end of the Second book.
+558	Bonus	Treatise	Abacus	Annie	Bridge	Court	Coyote	CreatorGlyph	Etherics	Fire	GearHead	Gillitie	Kat	Latin	MercurySymbol	Moon	Rey	Shadowman	Sun	Sword	VenusFigurine	Ysengrin	#Bonus Page:  Treatise Three. The end of the Second book.
 557	ch-22	Anja	TreeDog	Donny	Eglamore	Flashback	Monster	MrThorn	RogatOrjak	Surma	#You guys aren’t going to believe this… But that guy is our games teacher!
 556	ch-22	TreeDog	Eglamore	Flashback	Gillitie	Monster	MrThorn	Robots	RogatOrjak	Sword	#Don’t forget, double cross country tomorrow James
 555	ch-22	TreeDog	Eglamore	Flashback	Fight	LeadSymbol	Monster	MrThorn	Shadowmen	Sword	#(Eglamore): Hi guys!
@@ -824,10 +824,10 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 534	ch-21	Bonus	Dorm	NancyDrew	Rey	#Bonus Page:  Reynardine the Sheep (Rey gets angry before settling down with a Nancy Drew book)
 533	ch-21	Annie	Ghosts	Heart	Mort	#ooh, a card!
 532	ch-21	Ghosts	Mort	#WE ARE HERE TO DESTROY YOU!
-531	ch-21	Annie	Classroom	Kat	Muut	#now I ask a tiny favour of you
+531	ch-21	Annie	Classroom	Kat	Muut	Psychopomps	#now I ask a tiny favour of you
 530	ch-21	Annie	Classroom	Kat	Muut	Psychopomps	Surma	#The night Surma passed on, none of us came for her.
-529	ch-21	Annie	BlinkerStone	Classroom	Etherics	Etherium	FireSpike	Jeanne	Kat	Muut	#Lost, stranded in the aether, she needs a hand like yours to be an anchor
-528	ch-21	Annie	BlinkerStone	Classroom	Jeanne	Kat	Mort	Muut	#Then you have already begun to help. We knew you would. It was only a matter of time.
+529	ch-21	Annie	BlinkerStone	Classroom	Etherics	Etherium	FireSpike	Jeanne	Kat	Muut	Psychopomps	#Lost, stranded in the aether, she needs a hand like yours to be an anchor
+528	ch-21	Annie	BlinkerStone	Classroom	Jeanne	Kat	Mort	Muut	Psychopomps	#Then you have already begun to help. We knew you would. It was only a matter of time.
 527	ch-21	Annie	Classroom	Kat	Ketrak	Muut	Psychopomps	#You should not have wasted a life in such a way
 526	ch-21	Annie	Classroom	Kat	Ketrak	Psychopomps	#Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
 525	ch-21	Annie	Argument	BlinkerStone	Classroom	Kat	Latin	Mort	#_Tom: You screwed up big time Carver_
@@ -857,7 +857,7 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 501	ch-20	Annie	Kat	Moon	MoonPrint	Observatory	Telescope	#That… That can’t be right!
 500	ch-20	Annie	Dirty	Kat	Moon	MoonPrint	Observatory	Rey	Telescope	#Everything’s the same as it always is
 499	ch-20	Annie	Armour	Bridge	Eglamore	EglamoreKnife	Gillitie	Sword	Ysengrin	#(Ysengrin escorts Annie to Eglamore, who then escorts her out of the forest)
-498	ch-20	Annie	Coyote	Gillitie	GreatSecret	Star	Uniform	Ysengrin	#That is all for tonight, I think!
+498	ch-20	Annie	Coyote	Gillitie	GreatSecret	Stars	Uniform	Ysengrin	#That is all for tonight, I think!
 497	ch-20	Annie	Court	Coyote	CoyoteStories	Etherium	Gillitie	God	Moon	Stars	SunSymbol	Uniform	Ysengrin	#Why… It is man’s endevour to become God!
 496	ch-20	Annie	Coyote	CoyoteStories	Eyes	Gillitie	MercurySymbol	Rey	TreeBody	Uniform	WoodenArm	Ysengrin	#Ysengrin loves me very much
 495	ch-20	Annie	AntimonySymbol	Bridge	Coyote	CoyoteStories	DanielRSchiff	Etherics	Eyes	Gillitie	MercurySymbol	Moon	Rey	#We heard he was captured. Tricked!
@@ -965,7 +965,7 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 393	ch-17	Annie	Court	Jones	Mort	#It should only be a casual meeting anyway, and it will do you good to hear their side of the story.
 392	ch-17	Annie	Court	Jones	#When you want to go into the forest let me know.
 391	ch-17	Annie	Court	Jones	Mort	Parley	Smitty	#FAREWELL!! hahaha!
-390	ch-17	Annie	Court	Jones	Mort	Parley	Smitty	Spiders	#Well, I scare people. It's all very important, I assure you.
+390	ch-17	Annie	Court	Jones	Mort	Parley	Smitty	Spider	#Well, I scare people. It's all very important, I assure you.
 389	ch-17	Annie	Court	Jones	Mort	Parley	Smitty	#GREETINGS HUMAN PERSON!
 388	ch-17	Annie	Court	Jones	Mort	Parley	Smitty	#Wow, a ghost! Spectral Being! Do you mean us harm?! We wish to communicate with you!
 387	ch-17	Annie	Court	Coyote	Jones	Mort	Parley	Smitty	Ysengrin	#The truth is, both sides are as bad as each other.
@@ -1023,7 +1023,7 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 335	ch-16	Annie	GoodHope	Grounds	Kat	Moon	Muut	#You seemed like you wanted to get rid of him pretty quick.
 334	ch-16	Annie	Grounds	Kat	Ketrak	Psychopomps	#Yes, I also think it might be best if you left. Goodbye, Ketrak.
 333	ch-16	Annie	Grounds	Kat	Ketrak	Psychopomps	#Ketrak, the insect guide has paid me a visit.
-332	ch-16	Annie	Grounds	Ketrak	Spiders	#Hello again, Ketrak
+332	ch-16	Annie	Grounds	Ketrak	Spider	#Hello again, Ketrak
 331	ch-16	Cover	GoodHope	Moon	Stars	#Chapter 16:<br><br>**A Ghost Story**<br><br>_Icon: Annie and Kat on the Grounds_
 330	ch-15	BlushFae	Bonus	Classroom	TomatoWangFae	#Bonus Page:  The wonderful plan. (Blue's friends discuss the day's events)
 329	ch-15	Annie	BismuthSymbol	Blue	Kat	Red	SunSymbol	#So long, jerks!
@@ -1236,7 +1236,7 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 122	ch-08	Annie	Flashback	Glass	GoodHope	Water	#I dropped a glass.
 121	ch-08	Cover	Glass	Water	#Chapter 8:<br><br>**Broken Glass and Other Things**<br><br>_Icon: Glass, Water_
 120	Bonus	Treatise	Annie	Caduceus	FireSymbol	Kat	MercurySymbol	Moon	Orb	River	Hexagram	Stars	Sun	Trees	VII	WaterSymbol	#Bonus Page: Treatise One (_Ora lege relege labora et invenies_ = Pray, Read, Reread, Work and You Shall Find)
-119	ch-07	Annie	Bridge	Eglamore	TicToc	#SURMA! (Annie falls off the bridge)
+119	ch-07	Annie	Bridge	Eglamore	Surma	TicToc	#SURMA! (Annie falls off the bridge)
 118	ch-07	Annie	Bridge	Rey	Robot	Shadowman	Sword	WoodenArm	#(Robot pushes Annie, the sword flies into him, breaking his body and slicing the WoodenArm and the Shadowman)
 117	ch-07	Annie	Bridge	Eglamore	Rey	Robot	Shadowman	Sword	TicToc	WoodenArm	#Oh! So this is Reynardine? Well now, this makes things much easier!
 116	ch-07	Annie	Bridge	Eglamore	Rey	Robot	Sword	TicToc	WoodenArm	#Robot, you have a new arm?
@@ -1245,7 +1245,7 @@ fake0	ch-31b	Cover	Annie	Flowers	Gillitie	#Page [Cover](http://www.gunnerkrigg.c
 113	ch-07	Annie	Bridge	Court	Kat	Rey	#It must be robot. He may need my help.
 112	ch-07	AlchemyChart	Annie	BismuthSymbol	Bridge	Kat	Rey	Robot	ScienceLab	Shadowman	#Could he have come back?
 111	ch-07	AlchemyChart	Annie	BismuthSymbol	Blush	Bridge	Kat	Rey	ScienceLab	#Are you two going to kiss now?
-110	ch-07	AlchemyChart	Annie	BismuthSymbol	Kat	Rey	ScienceLab	VenusSymbol	#Kat, I’m sorry I caused a scene this morning.
+110	ch-07	AlchemyChart	Annie	BismuthSymbol	Kat	Rey	ScienceLab	Spider	VenusSymbol	#Kat, I’m sorry I caused a scene this morning.
 109	ch-07	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	#You still carry that thing, Jim?
 108	ch-07	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Kat	Rey	#Criminal or not, I won’t allow him to be subjected to that again.
 107	ch-07	Annie	Anja	Donny	DonlanHouse	Eglamore	EglamoreKnife	EtherSymbol	Etherics	EthericShield	EyeCrossed	Rey	#I can take anything with eyes, be they real or not.
