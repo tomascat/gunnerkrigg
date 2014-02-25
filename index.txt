@@ -6,6 +6,9 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+1318	ch-46	Annie	Kat	Librarian	Mort	Rolodex	SirYoung	Steadman	VHStape	VideoPlayer	#I wonder... if my mother is in here somewhere
+1317	ch-46	Annie	Kat	Librarian	Mort	Rolodex	SirYoung	Steadman	VHStape	VideoPlayer	#I really wish I hadn't tripped over that damned dog
+1316	ch-46	Annie	Kat	Librarian	Mort	Rolodex	VHStape	VideoPlayer	#...incredible speed... ...ruthless... ...a vision of terror...
 1315	ch-46	Annie	Kat	Librarian	Lamet	Mort	Psychopomps	VHStape	VideoPlayer	#Lamet? Jeanne killed a psychopomp?!
 1314	ch-46	Annie	Kat	Librarian	Mort	VHStape	VideoPlayer	#Okay... so how do we _summon_ the memories?
 1313	ch-46	Annie	FinalRecords	Kat	Librarian	Mort	Rolodex	VHStape	#These are the final recorded moments of those being taken into the ether
