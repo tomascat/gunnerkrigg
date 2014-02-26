@@ -1,22 +1,40 @@
 ; --- INDEX ---
-; reminder: this is comment - in case you need to flag changes, etc...
-; internal formatting is a mix of [Markdown](http://daringfireball.net/projects/markdown) plus html (for <br> etc)
+; lines starting with ; as first no-whitespace are comments
+; - in case you need to flag changes, etc...
+; File format is single lines formatted as Key:Value
+; KEYS
+;	page: 	comic page ID and link: heads a comic page entry.
+;	url: 	the actual comic page url (no url, no link)
+;	tag: 	tags for the page's story items of note: character, item, location, etc.
+;	desc: 	text relevant to the page (description, line of dialogue, etc)
+;
+; Can use multiple tags per page, but only one of each of the other keys
+;
+; Desc: text's internal formatting is a mix of [Markdown](http://daringfireball.net/projects/markdown) plus html (for <br> etc)
 ; **bold**
 ; _italic_
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+;
+page:1320
+	url: http://www.gunnerkrigg.com/?p=1320
+	tag: ch-46
+	tag: Annie
+	tag: FinalRecords
+	tag: Kat
+	tag: Mort
+	tag: Rolodex
+	desc: And to help you practice... I want you to take me into the ether
 page:1319
 	url: http://www.gunnerkrigg.com/?p=1319
 	tag: ch-46
 	tag: Annie
-	tag:FinalRecords
+	tag: FinalRecords
 	tag: Kat
 	tag: Librarian
 	tag: Mort
-	tag: VHStape
-	tag: VideoPlayer
-	desc: I wonder... if my mother is in here somewhere
+	desc: Well don't blame me if you can't do your job right!
 page:1318
 	url: http://www.gunnerkrigg.com/?p=1318
 	tag: ch-46
@@ -4657,7 +4675,7 @@ page:AitF-25
 	tag:Kamlen
 	tag:Ysengrin
 	desc: (Annie creeps up behind Ysengrin)
-	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=25) 
+	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=25)
 page:AitF-24
 	tag:ch-31b
 	tag:Annie
@@ -4695,14 +4713,14 @@ page:AitF-20
 	tag:Gillitie
 	tag:MakeUp
 	desc:(whispering, giggling Anwyn kids make-up mockery)
-	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=20) 
+	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=20)
 page:AitF-19
 	tag:ch-31b
 	tag:Annie
 	tag:Anwyn
 	tag:Gillitie
 	desc:(whispering, giggling Anwyn kids)
-	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=19) 
+	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=19)
 page:AitF-18
 	tag:ch-31b
 	tag:Annie
@@ -4733,7 +4751,7 @@ page:AitF-15
 	tag:Gillitie
 	tag:Jones
 	desc:(a lakeside meeting)
-	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=15) 
+	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=15)
 page:AitF-14
 	tag:ch-31b
 	tag:Annie
@@ -4753,7 +4771,7 @@ page:AitF-13
 	tag:Gillitie
 	tag:Kamlen
 	desc:(armwrap)
-	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=13) 
+	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=13)
 page:AitF-12
 	tag:ch-31b
 	tag:Annie
@@ -4767,7 +4785,7 @@ page:AitF-12
 	tag:Surma
 	tag:Tears
 	desc: (night)
-	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=12) 
+	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=12)
 page:AitF-11
 	tag:ch-31b
 	tag:Annie
@@ -4777,7 +4795,7 @@ page:AitF-11
 	tag:Kamlen
 	tag:Khepi
 	desc: (mealtime)
-	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=11) 
+	url:http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=11)
 page:AitF-10
 	tag:ch-31b
 	tag:Annie
