@@ -131,7 +131,7 @@ Fairies	[Gillitie](#gillitie) Wood is full of them _{[wiki](http://gunnerkrigg.w
 FencingHall	Where [sword](#sword)-fighting, fencing, sparring are taught
 Fight	When two people have a disagreement, violently
 Filler	Not a mainstream story comic
-FinalRecords	A part of the [Realm of the Dead](#ROTD)
+FinalRecords	A part of the [Realm of the Dead](#rotd)
 Fire	An ancient element; may cause [smoke](#smoke) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Fire)}_
 FireElemental	A personification of [fire](#fire), represented with a [FireSpike](#firespike) on their head
 FireHose	A hose to put out a [fire](#fire)
@@ -189,7 +189,7 @@ Jan	January, curt friend of [Parley](#parley) _{[wiki](http://gunnerkrigg.wikia.
 Janet	Janet Llanwellyn; Fierce daughter of the [Headmaster](#headmaster); dating [Winsbury](#winsbury) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Janet_Llanwellyn)}_
 Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a fencer belonging to the court. _"She died and we did nothing"_ _{[wiki](http://gunnerkrigg.wikia.com/wiki/Jeanne)}_
 JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name as yet unknown. _{[wiki](http://gunnerkrigg.wikia.com/wiki/Anwyn#Jeanne.27s_lover)}_
-John	John Sullivan [[ref](http://gunnerkrigg.proboards.com/thread/361/tom-2?page=30&scrollTo=18295)] _a.k.a._ [Sullivan's John](www.gunnerkrigg.com/art/john.jpg). A musical student, plays strings _e.g._ guitar, [mandolin](#mandolin). Dating [Margo](#margo) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Sullivan's_John)}_
+John	John Sullivan [[ref](http://gunnerkrigg.proboards.com/thread/361/tom-2?page=30&scrollTo=18295)] _a.k.a._ [Sullivan's John](http://www.gunnerkrigg.com/art/john.jpg). A musical student, plays strings _e.g._ guitar, [mandolin](#mandolin). Dating [Margo](#margo) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Sullivan's_John)}_
 Jokes	Ha ha.
 JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
 Jones	A mysterious court lady; name of [Wandering Eye](#wanderingeye) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Jones)}_
@@ -218,7 +218,7 @@ LaundryList	A seagull
 LeadSymbol	The alchemical symbol for lead; associated with protectors of the court such as [Eglamore](#eglamore) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Lead_(alchemy))}_
 LeanDog	A black dog/[psychopomp](#psychopomps) for Tring, Hertfordshire; red eyes.
 Letter	A written communication
-Librarian	guardian of the library of the [Realm of the Dead](#ROTD)
+Librarian	guardian of the library of the [Realm of the Dead](#rotd)
 Library	full of shelves of books for reference. Also includes [robot](#robots) parts
 LighterFuel	notoriously flammable; accelerant
 Lightning	Clouds and electricity... ZZZAAAPP!
@@ -323,7 +323,7 @@ Smoke	Where it is, there is often [fire](#fire)
 Spankies	From [Annie](#annie) for when [Coyote](#coyote) is a Bad Dog!
 Sparring	A mock or training fight; usually for learning or practising martial arts or swordfighting
 Speakeasy	A hotel-like place that the students sneak out to with a “speakeasy-like atmosphere”
-SpecialCases	A part of the [Realm of the Dead](#ROTD)
+SpecialCases	A part of the [Realm of the Dead](#rotd)
 SpecialCircumstances	"beyond those metaphysical event-horizons, there exist ... special circumstances"
 Spider	Often white and [etheric](#etherics), also often real.
 StarHeadband	A headband with stars on antennae that [Annie](#annie) uses to pretend she is a [robot](#robots)
